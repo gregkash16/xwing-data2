@@ -8,8 +8,14 @@
         "title": "Bomblet Generator",
         "type": "Device",
         "ability": "During the System Phase, you may spend 1 [Charge] to drop a Bomblet with the [1 [Straight]] template. At the start of the Activation Phase, you may spend 1 shield to recover 2 [Charge].",
-        "slots": ["Device", "Device"],
-        "charges": { "value": 2, "recovers": 0 },
+        "slots": [
+          "Device",
+          "Device"
+        ],
+        "charges": {
+          "value": 2,
+          "recovers": 0
+        },
         "device": {
           "name": "Bomblet",
           "type": "Bomb",
@@ -19,7 +25,9 @@
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/bombletgenerator.png"
       }
     ],
-    "cost": { "value": 2 },
+    "cost": {
+      "value": 3
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -33,8 +41,13 @@
         "title": "Blazer Bomb",
         "type": "Device",
         "ability": "During the System Phase, you may spend 1 [Charge] to drop a Blazer Bomb using the [1 [Straight]] template.",
-        "slots": ["Device"],
-        "charges": { "value": 1, "recovers": 0 },
+        "slots": [
+          "Device"
+        ],
+        "charges": {
+          "value": 1,
+          "recovers": 0
+        },
         "device": {
           "name": "Blazer Bomb",
           "type": "Bomb",
@@ -44,7 +57,9 @@
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/blazerbomb.png"
       }
     ],
-    "cost": { "value": 5 },
+    "cost": {
+      "value": 5
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -58,8 +73,13 @@
         "title": "Conner Nets",
         "type": "Device",
         "ability": "During the System Phase, you may spend 1 [Charge] to drop a Conner Net using the [1 [Straight]] template. This card's [Charge] cannot be recovered.",
-        "slots": ["Device"],
-        "charges": { "value": 1, "recovers": 0 },
+        "slots": [
+          "Device"
+        ],
+        "charges": {
+          "value": 1,
+          "recovers": 0
+        },
         "device": {
           "name": "Conner Net",
           "type": "Mine",
@@ -69,7 +89,9 @@
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/connernets.png"
       }
     ],
-    "cost": { "value": 5 },
+    "cost": {
+      "value": 5
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -84,8 +106,13 @@
         "type": "Device",
         "ability": "During the System Phase, you may spend 1 [Charge] to drop a Proton Bomb using the [1 [Straight]] template.",
         "image": "https://infinitearenas.com/xw2/images/upgrades/protonbombs.png",
-        "slots": ["Device"],
-        "charges": { "value": 2, "recovers": 0 },
+        "slots": [
+          "Device"
+        ],
+        "charges": {
+          "value": 2,
+          "recovers": 0
+        },
         "device": {
           "name": "Proton Bomb",
           "type": "Bomb",
@@ -94,7 +121,9 @@
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/protonbombs.png"
       }
     ],
-    "cost": { "value": 5 },
+    "cost": {
+      "value": 5
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -108,8 +137,13 @@
         "title": "Proximity Mines",
         "type": "Device",
         "ability": "During the System Phase, you may spend 1 [Charge] to drop a Proximity Mine using the [1 [Straight]] template. This card's [Charge] cannot be recovered.",
-        "slots": ["Device"],
-        "charges": { "value": 2, "recovers": 0 },
+        "slots": [
+          "Device"
+        ],
+        "charges": {
+          "value": 2,
+          "recovers": 0
+        },
         "device": {
           "name": "Proximity Mine",
           "type": "Mine",
@@ -119,7 +153,9 @@
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/proximitymines.png"
       }
     ],
-    "cost": { "value": 10 },
+    "cost": {
+      "value": 9
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -135,8 +171,13 @@
         "ability": "During the System Phase, you may spend 1 [Charge] to drop a Seismic Charge with the [1 [Straight]] template.",
         "image": "https://infinitearenas.com/xw2/images/upgrades/seismiccharges.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/seismiccharges.png",
-        "slots": ["Device"],
-        "charges": { "value": 2, "recovers": 0 },
+        "slots": [
+          "Device"
+        ],
+        "charges": {
+          "value": 2,
+          "recovers": 0
+        },
         "device": {
           "name": "Seismic Charge",
           "type": "Bomb",
@@ -144,7 +185,9 @@
         }
       }
     ],
-    "cost": { "value": 3 },
+    "cost": {
+      "value": 3
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -159,24 +202,43 @@
         "type": "Device",
         "ability": "During the End Phase, you may spend 1 [Charge] to drop or launch 1 DRK-1 probe droid using a speed 3 template. This card's [Charge] cannot be recovered.",
         "image": "https://infinitearenas.com/xw2/images/upgrades/drk1probedroids.png",
-        "slots": ["Device"],
-        "charges": { "value": 2, "recovers": 0 },
+        "slots": [
+          "Device"
+        ],
+        "charges": {
+          "value": 2,
+          "recovers": 0
+        },
         "device": {
           "name": "DRK-1 Probe Droid",
           "type": "Remote",
           "effect": "While a friendly ship locks an object or jams an enemy ship, it may measure range from you. After an enemy ship overlaps you, that ship rolls 1 attack die. On a [Focus] result, you suffer 1 [Hit] damage. System Phase: At your initiative, you may relocate useing a [2 [Bank Left]], [2 [Straight]], or [2 [Bank Right]] template.",
           "initiative": 0,
           "stats": [
-            { "type": "agility", "value": 3 },
-            { "type": "hull", "value": 1 }
+            {
+              "type": "agility",
+              "value": 3
+            },
+            {
+              "type": "hull",
+              "value": 1
+            }
           ],
           "image": "https://infinitearenas.com/xw2/images/remotes/drk1probedroid.png"
         },
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/drk1probedroids.png"
       }
     ],
-    "cost": { "value": 5 },
-    "restrictions": [{ "factions": ["separatistalliance"] }],
+    "cost": {
+      "value": 5
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "separatistalliance"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -191,8 +253,14 @@
         "type": "Device",
         "ability": "During the System Phase, you may spend 1 [Charge] to drop an Electro-Proton Bomb with the [1 [Straight]] template. Then place 1 fuse marker on that device. This card's [Charge] cannot be recovered.",
         "image": "https://infinitearenas.com/xw2/images/upgrades/electroprotonbomb.png",
-        "slots": ["Device", "Modification"],
-        "charges": { "value": 1, "recovers": 0 },
+        "slots": [
+          "Device",
+          "Modification"
+        ],
+        "charges": {
+          "value": 1,
+          "recovers": 0
+        },
         "device": {
           "name": "Electro-Proton Bomb",
           "type": "Bomb",
@@ -201,8 +269,17 @@
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/electroprotonbomb.png"
       }
     ],
-    "cost": { "value": 8 },
-    "restrictions": [{ "action": { "type": "Reload" } }],
+    "cost": {
+      "value": 8
+    },
+    "restrictions": [
+      {
+        "action": {
+          "type": "Reload",
+          "difficulty": "White"
+        }
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -215,11 +292,16 @@
       {
         "title": "Cluster Mines",
         "type": "Device",
-        "slots": ["Device"],
+        "slots": [
+          "Device"
+        ],
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/clustermines.png",
         "image": "https://infinitearenas.com/xw2/images/upgrades/clustermines.png",
         "ability": "During the System Phase, you may spend 1 [Charge] to drop a Cluster Mine set using the [1 [Straight]] template. This card's [Charge] cannot be recovered.",
-        "charges": { "value": 1, "recovers": 0 },
+        "charges": {
+          "value": 1,
+          "recovers": 0
+        },
         "device": {
           "name": "Cluster Mine",
           "type": "Mine",
@@ -227,7 +309,9 @@
         }
       }
     ],
-    "cost": { "value": 7 },
+    "cost": {
+      "value": 7
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -240,11 +324,16 @@
       {
         "title": "Ion Bombs",
         "type": "Device",
-        "slots": ["Device"],
+        "slots": [
+          "Device"
+        ],
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/ionbombs.png",
         "image": "https://infinitearenas.com/xw2/images/upgrades/ionbombs.png",
         "ability": "During the System Phase, you may spend 1 [Charge] to drop an Ion Bomb using the [1 [Straight]] template.",
-        "charges": { "value": 2, "recovers": 0 },
+        "charges": {
+          "value": 2,
+          "recovers": 0
+        },
         "device": {
           "name": "Ion Bomb",
           "type": "Bomb",
@@ -252,7 +341,9 @@
         }
       }
     ],
-    "cost": { "value": 4 },
+    "cost": {
+      "value": 4
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -262,20 +353,27 @@
       {
         "title": "Concussion Bombs",
         "type": "Device",
-        "slots": ["Device"],
+        "slots": [
+          "Device"
+        ],
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/concussionbombs.png",
         "image": "https://infinitearenas.com/xw2/images/upgrades/concussionbombs.png",
         "ability": "During the System Phase, if any of this card's [Charge] are inactive, you must spend 1 [Charge] to drop 1 concussion bomb using the [1 [Straight]] template, if able. Otherwise, you may spend 1 [Charge] to drop 1 concussion bomb.",
-        "charges": { "value": 3, "recovers": 0 },
+        "charges": {
+          "value": 3,
+          "recovers": 0
+        },
         "device": {
           "name": "Concussion Bomb",
           "type": "Bomb",
-          "effect": "At the end of the Activation Phase, this device detonates.  When this device detonates, each ship and remote at range 0–1 is dealt 1 facedown damage card. Then, each ship at range 0–1 must expose 1 damage card unless it chooses to gain 1 strain token."
+          "effect": "At the end of the Activation Phase, this device detonates.  When this device detonates, each ship and remote at range 0\u20131 is dealt 1 facedown damage card. Then, each ship at range 0\u20131 must expose 1 damage card unless it chooses to gain 1 strain token."
         }
       }
     ],
     "name": "Concussion Bombs",
-    "cost": { "value": 4 },
+    "cost": {
+      "value": 5
+    },
     "limited": 0,
     "xws": "concussionbombs",
     "standard": true,
@@ -291,18 +389,25 @@
         "ability": "During the System Phase, you may spend up to 2 [Charge] to drop that many Thermal Detonators using the [1 [Straight]] or [2 [Straight]] template. Each must be placed using a different template. When you reload this card, recover 1 additional [Charge].",
         "title": "Thermal Detonators",
         "type": "Device",
-        "slots": ["Device"],
-        "charges": { "value": 4, "recovers": 0 },
+        "slots": [
+          "Device"
+        ],
+        "charges": {
+          "value": 4,
+          "recovers": 0
+        },
         "image": "https://infinitearenas.com/xw2/images/upgrades/thermaldetonators.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/thermaldetonators.png",
         "device": {
           "name": "Thermal Detonators",
           "type": "Bomb",
-          "effect": "At the end of the Activation Phase, this device detonates. When this device detonates, each ship and remote at range 0–1 rolls 1 attack die. Each ship gains 1 strain token for each [Focus] result, and each ship and remote suffers 1 [Hit]/[Crit] damage for each matching result."
+          "effect": "At the end of the Activation Phase, this device detonates. When this device detonates, each ship and remote at range 0\u20131 rolls 1 attack die. Each ship gains 1 strain token for each [Focus] result, and each ship and remote suffers 1 [Hit]/[Crit] damage for each matching result."
         }
       }
     ],
-    "cost": { "value": 5 },
+    "cost": {
+      "value": 5
+    },
     "standard": true,
     "extended": true,
     "epic": true

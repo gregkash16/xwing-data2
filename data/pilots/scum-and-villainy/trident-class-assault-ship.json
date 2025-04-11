@@ -20,27 +20,62 @@
     "4KR",
     "5FW"
   ],
-  "dialCodes": ["TAS"],
+  "dialCodes": [
+    "TAS"
+  ],
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 0 },
-    { "type": "hull", "value": 10 },
-    { "type": "shields", "value": 4, "recovers": 1 },
-    { "type": "energy", "value": 3, "recovers": 2 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 0
+    },
+    {
+      "type": "hull",
+      "value": 10
+    },
+    {
+      "type": "shields",
+      "value": 4,
+      "recovers": 1
+    },
+    {
+      "type": "energy",
+      "value": 3,
+      "recovers": 2
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "Red", "type": "Evade" },
-    { "difficulty": "Red", "type": "Reinforce" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "Red", "type": "Coordinate" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Evade"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Reinforce"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Coordinate"
+    }
   ],
   "pilots": [
     {
       "name": "Lawless Pirates",
       "initiative": 8,
-      "cost": 85,
-      "loadout": 0,
+      "cost": 11,
+      "loadout": 45,
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lawlesspirates.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/lawlesspirates.png",
@@ -66,6 +101,24 @@
         "Cargo",
         "Title"
       ]
+    },
+    {
+      "name": "Sorc Tormo",
+      "initiative": 0,
+      "cost": 8,
+      "loadout": 0,
+      "limited": 1,
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sorctormo-epicsl.png",
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/sorctormo-epicsl.png",
+      "shipAbility": {},
+      "text": "",
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "engagement": 0,
+      "xws": "sorctormo-epicsl",
+      "slots": [],
+      "subtitle": "Nautolan's Revenge"
     }
   ]
 }

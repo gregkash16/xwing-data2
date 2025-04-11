@@ -20,35 +20,62 @@
     "4KR",
     "5FW"
   ],
-  "dialCodes": ["TF"],
+  "dialCodes": [
+    "TF"
+  ],
   "faction": "rebelalliance",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 3 },
-    { "type": "hull", "value": 3 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 3
+    },
+    {
+      "type": "hull",
+      "value": 3
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Evade" },
-    { "difficulty": "White", "type": "Barrel Roll" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Evade"
+    },
+    {
+      "difficulty": "White",
+      "type": "Barrel Roll"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_TIEFighter.png",
   "pilots": [
     {
-      "name": "“Zeb” Orrelios",
+      "name": "\u201cZeb\u201d Orrelios",
       "caption": "Spectre-4",
       "initiative": 2,
       "limited": 1,
       "cost": 3,
-      "loadout": 8,
+      "loadout": 11,
       "xws": "zeborrelios-tielnfighter",
       "ability": "While you defend, [Critical Hit] results are neutralized before [Hit] results.",
       "image": "https://infinitearenas.com/xw2/images/pilots/zeborrelios-tielnfighter.png",
-      "slots": ["Crew", "Modification"],
+      "slots": [
+        "Crew",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zeborrelios-tielnfighter.png",
       "standard": true,
       "extended": true,
-      "keywords": ["TIE", "Spectre"],
+      "keywords": [
+        "TIE",
+        "Spectre"
+      ],
       "epic": true
     },
     {
@@ -57,16 +84,25 @@
       "initiative": 2,
       "limited": 1,
       "cost": 3,
-      "loadout": 8,
+      "loadout": 11,
       "xws": "captainrex",
       "ability": "After you perform an attack, assign the Suppressive Fire condition to the defender.",
       "image": "https://infinitearenas.com/xw2/images/pilots/captainrex.png",
-      "conditions": ["suppressivefire"],
-      "slots": ["Talent", "Talent", "Modification"],
+      "conditions": [
+        "suppressivefire"
+      ],
+      "slots": [
+        "Talent",
+        "Talent",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captainrex.png",
       "standard": true,
       "extended": true,
-      "keywords": ["Clone", "TIE"],
+      "keywords": [
+        "Clone",
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -75,16 +111,30 @@
       "initiative": 3,
       "limited": 1,
       "cost": 3,
-      "loadout": 6,
+      "loadout": 11,
       "xws": "ezrabridger-tielnfighter",
       "ability": "While you defend or perform an attack, if you are stressed, you may spend 1 [Force] to change up to 2 of your [Focus] results to [Evade] or [Hit] results.",
       "image": "https://infinitearenas.com/xw2/images/pilots/ezrabridger-tielnfighter.png",
-      "force": { "value": 1, "recovers": 1, "side": ["light"] },
-      "slots": ["Modification", "Crew", "Force Power"],
+      "force": {
+        "value": 1,
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
+      },
+      "slots": [
+        "Modification",
+        "Crew",
+        "Force Power"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ezrabridger-tielnfighter.png",
       "standard": true,
       "extended": true,
-      "keywords": ["Light Side", "Spectre", "TIE"],
+      "keywords": [
+        "Light Side",
+        "Spectre",
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -92,16 +142,23 @@
       "caption": "Spectre-5",
       "initiative": 3,
       "limited": 1,
-      "cost": 2,
-      "loadout": 3,
+      "cost": 3,
+      "loadout": 11,
       "xws": "sabinewren-tielnfighter",
       "ability": "Before you activate, you may perform a [Barrel Roll] or [Boost] action.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sabinewren-tielnfighter.png",
-      "slots": ["Talent", "Modification"],
+      "slots": [
+        "Talent",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sabinewren-tielnfighter.png",
       "standard": true,
       "extended": true,
-      "keywords": ["Mandalorian", "TIE", "Spectre"],
+      "keywords": [
+        "Mandalorian",
+        "TIE",
+        "Spectre"
+      ],
       "epic": true
     }
   ]

@@ -20,28 +20,52 @@
     "4FW",
     "4KR"
   ],
-  "dialCodes": ["Z95"],
+  "dialCodes": [
+    "Z95"
+  ],
   "faction": "galacticrepublic",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 2 },
-    { "type": "shields", "value": 2 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 2
+    },
+    {
+      "type": "shields",
+      "value": 2
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "Red", "type": "Barrel Roll" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Barrel Roll"
+    }
   ],
   "icon": "???",
   "pilots": [
     {
-      "name": "“Killer”",
+      "name": "\u201cKiller\u201d",
       "caption": "Dependable Closer",
       "initiative": 2,
       "limited": 1,
       "cost": 3,
-      "loadout": 11,
+      "loadout": 6,
       "xws": "killer",
       "ability": "While you perform an attack, if the defender has 2 or fewer hull remaining, you may roll 1 additional attack die. If you do, gain 1 deplete token after rolling attack dice.",
       "shipAbility": {
@@ -60,15 +84,17 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Clone"]
+      "keywords": [
+        "Clone"
+      ]
     },
     {
-      "name": "“Drift”",
+      "name": "\u201cDrift\u201d",
       "caption": "CT-1020",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
-      "loadout": 5,
+      "cost": 4,
+      "loadout": 16,
       "xws": "drift",
       "ability": "While a friendly ship at range 0-1 performs an attack, if you have exactly 1 non-lock red token or exactly 1 orange token, that ship may reroll 1 attack die.",
       "shipAbility": {
@@ -85,15 +111,17 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Clone"]
+      "keywords": [
+        "Clone"
+      ]
     },
     {
-      "name": "“Boost”",
+      "name": "\u201cBoost\u201d",
       "caption": "CT-4860",
       "initiative": 3,
       "limited": 1,
-      "cost": 2,
-      "loadout": 3,
+      "cost": 3,
+      "loadout": 12,
       "xws": "boost",
       "ability": "At the start of the Engagement Phase, if there is a friendly ship at range 0-1 whose revealed maneuver is blue, you may perform a [Boost] action.",
       "shipAbility": {
@@ -111,10 +139,12 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Clone"]
+      "keywords": [
+        "Clone"
+      ]
     },
     {
-      "name": "“Stub”",
+      "name": "\u201cStub\u201d",
       "caption": "Scrappy Flier",
       "initiative": 3,
       "limited": 1,
@@ -128,19 +158,25 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/stub.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/stub.png",
-      "slots": ["Talent", "Sensor", "Modification"],
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Modification"
+      ],
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Clone"]
+      "keywords": [
+        "Clone"
+      ]
     },
     {
-      "name": "“Knack”",
+      "name": "\u201cKnack\u201d",
       "caption": "Incautious Instructor",
       "initiative": 5,
       "limited": 1,
       "cost": 3,
-      "loadout": 7,
+      "loadout": 9,
       "xws": "knack",
       "ability": "After you are destroyed, you may choose a friendly non-limited ship and assign 1 of your equipped [Talent] upgrades to it. End of Game: Return all [Talent] upgrades to their original ships.",
       "shipAbility": {
@@ -158,15 +194,17 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Clone"]
+      "keywords": [
+        "Clone"
+      ]
     },
     {
-      "name": "“Hawk”",
+      "name": "\u201cHawk\u201d",
       "caption": "Valkyrie 2929",
       "initiative": 4,
       "limited": 1,
-      "cost": 3,
-      "loadout": 8,
+      "cost": 4,
+      "loadout": 14,
       "xws": "hawk-clonez95headhunter",
       "ability": "At the start of the end phase, each friendly ship at range 0-1 that has a revealed maneuver of speed 3-5 may gain 1 strain token to perform a [Barrel Roll] or [Boost] action.",
       "shipAbility": {
@@ -184,14 +222,16 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Clone"]
+      "keywords": [
+        "Clone"
+      ]
     },
     {
       "name": "7th Sky Corps Pilot",
       "initiative": 2,
       "limited": 0,
       "cost": 3,
-      "loadout": 3,
+      "loadout": 8,
       "xws": "7thskycorpspilot",
       "text": "",
       "shipAbility": {
@@ -207,14 +247,16 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Clone"]
+      "keywords": [
+        "Clone"
+      ]
     },
     {
       "name": "Reaper Squadron Scout",
       "initiative": 3,
       "limited": 0,
       "cost": 3,
-      "loadout": 2,
+      "loadout": 6,
       "xws": "reapersquadronscout",
       "text": "Despite the Clone Z-95's unglamorous reputation, Reaper Squadron has become legendary for their skill with this fighter in far-flung engagements, such as the skirmish over Castilon.",
       "shipAbility": {
@@ -230,18 +272,23 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Clone"]
+      "keywords": [
+        "Clone"
+      ]
     },
     {
-      "name": "“Slider”",
+      "name": "\u201cSlider\u201d",
       "caption": "Evasive Aviator",
       "initiative": 4,
       "limited": 1,
-      "cost": 2,
+      "cost": 3,
       "loadout": 3,
       "xws": "slider",
       "ability": "When you reveal a [2 [Bank Left]] or [2 [Bank Right]] maneuver, you may spend 2 [Charge] to execute it as a sideslip.",
-      "charges": { "value": 2, "recovers": 1 },
+      "charges": {
+        "value": 2,
+        "recovers": 1
+      },
       "shipAbility": {
         "name": "Versatile Frame",
         "text": "You can equip 1 [Torpedo] or [Missile] upgrade. While your revealed maneuver is blue, add white [Boost] to your action bar."
@@ -258,15 +305,17 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Clone"]
+      "keywords": [
+        "Clone"
+      ]
     },
     {
-      "name": "“Warthog”",
+      "name": "\u201cWarthog\u201d",
       "caption": "Veteran of Kadavo",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
-      "loadout": 10,
+      "cost": 4,
+      "loadout": 19,
       "xws": "warthog-clonez95headhunter",
       "ability": "After you or a friendly non-limited ship at range 0-2 are destroyed during the Engagement Phase, that ship is not removed until the end of that phase.",
       "shipAbility": {
@@ -283,7 +332,9 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Clone"]
+      "keywords": [
+        "Clone"
+      ]
     }
   ]
 }

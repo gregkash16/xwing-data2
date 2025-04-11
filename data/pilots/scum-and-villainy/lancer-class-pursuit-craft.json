@@ -20,20 +20,51 @@
     "5FW",
     "5KR"
   ],
-  "dialCodes": ["LPC"],
+  "dialCodes": [
+    "LPC"
+  ],
   "faction": "scumandvillainy",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "arc": "Single Turret Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 8 },
-    { "type": "shields", "value": 2 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "arc": "Single Turret Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 8
+    },
+    {
+      "type": "shields",
+      "value": 2
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Evade" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "White", "type": "Rotate Arc" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Evade"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "type": "Rotate Arc"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_ShadowCaster.png",
   "pilots": [
@@ -42,15 +73,21 @@
       "caption": "Force of Her Own",
       "initiative": 4,
       "limited": 1,
-      "cost": 8,
-      "loadout": 20,
+      "cost": 7,
+      "loadout": 23,
       "xws": "asajjventress",
       "ability": "At the start of the Engagement Phase, you may choose 1 enemy ship in your [Single Turret Arc] at range 0-2 and spend 1 [Force]. If you do, that ship gains 1 stress token unless it removes 1 green token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/asajjventress.png",
-      "force": { "value": 2, "recovers": 1, "side": ["dark"] },
+      "force": {
+        "value": 2,
+        "recovers": 1,
+        "side": [
+          "dark"
+        ]
+      },
       "slots": [
         "Crew",
-        "Talent",
+        "Force Power",
         "Illicit",
         "Illicit",
         "Modification",
@@ -59,7 +96,10 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/asajjventress.png",
       "standard": false,
       "extended": true,
-      "keywords": ["Bounty Hunter", "Dark Side"],
+      "keywords": [
+        "Bounty Hunter",
+        "Dark Side"
+      ],
       "epic": true
     },
     {
@@ -67,8 +107,8 @@
       "caption": "Black Sun Contractor",
       "initiative": 5,
       "limited": 1,
-      "cost": 7,
-      "loadout": 15,
+      "cost": 6,
+      "loadout": 11,
       "xws": "ketsuonyo",
       "ability": "At the start of the Engagement Phase, you may choose 1 ship in both your [Front Arc] and [Single Turret Arc] at range 0-1. If you do, that ship gains 1 tractor token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/ketsuonyo.png",
@@ -83,7 +123,10 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ketsuonyo.png",
       "standard": false,
       "extended": true,
-      "keywords": ["Bounty Hunter", "Mandalorian"],
+      "keywords": [
+        "Bounty Hunter",
+        "Mandalorian"
+      ],
       "epic": true
     },
     {
@@ -92,7 +135,7 @@
       "initiative": 3,
       "limited": 1,
       "cost": 6,
-      "loadout": 9,
+      "loadout": 19,
       "xws": "sabinewren-lancerclasspursuitcraft",
       "ability": "While you defend, if the attacker is in your [Single Turret Arc] at range 0-2, you may add 1 [Focus] result to your dice results.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sabinewren-lancerclasspursuitcraft.png",
@@ -107,7 +150,10 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sabinewren-lancerclasspursuitcraft.png",
       "standard": false,
       "extended": true,
-      "keywords": ["Bounty Hunter", "Mandalorian"],
+      "keywords": [
+        "Bounty Hunter",
+        "Mandalorian"
+      ],
       "epic": true
     },
     {
@@ -115,15 +161,22 @@
       "initiative": 2,
       "limited": 0,
       "cost": 6,
-      "loadout": 6,
+      "loadout": 15,
       "xws": "shadowporthunter",
       "text": "Crime syndicates augment the lethal skills of their loyal contractors with the best technology available, like the fast and formidable Lancer-class pursuit craft.",
       "image": "https://infinitearenas.com/xw2/images/pilots/shadowporthunter.png",
-      "slots": ["Illicit", "Illicit"],
+      "slots": [
+        "Illicit",
+        "Illicit",
+        "Modification",
+        "Crew"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/shadowporthunter.png",
       "standard": false,
       "extended": true,
-      "keywords": ["Bounty Hunter"],
+      "keywords": [
+        "Bounty Hunter"
+      ],
       "epic": true
     }
   ]

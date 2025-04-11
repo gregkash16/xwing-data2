@@ -21,18 +21,42 @@
     "4FR",
     "4KR"
   ],
-  "dialCodes": ["G1A"],
+  "dialCodes": [
+    "G1A"
+  ],
   "faction": "scumandvillainy",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 1 },
-    { "type": "hull", "value": 5 },
-    { "type": "shields", "value": 4 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 1
+    },
+    {
+      "type": "hull",
+      "value": 5
+    },
+    {
+      "type": "shields",
+      "value": 4
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "White", "type": "Jam" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "type": "Jam"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_MistHunter.png",
   "pilots": [
@@ -42,36 +66,62 @@
       "initiative": 3,
       "limited": 1,
       "cost": 5,
-      "loadout": 14,
+      "loadout": 15,
       "xws": "4lom",
       "ability": "After you fully execute a red maneuver, gain 1 calculate token. At the start of the End Phase, you may choose 1 ship at range 0-1. If you do, transfer 1 of your stress tokens to that ship.",
       "image": "https://infinitearenas.com/xw2/images/pilots/4lom.png",
-      "slots": ["Talent", "Sensor", "Crew", "Illicit", "Modification", "Title"],
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Crew",
+        "Illicit",
+        "Modification",
+        "Title"
+      ],
       "shipActions": [
-        { "difficulty": "White", "type": "Calculate" },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Jam" }
+        {
+          "difficulty": "White",
+          "type": "Calculate"
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Jam"
+        }
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/4lom.png",
       "standard": false,
       "extended": true,
-      "keywords": ["Bounty Hunter", "Droid"],
+      "keywords": [
+        "Bounty Hunter",
+        "Droid"
+      ],
       "epic": true
     },
     {
       "name": "Gand Findsman",
       "initiative": 1,
       "limited": 0,
-      "cost": 5,
-      "loadout": 3,
+      "cost": 4,
+      "loadout": 6,
       "xws": "gandfindsman",
       "text": "The legendary Findsmen of Gand worship the enshrouding mists of their home planet, using signs, augurs, and mystical rituals to track their quarry.",
       "image": "https://infinitearenas.com/xw2/images/pilots/gandfindsman.png",
-      "slots": ["Illicit"],
+      "slots": [
+        "Sensor",
+        "Crew",
+        "Illicit",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gandfindsman.png",
       "standard": false,
       "extended": true,
-      "keywords": ["Bounty Hunter"],
+      "keywords": [
+        "Bounty Hunter"
+      ],
       "epic": true
     },
     {
@@ -79,17 +129,62 @@
       "caption": "Meditative Gand",
       "initiative": 3,
       "limited": 1,
-      "cost": 5,
-      "loadout": 10,
+      "cost": 4,
+      "loadout": 6,
       "xws": "zuckuss",
       "ability": "While you perform a primary attack, you may roll 1 additional attack die. If you do, the defender rolls 1 additional defense die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/zuckuss.png",
-      "slots": ["Talent", "Sensor", "Crew", "Illicit", "Modification", "Title"],
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Crew",
+        "Illicit",
+        "Modification",
+        "Title"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zuckuss.png",
       "standard": false,
       "extended": true,
-      "keywords": ["Bounty Hunter"],
+      "keywords": [
+        "Bounty Hunter"
+      ],
       "epic": true
+    },
+    {
+      "name": "Zuckuss",
+      "caption": "Armed and Dangerous",
+      "initiative": 3,
+      "limited": 1,
+      "cost": 5,
+      "loadout": 0,
+      "xws": "zuckuss-armedanddangerous",
+      "ability": "While you perform a primary attack, you may roll 1 additional attack die. If you do, the defender rolls 1 additional defense die.",
+      "shipAbility": {
+        "name" : "Enduring Limitations",
+        "text" : "At the end of the Activation Phase, if you have 3 or more stress tokens, you must remove 1 stress token and suffer 1 [hit] damage."
+      },
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/zuckuss-armedanddangerous.png",
+      "slots": [],
+      "actions": [
+        { "difficulty": "White", "type": "Focus" },
+        { "difficulty": "White", "type": "Lock" },
+        { "difficulty": "White", "type": "Barrel Roll", "linked" : {"difficulty" : "Red", "type" : "Calculate"} },
+        { "difficulty": "White", "type": "Jame", "linked" : {"difficulty" : "Red", "type" : "Calculate"} }
+      ],
+      "standardLoadout": [
+        "persistanttracker-armedanddangerous",
+        "tractorbeam",
+        "4lom-armedanddangerous",
+        "misthunter-armedanddangerous"
+      ],
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zuckuss-armedanddangerous.png",
+      "standard": "Yes",
+      "extended": "Yes",
+      "keywords": [
+        "Bounty Hunter"
+      ],
+      "epic": "Yes",
+      "subtitle": "Armed and Dangerous"
     }
   ]
 }

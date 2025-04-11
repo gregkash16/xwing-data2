@@ -327,5 +327,23 @@
     "extended": true,
     "epic": true,
     "standardLoadoutOnly": true
+  },
+  {
+    "name": "Kineso-Switch",
+    "limited": 0,
+    "xws": "kinesoswitch-armedanddangerous",
+    "sides": [
+      {
+        "title": "Kineso-Switch",
+        "charges": { "value": 2, "recovers": 0 },
+        "type": "Illicit",
+        "ability": "After you perform a [slam] action, if you fully executed the maneuver, you may spend 1 [charge] to break all locks assigned to you.",
+        "slots": ["Illicit"]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "standardLoadoutOnly": true
   }
 ]

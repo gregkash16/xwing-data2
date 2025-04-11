@@ -22,32 +22,62 @@
     "3PR",
     "4FW"
   ],
-  "dialCodes": ["Tse"],
+  "dialCodes": [
+    "Tse"
+  ],
   "faction": "firstorder",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 4 },
-    { "type": "shields", "value": 2 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 4
+    },
+    {
+      "type": "shields",
+      "value": 2
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
     {
       "difficulty": "White",
-      "linked": { "difficulty": "Red", "type": "Lock" },
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "linked": {
+        "difficulty": "Red",
+        "type": "Lock"
+      },
       "type": "Barrel Roll"
     },
-    { "difficulty": "Red", "type": "Boost" },
+    {
+      "difficulty": "Red",
+      "type": "Boost"
+    },
     {
       "difficulty": "White",
-      "linked": { "difficulty": "Red", "type": "Evade" },
+      "linked": {
+        "difficulty": "Red",
+        "type": "Evade"
+      },
       "type": "Reload"
     }
   ],
   "pilots": [
     {
-      "name": "“Breach”",
+      "name": "\u201cBreach\u201d",
       "xws": "breach",
       "initiative": 5,
       "limited": 1,
@@ -57,8 +87,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 5,
-      "loadout": 18,
+      "cost": 4,
+      "loadout": 16,
       "slots": [
         "Talent",
         "Talent",
@@ -74,11 +104,13 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/breach.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/breach.png",
       "caption": "Ordnance Expert",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
-      "name": "“Scorch”",
+      "name": "\u201cScorch\u201d",
       "xws": "scorch-tiesebomber",
       "initiative": 4,
       "limited": 1,
@@ -89,7 +121,7 @@
       "standard": true,
       "extended": true,
       "cost": 3,
-      "loadout": 7,
+      "loadout": 6,
       "slots": [
         "Talent",
         "Tech",
@@ -104,11 +136,13 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/scorch-tiesebomber.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/scorch_tiesebomber.png",
       "caption": "Jad Bean",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
-      "name": "“Dread”",
+      "name": "\u201cDread\u201d",
       "xws": "dread",
       "initiative": 3,
       "limited": 1,
@@ -118,8 +152,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 8,
+      "cost": 4,
+      "loadout": 20,
       "slots": [
         "Tech",
         "Torpedo",
@@ -133,11 +167,13 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dread.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/dread.png",
       "caption": "Devotee of Devastation",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
-      "name": "“Grudge”",
+      "name": "\u201cGrudge\u201d",
       "xws": "grudge",
       "initiative": 2,
       "limited": 1,
@@ -148,7 +184,7 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 15,
+      "loadout": 16,
       "slots": [
         "Tech",
         "Talent",
@@ -162,7 +198,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/grudge.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/grudge.png",
       "caption": "Hateful Harrier",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -176,8 +214,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 7,
+      "cost": 3,
+      "loadout": 4,
       "slots": [
         "Tech",
         "Torpedo",
@@ -190,7 +228,9 @@
       "text": "The live-fire exercises of the First Order are intended to root out the weak, enforcing the maxim that only the strong survive.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/firstordercadet.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/firstordercadet.png",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -204,13 +244,22 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 8,
-      "slots": ["Tech", "Tech", "Missile", "Device", "Device", "Modification"],
+      "cost": 3,
+      "loadout": 6,
+      "slots": [
+        "Tech",
+        "Tech",
+        "Missile",
+        "Device",
+        "Device",
+        "Modification"
+      ],
       "text": "Equipped with four laser cannons and advanced systems, the TIE/se bomber is a remarkably maneuverable craft that brings devastating ordnance to bear against any who dare to stand against the First Order.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sienarjaemustestpilot.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/sienarjaemustestpilot.png",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -224,8 +273,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 13,
+      "cost": 3,
+      "loadout": 7,
       "slots": [
         "Tech",
         "Talent",
@@ -238,11 +287,16 @@
         "Modification"
       ],
       "ability": "After you perform a [Boost] action, you may spend 1 [Charge] to remove 1 non-lock red or orange token.",
-      "charges": { "value": 3, "recovers": 0 },
+      "charges": {
+        "value": 3,
+        "recovers": 0
+      },
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/juljerjerrod.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/juljerjerrod.png",
       "caption": "Security Commander",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     }
   ],

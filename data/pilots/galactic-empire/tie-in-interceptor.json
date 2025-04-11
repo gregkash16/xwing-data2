@@ -21,18 +21,42 @@
     "4KR",
     "5FW"
   ],
-  "dialCodes": ["TI"],
+  "dialCodes": [
+    "TI"
+  ],
   "faction": "galacticempire",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 3 },
-    { "type": "hull", "value": 3 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 3
+    },
+    {
+      "type": "hull",
+      "value": 3
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Evade" },
-    { "difficulty": "White", "type": "Barrel Roll" },
-    { "difficulty": "White", "type": "Boost" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Evade"
+    },
+    {
+      "difficulty": "White",
+      "type": "Barrel Roll"
+    },
+    {
+      "difficulty": "White",
+      "type": "Boost"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEInterceptor.png",
   "pilots": [
@@ -40,8 +64,8 @@
       "name": "Alpha Squadron Pilot",
       "initiative": 1,
       "limited": 0,
-      "cost": 4,
-      "loadout": 2,
+      "cost": 3,
+      "loadout": 0,
       "xws": "alphasquadronpilot",
       "text": "Sienar Fleet Systems designed the TIE interceptor with four wing-mounted laser cannons, a dramatic increase in firepower over its predecessors.",
       "image": "https://infinitearenas.com/xw2/images/pilots/alphasquadronpilot.png",
@@ -49,11 +73,16 @@
         "name": "Autothrusters",
         "text": "After you perform an action, you may perform a red [Barrel Roll] or red [Boost] action."
       },
-      "slots": ["Talent", "Configuration"],
+      "slots": [
+        "Talent",
+        "Configuration"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/alphasquadronpilot.png",
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -61,7 +90,7 @@
       "initiative": 4,
       "limited": 0,
       "cost": 4,
-      "loadout": 3,
+      "loadout": 12,
       "xws": "sabersquadronace",
       "text": "Led by Baron Soontir Fel, the pilots of Saber Squadron are among the Empire's best. Their TIE interceptors are marked with red stripes to designate pilots with at least ten confirmed kills.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sabersquadronace.png",
@@ -69,11 +98,17 @@
         "name": "Autothrusters",
         "text": "After you perform an action, you may perform a red [Barrel Roll] or red [Boost] action."
       },
-      "slots": ["Talent", "Configuration"],
+      "slots": [
+        "Talent",
+        "Configuration",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sabersquadronace.png",
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -81,8 +116,8 @@
       "caption": "Ace of Legend",
       "initiative": 6,
       "limited": 1,
-      "cost": 5,
-      "loadout": 10,
+      "cost": 4,
+      "loadout": 0,
       "xws": "soontirfel",
       "ability": "At the start of the Engagement Phase, if there is an enemy ship in your [Bullseye Arc], gain 1 focus token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/soontirfel.png",
@@ -90,11 +125,17 @@
         "name": "Autothrusters",
         "text": "After you perform an action, you may perform a red [Barrel Roll] or red [Boost] action."
       },
-      "slots": ["Talent", "Talent", "Modification", "Configuration"],
+      "slots": [
+        "Talent",
+        "Modification",
+        "Configuration"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/soontirfel.png",
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -103,7 +144,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 4,
-      "loadout": 9,
+      "loadout": 10,
       "xws": "turrphennir",
       "ability": "After you perform an attack, you may perform a [Barrel Roll] or [Boost] action, even if you are stressed.",
       "image": "https://infinitearenas.com/xw2/images/pilots/turrphennir.png",
@@ -111,11 +152,18 @@
         "name": "Autothrusters",
         "text": "After you perform an action, you may perform a red [Barrel Roll] or red [Boost] action."
       },
-      "slots": ["Talent", "Talent", "Modification", "Configuration"],
+      "slots": [
+        "Talent",
+        "Talent",
+        "Modification",
+        "Configuration"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/turrphennir.png",
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -129,10 +177,17 @@
       },
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
-      "cost": 5,
-      "loadout": 14,
-      "slots": ["Talent", "Talent", "Modification", "Configuration"],
+      "keywords": [
+        "TIE"
+      ],
+      "cost": 4,
+      "loadout": 4,
+      "slots": [
+        "Talent",
+        "Talent",
+        "Modification",
+        "Configuration"
+      ],
       "ability": "After you perform an attack, if the defender was destroyed, gain 1 stress token. After a friendly ship at range 0-3 is destroyed, remove 1 stress token.",
       "caption": "Look Through My Eyes",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cienaree.png",
@@ -150,10 +205,18 @@
       "caption": "Inferno Two",
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "cost": 4,
-      "loadout": 7,
-      "slots": ["Talent", "Talent", "Missile", "Modification", "Configuration"],
+      "loadout": 4,
+      "slots": [
+        "Talent",
+        "Talent",
+        "Missile",
+        "Modification",
+        "Configuration"
+      ],
       "ability": "While you perform an attack against a damaged defender, roll 1 additional attack die.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cienaree.png",
       "epic": true
@@ -172,10 +235,19 @@
       "extended": true,
       "cost": 4,
       "loadout": 9,
-      "slots": ["Talent", "Modification", "Configuration"],
+      "slots": [
+        "Talent",
+        "Modification",
+        "Configuration"
+      ],
       "ability": "Action: Gain 1 strain token to recover 1 [Charge]. Before you engage, you may spend 1 [Charge] to perform an action.",
-      "charges": { "value": 1, "recovers": -1 },
-      "keywords": ["TIE"],
+      "charges": {
+        "value": 1,
+        "recovers": -1
+      },
+      "keywords": [
+        "TIE"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vultskerris-tieininterceptor.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/vultskerris-tieininterceptor.png",
       "epic": true
@@ -193,10 +265,16 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 8,
-      "slots": ["Talent", "Modification", "Configuration"],
+      "loadout": 9,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Configuration"
+      ],
       "ability": "After a friendly ship at range 0-3 with a lower initiative than yours partially executes a maneuver, it may perform a red [Focus] action.",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/commandantgoran.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/commandantgoran.png",
       "epic": true
@@ -213,11 +291,17 @@
       "caption": "Requiem for Brentaal",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 6,
-      "slots": ["Talent", "Modification", "Configuration"],
+      "cost": 4,
+      "loadout": 13,
+      "slots": [
+        "Talent",
+        "Modification",
+        "Configuration"
+      ],
       "ability": "While you barrel roll, you must use the [[Bank Left] or [Bank Right]] template instead of the [[Straight]] template.",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantlorrir.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantlorrir.png",
       "epic": true
@@ -235,11 +319,20 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 6,
-      "charges": { "value": 1, "recovers": 1 },
-      "slots": ["Missile", "Modification", "Configuration"],
+      "loadout": 11,
+      "charges": {
+        "value": 1,
+        "recovers": 1
+      },
+      "slots": [
+        "Missile",
+        "Modification",
+        "Configuration"
+      ],
       "ability": "During the Engagement Phase, after a friendly small ship at range 0-3 is destroyed, if that ship has not engaged this phase, you may spend 1 [Charge]. If you do, that ship engages at the current initiative.",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/nashwindrider.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/nashwindrider.png",
       "epic": true
@@ -257,19 +350,42 @@
       "standard": true,
       "extended": true,
       "cost": 5,
-      "charges": { "value": 2, "recovers": 1 },
+      "charges": {
+        "value": 2,
+        "recovers": 1
+      },
       "shipStats": [
-        { "arc": "Front Arc", "type": "attack", "value": 3 },
-        { "type": "agility", "value": 3 },
-        { "type": "hull", "value": 3 },
-        { "type": "shields", "value": 1 }
+        {
+          "arc": "Front Arc",
+          "type": "attack",
+          "value": 3
+        },
+        {
+          "type": "agility",
+          "value": 3
+        },
+        {
+          "type": "hull",
+          "value": 3
+        },
+        {
+          "type": "shields",
+          "value": 1
+        }
       ],
-      "standardLoadout": ["predator", "fanatic-battleofyavin"],
+      "standardLoadout": [
+        "predator",
+        "fanatic-battleofyavin"
+      ],
       "ability": "Before a friendly TIE at range 0-1 would suffer damage, you may spend 2 [Charge]. If you do, prevent 1 damage.",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/idenversio-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/idenversio-battleofyavin.png",
-      "epic": true
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Sigma 4",
@@ -284,18 +400,38 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "charges": { "value": 2, "recovers": 0 },
+      "charges": {
+        "value": 2,
+        "recovers": 0
+      },
       "shipStats": [
-        { "arc": "Front Arc", "type": "attack", "value": 3 },
-        { "type": "agility", "value": 3 },
-        { "type": "hull", "value": 4 }
+        {
+          "arc": "Front Arc",
+          "type": "attack",
+          "value": 3
+        },
+        {
+          "type": "agility",
+          "value": 3
+        },
+        {
+          "type": "hull",
+          "value": 4
+        }
       ],
-      "standardLoadout": ["disciplined", "primedthrusters"],
+      "standardLoadout": [
+        "disciplined",
+        "primedthrusters"
+      ],
       "ability": "After you perform a [Barrel Roll] action, you may spend 1 [Charge] to perform a [Boost] action.",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sigma4-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma4.png",
-      "epic": true
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Sigma 5",
@@ -310,18 +446,38 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "charges": { "value": 2, "recovers": 0 },
+      "charges": {
+        "value": 2,
+        "recovers": 0
+      },
       "shipStats": [
-        { "arc": "Front Arc", "type": "attack", "value": 3 },
-        { "type": "agility", "value": 3 },
-        { "type": "hull", "value": 4 }
+        {
+          "arc": "Front Arc",
+          "type": "attack",
+          "value": 3
+        },
+        {
+          "type": "agility",
+          "value": 3
+        },
+        {
+          "type": "hull",
+          "value": 4
+        }
       ],
-      "standardLoadout": ["sensorjammer-battleofyavin", "elusive"],
+      "standardLoadout": [
+        "sensorjammer-battleofyavin",
+        "elusive"
+      ],
       "ability": "After you perform an attack that hits, you may spend 1 [Charge] to perform an [Evade] action.",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sigma5-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma5.png",
-      "epic": true
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Sigma 6",
@@ -336,18 +492,38 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "charges": { "value": 2, "recovers": 0 },
+      "charges": {
+        "value": 2,
+        "recovers": 0
+      },
       "shipStats": [
-        { "arc": "Front Arc", "type": "attack", "value": 3 },
-        { "type": "agility", "value": 3 },
-        { "type": "hull", "value": 4 }
+        {
+          "arc": "Front Arc",
+          "type": "attack",
+          "value": 3
+        },
+        {
+          "type": "agility",
+          "value": 3
+        },
+        {
+          "type": "hull",
+          "value": 4
+        }
       ],
-      "standardLoadout": ["daredevil", "afterburners"],
+      "standardLoadout": [
+        "daredevil",
+        "afterburners"
+      ],
       "ability": "After you fully execute a speed 3-5 maneuver, you may spend 1 [Charge] to perform a [SLAM] action.",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sigma6-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma6.png",
-      "epic": true
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Sigma 7",
@@ -362,25 +538,60 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "charges": { "value": 2, "recovers": 0 },
+      "charges": {
+        "value": 2,
+        "recovers": 0
+      },
       "shipStats": [
-        { "arc": "Front Arc", "type": "attack", "value": 3 },
-        { "type": "agility", "value": 3 },
-        { "type": "hull", "value": 4 }
+        {
+          "arc": "Front Arc",
+          "type": "attack",
+          "value": 3
+        },
+        {
+          "type": "agility",
+          "value": 3
+        },
+        {
+          "type": "hull",
+          "value": 4
+        }
       ],
       "shipActions": [
-        { "difficulty": "White", "type": "Focus" },
-        { "difficulty": "White", "type": "Evade" },
-        { "difficulty": "White", "type": "Barrel Roll" },
-        { "difficulty": "White", "type": "Boost" },
-        { "difficulty": "White", "type": "Lock" }
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "White",
+          "type": "Evade"
+        },
+        {
+          "difficulty": "White",
+          "type": "Barrel Roll"
+        },
+        {
+          "difficulty": "White",
+          "type": "Boost"
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        }
       ],
-      "standardLoadout": ["marksmanship", "firecontrolsystem"],
+      "standardLoadout": [
+        "marksmanship",
+        "firecontrolsystem"
+      ],
       "ability": "During the System Phase, you may spend 1 [Charge] to acquire a lock on an enemy ship at range 0-1.",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sigma7-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma7.png",
-      "epic": true
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Second Sister",
@@ -395,17 +606,23 @@
       "standard": true,
       "extended": true,
       "cost": 5,
-      "loadout": 14,
+      "loadout": 15,
       "slots": [
         "Force Power",
-        "Talent",
+        "Force Power",
         "Missile",
         "Modification",
         "Configuration"
       ],
       "ability": "While you perform an attack, after the Neutralize Results step, if the attack hit, you may spend 2 [Force]. If you do, change all of your [Hit] results to [Critical Hit] results.",
-      "force": { "value": 2, "recovers": 1 },
-      "keywords": ["Dark Side", "TIE"],
+      "force": {
+        "value": 2,
+        "recovers": 1
+      },
+      "keywords": [
+        "Dark Side",
+        "TIE"
+      ],
       "image": "https://infinitearenas.com/xw2/images/pilots/secondsister.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/secondsister.png",
       "epic": true
@@ -421,14 +638,23 @@
         "text": "During the System Phase, you may perform a red [Barrel Roll] or red [Boost] action."
       },
       "cost": 4,
-      "standardLoadout": ["noescape-battleoverendor", "reckless-battleoverendor", "primedthrusters", "targetingmatrix-battleoverendor"],
+      "standardLoadout": [
+        "noescape-battleoverendor",
+        "reckless-battleoverendor",
+        "primedthrusters",
+        "targetingmatrix-battleoverendor"
+      ],
       "ability": "While you defend, if you are focused, roll 1 additional defense die.",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sapphire2-battleoverendor.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sapphire2-battleoverendor.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Soontir Fel",
@@ -440,16 +666,28 @@
         "name": "Sensitive Controls",
         "text": "During the System Phase, you may perform a red [Barrel Roll] or red [Boost] action."
       },
-      "charges": { "value": 2, "recovers": 0 },
+      "charges": {
+        "value": 2,
+        "recovers": 0
+      },
       "cost": 5,
-      "standardLoadout": ["apexpredator-battleoverendor", "noescape-battleoverendor", "blanksignature-battleoverendor", "feedbackemitter-battleoverendor"],
+      "standardLoadout": [
+        "apexpredator-battleoverendor",
+        "noescape-battleoverendor",
+        "blanksignature-battleoverendor",
+        "feedbackemitter-battleoverendor"
+      ],
       "ability": "After you perform an attack, you may spend 1 [Charge] and gain 1 deplete token to boost or barrel roll.",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/soontirfel-battleoverendor.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/soontirfel-battleoverendor.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Maus Monare",
@@ -461,15 +699,23 @@
         "name": "Sensitive Controls",
         "text": "During the System Phase, you may perform a red [Barrel Roll] or red [Boost] action."
       },
-      "cost": 5,
-      "standardLoadout": ["noescape-battleoverendor", "outmaneuver", "fuelinjectionoverride-battleoverendor"],
+      "cost": 4,
+      "standardLoadout": [
+        "noescape-battleoverendor",
+        "outmaneuver",
+        "fuelinjectionoverride-battleoverendor"
+      ],
       "ability": "After you perform an [Evade] action, gain a calculate token",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/mausmonare-battleoverendor.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/mausmonare-battleoverendor.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     }
   ]
 }

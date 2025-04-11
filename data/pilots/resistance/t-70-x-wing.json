@@ -21,18 +21,42 @@
     "4FW",
     "4KR"
   ],
-  "dialCodes": ["T70"],
+  "dialCodes": [
+    "T70"
+  ],
   "faction": "resistance",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 4 },
-    { "type": "shields", "value": 3 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 4
+    },
+    {
+      "type": "shields",
+      "value": 3
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "White", "type": "Boost" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "type": "Boost"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/resistance/I_X-wing-T70.png",
   "pilots": [
@@ -50,8 +74,11 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/poedameron.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/poedameron.png",
       "cost": 7,
-      "loadout": 25,
-      "charges": { "value": 1, "recovers": 1 },
+      "loadout": 26,
+      "charges": {
+        "value": 1,
+        "recovers": 1
+      },
       "slots": [
         "Talent",
         "Astromech",
@@ -64,7 +91,9 @@
       ],
       "standard": true,
       "extended": true,
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -78,9 +107,12 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 6,
-      "loadout": 19,
-      "charges": { "value": 2, "recovers": 1 },
+      "cost": 5,
+      "loadout": 7,
+      "charges": {
+        "value": 2,
+        "recovers": 1
+      },
       "slots": [
         "Talent",
         "Talent",
@@ -94,7 +126,9 @@
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/poedameron-swz68.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/poedameron-swz68.png",
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -110,11 +144,18 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/bluesquadronrookie.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronrookie.png",
       "cost": 5,
-      "loadout": 4,
-      "slots": ["Astromech", "Modification", "Configuration", "Tech"],
+      "loadout": 13,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Configuration",
+        "Tech"
+      ],
       "standard": true,
       "extended": true,
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -129,12 +170,20 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/redsquadronexpert.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/redsquadronexpert.png",
-      "cost": 5,
-      "loadout": 2,
-      "slots": ["Talent", "Astromech", "Modification", "Configuration", "Tech"],
+      "cost": 4,
+      "loadout": 5,
+      "slots": [
+        "Talent",
+        "Astromech",
+        "Modification",
+        "Configuration",
+        "Tech"
+      ],
       "standard": true,
       "extended": true,
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -149,12 +198,20 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/blacksquadronace-t70xwing.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksquadronace-t70xwing.png",
-      "cost": 5,
-      "loadout": 10,
-      "slots": ["Talent", "Astromech", "Modification", "Configuration", "Tech"],
+      "cost": 4,
+      "loadout": 2,
+      "slots": [
+        "Talent",
+        "Astromech",
+        "Modification",
+        "Configuration",
+        "Tech"
+      ],
       "standard": true,
       "extended": true,
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -168,8 +225,8 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 4,
-      "loadout": 8,
+      "cost": 5,
+      "loadout": 12,
       "slots": [
         "Talent",
         "Talent",
@@ -182,7 +239,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/elloasty.png",
       "standard": true,
       "extended": true,
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -196,14 +255,22 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 5,
-      "loadout": 13,
-      "slots": ["Talent", "Astromech", "Modification", "Configuration", "Tech"],
+      "cost": 4,
+      "loadout": 6,
+      "slots": [
+        "Talent",
+        "Astromech",
+        "Modification",
+        "Configuration",
+        "Tech"
+      ],
       "image": "https://infinitearenas.com/xw2/images/pilots/jophseastriker.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jophseastriker.png",
       "standard": true,
       "extended": true,
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -218,7 +285,7 @@
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
       "cost": 4,
-      "loadout": 8,
+      "loadout": 5,
       "slots": [
         "Talent",
         "Astromech",
@@ -231,7 +298,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/karekun.png",
       "standard": true,
       "extended": true,
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -247,12 +316,19 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantbastian.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantbastian.png",
-      "cost": 5,
-      "loadout": 14,
-      "slots": ["Astromech", "Modification", "Configuration", "Tech"],
+      "cost": 4,
+      "loadout": 5,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Configuration",
+        "Tech"
+      ],
       "standard": true,
       "extended": true,
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -267,7 +343,7 @@
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
       "cost": 5,
-      "loadout": 16,
+      "loadout": 11,
       "slots": [
         "Talent",
         "Astromech",
@@ -280,7 +356,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/niennunb.png",
       "standard": true,
       "extended": true,
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -297,11 +375,18 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/jaycristubbs.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jaycristubbs.png",
       "cost": 4,
-      "loadout": 8,
-      "slots": ["Astromech", "Modification", "Configuration", "Tech"],
+      "loadout": 7,
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Configuration",
+        "Tech"
+      ],
       "standard": true,
       "extended": true,
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -317,13 +402,23 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/jessikapava.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jessikapava.png",
-      "cost": 4,
-      "loadout": 6,
-      "charges": { "value": 1, "recovers": 1 },
-      "slots": ["Astromech", "Modification", "Configuration", "Tech"],
+      "cost": 5,
+      "loadout": 14,
+      "charges": {
+        "value": 1,
+        "recovers": 1
+      },
+      "slots": [
+        "Astromech",
+        "Modification",
+        "Configuration",
+        "Tech"
+      ],
       "standard": true,
       "extended": true,
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -339,8 +434,8 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/temminwexley.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/temminwexley.png",
-      "cost": 4,
-      "loadout": 9,
+      "cost": 5,
+      "loadout": 16,
       "slots": [
         "Talent",
         "Astromech",
@@ -351,7 +446,9 @@
       ],
       "standard": true,
       "extended": true,
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -366,7 +463,7 @@
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
       "cost": 5,
-      "loadout": 13,
+      "loadout": 12,
       "slots": [
         "Talent",
         "Astromech",
@@ -379,7 +476,9 @@
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/temminwexley-swz68.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/temminwexley-swz68.png",
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -394,13 +493,21 @@
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
       "cost": 4,
-      "loadout": 7,
-      "slots": ["Talent", "Astromech", "Modification", "Configuration", "Tech"],
+      "loadout": 6,
+      "slots": [
+        "Talent",
+        "Astromech",
+        "Modification",
+        "Configuration",
+        "Tech"
+      ],
       "standard": true,
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/caithrenalli.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/caithrenalli.png",
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -416,12 +523,19 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 9,
-      "slots": ["Tech", "Astromech", "Modification", "Configuration"],
+      "loadout": 5,
+      "slots": [
+        "Tech",
+        "Astromech",
+        "Modification",
+        "Configuration"
+      ],
       "ability": "While you perform an attack, if the defender's initiative is higher than yours, you may change 1 blank result to a [Focus] result.",
       "image": "https://infinitearenas.com/xw2/images/pilots/nimichireen.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/nimichireen.png",
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -436,8 +550,8 @@
       "caption": "Jade Leader",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 7,
+      "cost": 5,
+      "loadout": 13,
       "slots": [
         "Talent",
         "Tech",
@@ -451,7 +565,9 @@
       "ability": "While you perform a [Torpedo] or [Missile] attack, you may treat the [Front Arc] requirement as [Rear Arc] for that attack. If you do, treat the range requirement as 1-2.",
       "image": "https://infinitearenas.com/xw2/images/pilots/venisadoza.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/venisadoza.png",
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
     },
     {
@@ -467,7 +583,7 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 7,
+      "loadout": 6,
       "slots": [
         "Talent",
         "Talent",
@@ -479,8 +595,148 @@
       "ability": "While you defend, if the attacker is damaged, you may reroll 1 defense die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/zayversio.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zayversio.png",
-      "keywords": ["X-wing"],
+      "keywords": [
+        "X-wing"
+      ],
       "epic": true
+    },
+    {
+      "name": "C’ai Threnalli",
+      "caption": "Evacuation of D'Qar",
+      "initiative": 4,
+      "limited": 1,
+      "xws": "caithrenalli-evacuationofdqar",
+      "ability": "After you fully execute a maneuver, if you moved through a friendly ship, you may perform an [Evade] action.",
+      "shipAbility": {"name" : "Adaptive S-Foils",
+                      "text" : "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."},
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/caithrenalli-evacuationofdqar.png",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/caithrenalli-evacuationofdqar.png",
+      "cost": 4,
+      "loadout": 0,
+      "charges": {},
+      "slots": [],
+      "actions": [
+        { "difficulty": "White", "type": "Focus", "linked" : {"difficulty" : "Red", "type" : "Barrel Roll"} },
+        { "difficulty": "White", "type": "Lock" },
+        { "difficulty": "White", "type": "Barrel Roll" },
+        { "difficulty": "White", "type": "Boost", "linked" : {"difficulty" : "Red", "type" : "Focus"} }
+      ],
+      "standardLoadout": [
+        "forthecause-evacuationofdqar",
+        "heroic",
+        "bbastromech",
+        "repulsorliftengines-evacuationofdqar"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "keywords": [
+        "X-wing"
+      ],
+      "epic": "Yes",
+      "subtitle": "Evacuation of D'Qar"
+    },
+    {
+      "name": "Jaycris Tubbs",
+      "caption": "Evacuation of D'Qar",
+      "initiative": 1,
+      "limited": 1,
+      "xws": "jaycristubbs-evacuationofdqar",
+      "ability": "After you fully execute a blue maneuver, you may choose a friendly ship at range 0-1. If you do, that ship removes 1 stress token.",
+      "shipAbility": {"name" : "Adaptive S-Foils",
+                      "text" : "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."},
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/jaycristubbs-evacuationofdqar.png",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jaycristubbs-evacuationofdqar.png",
+      "cost": 4,
+      "loadout": 0,
+      "charges": {},
+      "slots": [],
+      "actions": [
+        { "difficulty": "White", "type": "Focus", "linked" : {"difficulty" : "Red", "type" : "Barrel Roll"} },
+        { "difficulty": "White", "type": "Lock" },
+        { "difficulty": "White", "type": "Barrel Roll" },
+        { "difficulty": "White", "type": "Boost", "linked" : {"difficulty" : "Red", "type" : "Focus"} }
+      ],
+      "standardLoadout": [
+        "forthecause-evacuationofdqar",
+        "r0astromech-evacuationofdqar"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "keywords": [
+        "X-wing"
+      ],
+      "epic": "Yes",
+      "subtitle": "Evacuation of D'Qar"
+    },
+    {
+      "name": "Poe Dameron",
+      "caption": "Evacuation of D'Qar",
+      "initiative": 6,
+      "limited": 1,
+      "xws": "poedameron-evacuationofdqar",
+      "ability": "After your perform an action you may spend 1[Charge] to perform a white action, treating it as red.",
+      "shipAbility": {"name" : "Adaptive S-Foils",
+                      "text" : "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."},
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/poedameron-evacuationofdqar.png",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/poedameron-evacuationofdqar.png",
+      "cost": 6,
+      "loadout": 0,
+      "actions": [
+        { "difficulty": "White", "type": "Focus", "linked" : {"difficulty" : "Red", "type" : "Barrel Roll"} },
+        { "difficulty": "White", "type": "Lock" },
+        { "difficulty": "White", "type": "Barrel Roll" },
+        { "difficulty": "White", "type": "Boost" },
+        { "difficulty": "White", "type": "Slam" }
+      ],
+      "charges": {"value" : 1, "recovers" : 1},
+      "slots": [],
+      "standardLoadout": [
+        "heroic",
+        "bb8-evacuationofdqar",
+        "primedoverdrivethrusters-evacuationofdqar",
+        "blackone-evacuationofdqar"
+      ],
+      "standard": "Yes",
+      "extended": "Yes",
+      "keywords": [
+        "X-wing"
+      ],
+      "epic": "Yes",
+      "subtitle": "Evacuation of D'Qar"
+    },
+    {
+      "name": "Stomeroni Starck",
+      "caption": "Evacuation of D'Qar",
+      "initiative": 4,
+      "limited": 1,
+      "xws": "stomeronistarck-evacuationofdqar",
+      "ability": "Setup: Instead of a T-70 X-wing dial, this ship uses an RZ-2 A-wing dial.",
+      "shipAbility": {"name" : "Adaptive S-Foils",
+                      "text" : "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."},
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/stomeronistarck-evacuationofdqar.png",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/stomeronistarck-evacuationofdqar.png",
+      "cost": 5,
+      "loadout": 0,
+      "actions": [
+        { "difficulty": "White", "type": "Focus", "linked" : {"difficulty" : "Red", "type" : "Barrel Roll"} },
+        { "difficulty": "White", "type": "Lock" },
+        { "difficulty": "White", "type": "Barrel Roll" },
+        { "difficulty": "White", "type": "Boost", "linked" : {"difficulty" : "Red", "type" : "Focus"} }
+      ],
+      "standardLoadout": [
+        "forthecause-evacuationofdqar",
+        "acceleratedsensorarray-evacuationofdqar",
+        "r5x3-evacuationofdqar"
+      ],
+      "charges": {},
+      "slots": [],
+      "standard": "Yes",
+      "extended": "Yes",
+      "keywords": [
+        "X-wing"
+      ],
+      "epic": "Yes",
+      "subtitle": "Evacuation of D'Qar"
     }
   ]
 }

@@ -20,19 +20,46 @@
     "5FW",
     "5KR"
   ],
-  "dialCodes": ["M3A"],
+  "dialCodes": [
+    "M3A"
+  ],
   "faction": "scumandvillainy",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 3 },
-    { "type": "hull", "value": 3 },
-    { "type": "shields", "value": 1 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 3
+    },
+    {
+      "type": "hull",
+      "value": 3
+    },
+    {
+      "type": "shields",
+      "value": 1
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Evade" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "White", "type": "Barrel Roll" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Evade"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "type": "Barrel Roll"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_Scyk.png",
   "pilots": [
@@ -41,15 +68,17 @@
       "initiative": 1,
       "limited": 0,
       "cost": 3,
-      "loadout": 4,
+      "loadout": 6,
       "xws": "cartelspacer",
-      "text": "MandalMotors' M3-A “Scyk” Interceptor is purchased in large quantities by the Hutt Cartel and the Car'das smugglers due to its low cost and customizability.",
+      "text": "MandalMotors' M3-A \u201cScyk\u201d Interceptor is purchased in large quantities by the Hutt Cartel and the Car'das smugglers due to its low cost and customizability.",
       "image": "https://infinitearenas.com/xw2/images/pilots/cartelspacer.png",
       "shipAbility": {
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "slots": ["Modification"],
+      "slots": [
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cartelspacer.png",
       "standard": true,
       "extended": true,
@@ -61,7 +90,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 4,
-      "loadout": 14,
+      "loadout": 13,
       "xws": "genesisred",
       "ability": "After you acquire a lock, you must remove all of your focus and evade tokens. Then, gain the same number of focus and evade tokens that the locked ship has.",
       "image": "https://infinitearenas.com/xw2/images/pilots/genesisred.png",
@@ -69,7 +98,10 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "slots": ["Talent", "Illicit", "Modification"],
+      "slots": [
+        "Talent",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/genesisred.png",
       "standard": true,
       "extended": true,
@@ -81,7 +113,7 @@
       "initiative": 2,
       "limited": 1,
       "cost": 3,
-      "loadout": 11,
+      "loadout": 6,
       "xws": "inaldra",
       "ability": "While you defend or perform an attack, you may suffer 1 [Hit] damage to reroll any number of your dice.",
       "image": "https://infinitearenas.com/xw2/images/pilots/inaldra.png",
@@ -89,19 +121,21 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "slots": ["Modification"],
+      "slots": [
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/inaldra.png",
       "standard": true,
       "extended": true,
       "epic": true
     },
     {
-      "name": "Laetin A’shera",
-      "caption": "Car’das Enforcer",
+      "name": "Laetin A\u2019shera",
+      "caption": "Car\u2019das Enforcer",
       "initiative": 3,
       "limited": 1,
       "cost": 3,
-      "loadout": 9,
+      "loadout": 4,
       "xws": "laetinashera",
       "ability": "After you defend or perform an attack, if the attack missed, gain 1 evade token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/laetinashera.png",
@@ -109,7 +143,10 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "slots": ["Talent", "Modification"],
+      "slots": [
+        "Talent",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/laetinashera.png",
       "standard": true,
       "extended": true,
@@ -120,8 +157,8 @@
       "caption": "Fortune Seeker",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
-      "loadout": 12,
+      "cost": 4,
+      "loadout": 16,
       "xws": "quinnjast",
       "ability": "At the start of the Engagement Phase, you may gain 1 disarm token to recover 1 [Charge] on 1 of your equipped upgrades.",
       "image": "https://infinitearenas.com/xw2/images/pilots/quinnjast.png",
@@ -129,11 +166,17 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "slots": ["Talent", "Cannon", "Modification"],
+      "slots": [
+        "Talent",
+        "Cannon",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/quinnjast.png",
       "standard": true,
       "extended": true,
-      "keywords": ["Bounty Hunter"],
+      "keywords": [
+        "Bounty Hunter"
+      ],
       "epic": true
     },
     {
@@ -142,7 +185,7 @@
       "initiative": 5,
       "limited": 1,
       "cost": 4,
-      "loadout": 12,
+      "loadout": 6,
       "xws": "serissu",
       "ability": "While a friendly ship at range 0-1 defends, it may reroll 1 of its dice.",
       "image": "https://infinitearenas.com/xw2/images/pilots/serissu.png",
@@ -150,7 +193,13 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "slots": ["Talent", "Talent", "Cannon", "Modification", "Modification"],
+      "slots": [
+        "Talent",
+        "Talent",
+        "Cannon",
+        "Modification",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/serissu.png",
       "standard": true,
       "extended": true,
@@ -162,7 +211,7 @@
       "initiative": 1,
       "limited": 1,
       "cost": 3,
-      "loadout": 8,
+      "loadout": 12,
       "xws": "sunnybounder",
       "ability": "While you defend or perform an attack, after you roll or reroll your dice, if you have the same result on each of your dice, you may add 1 matching result.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sunnybounder.png",
@@ -170,7 +219,9 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "slots": ["Modification"],
+      "slots": [
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sunnybounder.png",
       "standard": true,
       "extended": true,
@@ -180,8 +231,8 @@
       "name": "Tansarii Point Veteran",
       "initiative": 3,
       "limited": 0,
-      "cost": 3,
-      "loadout": 3,
+      "cost": 4,
+      "loadout": 13,
       "xws": "tansariipointveteran",
       "text": "The defeat of Black Sun ace Talonbane Cobra by Car'das smugglers turned the tide of the Battle of Tansarii Point Station. Survivors of the clash are respected throughout the sector.",
       "image": "https://infinitearenas.com/xw2/images/pilots/tansariipointveteran.png",
@@ -189,7 +240,12 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "slots": ["Modification"],
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Modification",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tansariipointveteran.png",
       "standard": true,
       "extended": true,
@@ -207,19 +263,35 @@
       "caption": "Tilted Droid",
       "standard": true,
       "extended": true,
-      "slots": ["Modification"],
+      "slots": [
+        "Modification"
+      ],
       "ability": "After you defend, each other ship at range 0 suffers 1 [Critical Hit] damage.",
       "cost": 3,
-      "loadout": 9,
+      "loadout": 11,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/g4rgorvm.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/g4rgorvm.png",
       "shipActions": [
-        { "difficulty": "White", "type": "Calculate" },
-        { "difficulty": "White", "type": "Evade" },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Barrel Roll" }
+        {
+          "difficulty": "White",
+          "type": "Calculate"
+        },
+        {
+          "difficulty": "White",
+          "type": "Evade"
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Barrel Roll"
+        }
       ],
-      "keywords": ["Droid"],
+      "keywords": [
+        "Droid"
+      ],
       "epic": true
     }
   ]

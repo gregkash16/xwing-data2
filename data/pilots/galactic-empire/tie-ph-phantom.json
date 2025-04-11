@@ -21,29 +21,56 @@
     "4FW",
     "4KR"
   ],
-  "dialCodes": ["TPh"],
+  "dialCodes": [
+    "TPh"
+  ],
   "faction": "galacticempire",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 3 },
-    { "type": "shields", "value": 2 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 3
+    },
+    {
+      "type": "shields",
+      "value": 2
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Evade" },
-    { "difficulty": "White", "type": "Barrel Roll" },
-    { "difficulty": "White", "type": "Cloak" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Evade"
+    },
+    {
+      "difficulty": "White",
+      "type": "Barrel Roll"
+    },
+    {
+      "difficulty": "White",
+      "type": "Cloak"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEPhantom.png",
   "pilots": [
     {
-      "name": "“Echo”",
+      "name": "\u201cEcho\u201d",
       "caption": "Slippery Trickster",
       "initiative": 4,
       "limited": 1,
-      "cost": 5,
-      "loadout": 9,
+      "cost": 4,
+      "loadout": 10,
       "xws": "echo",
       "ability": "While you decloak, you must use the [2 [Bank Left]] or [2 [Bank Right]] template instead of the [2 [Straight]] template.",
       "image": "https://infinitearenas.com/xw2/images/pilots/echo.png",
@@ -51,20 +78,28 @@
         "name": "Stygium Array",
         "text": "After you decloak, you may perform an [Evade] action. At the start of the End Phase, you may spend 1 evade token to gain 1 cloak token."
       },
-      "slots": ["Talent", "Talent", "Sensor", "Modification", "Gunner"],
+      "slots": [
+        "Talent",
+        "Talent",
+        "Sensor",
+        "Modification",
+        "Gunner"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/echo.png",
-      "standard": false,
+      "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
-      "name": "“Whisper”",
+      "name": "\u201cWhisper\u201d",
       "caption": "Soft-Spoken Slayer",
       "initiative": 5,
       "limited": 1,
       "cost": 5,
-      "loadout": 8,
+      "loadout": 13,
       "xws": "whisper",
       "ability": "After you perform an attack that hits, gain 1 evade token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/whisper.png",
@@ -72,19 +107,27 @@
         "name": "Stygium Array",
         "text": "After you decloak, you may perform an [Evade] action. At the start of the End Phase, you may spend 1 evade token to gain 1 cloak token."
       },
-      "slots": ["Talent", "Sensor", "Modification", "Modification", "Gunner"],
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Modification",
+        "Modification",
+        "Gunner"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/whisper.png",
-      "standard": false,
+      "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
       "name": "Imdaar Test Pilot",
       "initiative": 3,
       "limited": 0,
-      "cost": 5,
-      "loadout": 6,
+      "cost": 4,
+      "loadout": 9,
       "xws": "imdaartestpilot",
       "text": "The primary result of a hidden research facility on Imdaar Alpha, the TIE phantom achieves what many thought was impossible: a small starfighter equipped with an advanced cloaking device.",
       "image": "https://infinitearenas.com/xw2/images/pilots/imdaartestpilot.png",
@@ -92,19 +135,25 @@
         "name": "Stygium Array",
         "text": "After you decloak, you may perform an [Evade] action. At the start of the End Phase, you may spend 1 evade token to gain 1 cloak token."
       },
-      "slots": ["Sensor", "Modification", "Gunner"],
+      "slots": [
+        "Sensor",
+        "Modification",
+        "Gunner"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/imdaartestpilot.png",
-      "standard": false,
+      "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
       "name": "Sigma Squadron Ace",
       "initiative": 4,
       "limited": 0,
-      "cost": 6,
-      "loadout": 9,
+      "cost": 4,
+      "loadout": 3,
       "xws": "sigmasquadronace",
       "text": "Featuring a hyperdrive and shields, the TIE phantom is also equipped with five laser cannons, giving it substantial firepower for an Imperial fighter.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sigmasquadronace.png",
@@ -112,12 +161,77 @@
         "name": "Stygium Array",
         "text": "After you decloak, you may perform an [Evade] action. At the start of the End Phase, you may spend 1 evade token to gain 1 cloak token."
       },
-      "slots": ["Talent", "Sensor", "Modification", "Gunner"],
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Modification",
+        "Gunner"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigmasquadronace.png",
-      "standard": false,
+      "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
+    },
+    {
+      "name": "\u201cWhisper\u201d",
+      "caption": "Unseen Assailant",
+      "initiative": 5,
+      "limited": 1,
+      "cost": 6,
+      "charges": {
+        "value": 2,
+        "recovers": 0
+      },
+      "xws": "whisper-ssl",
+      "ability": "After you perform an attack, you may spend 1 [Charge] to perform a [Cloak] action.",
+      "shipAbility": {
+        "name": "Stygium Array",
+        "text": "After you decloak, you may perform an [Evade] action. At the start of the End Phase, you may spend 1 evade token to gain 1 cloak token."
+      },
+      "standardLoadout": [
+        "withoutatrace-tiephphantom",
+        "relaysystem-tiephphantom",
+        "stygiumreserve-tiephphantom"
+      ],
+      "image": "https://infinitearenas.com/xw2/images/quickbuilds/whisper-tiephphantom.png",
+      "artwork": "",
+      "standard": true,
+      "extended": true,
+      "epic": true,
+      "loadout": 0,
+      "slots": []
+    },
+    {
+      "name": "\u201cEcho\u201d",
+      "caption": "Copycat",
+      "initiative": 4,
+      "limited": 1,
+      "cost": 6,
+      "charges": {
+        "value": 1,
+        "recovers": 1
+      },
+      "xws": "echo-ssl",
+      "ability": "After an enemy ship at range 0-1 performs an action on its action bar, you may spend 1 [Charge] to perform the same action, treating it as white.",
+      "shipAbility": {
+        "name": "Stygium Array",
+        "text": "After you decloak, you may perform an [Evade] action. At the start of the End Phase, you may spend 1 evade token to gain 1 cloak token."
+      },
+      "standardLoadout": [
+        "silenthunter-tiephphantom",
+        "stealthgambit-tiephphantom",
+        "manualailerons-tiephphantom"
+      ],
+      "image": "https://infinitearenas.com/xw2/images/quickbuilds/whisper-tiephphantom.png",
+      "artwork": "https://infinitearenas.com/xw2/images/quickbuilds/echo-tiephphantom.png",
+      "standard": true,
+      "extended": true,
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     }
   ]
 }

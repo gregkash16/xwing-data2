@@ -21,19 +21,46 @@
     "4FW",
     "5FW"
   ],
-  "dialCodes": ["N1"],
+  "dialCodes": [
+    "N1"
+  ],
   "faction": "galacticrepublic",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 3 },
-    { "type": "shields", "value": 2 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 3
+    },
+    {
+      "type": "shields",
+      "value": 2
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "White", "type": "Barrel Roll" },
-    { "difficulty": "White", "type": "Boost" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "type": "Barrel Roll"
+    },
+    {
+      "difficulty": "White",
+      "type": "Boost"
+    }
   ],
   "pilots": [
     {
@@ -43,11 +70,23 @@
       "xws": "anakinskywalker-nabooroyaln1starfighter",
       "standard": true,
       "extended": true,
-      "cost": 5,
-      "loadout": 20,
-      "slots": ["Talent", "Sensor", "Torpedo", "Astromech"],
+      "cost": 4,
+      "loadout": 9,
+      "slots": [
+        "Force Power",
+        "Sensor",
+        "Torpedo",
+        "Modification",
+        "Astromech"
+      ],
       "ability": "Before you reveal your maneuver, you may spend 1 [Force] to barrel roll (this is not an action).",
-      "force": { "value": 1, "recovers": 1, "side": ["light"] },
+      "force": {
+        "value": 1,
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
+      },
       "shipAbility": {
         "name": "Full Throttle",
         "text": "After you fully execute a speed 3-5 maneuver, you may perform an [Evade] action."
@@ -55,11 +94,13 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/anakinskywalker-nabooroyaln1starfighter.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/anakinskywalker-nabooroyaln1starfighter.png",
       "caption": "Hero of Naboo",
-      "keywords": ["Light Side"],
+      "keywords": [
+        "Light Side"
+      ],
       "epic": true
     },
     {
-      "name": "Ric Olié",
+      "name": "Ric Oli\u00e9",
       "xws": "ricolie",
       "initiative": 5,
       "limited": 1,
@@ -72,14 +113,20 @@
       "extended": true,
       "cost": 4,
       "loadout": 12,
-      "slots": ["Talent", "Talent", "Sensor", "Torpedo", "Astromech"],
+      "slots": [
+        "Talent",
+        "Talent",
+        "Sensor",
+        "Torpedo",
+        "Astromech"
+      ],
       "ability": "While you defend or perform a primary attack, if the speed of your revealed maneuver is higher than the enemy ship's, roll 1 additional die.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ricolie.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/ricolie.png",
       "epic": true
     },
     {
-      "name": "Padmé Amidala",
+      "name": "Padm\u00e9 Amidala",
       "xws": "padmeamidala",
       "initiative": 4,
       "limited": 1,
@@ -90,16 +137,21 @@
       "caption": "Aggressive Negotiator",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 16,
-      "slots": ["Talent", "Sensor", "Torpedo", "Astromech"],
+      "cost": 5,
+      "loadout": 22,
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Torpedo",
+        "Astromech"
+      ],
       "ability": "While an enemy ship in your [Front Arc] defends or performs an attack, that ship can modify only 1 [Focus] result (other results can still be modified).",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/padmeamidala.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/padmeamidala.png",
       "epic": true
     },
     {
-      "name": "Dineé Ellberger",
+      "name": "Dine\u00e9 Ellberger",
       "xws": "dineeellberger",
       "caption": "Bravo Five",
       "initiative": 3,
@@ -112,7 +164,12 @@
       "extended": true,
       "cost": 4,
       "loadout": 14,
-      "slots": ["Talent", "Sensor", "Torpedo", "Astromech"],
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Torpedo",
+        "Astromech"
+      ],
       "ability": "While you defend or perform an attack, if the speed of your revealed maneuver is the same as the enemy ship's, that ship's dice cannot be modified.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dineeellberger.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/dineeellberger.png",
@@ -130,9 +187,13 @@
       "text": "The volunteer pilots of the Royal Naboo Security Force are dedicated to protecting the people and ideals of their homeworld, and trust their Queen to send them into battle only when all other options have failed.",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 8,
-      "slots": ["Sensor", "Torpedo", "Astromech"],
+      "cost": 3,
+      "loadout": 6,
+      "slots": [
+        "Sensor",
+        "Torpedo",
+        "Astromech"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bravoflightofficer.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/bravoflightofficer.png",
       "epic": true
@@ -149,11 +210,17 @@
       },
       "standard": true,
       "extended": true,
-      "conditions": ["decoyed"],
+      "conditions": [
+        "decoyed"
+      ],
       "ability": "Setup: After placing forces, assign the Decoyed condition to 1 friendly ship other than Naboo Handmaiden.",
       "cost": 4,
-      "loadout": 8,
-      "slots": ["Sensor", "Modification", "Astromech"],
+      "loadout": 11,
+      "slots": [
+        "Sensor",
+        "Modification",
+        "Astromech"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/naboohandmaiden.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/naboohandmaiden.png",
       "epic": true
@@ -172,7 +239,13 @@
       "extended": true,
       "cost": 4,
       "loadout": 16,
-      "slots": ["Talent", "Sensor", "Torpedo", "Astromech", "Modification"],
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Torpedo",
+        "Astromech",
+        "Modification"
+      ],
       "ability": "While you defend or perform an attack, if the speed of your revealed maneuver is greater than the enemy ship's, you may reroll your blank results.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gavynsykes.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/gavynsykes.png",

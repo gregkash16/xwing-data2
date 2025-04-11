@@ -19,17 +19,38 @@
     "4FW",
     "5FR"
   ],
-  "dialCodes": ["Tmg"],
+  "dialCodes": [
+    "Tmg"
+  ],
   "faction": "scumandvillainy",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 3 },
-    { "type": "hull", "value": 3 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 3
+    },
+    {
+      "type": "hull",
+      "value": 3
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Evade" },
-    { "difficulty": "White", "type": "Barrel Roll" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Evade"
+    },
+    {
+      "difficulty": "White",
+      "type": "Barrel Roll"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_MiningGuild_TIE.png",
   "pilots": [
@@ -39,7 +60,7 @@
       "initiative": 3,
       "limited": 1,
       "cost": 3,
-      "loadout": 8,
+      "loadout": 11,
       "xws": "ahhav",
       "ability": "While you defend or perform an attack, if the enemy ship is a larger size than you, roll 1 additional die.",
       "shipAbility": {
@@ -48,10 +69,17 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/ahhav.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ahhav.png",
-      "slots": ["Talent", "Illicit", "Illicit", "Modification"],
+      "slots": [
+        "Talent",
+        "Illicit",
+        "Illicit",
+        "Modification"
+      ],
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -60,20 +88,29 @@
       "initiative": 3,
       "limited": 1,
       "cost": 3,
-      "loadout": 7,
+      "loadout": 6,
       "xws": "captainseevor",
       "ability": "While you defend or perform an attack, before attack dice are rolled, if you are not in the enemy ship's [Bullseye Arc], you may spend 1 [Charge]. If you do, the enemy ship gains 1 jam token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/captainseevor.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captainseevor.png",
-      "charges": { "value": 1, "recovers": 1 },
+      "charges": {
+        "value": 1,
+        "recovers": 1
+      },
       "shipAbility": {
         "name": "Notched Stabilizers",
         "text": "While you move, you ignore asteroids."
       },
-      "slots": ["Talent", "Missile", "Modification"],
+      "slots": [
+        "Talent",
+        "Missile",
+        "Modification"
+      ],
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -82,7 +119,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 3,
-      "loadout": 6,
+      "loadout": 10,
       "xws": "foremanproach",
       "ability": "Before you engage, you may choose 1 enemy ship in your [Bullseye Arc] at range 1-2 and gain 1 disarm token. If you do, that ship gains 1 tractor token.",
       "shipAbility": {
@@ -91,18 +128,24 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/foremanproach.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/foremanproach.png",
-      "slots": ["Talent", "Talent", "Modification"],
+      "slots": [
+        "Talent",
+        "Talent",
+        "Modification"
+      ],
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
       "name": "Mining Guild Surveyor",
       "initiative": 2,
       "limited": 0,
-      "cost": 3,
-      "loadout": 1,
+      "cost": 2,
+      "loadout": 0,
       "xws": "miningguildsurveyor",
       "text": "With Imperial construction projects consuming raw materials at an unprecedented rate, the Mining Guild ruthlessly exploits newly discovered deposits of doonium ore on worlds such as Batonn, Lothal, and Umbara.",
       "shipAbility": {
@@ -111,10 +154,14 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/miningguildsurveyor.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/miningguildsurveyor.png",
-      "slots": ["Talent"],
+      "slots": [
+        "Talent"
+      ],
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -123,20 +170,29 @@
       "initiative": 2,
       "limited": 1,
       "cost": 3,
-      "loadout": 7,
+      "loadout": 12,
       "xws": "overseeryushyn",
       "ability": "Before a friendly ship at range 1 would gain a disarm token, if that ship is not stressed, you may spend 1 [Charge]. If you do, that ship gains 1 stress token instead.",
       "shipAbility": {
         "name": "Notched Stabilizers",
         "text": "While you move, you ignore asteroids."
       },
-      "charges": { "value": 1, "recovers": 1 },
+      "charges": {
+        "value": 1,
+        "recovers": 1
+      },
       "image": "https://infinitearenas.com/xw2/images/pilots/overseeryushyn.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/overseeryushyn.png",
-      "slots": ["Talent", "Modification"],
+      "slots": [
+        "Talent",
+        "Illicit",
+        "Modification"
+      ],
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -144,7 +200,7 @@
       "initiative": 1,
       "limited": 0,
       "cost": 3,
-      "loadout": 3,
+      "loadout": 8,
       "xws": "miningguildsentry",
       "text": "As part of its arrangement with the Empire, the Mining Guild receives modified TIE/ln Fighters to protect its operations. These craft have solar panels removed from their stabilizers for improved visibility, and feature more extensive life support systems for the benefit of their corporate pilots.",
       "shipAbility": {
@@ -153,10 +209,14 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/miningguildsentry.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/miningguildsentry.png",
-      "slots": ["Illicit"],
+      "slots": [
+        "Illicit"
+      ],
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -182,7 +242,9 @@
       ],
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     }
   ]

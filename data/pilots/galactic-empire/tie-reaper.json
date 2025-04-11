@@ -20,29 +20,56 @@
     "3FB",
     "3NW"
   ],
-  "dialCodes": ["TR"],
+  "dialCodes": [
+    "TR"
+  ],
   "faction": "galacticempire",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 1 },
-    { "type": "hull", "value": 6 },
-    { "type": "shields", "value": 2 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 1
+    },
+    {
+      "type": "hull",
+      "value": 6
+    },
+    {
+      "type": "shields",
+      "value": 2
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Evade" },
-    { "difficulty": "Red", "type": "Coordinate" },
-    { "difficulty": "White", "type": "Jam" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Evade"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Coordinate"
+    },
+    {
+      "difficulty": "White",
+      "type": "Jam"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEReaper.png",
   "pilots": [
     {
-      "name": "“Vizier”",
+      "name": "\u201cVizier\u201d",
       "caption": "Ruthless Tactician",
       "initiative": 2,
       "limited": 1,
       "cost": 4,
-      "loadout": 12,
+      "loadout": 10,
       "xws": "vizier",
       "ability": "After you move using your Controlled Ailerons ship ability, you may perform a [Coordinate] action. If you do, skip your Perform Action step.",
       "image": "https://infinitearenas.com/xw2/images/pilots/vizier.png",
@@ -50,11 +77,17 @@
         "name": "Controlled Ailerons",
         "text": "Before you reveal your dial, if you are not stressed, you may boost."
       },
-      "slots": ["Crew", "Crew", "Modification"],
+      "slots": [
+        "Crew",
+        "Crew",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vizier.png",
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -71,11 +104,18 @@
         "name": "Controlled Ailerons",
         "text": "Before you reveal your dial, if you are not stressed, you may boost."
       },
-      "slots": ["Talent", "Crew", "Modification", "Modification"],
+      "slots": [
+        "Talent",
+        "Crew",
+        "Modification",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captainferoph.png",
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -92,19 +132,26 @@
         "name": "Controlled Ailerons",
         "text": "Before you reveal your dial, if you are not stressed, you may boost."
       },
-      "slots": ["Talent", "Crew", "Crew", "Modification"],
+      "slots": [
+        "Talent",
+        "Crew",
+        "Crew",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/majorvermeil.png",
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
       "name": "Scarif Base Pilot",
       "initiative": 1,
       "limited": 0,
-      "cost": 4,
-      "loadout": 6,
+      "cost": 5,
+      "loadout": 19,
       "xws": "scarifbasepilot",
       "text": "The TIE reaper was designed to ferry elite troops to flashpoints on the battlefield, notably carrying Director Krennic's dreaded death troopers at the Battle of Scarif.",
       "image": "https://infinitearenas.com/xw2/images/pilots/scarifbasepilot.png",
@@ -112,11 +159,16 @@
         "name": "Controlled Ailerons",
         "text": "Before you reveal your dial, if you are not stressed, you may boost."
       },
-      "slots": ["Crew", "Modification"],
+      "slots": [
+        "Crew",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/scarifbasepilot.png",
       "standard": true,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     }
   ]

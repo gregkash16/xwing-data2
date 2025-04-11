@@ -21,27 +21,51 @@
     "3KR",
     "4FW"
   ],
-  "dialCodes": ["V19*"],
+  "dialCodes": [
+    "V19*"
+  ],
   "faction": "galacticrepublic",
   "stats": [
-    { "type": "attack", "arc": "Front Arc", "value": 2 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 5 }
+    {
+      "type": "attack",
+      "arc": "Front Arc",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 5
+    }
   ],
   "actions": [
-    { "type": "Focus", "difficulty": "White" },
-    { "type": "Evade", "difficulty": "White" },
-    { "type": "Lock", "difficulty": "White" },
+    {
+      "type": "Focus",
+      "difficulty": "White"
+    },
+    {
+      "type": "Evade",
+      "difficulty": "White"
+    },
+    {
+      "type": "Lock",
+      "difficulty": "White"
+    },
     {
       "type": "Barrel Roll",
       "difficulty": "White",
-      "linked": { "type": "Evade", "difficulty": "Red" }
+      "linked": {
+        "type": "Evade",
+        "difficulty": "Red"
+      }
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_V-19Torrent.png",
   "pilots": [
     {
-      "name": "“Kickback”",
+      "name": "\u201cKickback\u201d",
       "caption": "Blue Four",
       "xws": "kickback",
       "initiative": 4,
@@ -51,14 +75,20 @@
       "standard": true,
       "extended": true,
       "cost": 3,
-      "loadout": 8,
-      "slots": ["Talent", "Missile", "Modification"],
+      "loadout": 10,
+      "slots": [
+        "Talent",
+        "Missile",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kickback.png",
-      "keywords": ["Clone"],
+      "keywords": [
+        "Clone"
+      ],
       "epic": true
     },
     {
-      "name": "“Odd Ball”",
+      "name": "\u201cOdd Ball\u201d",
       "caption": "CC-2237",
       "xws": "oddball",
       "initiative": 5,
@@ -68,14 +98,21 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 16,
-      "slots": ["Talent", "Torpedo", "Missile", "Modification"],
+      "loadout": 23,
+      "slots": [
+        "Talent",
+        "Torpedo",
+        "Missile",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/oddball.png",
-      "keywords": ["Clone"],
+      "keywords": [
+        "Clone"
+      ],
       "epic": true
     },
     {
-      "name": "“Swoop”",
+      "name": "\u201cSwoop\u201d",
       "caption": "Blue Six",
       "xws": "swoop",
       "initiative": 3,
@@ -84,15 +121,22 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/swoop.png",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 13,
-      "slots": ["Talent", "Missile", "Missile", "Modification"],
+      "cost": 3,
+      "loadout": 7,
+      "slots": [
+        "Talent",
+        "Missile",
+        "Missile",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/swoop.png",
-      "keywords": ["Clone"],
+      "keywords": [
+        "Clone"
+      ],
       "epic": true
     },
     {
-      "name": "“Axe”",
+      "name": "\u201cAxe\u201d",
       "caption": "Blue Two",
       "xws": "axe",
       "initiative": 3,
@@ -102,14 +146,20 @@
       "standard": true,
       "extended": true,
       "cost": 3,
-      "loadout": 8,
-      "slots": ["Talent", "Missile", "Modification"],
+      "loadout": 11,
+      "slots": [
+        "Talent",
+        "Missile",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/axe.png",
-      "keywords": ["Clone"],
+      "keywords": [
+        "Clone"
+      ],
       "epic": true
     },
     {
-      "name": "“Tucker”",
+      "name": "\u201cTucker\u201d",
       "caption": "Blue Five",
       "xws": "tucker",
       "initiative": 2,
@@ -118,11 +168,18 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/tucker.png",
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 3,
       "loadout": 13,
-      "slots": ["Talent", "Missile", "Missile", "Modification"],
+      "slots": [
+        "Talent",
+        "Missile",
+        "Missile",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tucker.png",
-      "keywords": ["Clone"],
+      "keywords": [
+        "Clone"
+      ],
       "epic": true
     },
     {
@@ -134,11 +191,16 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/bluesquadronprotector.png",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 4,
-      "slots": ["Talent", "Modification"],
+      "cost": 3,
+      "loadout": 8,
+      "slots": [
+        "Talent",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronprotector.png",
-      "keywords": ["Clone"],
+      "keywords": [
+        "Clone"
+      ],
       "epic": true
     },
     {
@@ -150,15 +212,21 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/goldsquadrontrooper.png",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 6,
-      "slots": ["Missile", "Talent", "Modification"],
+      "cost": 3,
+      "loadout": 8,
+      "slots": [
+        "Missile",
+        "Talent",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/goldsquadrontrooper.png",
-      "keywords": ["Clone"],
+      "keywords": [
+        "Clone"
+      ],
       "epic": true
     },
     {
-      "name": "“Kickback”",
+      "name": "\u201cKickback\u201d",
       "caption": "Siege of Coruscant",
       "initiative": 5,
       "limited": 1,
@@ -166,24 +234,41 @@
         "name": "Born for This",
         "text": "While another friendly ship at range 0-2 defends, if you are not strained, it may spend your focus and evade tokens as if that ship has them. If it does, you gain 1 strain token."
       },
-      "cost": 3,
+      "cost": 4,
       "xws": "kickback-siegeofcoruscant",
       "ability": "After you perform a [Barrel Roll] action, you may perform a red [Lock] action. If you do, before you perfrom the [Lock] action, you may gain 1 strain to treat it as white.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/kickback-siegeofcoruscant.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kickback.png",
-      "standardLoadout": ["diamondboronmissiles", "munitionsfailsafe"],
+      "standardLoadout": [
+        "diamondboronmissiles",
+        "munitionsfailsafe"
+      ],
       "shipStats": [
-        { "arc": "Front Arc", "type": "attack", "value": 2 },
-        { "type": "agility", "value": 2 },
-        { "type": "hull", "value": 6 }
+        {
+          "arc": "Front Arc",
+          "type": "attack",
+          "value": 2
+        },
+        {
+          "type": "agility",
+          "value": 2
+        },
+        {
+          "type": "hull",
+          "value": 6
+        }
       ],
       "standard": true,
       "extended": true,
-      "keywords": ["Clone"],
-      "epic": true
+      "keywords": [
+        "Clone"
+      ],
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     },
     {
-      "name": "“Axe”",
+      "name": "\u201cAxe\u201d",
       "caption": "Siege of Coruscant",
       "initiative": 3,
       "limited": 1,
@@ -196,33 +281,60 @@
       "ability": "After you perform an attack, you may choose another friendly ship with the Born for This ability at range 0-2 in your [Left Arc] or [Right Arc]. The chosen ship gains a lock on the defender.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/axe-siegeofcoruscant.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/axe.png",
-      "standardLoadout": ["deadeyeshot", "barragerockets"],
+      "standardLoadout": [
+        "deadeyeshot",
+        "barragerockets"
+      ],
       "shipStats": [
-        { "arc": "Front Arc", "type": "attack", "value": 2 },
-        { "type": "agility", "value": 2 },
-        { "type": "hull", "value": 6 }
+        {
+          "arc": "Front Arc",
+          "type": "attack",
+          "value": 2
+        },
+        {
+          "type": "agility",
+          "value": 2
+        },
+        {
+          "type": "hull",
+          "value": 6
+        }
       ],
       "standard": true,
       "extended": true,
-      "keywords": ["Clone"],
-      "epic": true
+      "keywords": [
+        "Clone"
+      ],
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     },
     {
-      "name": "“Slammer”",
+      "name": "\u201cSlammer\u201d",
       "caption": "Blue Three",
       "xws": "slammer",
       "initiative": 1,
       "limited": 1,
       "ability": "After you fully execute a maneuver, you may spend 2 [Charge] to peform a [SLAM] action, even while stressed.",
-      "charges": { "value": 2, "recovers": 1 },
+      "charges": {
+        "value": 2,
+        "recovers": 1
+      },
       "standard": true,
       "extended": true,
       "cost": 3,
-      "loadout": 7,
-      "slots": ["Talent", "Missile", "Missile", "Modification"],
+      "loadout": 6,
+      "slots": [
+        "Talent",
+        "Missile",
+        "Missile",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/slammer.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/slammer.png",
-      "keywords": ["Clone"],
+      "keywords": [
+        "Clone"
+      ],
       "epic": true
     }
   ]

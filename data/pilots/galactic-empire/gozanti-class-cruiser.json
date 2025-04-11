@@ -17,27 +17,62 @@
     "3FB",
     "4FR"
   ],
-  "dialCodes": ["GOZ-I"],
+  "dialCodes": [
+    "GOZ-I"
+  ],
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 0 },
-    { "type": "hull", "value": 11 },
-    { "type": "shields", "value": 5, "recovers": 1 },
-    { "type": "energy", "value": 3, "recovers": 1 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 0
+    },
+    {
+      "type": "hull",
+      "value": 11
+    },
+    {
+      "type": "shields",
+      "value": 5,
+      "recovers": 1
+    },
+    {
+      "type": "energy",
+      "value": 3,
+      "recovers": 1
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "White", "type": "Coordinate" },
-    { "difficulty": "White", "type": "Reinforce" },
-    { "difficulty": "White", "type": "Jam" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "type": "Coordinate"
+    },
+    {
+      "difficulty": "White",
+      "type": "Reinforce"
+    },
+    {
+      "difficulty": "White",
+      "type": "Jam"
+    }
   ],
   "pilots": [
     {
       "name": "Outer Rim Garrison",
       "initiative": 7,
-      "cost": 67,
-      "loadout": 0,
+      "cost": 11,
+      "loadout": 40,
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/outerrimgarrison.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/outerrimgarrison.png",
@@ -53,15 +88,33 @@
       "xws": "outerrimgarrison",
       "slots": [
         "Command",
-        "Hardpoint",
-        "Crew",
         "Crew",
         "Gunner",
+        "Cargo",
+        "Title",
+        "Hardpoint",
+        "Crew",
         "Team",
-        "Cargo",
-        "Cargo",
-        "Title"
+        "Cargo"
       ]
+    },
+    {
+      "name": "Rik Virgilio",
+      "initiative": 0,
+      "cost": 8,
+      "loadout": 0,
+      "limited": 1,
+      "artwork": "",
+      "image": "",
+      "shipAbility": {},
+      "text": "",
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "engagement": 0,
+      "xws": "rikvirgilio-epicsl",
+      "slots": [],
+      "subtitle": "Blood Crow"
     }
   ]
 }

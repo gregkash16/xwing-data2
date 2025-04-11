@@ -17,27 +17,62 @@
     "3FB",
     "4FR"
   ],
-  "dialCodes": ["GOZ-FO"],
+  "dialCodes": [
+    "GOZ-FO"
+  ],
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 0 },
-    { "type": "hull", "value": 11 },
-    { "type": "shields", "value": 5, "recovers": 1 },
-    { "type": "energy", "value": 3, "recovers": 1 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 0
+    },
+    {
+      "type": "hull",
+      "value": 11
+    },
+    {
+      "type": "shields",
+      "value": 5,
+      "recovers": 1
+    },
+    {
+      "type": "energy",
+      "value": 3,
+      "recovers": 1
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "White", "type": "Coordinate" },
-    { "difficulty": "White", "type": "Reinforce" },
-    { "difficulty": "White", "type": "Jam" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "type": "Coordinate"
+    },
+    {
+      "difficulty": "White",
+      "type": "Reinforce"
+    },
+    {
+      "difficulty": "White",
+      "type": "Jam"
+    }
   ],
   "pilots": [
     {
       "name": "First Order Sympathizers",
       "initiative": 7,
-      "cost": 67,
-      "loadout": 0,
+      "cost": 11,
+      "loadout": 40,
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/firstordersympathizers.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/firstordersympathizers.png",
@@ -61,6 +96,24 @@
         "Cargo",
         "Cargo"
       ]
+    },
+    {
+      "name": "Cerra Fellian",
+      "initiative": 0,
+      "cost": 8,
+      "loadout": 0,
+      "limited": 1,
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cerrafellian-sl.png",
+      "image": "https://infinitearenas.com/xw2/images/pilots/cerrafellian-sl.png",
+      "shipAbility": {},
+      "text": "",
+      "standard": "No",
+      "extended": "No",
+      "epic": "Yes",
+      "engagement": 0,
+      "xws": "cerrafellian-sl",
+      "slots": [],
+      "subtitle": "Malefactor"
     }
   ]
 }

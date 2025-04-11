@@ -18,20 +18,51 @@
     "3YR",
     "4FW"
   ],
-  "dialCodes": ["GtF"],
+  "dialCodes": [
+    "GtF"
+  ],
   "faction": "galacticrepublic",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "arc": "Rear Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 9 },
-    { "type": "shields", "value": 2 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "arc": "Rear Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 9
+    },
+    {
+      "type": "shields",
+      "value": 2
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "Red", "type": "Reinforce" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "Red", "type": "Coordinate" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Reinforce"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Coordinate"
+    }
   ],
   "pilots": [
     {
@@ -52,7 +83,7 @@
         "Crew",
         "Gunner",
         "Torpedo",
-        "Device",
+        "Payload",
         "Illicit",
         "Modification",
         "Modification",
@@ -60,14 +91,16 @@
         "Title"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bokatankryze-galactic-republic.png",
-      "keywords": ["Mandalorian"]
+      "keywords": [
+        "Mandalorian"
+      ]
     },
     {
       "xws": "niteowlliberator",
       "name": "Nite Owl Liberator",
       "image": "https://infinitearenas.com/xw2/images/pilots/niteowlliberator.png",
-      "cost": 7,
-      "loadout": 12,
+      "cost": 6,
+      "loadout": 16,
       "initiative": 2,
       "limited": 1,
       "standard": true,
@@ -77,13 +110,15 @@
         "Talent",
         "Crew",
         "Gunner",
-        "Device",
+        "Payload",
         "Illicit",
         "Modification",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/niteowlliberator.png",
-      "keywords": ["Mandalorian"],
+      "keywords": [
+        "Mandalorian"
+      ],
       "caption": "Resolute Warrior"
     }
   ]

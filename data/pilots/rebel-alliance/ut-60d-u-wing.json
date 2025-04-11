@@ -17,18 +17,42 @@
     "3NW",
     "4FW"
   ],
-  "dialCodes": ["UW"],
+  "dialCodes": [
+    "UW"
+  ],
   "faction": "rebelalliance",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 5 },
-    { "type": "shields", "value": 3 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 5
+    },
+    {
+      "type": "shields",
+      "value": 3
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "Red", "type": "Coordinate" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Coordinate"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_U-wing.png",
   "pilots": [
@@ -38,7 +62,7 @@
       "initiative": 2,
       "limited": 1,
       "cost": 5,
-      "loadout": 16,
+      "loadout": 17,
       "xws": "benthictwotubes",
       "ability": "After you perform a [Focus] action, you may transfer 1 of your focus tokens to a friendly ship at range 1-2.",
       "image": "https://infinitearenas.com/xw2/images/pilots/benthictwotubes.png",
@@ -54,7 +78,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/benthictwotubes.png",
       "standard": true,
       "extended": true,
-      "keywords": ["Partisan"],
+      "keywords": [
+        "Partisan"
+      ],
       "epic": true
     },
     {
@@ -62,11 +88,17 @@
       "initiative": 2,
       "limited": 0,
       "cost": 5,
-      "loadout": 6,
+      "loadout": 22,
       "xws": "bluesquadronscout",
       "text": "Used for deploying troops under the cover of darkness or into the heat of battle, the UT-60D U-wing fulfills the Rebellion's need for a swift and hardy troop transport.",
       "image": "https://infinitearenas.com/xw2/images/pilots/bluesquadronscout.png",
-      "slots": ["Modification", "Configuration"],
+      "slots": [
+        "Sensor",
+        "Crew",
+        "Crew",
+        "Modification",
+        "Configuration"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronscout.png",
       "standard": true,
       "extended": true,
@@ -77,12 +109,18 @@
       "caption": "Imperial Defector",
       "initiative": 4,
       "limited": 1,
-      "cost": 5,
-      "loadout": 10,
+      "cost": 4,
+      "loadout": 6,
       "xws": "bodhirook",
       "ability": "Friendly ships can acquire locks onto objects at range 0-3 of any friendly ship.",
       "image": "https://infinitearenas.com/xw2/images/pilots/bodhirook.png",
-      "slots": ["Sensor", "Crew", "Crew", "Modification", "Configuration"],
+      "slots": [
+        "Sensor",
+        "Crew",
+        "Crew",
+        "Modification",
+        "Configuration"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bodhirook.png",
       "standard": true,
       "extended": true,
@@ -94,11 +132,17 @@
       "initiative": 3,
       "limited": 1,
       "cost": 5,
-      "loadout": 12,
+      "loadout": 14,
       "xws": "cassianandor",
       "ability": "At the start of the Activation Phase, you may choose 1 friendly ship at range 1-3. If you do, that ship removes 1 stress token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/cassianandor.png",
-      "slots": ["Talent", "Sensor", "Crew", "Modification", "Configuration"],
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Crew",
+        "Modification",
+        "Configuration"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cassianandor.png",
       "standard": true,
       "extended": true,
@@ -110,7 +154,7 @@
       "initiative": 2,
       "limited": 1,
       "cost": 5,
-      "loadout": 9,
+      "loadout": 21,
       "xws": "hefftobber",
       "ability": "After an enemy ship executes a maneuver, if it is at range 0, you may perform an action.",
       "image": "https://infinitearenas.com/xw2/images/pilots/hefftobber.png",
@@ -133,7 +177,7 @@
       "initiative": 3,
       "limited": 1,
       "cost": 5,
-      "loadout": 14,
+      "loadout": 15,
       "xws": "magvayarro",
       "ability": "While a friendly ship at range 0-2 defends, the attacker cannot reroll more than 1 attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/magvayarro.png",
@@ -149,7 +193,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/magvayarro.png",
       "standard": true,
       "extended": true,
-      "keywords": ["Partisan"],
+      "keywords": [
+        "Partisan"
+      ],
       "epic": true
     },
     {
@@ -157,15 +203,23 @@
       "initiative": 1,
       "limited": 0,
       "cost": 5,
-      "loadout": 6,
+      "loadout": 22,
       "xws": "partisanrenegade",
       "text": "Saw Gerrera's partisans were first established to oppose Separatist forces on Onderon during the Clone Wars and continued to wage war against galactic tyranny as the Empire rose to power.",
-      "slots": ["Illicit", "Configuration"],
+      "slots": [
+        "Crew",
+        "Crew",
+        "Illicit",
+        "Configuration",
+        "Modification"
+      ],
       "image": "https://infinitearenas.com/xw2/images/pilots/partisanrenegade.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/partisanrenegade.png",
       "standard": true,
       "extended": true,
-      "keywords": ["Partisan"],
+      "keywords": [
+        "Partisan"
+      ],
       "epic": true
     },
     {
@@ -174,7 +228,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 5,
-      "loadout": 18,
+      "loadout": 13,
       "xws": "sawgerrera",
       "ability": "While a damaged friendly ship at range 0-3 performs an attack, it may reroll 1 attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sawgerrera.png",
@@ -190,7 +244,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sawgerrera.png",
       "standard": true,
       "extended": true,
-      "keywords": ["Partisan"],
+      "keywords": [
+        "Partisan"
+      ],
       "epic": true
     },
     {
@@ -200,19 +256,36 @@
       "limited": 1,
       "xws": "k2so",
       "ability": "After you gain a stress token, gain 1 calculate token.",
-      "slots": ["Sensor", "Crew", "Crew", "Modification", "Configuration"],
+      "slots": [
+        "Sensor",
+        "Crew",
+        "Crew",
+        "Modification",
+        "Configuration"
+      ],
       "shipActions": [
-        { "difficulty": "White", "type": "Calculate" },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "Red", "type": "Coordinate" }
+        {
+          "difficulty": "White",
+          "type": "Calculate"
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "Red",
+          "type": "Coordinate"
+        }
       ],
       "standard": true,
       "extended": true,
-      "cost": 5,
-      "loadout": 10,
+      "cost": 4,
+      "loadout": 4,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/k2so.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/k2so.png",
-      "keywords": ["Droid"],
+      "keywords": [
+        "Droid"
+      ],
       "epic": true
     }
   ]

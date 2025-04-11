@@ -20,19 +20,46 @@
     "3PR",
     "4FR"
   ],
-  "dialCodes": ["sYT"],
+  "dialCodes": [
+    "sYT"
+  ],
   "faction": "resistance",
   "stats": [
-    { "arc": "Double Turret Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 1 },
-    { "type": "hull", "value": 8 },
-    { "type": "shields", "value": 3 }
+    {
+      "arc": "Double Turret Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 1
+    },
+    {
+      "type": "hull",
+      "value": 8
+    },
+    {
+      "type": "shields",
+      "value": 3
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "Red", "type": "Boost" },
-    { "difficulty": "Red", "type": "Rotate Arc" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Boost"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Rotate Arc"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/resistance/I_Falcon_Resistance.png",
   "pilots": [
@@ -45,11 +72,20 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/resistancesympathizer.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/resistancesympathizer.png",
       "cost": 6,
-      "loadout": 10,
-      "slots": ["Talent", "Missile", "Modification", "Modification", "Gunner"],
+      "loadout": 18,
+      "slots": [
+        "Talent",
+        "Missile",
+        "Modification",
+        "Modification",
+        "Gunner"
+      ],
       "standard": true,
       "extended": true,
-      "keywords": ["Freighter", "YT-1300"],
+      "keywords": [
+        "Freighter",
+        "YT-1300"
+      ],
       "epic": true
     },
     {
@@ -62,7 +98,7 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/chewbacca-scavengedyt1300.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/chewbacca-scavengedyt1300.png",
       "cost": 6,
-      "loadout": 18,
+      "loadout": 16,
       "slots": [
         "Talent",
         "Talent",
@@ -77,7 +113,10 @@
       ],
       "standard": true,
       "extended": true,
-      "keywords": ["Freighter", "YT-1300"],
+      "keywords": [
+        "Freighter",
+        "YT-1300"
+      ],
       "epic": true
     },
     {
@@ -89,8 +128,8 @@
       "ability": "Setup: You can be placed anywhere in the play area beyond range 3 of enemy ships.",
       "image": "https://infinitearenas.com/xw2/images/pilots/hansolo-scavengedyt1300.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/hansolo-scavengedyt1300.png",
-      "cost": 6,
-      "loadout": 15,
+      "cost": 7,
+      "loadout": 24,
       "slots": [
         "Talent",
         "Missile",
@@ -100,11 +139,15 @@
         "Illicit",
         "Modification",
         "Modification",
-        "Gunner"
+        "Gunner",
+        "Title"
       ],
       "standard": false,
       "extended": true,
-      "keywords": ["Freighter", "YT-1300"],
+      "keywords": [
+        "Freighter",
+        "YT-1300"
+      ],
       "epic": true
     },
     {
@@ -116,12 +159,18 @@
       "ability": "While you defend or perform an attack, if the enemy ship is in your [Front Arc], you may spend 1 [Force] to change 1 of your blank results to an [Evade] or [Hit] result.",
       "image": "https://infinitearenas.com/xw2/images/pilots/rey.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rey.png",
-      "force": { "value": 2, "recovers": 1, "side": ["light"] },
-      "cost": 7,
-      "loadout": 25,
+      "force": {
+        "value": 2,
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
+      },
+      "cost": 8,
+      "loadout": 28,
       "slots": [
         "Missile",
-        "Talent",
+        "Force Power",
         "Crew",
         "Crew",
         "Illicit",
@@ -132,7 +181,11 @@
       ],
       "standard": true,
       "extended": true,
-      "keywords": ["Freighter", "Light Side", "YT-1300"],
+      "keywords": [
+        "Freighter",
+        "Light Side",
+        "YT-1300"
+      ],
       "epic": true
     },
     {
@@ -144,9 +197,12 @@
       "ability": "Before you execute a maneuver, you may spend 1 [Charge]. If you do, ignore obstacles during that maneuver. After you fully execute a maneuver, you may spend 2 [Charge] to perform a white [Boost] or red [Barrel Roll] action. Then if you performed a red [Barrel Roll] action, expose 1 damage card, if able.",
       "image": "https://infinitearenas.com/xw2/images/pilots/poedameron-scavengedyt1300.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/poedameron-scavengedyt1300.png",
-      "charges": { "value": 2, "recovers": 1 },
+      "charges": {
+        "value": 2,
+        "recovers": 1
+      },
       "cost": 7,
-      "loadout": 25,
+      "loadout": 21,
       "slots": [
         "Talent",
         "Talent",
@@ -159,7 +215,10 @@
       ],
       "standard": true,
       "extended": true,
-      "keywords": ["Freighter", "YT-1300"],
+      "keywords": [
+        "Freighter",
+        "YT-1300"
+      ],
       "epic": true
     },
     {
@@ -171,7 +230,10 @@
       "ability": "After you fully execute a red maneuver or perform a red action, you may spend any number of [Charge] to choose that many friendly ships at range 0-2. The chosen ships may perform an action, even while stressed.",
       "image": "https://infinitearenas.com/xw2/images/pilots/landocalrissian-scavengedyt1300.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/landocalrissian-scavengedyt1300.png",
-      "charges": { "value": 3, "recovers": 1 },
+      "charges": {
+        "value": 3,
+        "recovers": 1
+      },
       "cost": 7,
       "loadout": 20,
       "slots": [
@@ -187,7 +249,10 @@
       ],
       "standard": true,
       "extended": true,
-      "keywords": ["Freighter", "YT-1300"],
+      "keywords": [
+        "Freighter",
+        "YT-1300"
+      ],
       "epic": true
     }
   ]

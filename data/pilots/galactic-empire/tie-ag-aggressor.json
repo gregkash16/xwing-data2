@@ -19,32 +19,56 @@
     "4FW",
     "4KR"
   ],
-  "dialCodes": ["TAg"],
+  "dialCodes": [
+    "TAg"
+  ],
   "faction": "galacticempire",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 4 },
-    { "type": "shields", "value": 1 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 4
+    },
+    {
+      "type": "shields",
+      "value": 1
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
     {
       "difficulty": "White",
-      "linked": { "difficulty": "Red", "type": "Evade" },
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "linked": {
+        "difficulty": "Red",
+        "type": "Evade"
+      },
       "type": "Barrel Roll"
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEAggressor.png",
   "pilots": [
     {
-      "name": "“Double Edge”",
+      "name": "\u201cDouble Edge\u201d",
       "caption": "Contingency Planner",
       "initiative": 2,
       "limited": 1,
-      "cost": 4,
-      "loadout": 13,
+      "cost": 3,
+      "loadout": 11,
       "xws": "doubleedge",
       "ability": "After you perform a [Turret] or [Missile] attack that misses, you may perform a bonus attack using a different weapon.",
       "image": "https://infinitearenas.com/xw2/images/pilots/doubleedge.png",
@@ -59,7 +83,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/doubleedge.png",
       "standard": false,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -67,7 +93,7 @@
       "caption": "Innate Deadeye",
       "initiative": 4,
       "limited": 1,
-      "cost": 5,
+      "cost": 4,
       "loadout": 19,
       "xws": "lieutenantkestal",
       "ability": "While you perform an attack, after the defender rolls defense dice, you may spend 1 focus token to cancel all of the defender's blank/[Focus] results.",
@@ -84,7 +110,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantkestal.png",
       "standard": false,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
@@ -92,31 +120,46 @@
       "initiative": 3,
       "limited": 0,
       "cost": 4,
-      "loadout": 12,
+      "loadout": 14,
       "xws": "onyxsquadronscout",
       "text": "Designed for extended engagements, the TIE/ag is flown primarily by elite pilots trained to leverage both its unique weapons loadout and its maneuverability to full effect.",
       "image": "https://infinitearenas.com/xw2/images/pilots/onyxsquadronscout.png",
-      "slots": ["Talent", "Turret", "Missile", "Gunner"],
+      "slots": [
+        "Talent",
+        "Turret",
+        "Missile",
+        "Gunner",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/onyxsquadronscout.png",
       "standard": false,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
       "name": "Sienar Specialist",
       "initiative": 2,
       "limited": 0,
-      "cost": 4,
-      "loadout": 8,
+      "cost": 3,
+      "loadout": 5,
       "xws": "sienarspecialist",
       "text": "During the development of the TIE aggressor, Sienar Fleet Systems valued performance and versatility over raw cost efficiency.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sienarspecialist.png",
-      "slots": ["Turret", "Missile", "Modification", "Gunner"],
+      "slots": [
+        "Turret",
+        "Missile",
+        "Modification",
+        "Gunner"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sienarspecialist.png",
       "standard": false,
       "extended": true,
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     }
   ]

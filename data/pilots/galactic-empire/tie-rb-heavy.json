@@ -22,21 +22,48 @@
     "3RR",
     "4FW"
   ],
-  "dialCodes": ["Trb"],
+  "dialCodes": [
+    "Trb"
+  ],
   "faction": "galacticempire",
   "stats": [
-    { "arc": "Single Turret Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 1 },
-    { "type": "hull", "value": 8 }
+    {
+      "arc": "Single Turret Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 1
+    },
+    {
+      "type": "hull",
+      "value": 8
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Reinforce" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "Red", "type": "Barrel Roll" },
     {
       "difficulty": "White",
-      "linked": { "difficulty": "Red", "type": "Calculate" },
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Reinforce"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Barrel Roll"
+    },
+    {
+      "difficulty": "White",
+      "linked": {
+        "difficulty": "Red",
+        "type": "Calculate"
+      },
       "type": "Rotate Arc"
     }
   ],
@@ -44,9 +71,13 @@
     {
       "name": "Carida Academy Cadet",
       "cost": 5,
-      "loadout": 8,
+      "loadout": 18,
       "initiative": 1,
-      "slots": ["Cannon", "Cannon", "Configuration"],
+      "slots": [
+        "Cannon",
+        "Cannon",
+        "Configuration"
+      ],
       "xws": "caridaacademycadet",
       "shipAbility": {
         "name": "Rotating Cannons",
@@ -58,15 +89,22 @@
       "limited": 0,
       "image": "https://infinitearenas.com/xw2/images/pilots/caridaacademycadet.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/caridaacademycadet.png",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
       "name": "Onyx Squadron Sentry",
       "cost": 5,
-      "loadout": 7,
+      "loadout": 17,
       "initiative": 3,
-      "slots": ["Cannon", "Cannon", "Modification", "Configuration"],
+      "slots": [
+        "Cannon",
+        "Cannon",
+        "Modification",
+        "Configuration"
+      ],
       "xws": "onyxsquadronsentry",
       "shipAbility": {
         "name": "Rotating Cannons",
@@ -74,18 +112,20 @@
       },
       "standard": true,
       "extended": true,
-      "text": "The TIE/rb heavy, sometimes called the “brute”, is designed for operational flexibility. Its heavy armor and capacity to house an integrated MGK-300 droid co-pilot make it an excellent patrol craft.",
+      "text": "The TIE/rb heavy, sometimes called the \u201cbrute\u201d, is designed for operational flexibility. Its heavy armor and capacity to house an integrated MGK-300 droid co-pilot make it an excellent patrol craft.",
       "limited": 0,
       "image": "https://infinitearenas.com/xw2/images/pilots/onyxsquadronsentry.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/onyxsquadronsentry.png",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
-      "name": "“Rampage”",
+      "name": "\u201cRampage\u201d",
       "caption": "Implacable Pursuer",
       "cost": 4,
-      "loadout": 10,
+      "loadout": 12,
       "initiative": 4,
       "limited": 1,
       "slots": [
@@ -106,14 +146,16 @@
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/rampage.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rampage.png",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
       "name": "Lyttan Dree",
       "caption": "Onyx 2",
-      "cost": 5,
-      "loadout": 14,
+      "cost": 4,
+      "loadout": 6,
       "initiative": 3,
       "limited": 1,
       "slots": [
@@ -134,14 +176,16 @@
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/lyttandree.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lyttandree.png",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     },
     {
       "name": "Flight Leader Ubbel",
       "caption": "Onyx Leader",
-      "cost": 5,
-      "loadout": 12,
+      "cost": 4,
+      "loadout": 8,
       "initiative": 5,
       "limited": 1,
       "slots": [
@@ -163,7 +207,9 @@
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/flightleaderubbel.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/flightleaderubbel.png",
-      "keywords": ["TIE"],
+      "keywords": [
+        "TIE"
+      ],
       "epic": true
     }
   ],

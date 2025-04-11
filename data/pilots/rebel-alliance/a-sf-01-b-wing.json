@@ -21,22 +21,46 @@
     "3NR",
     "4FR"
   ],
-  "dialCodes": ["BW"],
+  "dialCodes": [
+    "BW"
+  ],
   "faction": "rebelalliance",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 1 },
-    { "type": "hull", "value": 4 },
-    { "type": "shields", "value": 4 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 1
+    },
+    {
+      "type": "hull",
+      "value": 4
+    },
+    {
+      "type": "shields",
+      "value": 4
+    }
   ],
   "actions": [
     {
       "difficulty": "White",
-      "linked": { "difficulty": "Red", "type": "Barrel Roll" },
+      "linked": {
+        "difficulty": "Red",
+        "type": "Barrel Roll"
+      },
       "type": "Focus"
     },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "White", "type": "Barrel Roll" }
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "type": "Barrel Roll"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_B-wing.png",
   "pilots": [
@@ -44,16 +68,24 @@
       "name": "Blade Squadron Veteran",
       "initiative": 3,
       "limited": 0,
-      "cost": 4,
-      "loadout": 4,
+      "cost": 5,
+      "loadout": 17,
       "xws": "bladesquadronveteran",
       "text": "A unique gyrostabilization system surrounds the B-wing's cockpit, ensuring that the pilot always remains stationary during flight.",
       "image": "https://infinitearenas.com/xw2/images/pilots/bladesquadronveteran.png",
-      "slots": ["Sensor", "Cannon", "Cannon", "Torpedo", "Configuration"],
+      "slots": [
+        "Sensor",
+        "Cannon",
+        "Cannon",
+        "Torpedo",
+        "Configuration"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bladesquadronveteran.png",
       "standard": true,
       "extended": true,
-      "keywords": ["B-wing"],
+      "keywords": [
+        "B-wing"
+      ],
       "epic": true
     },
     {
@@ -61,15 +93,23 @@
       "initiative": 2,
       "limited": 0,
       "cost": 4,
-      "loadout": 4,
+      "loadout": 8,
       "xws": "bluesquadronpilot",
       "text": "Due to its heavy weapons array and resilient shielding, the B-wing has solidified itself as the Rebel Alliance's most innovative assault fighter.",
       "image": "https://infinitearenas.com/xw2/images/pilots/bluesquadronpilot.png",
-      "slots": ["Sensor", "Cannon", "Cannon", "Device", "Configuration"],
+      "slots": [
+        "Sensor",
+        "Cannon",
+        "Cannon",
+        "Payload",
+        "Configuration"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronpilot.png",
       "standard": true,
       "extended": true,
-      "keywords": ["B-wing"],
+      "keywords": [
+        "B-wing"
+      ],
       "epic": true
     },
     {
@@ -78,7 +118,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 5,
-      "loadout": 12,
+      "loadout": 13,
       "xws": "braylenstramm",
       "ability": "While you defend or perform an attack, if you are stressed, you may reroll up to 2 of your dice.",
       "image": "https://infinitearenas.com/xw2/images/pilots/braylenstramm.png",
@@ -89,13 +129,15 @@
         "Cannon",
         "Torpedo",
         "Modification",
-        "Device",
+        "Payload",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/braylenstramm.png",
       "standard": true,
       "extended": true,
-      "keywords": ["B-wing"],
+      "keywords": [
+        "B-wing"
+      ],
       "epic": true
     },
     {
@@ -103,8 +145,8 @@
       "caption": "Blue Five",
       "initiative": 4,
       "limited": 1,
-      "cost": 5,
-      "loadout": 14,
+      "cost": 4,
+      "loadout": 5,
       "xws": "tennumb",
       "ability": "While you defend or perform an attack, you may spend 1 stress token to change all of your [Focus] results to [Evade] or [Hit] results.",
       "image": "https://infinitearenas.com/xw2/images/pilots/tennumb.png",
@@ -115,13 +157,15 @@
         "Cannon",
         "Torpedo",
         "Modification",
-        "Device",
+        "Payload",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tennumb.png",
       "standard": true,
       "extended": true,
-      "keywords": ["B-wing"],
+      "keywords": [
+        "B-wing"
+      ],
       "epic": true
     },
     {
@@ -139,15 +183,17 @@
         "Cannon",
         "Torpedo",
         "Modification",
-        "Device",
+        "Payload",
         "Configuration"
       ],
       "ability": "At the start of the Engagement Phase, you must transfer 1 of your stress tokens to another friendly ship at range 0-2.",
       "cost": 4,
-      "loadout": 11,
+      "loadout": 7,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ginamoonsong.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/ginamoonsong.png",
-      "keywords": ["B-wing"],
+      "keywords": [
+        "B-wing"
+      ],
       "epic": true
     },
     {
@@ -158,7 +204,10 @@
       "caption": "Phoenix Leader",
       "standard": true,
       "extended": true,
-      "keywords": ["B-wing", "Spectre"],
+      "keywords": [
+        "B-wing",
+        "Spectre"
+      ],
       "cost": 5,
       "loadout": 14,
       "slots": [
@@ -168,7 +217,7 @@
         "Cannon",
         "Torpedo",
         "Missile",
-        "Device",
+        "Payload",
         "Modification",
         "Title",
         "Configuration"
@@ -187,7 +236,7 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 10,
+      "loadout": 12,
       "slots": [
         "Talent",
         "Sensor",
@@ -195,11 +244,13 @@
         "Cannon",
         "Missile",
         "Modification",
-        "Device",
+        "Payload",
         "Configuration"
       ],
-      "ability": "After you barrel roll, you may choose 1 friendly ship that is not stressed at range 0-1. That ship gains 1 stress token, then you rotate 180°.",
-      "keywords": ["B-wing"],
+      "ability": "After you barrel roll, you may choose 1 friendly ship that is not stressed at range 0-1. That ship gains 1 stress token, then you rotate 180\u00b0.",
+      "keywords": [
+        "B-wing"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/netrempollard.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/netrempollard.png",
       "epic": true
@@ -216,20 +267,52 @@
         "name": "Gyro-Cockpit",
         "text": "After you gain a stress token, you may spend 2 [Charge] to gain an evade token. When you drop a device, you may spend 1 [Charge] to set the template with its middle line aligned with the hashmark on your ship's left or right side instead of your rear guides."
       },
-      "charges": { "value": 2, "recovers": 1 },
+      "charges": {
+        "value": 2,
+        "recovers": 1
+      },
       "shipActions": [
-        { "difficulty": "White", "type": "Focus", "linked": { "difficulty": "Red", "type": "Barrel Roll" } },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Barrel Roll", "linked": { "difficulty": "Red", "type": "Lock" } },
-        { "difficulty": "Red", "type": "Reload"}
+        {
+          "difficulty": "White",
+          "type": "Focus",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Barrel Roll"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Barrel Roll",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Lock"
+          }
+        },
+        {
+          "difficulty": "Red",
+          "type": "Reload"
+        }
       ],
-      "standardLoadout": ["itsatrap-battleoverendor", "partinggift-battleoverendor", "protonrockets", "protonbombs"],
-      "keywords": ["B-wing"],
+      "standardLoadout": [
+        "itsatrap-battleoverendor",
+        "partinggift-battleoverendor",
+        "protonrockets",
+        "protonbombs"
+      ],
+      "keywords": [
+        "B-wing"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/adonfox-battleoverendor.png",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/adonfox-battleoverendor.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Gina Moonsong",
@@ -237,32 +320,77 @@
       "xws": "ginamoonsong-battleoverendor",
       "initiative": 5,
       "limited": 1,
-      "cost": 5,
+      "cost": 6,
       "ability": "At the start of the Engagement Phase, if a friendly Braylen Stramm ship at range 0-2 is stressed, you may acquire a lock.",
       "shipAbility": {
         "name": "Gyro-Cockpit",
         "text": "After you gain a stress token, you may spend 2 [Charge] to gain an evade token. When you drop a device, you may spend 1 [Charge] to set the template with its middle line aligned with the hashmark on your ship's left or right side instead of your rear guides."
       },
       "shipStats": [
-        { "arc": "Front Arc", "type": "attack", "value": 3 },
-        { "type": "agility", "value": 1 },
-        { "type": "hull", "value": 4 },
-        { "type": "shields", "value": 5 }
+        {
+          "arc": "Front Arc",
+          "type": "attack",
+          "value": 3
+        },
+        {
+          "type": "agility",
+          "value": 1
+        },
+        {
+          "type": "hull",
+          "value": 4
+        },
+        {
+          "type": "shields",
+          "value": 5
+        }
       ],
-      "charges": { "value": 2, "recovers": 1 },
+      "charges": {
+        "value": 2,
+        "recovers": 1
+      },
       "shipActions": [
-        { "difficulty": "White", "type": "Focus", "linked": { "difficulty": "Red", "type": "Barrel Roll" } },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Barrel Roll", "linked": { "difficulty": "Red", "type": "Lock" } },
-        { "difficulty": "Red", "type": "Reload"}
+        {
+          "difficulty": "White",
+          "type": "Focus",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Barrel Roll"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Barrel Roll",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Lock"
+          }
+        },
+        {
+          "difficulty": "Red",
+          "type": "Reload"
+        }
       ],
-      "standardLoadout": ["itsatrap-battleoverendor", "juke", "protontorpedoes", "ionbombs"],
-      "keywords": ["B-wing"],
+      "standardLoadout": [
+        "itsatrap-battleoverendor",
+        "juke",
+        "protontorpedoes",
+        "ionbombs"
+      ],
+      "keywords": [
+        "B-wing"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ginamoonsong-battleoverendor.png",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/ginamoonsong-battleoverendor.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Braylen Stramm",
@@ -270,32 +398,77 @@
       "xws": "braylenstramm-battleoverendor",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
+      "cost": 5,
       "ability": "At the start of the Engagement Phase, if a friendly Gina Moonsong ship at range 0-2 is stressed, you may gain a focus token.",
       "shipAbility": {
         "name": "Gyro-Cockpit",
         "text": "After you gain a stress token, you may spend 2 [Charge] to gain an evade token. When you drop a device, you may spend 1 [Charge] to set the template with its middle line aligned with the hashmark on your ship's left or right side instead of your rear guides."
       },
       "shipStats": [
-        { "arc": "Front Arc", "type": "attack", "value": 3 },
-        { "type": "agility", "value": 1 },
-        { "type": "hull", "value": 4 },
-        { "type": "shields", "value": 5 }
+        {
+          "arc": "Front Arc",
+          "type": "attack",
+          "value": 3
+        },
+        {
+          "type": "agility",
+          "value": 1
+        },
+        {
+          "type": "hull",
+          "value": 4
+        },
+        {
+          "type": "shields",
+          "value": 5
+        }
       ],
-      "charges": { "value": 2, "recovers": 1 },
+      "charges": {
+        "value": 2,
+        "recovers": 1
+      },
       "shipActions": [
-        { "difficulty": "White", "type": "Focus", "linked": { "difficulty": "Red", "type": "Barrel Roll" } },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Barrel Roll", "linked": { "difficulty": "Red", "type": "Lock" } },
-        { "difficulty": "Red", "type": "Reload"}
+        {
+          "difficulty": "White",
+          "type": "Focus",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Barrel Roll"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Barrel Roll",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Lock"
+          }
+        },
+        {
+          "difficulty": "Red",
+          "type": "Reload"
+        }
       ],
-      "standardLoadout": ["itsatrap-battleoverendor", "homingmissiles", "protonbombs", "delayedfuses"],
-      "keywords": ["B-wing"],
+      "standardLoadout": [
+        "itsatrap-battleoverendor",
+        "homingmissiles",
+        "protonbombs",
+        "delayedfuses"
+      ],
+      "keywords": [
+        "B-wing"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/braylenstramm-battleoverendor.png",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/braylenstramm-battleoverendor.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "loadout": 0,
+      "slots": []
     }
   ]
 }

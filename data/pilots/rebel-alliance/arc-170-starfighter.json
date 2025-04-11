@@ -19,19 +19,47 @@
     "4FR",
     "4KR"
   ],
-  "dialCodes": ["AR"],
+  "dialCodes": [
+    "AR"
+  ],
   "faction": "rebelalliance",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "arc": "Rear Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 1 },
-    { "type": "hull", "value": 6 },
-    { "type": "shields", "value": 3 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "arc": "Rear Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 1
+    },
+    {
+      "type": "hull",
+      "value": 6
+    },
+    {
+      "type": "shields",
+      "value": 3
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "Red", "type": "Barrel Roll" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Barrel Roll"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_Arc-170.png",
   "pilots": [
@@ -41,7 +69,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 4,
-      "loadout": 7,
+      "loadout": 3,
       "xws": "garvendreis",
       "ability": "After you spend a focus token, you may choose 1 friendly ship at range 1-3. That ship gains 1 focus token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/garvendreis.png",
@@ -64,7 +92,7 @@
       "initiative": 3,
       "limited": 1,
       "cost": 4,
-      "loadout": 9,
+      "loadout": 7,
       "xws": "ibtisam",
       "ability": "After you fully execute a maneuver, if you are stressed, you may roll 1 attack die. On a [Hit] or [Critical Hit] result, remove 1 stress token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/ibtisam.png",
@@ -86,7 +114,7 @@
       "initiative": 5,
       "limited": 1,
       "cost": 5,
-      "loadout": 8,
+      "loadout": 12,
       "xws": "norrawexley",
       "ability": "While you defend, if there is an enemy ship at range 0-1, add 1 [Evade] result to your dice results.",
       "image": "https://infinitearenas.com/xw2/images/pilots/norrawexley.png",
@@ -108,8 +136,8 @@
       "caption": "Green Four",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 8,
+      "cost": 5,
+      "loadout": 15,
       "xws": "sharabey",
       "ability": "While you defend or perform a primary attack, you may spend 1 lock you have on the enemy ship to add 1 [Focus] result to your dice results.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sharabey.png",

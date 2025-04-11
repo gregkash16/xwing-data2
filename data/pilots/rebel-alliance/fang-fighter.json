@@ -21,24 +21,48 @@
     "4KR",
     "5FW"
   ],
-  "dialCodes": ["Fng"],
+  "dialCodes": [
+    "Fng"
+  ],
   "faction": "rebelalliance",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 3 },
-    { "type": "hull", "value": 4 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 3
+    },
+    {
+      "type": "hull",
+      "value": 4
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
     {
       "difficulty": "White",
-      "linked": { "difficulty": "Red", "type": "Focus" },
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "linked": {
+        "difficulty": "Red",
+        "type": "Focus"
+      },
       "type": "Barrel Roll"
     },
     {
       "difficulty": "White",
-      "linked": { "difficulty": "Red", "type": "Focus" },
+      "linked": {
+        "difficulty": "Red",
+        "type": "Focus"
+      },
       "type": "Boost"
     }
   ],
@@ -50,7 +74,7 @@
       "initiative": 6,
       "limited": 1,
       "cost": 5,
-      "loadout": 9,
+      "loadout": 8,
       "xws": "fennrau-fangfighter",
       "ability": "Before a friendly ship at range 1-2 engages, if there is an enemy ship in its [Front Arc] at range 1, that friendly ship may remove 1 non-lock red token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/fennrau-rebel-fang.png",
@@ -58,20 +82,28 @@
         "name": "Concordia Faceoff",
         "text": "While you defend, if the attack range is 1 and you are in the attacker's [Front Arc], change 1 result to an [Evade] result."
       },
-      "slots": ["Talent", "Talent", "Torpedo", "Modification", "Modification"],
+      "slots": [
+        "Talent",
+        "Talent",
+        "Torpedo",
+        "Modification",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/fennrau-rebel-fang.png",
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Mandalorian"]
+      "keywords": [
+        "Mandalorian"
+      ]
     },
     {
       "name": "Bodica Venj",
       "caption": "Wrathful Warrior",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 7,
+      "cost": 5,
+      "loadout": 16,
       "xws": "bodicavenj",
       "ability": "After another friendly ship defends, if you are not depleted, you may perform a bonus primary attack against the attacker. If you do, after performing that attack, gain 1 deplete token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/bodicavenj.png",
@@ -79,12 +111,20 @@
         "name": "Concordia Faceoff",
         "text": "While you defend, if the attack range is 1 and you are in the attacker's [Front Arc], change 1 result to an [Evade] result."
       },
-      "slots": ["Talent", "Talent", "Torpedo", "Modification", "Modification"],
+      "slots": [
+        "Talent",
+        "Talent",
+        "Torpedo",
+        "Modification",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bodicavenj.png",
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Mandalorian"]
+      "keywords": [
+        "Mandalorian"
+      ]
     },
     {
       "name": "Dirk Ullodin",
@@ -100,12 +140,18 @@
         "name": "Concordia Faceoff",
         "text": "While you defend, if the attack range is 1 and you are in the attacker's [Front Arc], change 1 result to an [Evade] result."
       },
-      "slots": ["Torpedo", "Modification", "Modification"],
+      "slots": [
+        "Torpedo",
+        "Modification",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dirkullodin.png",
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Mandalorian"]
+      "keywords": [
+        "Mandalorian"
+      ]
     },
     {
       "name": "Clan Wren Volunteer",
@@ -121,12 +167,19 @@
         "name": "Concordia Faceoff",
         "text": "While you defend, if the attack range is 1 and you are in the attacker's [Front Arc], change 1 result to an [Evade] result."
       },
-      "slots": ["Talent", "Torpedo", "Modification", "Modification"],
+      "slots": [
+        "Talent",
+        "Torpedo",
+        "Modification",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/clanwrenvolunteer.png",
       "standard": true,
       "extended": true,
       "epic": true,
-      "keywords": ["Mandalorian"]
+      "keywords": [
+        "Mandalorian"
+      ]
     }
   ]
 }

@@ -8,12 +8,16 @@
         "title": "Agile Gunner",
         "type": "Gunner",
         "ability": "During the End Phase, you may rotate your [Single Turret Arc] indicator.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/agilegunner.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/agilegunner.png"
       }
     ],
-    "cost": { "value": 1 },
+    "cost": {
+      "value": 4
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -28,13 +32,24 @@
         "type": "Gunner",
         "ability": "While you perform an attack, you may change 1 [Hit] result to a [Critical Hit] result for each stress token the defender has.",
         "image": "https://infinitearenas.com/xw2/images/upgrades/bt1.png",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/bt1.png"
       }
     ],
-    "cost": { "value": 2 },
+    "cost": {
+      "value": 2
+    },
     "restrictions": [
-      { "factions": ["scumandvillainy"], "names": ["Darth Vader"] }
+      {
+        "factions": [
+          "scumandvillainy"
+        ],
+        "names": [
+          "Darth Vader"
+        ]
+      }
     ],
     "standard": true,
     "extended": true,
@@ -49,13 +64,23 @@
         "title": "Bistan",
         "type": "Gunner",
         "ability": "After you perform a primary attack, if you are focused, you may perform a bonus [Single Turret Arc] attack against a ship you have not already attacked this round.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/bistan.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/bistan.png"
       }
     ],
-    "cost": { "value": 8 },
-    "restrictions": [{ "factions": ["rebelalliance"] }],
+    "cost": {
+      "value": 12
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "rebelalliance"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -70,12 +95,22 @@
         "type": "Gunner",
         "ability": "After you perform a primary attack that misses, if you are not stressed, you must receive 1 stress token to perform a bonus primary attack against the same target.",
         "image": "https://infinitearenas.com/xw2/images/upgrades/bossk.png",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/bossk.png"
       }
     ],
-    "cost": { "value": 6 },
-    "restrictions": [{ "factions": ["scumandvillainy"] }],
+    "cost": {
+      "value": 4
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "scumandvillainy"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -90,13 +125,26 @@
         "type": "Gunner",
         "ability": "After you defend, if the attacker is in your firing arc, you may spend 1 [Charge]. If you do, roll 1 attack die unless the attacker chooses to remove 1 green token. On a [Hit] or [Critical Hit] result, the attacker suffers 1 [Hit] damage.",
         "image": "https://infinitearenas.com/xw2/images/upgrades/dengar.png",
-        "slots": ["Gunner"],
-        "charges": { "value": 1, "recovers": 1 },
+        "slots": [
+          "Gunner"
+        ],
+        "charges": {
+          "value": 1,
+          "recovers": 1
+        },
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/dengar.png"
       }
     ],
-    "cost": { "value": 6 },
-    "restrictions": [{ "factions": ["scumandvillainy"] }],
+    "cost": {
+      "value": 6
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "scumandvillainy"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -111,13 +159,26 @@
         "type": "Gunner",
         "ability": "After you perform a primary attack, you may spend 1 [Force] to perform a bonus [Single Turret Arc] attack from a [Single Turret Arc] you have not attacked from this round. If you do and you are stressed, you may reroll 1 attack die.",
         "image": "https://infinitearenas.com/xw2/images/upgrades/ezrabridger.png",
-        "slots": ["Gunner"],
-        "force": { "value": 1, "recovers": 1 },
+        "slots": [
+          "Gunner"
+        ],
+        "force": {
+          "value": 1,
+          "recovers": 1
+        },
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/ezrabridger.png"
       }
     ],
-    "cost": { "value": 9 },
-    "restrictions": [{ "factions": ["rebelalliance"] }],
+    "cost": {
+      "value": 9
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "rebelalliance"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -132,13 +193,26 @@
         "type": "Gunner",
         "ability": "While you perform an attack, you may spend 1 [Force] to change 1 of your [Focus] results to a [Critical Hit] result.",
         "image": "https://infinitearenas.com/xw2/images/upgrades/fifthbrother.png",
-        "slots": ["Gunner"],
-        "force": { "value": 1, "recovers": 1 },
+        "slots": [
+          "Gunner"
+        ],
+        "force": {
+          "value": 1,
+          "recovers": 1
+        },
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/fifthbrother.png"
       }
     ],
-    "cost": { "value": 12 },
-    "restrictions": [{ "factions": ["galacticempire"] }],
+    "cost": {
+      "value": 12
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticempire"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -153,13 +227,26 @@
         "type": "Gunner",
         "ability": "While you perform an attack, you may spend 1 [Charge] to change 1 [Hit] result to a [Critical Hit] result. While you defend, if your [Charge] is active, the attacker may change 1 [Hit] result to a [Critical Hit] result.",
         "image": "https://infinitearenas.com/xw2/images/upgrades/greedo.png",
-        "slots": ["Gunner"],
-        "charges": { "value": 1, "recovers": 1 },
+        "slots": [
+          "Gunner"
+        ],
+        "charges": {
+          "value": 1,
+          "recovers": 1
+        },
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/greedo.png"
       }
     ],
-    "cost": { "value": 1 },
-    "restrictions": [{ "factions": ["scumandvillainy"] }],
+    "cost": {
+      "value": 1
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "scumandvillainy"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -173,13 +260,23 @@
         "title": "Han Solo",
         "type": "Gunner",
         "ability": "During the Engagement Phase, at initiative 7, you may perform a [Single Turret Arc] attack. You cannot attack from that [Single Turret Arc] again this round.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/hansolo.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/hansolo.png"
       }
     ],
-    "cost": { "value": 10 },
-    "restrictions": [{ "factions": ["rebelalliance"] }],
+    "cost": {
+      "value": 10
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "rebelalliance"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -193,13 +290,23 @@
         "title": "Han Solo",
         "type": "Gunner",
         "ability": "Before you engage, you may perform a red [Focus] action.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/hansolo-gunner.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/hansolo-gunner.png"
       }
     ],
-    "cost": { "value": 9 },
-    "restrictions": [{ "factions": ["scumandvillainy"] }],
+    "cost": {
+      "value": 7
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "scumandvillainy"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -213,12 +320,16 @@
         "title": "Hotshot Gunner",
         "type": "Gunner",
         "ability": "While you perform a [Single Turret Arc] attack, after the Modify Defense Dice step, the defender removes 1 focus or calculate token.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/hotshotgunner.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/hotshotgunner.png"
       }
     ],
-    "cost": { "value": 6 },
+    "cost": {
+      "value": 5
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -232,14 +343,27 @@
         "title": "Luke Skywalker",
         "type": "Gunner",
         "ability": "At the start of the Engagement Phase, you may spend 1 [Force] and gain 1 deplete token to rotate your [Single Turret Arc] indicator.",
-        "slots": ["Gunner"],
-        "force": { "value": 1, "recovers": 1 },
+        "slots": [
+          "Gunner"
+        ],
+        "force": {
+          "value": 1,
+          "recovers": 1
+        },
         "image": "https://infinitearenas.com/xw2/images/upgrades/lukeskywalker.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/lukeskywalker.png"
       }
     ],
-    "cost": { "value": 12 },
-    "restrictions": [{ "factions": ["rebelalliance"] }],
+    "cost": {
+      "value": 12
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "rebelalliance"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -253,12 +377,16 @@
         "title": "Skilled Bombardier",
         "type": "Gunner",
         "ability": "If you would drop or launch a device, you may use a template of the same bearing with a speed 1 higher or lower.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/skilledbombardier.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/skilledbombardier.png"
       }
     ],
-    "cost": { "value": 2 },
+    "cost": {
+      "value": 2
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -272,15 +400,27 @@
         "title": "Special Forces Gunner",
         "type": "Gunner",
         "ability": "While you perform a primary [Front Arc] attack, if your [Single Turret Arc] is in your [Front Arc], you may roll 1 additional attack die. After you perform a primary [Front Arc] attack, if your [Single Turret Arc] is in your [Rear Arc], you may perform a bonus primary [Single Turret Arc] attack.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/specialforcesgunner.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/specialforcesgunner.png"
       }
     ],
-    "cost": { "value": 0 },
+    "cost": {
+      "value": 0
+    },
     "restrictions": [
-      { "factions": ["firstorder"] },
-      { "ships": ["tiesffighter"] }
+      {
+        "factions": [
+          "firstorder"
+        ]
+      },
+      {
+        "ships": [
+          "tiesffighter"
+        ]
+      }
     ],
     "standard": true,
     "extended": true,
@@ -295,13 +435,23 @@
         "title": "Veteran Tail Gunner",
         "type": "Gunner",
         "ability": "After you perform a primary [Front Arc] attack, you may perform a bonus primary [Rear Arc] attack.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/veterantailgunner.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/veterantailgunner.png"
       }
     ],
-    "cost": { "value": 5 },
-    "restrictions": [{ "arcs": ["Rear Arc"] }],
+    "cost": {
+      "value": 6
+    },
+    "restrictions": [
+      {
+        "arcs": [
+          "Rear Arc"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -315,13 +465,23 @@
         "title": "Veteran Turret Gunner",
         "type": "Gunner",
         "ability": "After you perform a primary attack, you may perform a bonus [Single Turret Arc] attack using a [Single Turret Arc] you did not already attack from this round.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/veteranturretgunner.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/veteranturretgunner.png"
       }
     ],
-    "cost": { "value": 3 },
-    "restrictions": [{ "action": { "type": "Rotate Arc" } }],
+    "cost": {
+      "value": 4
+    },
+    "restrictions": [
+      {
+        "action": {
+          "type": "Rotate Arc"
+        }
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -335,13 +495,23 @@
         "title": "Finn",
         "type": "Gunner",
         "ability": "While you defend or perform a primary attack, if the enemy ship is in your [Front Arc], you may add 1 blank result to your roll (this die can be rerolled or otherwise modified).",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/finn.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/finn.png"
       }
     ],
-    "cost": { "value": 9 },
-    "restrictions": [{ "factions": ["resistance"] }],
+    "cost": {
+      "value": 9
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "resistance"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -355,13 +525,23 @@
         "title": "Paige Tico",
         "type": "Gunner",
         "ability": "After you perform a primary attack, you may drop 1 bomb or rotate your [Single Turret Arc]. After you are destroyed, you may drop 1 bomb.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/paigetico.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/paigetico.png"
       }
     ],
-    "cost": { "value": 6 },
-    "restrictions": [{ "factions": ["resistance"] }],
+    "cost": {
+      "value": 6
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "resistance"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -375,14 +555,27 @@
         "title": "Rey",
         "type": "Gunner",
         "ability": "While you defend or perform an attack, if the enemy ship is in your [Single Turret Arc], you may spend 1 [Force] to change 1 of your blank results to a [Evade] or [Hit] result.",
-        "slots": ["Gunner"],
-        "force": { "value": 1, "recovers": 1 },
+        "slots": [
+          "Gunner"
+        ],
+        "force": {
+          "value": 1,
+          "recovers": 1
+        },
         "image": "https://infinitearenas.com/xw2/images/upgrades/rey-gunner.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/rey-gunner.png"
       }
     ],
-    "restrictions": [{ "factions": ["resistance"] }],
-    "cost": { "value": 10 },
+    "restrictions": [
+      {
+        "factions": [
+          "resistance"
+        ]
+      }
+    ],
+    "cost": {
+      "value": 14
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -395,15 +588,28 @@
       {
         "title": "Seventh Fleet Gunner",
         "type": "Gunner",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "ability": "While another friendly ship performs a primary attack, if the defender is in your firing arc, you may spend 1 [Charge]. If you do, the attacker rolls 1 additional die, to a maximum of 4. During the System Phase, you may gain 1 disarm token to recover 1 [Charge].",
-        "charges": { "value": 1, "recovers": 0 },
+        "charges": {
+          "value": 1,
+          "recovers": 0
+        },
         "image": "https://infinitearenas.com/xw2/images/upgrades/seventhfleetgunner.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/seventhfleetgunner.png"
       }
     ],
-    "restrictions": [{ "factions": ["galacticrepublic"] }],
-    "cost": { "value": 13 },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticrepublic"
+        ]
+      }
+    ],
+    "cost": {
+      "value": 9
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -416,14 +622,24 @@
       {
         "title": "Clone Commander Cody",
         "type": "Gunner",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "ability": "After you perform an attack that missed, if 1 or more [Hit]/[Critical Hit] results were neutralized, the defender gains 1 strain token.",
         "image": "https://infinitearenas.com/xw2/images/upgrades/clonecommandercody.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/clonecommandercody.png"
       }
     ],
-    "restrictions": [{ "factions": ["galacticrepublic"] }],
-    "cost": { "value": 4 },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticrepublic"
+        ]
+      }
+    ],
+    "cost": {
+      "value": 4
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -436,13 +652,19 @@
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/ahsokatano.png",
         "image": "https://infinitearenas.com/xw2/images/upgrades/ahsokatano.png",
         "ability": "After you execute a maneuver, you may spend 1 [Force] and choose a friendly ship at range 1-3 in your firing arc. If you do, it may perform a red [Focus] action, even while stressed.",
-        "slots": ["Gunner"],
-        "force": { "value": 1, "recovers": 1 },
+        "slots": [
+          "Gunner"
+        ],
+        "force": {
+          "value": 1,
+          "recovers": 1
+        },
         "type": "Gunner"
       }
     ],
-    "cost": { "value": 12 },
-    "restrictions": [{ "factions": ["galacticrepublic"] }],
+    "cost": {
+      "value": 12
+    },
     "limited": 1,
     "xws": "ahsokatano",
     "standard": true,
@@ -454,15 +676,18 @@
       {
         "title": "Clone Captain Rex",
         "type": "Gunner",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/clonecaptainrex.png",
         "image": "https://infinitearenas.com/xw2/images/upgrades/clonecaptainrex.png",
         "ability": "While you perform an attack, you may spend 1 [Focus] result. If you do, each friendly ship that has the defender in its [Bullseye Arc] may gain 1 strain to perform a [Focus] action."
       }
     ],
     "name": "Clone Captain Rex",
-    "cost": { "value": 2 },
-    "restrictions": [{ "factions": ["galacticrepublic"] }],
+    "cost": {
+      "value": 2
+    },
     "limited": 1,
     "xws": "clonecaptainrex",
     "standard": true,
@@ -474,14 +699,18 @@
       {
         "title": "Suppressive Gunner",
         "type": "Gunner",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/suppressivegunner.png",
         "image": "https://infinitearenas.com/xw2/images/upgrades/suppressivegunner.png",
         "ability": "While you perform an attack, you may spend 1 [Focus] result. If you do, the defender gains 1 deplete token unless it chooses to suffer 1 [Hit] damage."
       }
     ],
     "name": "Suppressive Gunner",
-    "cost": { "value": 7 },
+    "cost": {
+      "value": 7
+    },
     "limited": 0,
     "xws": "suppressivegunner",
     "standard": true,
@@ -497,13 +726,16 @@
         "ability": "While you perform an attack, if there are no other ships in the attack arc, you may change 1 of your [Focus] results to a [Hit] result.",
         "title": "Boba Fett",
         "type": "Gunner",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/bobafett-gunner.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/bobafett-gunner.png"
       }
     ],
-    "cost": { "value": 2 },
-    "restrictions": [{ "factions": ["separatistalliance", "scumandvillainy"] }],
+    "cost": {
+      "value": 4
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -517,12 +749,16 @@
         "ability": "After you perform a special attack with the [Lock] requirement, you may acquire a lock on the defender.",
         "title": "Weapons Systems Officer",
         "type": "Gunner",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/weaponssystemsofficer.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/weaponssystemsofficer.png"
       }
     ],
-    "cost": { "value": 5 },
+    "cost": {
+      "value": 5
+    },
     "standard": true,
     "extended": true,
     "epic": true
@@ -536,33 +772,46 @@
         "ability": "After you perform a special attack, you may choose a number of friendly ships at range 0-3 of the defender up to the number of damage cards dealt to the defender during that attack. Each chosen ship may remove 1 strain or stress token.",
         "title": "Sabine Wren",
         "type": "Gunner",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/sabinewren-gunner.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/sabinewren-gunner.png"
       }
     ],
-    "cost": { "value": 2 },
-    "restrictions": [{ "factions": ["rebelalliance"] }],
+    "cost": {
+      "value": 2
+    },
     "standard": true,
     "extended": true,
     "epic": true
   },
   {
     "name": "DT-798",
-    "limited": 1,
+    "limited": 0,
     "xws": "dt798",
     "sides": [
       {
         "title": "DT-798",
         "type": "Gunner",
         "ability": "At the start of the Engagement Phase, you may choose a friendly ship in your firing arc. If you do, that ship gains 1 strain token. While you perform an attack, you may reroll up to 1 die for each ship in the attack arc with 1 or more non-lock red or orange tokens.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/dt798.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/dt798.png"
       }
     ],
-    "cost": { "value": 3 },
-    "restrictions": [{ "factions": ["firstorder"] }],
+    "cost": {
+      "value": 3
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "firstorder"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -576,14 +825,19 @@
         "title": "First Order Ordnance Tech",
         "type": "Gunner",
         "text": "The First Order trains its pilots and gunners to be fanatically loyal, prioritizing victory even over survival.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "grants": [
           {
             "type": "action",
             "value": {
               "type": "Reload",
               "difficulty": "White",
-              "linked": { "type": "Lock", "difficulty": "White" }
+              "linked": {
+                "type": "Lock",
+                "difficulty": "White"
+              }
             }
           }
         ],
@@ -591,8 +845,16 @@
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/firstorderordnancetech.png"
       }
     ],
-    "cost": { "value": 3 },
-    "restrictions": [{ "factions": ["firstorder"] }],
+    "cost": {
+      "value": 3
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "firstorder"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -606,15 +868,28 @@
         "title": "Gar Saxon",
         "type": "Gunner",
         "ability": "While you perform the [Lock] action, you can only choose an object in your [Front Arc] or [Rear Arc]. While you perform a primary attack, if the defender is in your [Front Arc] or [Rear Arc], you may remove 1 orange or red token from the defender to roll 1 additional die, to a maximum of 4.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/garsaxon-gunner.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/garsaxon-gunner.png"
       }
     ],
-    "cost": { "value": 6 },
+    "cost": {
+      "value": 6
+    },
     "restrictions": [
-      { "sizes": ["Large", "Huge"] },
-      { "factions": ["scumandvillainy"] }
+      {
+        "sizes": [
+          "Large",
+          "Huge"
+        ]
+      },
+      {
+        "factions": [
+          "scumandvillainy"
+        ]
+      }
     ],
     "standard": true,
     "extended": true,
@@ -629,14 +904,27 @@
         "title": "Tiber Saxon",
         "type": "Gunner",
         "ability": "After you perform an attack at attack range 1-2 that hits, if the defender has no faceup damage cards, you may spend 1 or more [Charge]. For each [Charge] you spend, the defender gains 1 strain token.",
-        "slots": ["Gunner"],
-        "charges": { "value": 2, "recovers": 1 },
+        "slots": [
+          "Gunner"
+        ],
+        "charges": {
+          "value": 2,
+          "recovers": 1
+        },
         "image": "https://infinitearenas.com/xw2/images/upgrades/tibersaxon.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/tibersaxon.png"
       }
     ],
-    "cost": { "value": 6 },
-    "restrictions": [{ "factions": ["galacticempire"] }],
+    "cost": {
+      "value": 6
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticempire"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -650,14 +938,23 @@
         "title": "Ursa Wren",
         "type": "Gunner",
         "ability": "After you acquire a lock on an enemy unit beyond range 2, if there are no friendly units at range 0-1 of the locked unit, gain 1 calculate token.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/ursawren-gunner.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/ursawren-gunner.png"
       }
     ],
-    "cost": { "value": 4 },
+    "cost": {
+      "value": 4
+    },
     "restrictions": [
-      { "factions": ["galacticrepublic", "separatistalliance"] }
+      {
+        "factions": [
+          "galacticrepublic",
+          "separatistalliance"
+        ]
+      }
     ],
     "standard": true,
     "extended": true,
@@ -672,13 +969,24 @@
         "title": "Migs Mayfeld",
         "type": "Gunner",
         "ability": "After you perform a [Front Arc] attack, you may perform a [Rear Arc] or [Single Turret Arc] attack as a bonus attack against a different target with 1 or more red or orange tokens.",
-        "slots": ["Gunner"],
+        "slots": [
+          "Gunner"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/migsmayfeld.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/migsmayfeld.png"
       }
     ],
-    "cost": { "value": 4 },
-    "restrictions": [{ "factions": ["galacticempire", "scumandvillainy"] }],
+    "cost": {
+      "value": 4
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticempire",
+          "scumandvillainy"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -692,7 +1000,128 @@
         "title": "Airen Cracken",
         "type": "Gunner",
         "ability": "After defending, if the attack hit, you may gain 1 deplete token to perform a bonus primary attack targeting the attacker.",
-        "slots": ["Gunner"]
+        "slots": [
+          "Gunner"
+        ]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "standardLoadoutOnly": true
+  },
+  {
+    "name": "First Order Ordnance Tech",
+    "limited": 0,
+    "xws": "firstorderordnancetech-evacuationofdqar",
+    "sides": [
+      {
+        "title": "First Order Ordnance Tech",
+        "type": "Gunner",
+        "ability": "After you gain a disarm token, gain 1 calculate token. While you have exactly 1 disarm token, you can still perform [front arc] primary attacks.",
+        "slots": [
+          "Gunner"
+        ]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "standardLoadoutOnly": true
+  },
+  {
+    "name": "Fennec Shand",
+    "limited": 1,
+    "xws": "fennecshand-armedanddangerous",
+    "sides": [
+      {
+        "title": "Fennec Shand",
+        "type": "Gunner",
+        "ability": "While you defend or perform an attack, if you have a lock on the enemy ship, the enemy ship rolls 1 fewer die",
+        "slots": [
+          "Gunner"
+        ]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "standardLoadoutOnly": true
+  },
+  {
+    "name": "Tobias Beckett",
+    "limited": 1,
+    "xws": "tobiasbeckett-armedanddangerous",
+    "sides": [
+      {
+        "title": "Tobias Beckett",
+        "type": "Gunner",
+        "ability": "While you perform an attack, if you are stressed, you may reroll up to 2 attack dice. Then suffer 1 [crit] damage if 1 or more of the rerolled results is a [crit] result.",
+        "slots": [
+          "Gunner"
+        ]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "standardLoadoutOnly": true
+  },
+  {
+    "name": "R2-G8",
+    "limited": 1,
+    "xws": "r2g8-armedanddangerous",
+    "sides": [
+      {
+        "title": "R2-G8",
+        "type": "Gunner",
+        "ability": "After you perform a primary attack that hits, you may spend 2 [charges] to choose an enemy ship at range 0-1 of the defender. If you do, that ship gains a strain token.",
+        "charges": {
+          "value": 2,
+          "recovers": 0
+        },
+        "slots": [
+          "Gunner"
+        ]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "standardLoadoutOnly": true
+  },
+  {
+    "name": "Paige Tico",
+    "limited": 1,
+    "xws": "paigetico-evacuationofdqar",
+    "sides": [
+      {
+        "title": "Paige Tico",
+        "type": "Gunner",
+        "ability": "While you have exactly 1 disarm token, you can still perform [single arc turret] attacks.\n\nAfter you perform an attack, you may drop a bomb or rotate your [single arc turret] indicator.",
+        "slots": [
+          "Gunner"
+        ]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "standardLoadoutOnly": true
+  },
+  {
+    "name": "Dedicated Gunners",
+    "limited": 0,
+    "xws": "dedicatedgunners-evacuationofdqar",
+    "sides": [
+      {
+        "title": "Dedicated Gunners",
+        "type": "Gunner",
+        "ability": "While you perform a primary attack, if the defender is in your [single rotating arc], you may spend 1 focus token to roll 1 additional attack die.\n\nAfter you perform a primary attack, you may perform a bonus [single rotating arc] attack using a [single rotating arc] you did not already attack from this round.",
+        "slots": [
+          "Gunner",
+          "Gunner"
+        ]
       }
     ],
     "standard": true,

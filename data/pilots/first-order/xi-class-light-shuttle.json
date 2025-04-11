@@ -19,19 +19,46 @@
     "3YR",
     "4FW"
   ],
-  "dialCodes": ["Xi"],
+  "dialCodes": [
+    "Xi"
+  ],
   "faction": "firstorder",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 5 },
-    { "type": "shields", "value": 2 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 5
+    },
+    {
+      "type": "shields",
+      "value": 2
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "Red", "type": "Lock" },
-    { "difficulty": "Red", "type": "Coordinate" },
-    { "difficulty": "White", "type": "Jam" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Coordinate"
+    },
+    {
+      "difficulty": "White",
+      "type": "Jam"
+    }
   ],
   "pilots": [
     {
@@ -39,8 +66,8 @@
       "caption": "Devious Provocateur",
       "xws": "agentterex",
       "initiative": 3,
-      "cost": 4,
-      "loadout": 13,
+      "cost": 3,
+      "loadout": 6,
       "slots": [
         "Talent",
         "Crew",
@@ -65,7 +92,7 @@
       "xws": "commandermalarus-xiclasslightshuttle",
       "initiative": 5,
       "cost": 4,
-      "loadout": 15,
+      "loadout": 8,
       "slots": [
         "Talent",
         "Crew",
@@ -88,8 +115,13 @@
       "xws": "firstordercourier",
       "initiative": 2,
       "cost": 4,
-      "loadout": 10,
-      "slots": ["Crew", "Modification", "Tech", "Tech"],
+      "loadout": 14,
+      "slots": [
+        "Crew",
+        "Modification",
+        "Tech",
+        "Tech"
+      ],
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/firstordercourier.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/firstordercourier.png",
@@ -108,7 +140,7 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 15,
+      "loadout": 12,
       "slots": [
         "Talent",
         "Talent",
@@ -129,17 +161,31 @@
       "limited": 1,
       "xws": "agenttierny",
       "ability": "Setup: After placing forces, you must assign the Broken Trust condition to an enemy ship.",
-      "conditions": ["brokentrust"],
+      "conditions": [
+        "brokentrust"
+      ],
       "standard": true,
       "extended": true,
       "shipActions": [
-        { "difficulty": "White", "type": "Focus" },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "Red", "type": "Coordinate" },
-        { "difficulty": "White", "type": "Jam" }
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "Red",
+          "type": "Coordinate"
+        },
+        {
+          "difficulty": "White",
+          "type": "Jam"
+        }
       ],
       "cost": 5,
-      "loadout": 15,
+      "loadout": 20,
       "slots": [
         "Talent",
         "Talent",

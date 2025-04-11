@@ -21,20 +21,51 @@
     "4FW",
     "4KR"
   ],
-  "dialCodes": ["FPC"],
+  "dialCodes": [
+    "FPC"
+  ],
   "faction": "scumandvillainy",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "arc": "Rear Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 6 },
-    { "type": "shields", "value": 4 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "arc": "Rear Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 6
+    },
+    {
+      "type": "shields",
+      "value": 4
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "Red", "type": "Reinforce" },
-    { "difficulty": "White", "type": "Boost" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Reinforce"
+    },
+    {
+      "difficulty": "White",
+      "type": "Boost"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_FIrespray.png",
   "pilots": [
@@ -43,8 +74,8 @@
       "caption": "Notorious Bounty Hunter",
       "initiative": 5,
       "limited": 1,
-      "cost": 9,
-      "loadout": 18,
+      "cost": 8,
+      "loadout": 13,
       "xws": "bobafett",
       "ability": "While you defend or perform an attack, you may reroll 1 of your dice for each enemy ship at range 0-1.",
       "image": "https://infinitearenas.com/xw2/images/pilots/bobafett.png",
@@ -52,8 +83,7 @@
         "Talent",
         "Cannon",
         "Missile",
-        "Crew",
-        "Device",
+        "Payload",
         "Illicit",
         "Modification",
         "Modification",
@@ -62,23 +92,33 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bobafett.png",
       "standard": true,
       "extended": true,
-      "keywords": ["Bounty Hunter"],
+      "keywords": [
+        "Bounty Hunter"
+      ],
       "epic": true
     },
     {
       "name": "Bounty Hunter",
       "initiative": 2,
       "limited": 0,
-      "cost": 7,
-      "loadout": 10,
+      "cost": 6,
+      "loadout": 16,
       "xws": "bountyhunter",
       "text": "The Firespray-class patrol craft is infamous for its association with the deadly bounty hunters Jango Fett and Boba Fett, who packed their craft with countless deadly armaments.",
       "image": "https://infinitearenas.com/xw2/images/pilots/bountyhunter.png",
-      "slots": ["Cannon", "Missile", "Device", "Illicit"],
+      "slots": [
+        "Cannon",
+        "Missile",
+        "Payload",
+        "Gunner",
+        "Illicit"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bountyhunter.png",
       "standard": true,
       "extended": true,
-      "keywords": ["Bounty Hunter"],
+      "keywords": [
+        "Bounty Hunter"
+      ],
       "epic": true
     },
     {
@@ -87,7 +127,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 7,
-      "loadout": 17,
+      "loadout": 14,
       "xws": "emonazzameen",
       "ability": "If you would drop a device using a [1 [Straight]] template, you may use the [3 [Turn Left]], [3 [Straight]], or [3 [Turn Right]] template instead.",
       "image": "https://infinitearenas.com/xw2/images/pilots/emonazzameen.png",
@@ -96,7 +136,7 @@
         "Cannon",
         "Missile",
         "Crew",
-        "Device",
+        "Payload",
         "Illicit",
         "Modification",
         "Title"
@@ -111,8 +151,8 @@
       "caption": "Captain of the Binayre Pirates",
       "initiative": 4,
       "limited": 1,
-      "cost": 7,
-      "loadout": 18,
+      "cost": 6,
+      "loadout": 6,
       "xws": "kathscarlet",
       "ability": "While you perform a primary attack, if there is at least 1 friendly non-limited ship at range 0 of the defender, roll 1 additional attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/kathscarlet.png",
@@ -121,7 +161,7 @@
         "Cannon",
         "Missile",
         "Crew",
-        "Device",
+        "Payload",
         "Illicit",
         "Modification",
         "Title"
@@ -137,7 +177,7 @@
       "initiative": 3,
       "limited": 1,
       "cost": 7,
-      "loadout": 16,
+      "loadout": 15,
       "xws": "koshkafrost",
       "ability": "While you defend or perform an attack, if the enemy ship is stressed, you may reroll 1 of your dice.",
       "image": "https://infinitearenas.com/xw2/images/pilots/koshkafrost.png",
@@ -146,7 +186,7 @@
         "Cannon",
         "Missile",
         "Crew",
-        "Device",
+        "Payload",
         "Illicit",
         "Modification",
         "Title"
@@ -154,7 +194,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/koshkafrost.png",
       "standard": true,
       "extended": true,
-      "keywords": ["Bounty Hunter"],
+      "keywords": [
+        "Bounty Hunter"
+      ],
       "epic": true
     },
     {
@@ -163,7 +205,7 @@
       "initiative": 3,
       "limited": 1,
       "cost": 7,
-      "loadout": 18,
+      "loadout": 20,
       "xws": "krassistrelix",
       "ability": "You can perform [Front Arc] special attacks from your [Rear Arc]. While you perform a special attack, you may reroll 1 attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/krassistrelix.png",
@@ -173,7 +215,7 @@
         "Cannon",
         "Missile",
         "Crew",
-        "Device",
+        "Payload",
         "Illicit",
         "Modification",
         "Title"
@@ -189,7 +231,7 @@
       "initiative": 1,
       "limited": 1,
       "cost": 7,
-      "loadout": 18,
+      "loadout": 10,
       "xws": "hondoohnaka",
       "ability": "Action: Choose 2 non-huge ships at range 0-3 of you that are not friendly to each other. Each chosen ship may perform an action that is on your action bar, even while stressed, in the order of your choice. Then, gain 1 calculate token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/hondoohnaka.png",
@@ -199,7 +241,7 @@
         "Cannon",
         "Missile",
         "Crew",
-        "Device",
+        "Payload",
         "Illicit",
         "Illicit",
         "Modification",
@@ -208,6 +250,37 @@
       "standard": true,
       "extended": true,
       "epic": true
+    },
+    {
+      "name": "Boba Fett",
+      "caption": "Armed and Dangerous",
+      "initiative": 5,
+      "limited": 1,
+      "cost": 7,
+      "loadout": 0,
+      "xws": "bobafett-armedanddangerous",
+      "ability": "After another friendly ship defends, if you have a lock on the attacker, you may perform a bonus attack against the attacker.",
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/bobafett-armedanddangerous.png",
+      "slots": [],
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bobafett-armedanddangerous.png",
+      "standard": "Yes",
+      "extended": "Yes",
+      "keywords": [
+        "Bounty Hunter"
+      ],
+      "standardLoadout": [
+        "homeingbeacon-armedanddangerous",
+        "fennecshand-armedanddangerous",
+        "seismiccharges",
+        "slavei-swz82"
+      ],
+      "actions": [
+        { "difficulty": "White", "type": "Focus" },
+        { "difficulty": "White", "type": "Lock" },
+        { "difficulty": "White", "type": "Boost", "linked" : {"difficulty" : "Red", "type" : "Lock"} }
+      ],
+      "epic": "Yes",
+      "subtitle": "Armed and Dangerous"
     }
   ]
 }

@@ -22,20 +22,50 @@
     "5FW",
     "5KR"
   ],
-  "dialCodes": ["D7A"],
+  "dialCodes": [
+    "D7A"
+  ],
   "faction": "galacticrepublic",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 3 },
-    { "type": "shields", "value": 3 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 3
+    },
+    {
+      "type": "shields",
+      "value": 3
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "Purple", "type": "Evade" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "White", "type": "Barrel Roll" },
-    { "difficulty": "White", "type": "Boost" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "Purple",
+      "type": "Evade"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "type": "Barrel Roll"
+    },
+    {
+      "difficulty": "White",
+      "type": "Boost"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_Delta-7.png",
   "pilots": [
@@ -50,14 +80,27 @@
         "text": "After you fully execute a maneuver, you may spend 1 [Force] to perform a [Boost] or [Barrel Roll] action."
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/jediknight-delta7baethersprite.png",
-      "force": { "value": 1, "recovers": 1, "side": ["light"] },
+      "force": {
+        "value": 1,
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
+      },
       "standard": true,
       "epic": true,
-      "cost": 6,
-      "slots": ["Force Power", "Astromech", "Modification"],
+      "cost": 5,
+      "slots": [
+        "Force Power",
+        "Astromech",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jediknight-delta7baethersprite.png",
-      "keywords": ["Jedi", "Light Side"],
-      "loadout": 3,
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "loadout": 9,
       "extended": true
     },
     {
@@ -72,20 +115,29 @@
         "text": "After you fully execute a maneuver, you may spend 1 [Force] to perform a [Boost] or [Barrel Roll] action."
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/obiwankenobi-delta7baethersprite.png",
-      "force": { "value": 3, "recovers": 1, "side": ["light"] },
+      "force": {
+        "value": 3,
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
+      },
       "standard": true,
       "epic": true,
-      "cost": 7,
+      "cost": 6,
       "slots": [
         "Force Power",
         "Force Power",
-        "Talent",
-        "Astromech",
-        "Modification"
+        "Modification",
+        "Modification",
+        "Astromech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/obiwankenobi-delta7baethersprite.png",
-      "keywords": ["Jedi", "Light Side"],
-      "loadout": 15,
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "loadout": 9,
       "extended": true
     },
     {
@@ -100,19 +152,28 @@
         "text": "After you fully execute a maneuver, you may spend 1 [Force] to perform a [Boost] or [Barrel Roll] action."
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/plokoon-delta7baethersprite.png",
-      "force": { "value": 2, "recovers": 1, "side": ["light"] },
+      "force": {
+        "value": 2,
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
+      },
       "standard": true,
       "epic": true,
-      "cost": 7,
+      "cost": 6,
       "slots": [
         "Force Power",
-        "Talent",
+        "Force Power",
         "Astromech",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/plokoon-delta7baethersprite.png",
-      "keywords": ["Jedi", "Light Side"],
-      "loadout": 19,
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "loadout": 15,
       "extended": true
     },
     {
@@ -127,14 +188,27 @@
         "text": "After you fully execute a maneuver, you may spend 1 [Force] to perform a [Boost] or [Barrel Roll] action."
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/saeseetiin-delta7baethersprite.png",
-      "force": { "value": 2, "recovers": 1, "side": ["light"] },
+      "force": {
+        "value": 2,
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
+      },
       "standard": false,
       "epic": true,
       "cost": 6,
-      "slots": ["Force Power", "Astromech", "Modification"],
+      "slots": [
+        "Force Power",
+        "Astromech",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/saeseetiin-delta7baethersprite.png",
-      "keywords": ["Jedi", "Light Side"],
-      "loadout": 9,
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "loadout": 6,
       "extended": true
     },
     {
@@ -149,14 +223,28 @@
         "text": "After you fully execute a maneuver, you may spend 1 [Force] to perform a [Boost] or [Barrel Roll] action."
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/macewindu-delta7baethersprite.png",
-      "force": { "value": 3, "recovers": 1, "side": ["light"] },
+      "force": {
+        "value": 3,
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
+      },
       "standard": true,
       "epic": true,
       "cost": 5,
-      "slots": ["Force Power", "Force Power", "Astromech", "Modification"],
+      "slots": [
+        "Force Power",
+        "Force Power",
+        "Astromech",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/macewindu-delta7baethersprite.png",
-      "keywords": ["Jedi", "Light Side"],
-      "loadout": 7,
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "loadout": 4,
       "extended": true
     },
     {
@@ -171,7 +259,13 @@
         "text": "After you fully execute a maneuver, you may spend 1 [Force] to perform a [Boost] or [Barrel Roll] action."
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/anakinskywalker-delta7baethersprite.png",
-      "force": { "value": 3, "recovers": 1, "side": ["light"] },
+      "force": {
+        "value": 3,
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
+      },
       "standard": true,
       "epic": true,
       "cost": 7,
@@ -179,17 +273,20 @@
       "slots": [
         "Force Power",
         "Force Power",
-        "Talent",
-        "Astromech",
-        "Modification"
+        "Modification",
+        "Modification",
+        "Astromech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/anakinskywalker-delta7baethersprite.png",
-      "keywords": ["Jedi", "Light Side"],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
       "extended": true
     },
     {
       "name": "Ahsoka Tano",
-      "caption": "“Snips”",
+      "caption": "\u201cSnips\u201d",
       "initiative": 3,
       "limited": 1,
       "xws": "ahsokatano-delta7baethersprite",
@@ -199,13 +296,26 @@
         "text": "After you fully execute a maneuver, you may spend 1 [Force] to perform a [Boost] or [Barrel Roll] action."
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/ahsokatano-delta7baethersprite.png",
-      "force": { "value": 2, "recovers": 1, "side": ["light"] },
+      "force": {
+        "value": 2,
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
+      },
       "standard": true,
       "epic": true,
-      "cost": 6,
-      "slots": ["Force Power", "Astromech", "Modification"],
+      "cost": 5,
+      "slots": [
+        "Force Power",
+        "Astromech",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ahsokatano-delta7baethersprite.png",
-      "keywords": ["Jedi", "Light Side"],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
       "loadout": 10,
       "extended": true
     },
@@ -221,14 +331,27 @@
         "text": "After you fully execute a maneuver, you may spend 1 [Force] to perform a [Boost] or [Barrel Roll] action."
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/barrissoffee-delta7baethersprite.png",
-      "force": { "value": 1, "recovers": 1, "side": ["light"] },
+      "force": {
+        "value": 1,
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
+      },
       "standard": true,
       "epic": true,
       "cost": 5,
-      "slots": ["Force Power", "Astromech", "Modification"],
+      "slots": [
+        "Force Power",
+        "Astromech",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/barrissoffee-delta7baethersprite.png",
-      "keywords": ["Jedi", "Light Side"],
-      "loadout": 10,
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "loadout": 12,
       "extended": true
     },
     {
@@ -243,14 +366,27 @@
         "text": "After you fully execute a maneuver, you may spend 1 [Force] to perform a [Boost] or [Barrel Roll] action."
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/luminaraunduli-delta7baethersprite.png",
-      "force": { "value": 2, "recovers": 1, "side": ["light"] },
+      "force": {
+        "value": 2,
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
+      },
       "standard": true,
       "epic": true,
-      "cost": 6,
-      "slots": ["Force Power", "Astromech", "Modification"],
+      "cost": 5,
+      "slots": [
+        "Force Power",
+        "Astromech",
+        "Modification"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/luminaraunduli-delta7baethersprite.png",
-      "keywords": ["Jedi", "Light Side"],
-      "loadout": 7,
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
+      "loadout": 8,
       "extended": true
     },
     {
@@ -264,15 +400,29 @@
         "name": "Fine-tuned Controls",
         "text": "After you fully execute a maneuver, you may spend 1 [Force] to perform a [Boost] or [Barrel Roll] action."
       },
-      "force": { "value": 2, "recovers": 1, "side": ["light"] },
+      "force": {
+        "value": 2,
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
+      },
       "standard": true,
       "extended": true,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/adigallia.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/adigallia-delta7baethersprite.png",
-      "cost": 7,
-      "loadout": 18,
-      "slots": ["Force Power", "Talent", "Astromech", "Modification"],
-      "keywords": ["Jedi", "Light Side"],
+      "cost": 6,
+      "loadout": 10,
+      "slots": [
+        "Force Power",
+        "Force Power",
+        "Astromech",
+        "Modification"
+      ],
+      "keywords": [
+        "Jedi",
+        "Light Side"
+      ],
       "epic": true
     }
   ]
