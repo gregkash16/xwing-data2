@@ -1126,7 +1126,6 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true,
-    "standardLoadoutOnly": true
+    "epic": true
   }
 ]
