@@ -1112,7 +1112,7 @@
   {
     "name": "Dedicated Gunners",
     "limited": 0,
-    "xws": "dedicatedgunners-evacuationofdqar",
+    "xws": "dedicatedgunners-gunner",
     "sides": [
       {
         "title": "Dedicated Gunners",
