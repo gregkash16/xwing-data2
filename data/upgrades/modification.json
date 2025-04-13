@@ -1093,7 +1093,7 @@
       {
         "title": "Starboard Thrusters",
         "type": "Modification",
-        "ability": "After you reveal a turn [[hard turn left]] or Segnor's Loop [[sloop left]] maneuver,  you may spend 1 [charge]. If you do, decrease the difficulty of that maneuver. After you execute a white Segnor's Loop [[sloop left]], gain 1 strain token.",
+        "ability": "After you reveal a turn [[Turn Left]] or Segnor's Loop [[Sloop Left]] maneuver,  you may spend 1 [Charge]. If you do, decrease the difficulty of that maneuver. After you execute a white Segnor's Loop [[Sloop Left]], gain 1 strain token.",
         "slots": [
           "Modification"
         ],
