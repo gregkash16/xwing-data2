@@ -26,7 +26,7 @@
   "dialCodes": [
     "SIn"
   ],
-  "faction": "separatistalliance",
+  "faction": "Separatist Alliance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -86,7 +86,7 @@
         "Torpedo",
         "Crew",
         "Crew",
-        "Payload",
+        "Device",
         "Modification",
         "Title",
         "Force Power",
@@ -124,7 +124,7 @@
         "Torpedo",
         "Crew",
         "Crew",
-        "Payload",
+        "Device",
         "Modification",
         "Title",
         "Force Power",
@@ -151,7 +151,7 @@
       "slots": [
         "Cannon",
         "Torpedo",
-        "Payload",
+        "Device",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/darkcourier.png",
@@ -166,7 +166,7 @@
         "Talent",
         "Torpedo",
         "Cannon",
-        "Payload",
+        "Device",
         "Modification",
         "Title"
       ],

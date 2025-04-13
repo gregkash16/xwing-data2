@@ -22,7 +22,7 @@
   "dialCodes": [
     "HK"
   ],
-  "faction": "scumandvillainy",
+  "faction": "Scum and Villainy",
   "stats": [
     {
       "arc": "Single Turret Arc",
@@ -91,7 +91,7 @@
       "slots": [
         "Talent",
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Illicit",
         "Modification",
@@ -118,7 +118,7 @@
       "slots": [
         "Talent",
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Modification",
@@ -143,7 +143,7 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/spicerunner.png",
       "slots": [
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification"
       ],
@@ -167,7 +167,7 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/torkilmux.png",
       "slots": [
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Modification",
@@ -196,7 +196,7 @@
       "slots": [
         "Talent",
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Modification",
@@ -234,7 +234,7 @@
       "slots": [
         "Force Power",
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Modification",
@@ -258,7 +258,7 @@
       "slots": [
         "Talent",
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Modification",

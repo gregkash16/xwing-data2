@@ -1,7 +1,7 @@
 {
   "name": "C-ROC Cruiser",
   "xws": "croccruiser",
-  "faction": "separatistalliance",
+  "faction": "Separatist Alliance",
   "icon": "https://infinitearenas.com/xw2/images/shipicons/separatist-alliance/I_C-ROC.png",
   "size": "Huge",
   "dial": [
@@ -97,7 +97,7 @@
         "Tactical Relay",
         "Team",
         "Cargo",
-        "Payload",
+        "Device",
         "Configuration"
       ]
     }

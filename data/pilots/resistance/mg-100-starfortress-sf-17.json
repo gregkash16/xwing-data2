@@ -21,7 +21,7 @@
   "dialCodes": [
     "MG1"
   ],
-  "faction": "resistance",
+  "faction": "Resistance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -78,8 +78,8 @@
       "loadout": 14,
       "slots": [
         "Sensor",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Gunner",
         "Gunner",
@@ -104,8 +104,8 @@
         "Talent",
         "Sensor",
         "Crew",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Gunner",
         "Gunner",
@@ -130,8 +130,8 @@
         "Torpedo",
         "Crew",
         "Crew",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Gunner",
         "Gunner"
@@ -157,8 +157,8 @@
       "slots": [
         "Sensor",
         "Crew",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Gunner",
         "Gunner",
@@ -184,8 +184,8 @@
         "Sensor",
         "Cannon",
         "Crew",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Gunner",
         "Gunner",
@@ -209,8 +209,8 @@
       "slots": [
         "Missile",
         "Crew",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Gunner",
         "Gunner",
@@ -237,8 +237,8 @@
         "Sensor",
         "Tech",
         "Crew",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification"
       ],
       "ability": "After you drop a device, you may spend 1 [Charge] to drop an additional device.",
@@ -254,29 +254,48 @@
       "limited": 1,
       "xws": "finchdallow-evacuationofdqar",
       "ability": "If you would drop a device using a [straight] template and you are not stressed, you may gain 1 stress token to use a [left bank] or [right bank] template of the same speed instead.",
-      "shipAbility": {"name" : "Modular Bombing Magazine",
-                      "text" : "When you drop a device, you may set the template with its middle line aligned with the hashmark on the base in your [left side arc] or [right side arc]"},
+      "shipAbility": {
+        "name": "Modular Bombing Magazine",
+        "text": "When you drop a device, you may set the template with its middle line aligned with the hashmark on the base in your [left side arc] or [right side arc]"
+      },
       "standardLoadout": [
         "nixjerd-evacuationofdqar",
         "paigetico-evacuationofdqar",
         "protonbombs",
         "thermaldetonators"
       ],
-      "actions": [
-        { "difficulty": "White", "type": "Focus" }, 
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Rotate Arc" },
-        { "difficulty": "White", "type": "Reaload", "linked" : {"difficulty" : "Red", "type" : "reinforce"} }
-      ],
+      "actions": [],
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/finchdallow-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/finchdallow-evacuationofdqar.png",
       "cost": 6,
       "loadout": 0,
       "slots": [],
-      "standard": "Yes",
-      "extended": "Yes",
-      "epic": "Yes",
-      "subtitle": "Evacuation of D'Qar"
+      "standard": true,
+      "extended": true,
+      "epic": true,
+      "subtitle": "Evacuation of D'Qar",
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Rotate Arc"
+        },
+        {
+          "difficulty": "White",
+          "type": "Reaload",
+          "linked": {
+            "difficulty": "Red",
+            "type": "reinforce"
+          }
+        }
+      ]
     },
     {
       "name": "Vennie",
@@ -289,24 +308,43 @@
       "cost": 6,
       "loadout": 0,
       "ability": "While you defend, if the attacker is in a friendly ship's [single arc turret], you may change 1 [focus] result to an [evade] result.",
-      "shipAbility": {"name" : "Modular Bombing Magazine",
-                      "text" : "When you drop a device, you may set the template with its middle line aligned with the hashmark on the base in your [left side arc] or [right side arc]"},
-      "actions": [
-        { "difficulty": "White", "type": "Focus" }, 
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Rotate Arc", "linked" : {"difficulty" : "Red", "type" : "Focus"} },
-        { "difficulty": "White", "type": "Reload" }
-      ],
+      "shipAbility": {
+        "name": "Modular Bombing Magazine",
+        "text": "When you drop a device, you may set the template with its middle line aligned with the hashmark on the base in your [left side arc] or [right side arc]"
+      },
+      "actions": [],
       "standardLoadout": [
         "perceptivecopilot",
         "dedicatedgunners-evacuationofdqar",
         "protonbombs"
       ],
       "slots": [],
-      "standard": "Yes",
-      "extended": "Yes",
-      "epic": "Yes",
-      "subtitle": "Evacuation of D'Qar"
+      "standard": true,
+      "extended": true,
+      "epic": true,
+      "subtitle": "Evacuation of D'Qar",
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Rotate Arc",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Focus"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Reload"
+        }
+      ]
     }
   ]
 }

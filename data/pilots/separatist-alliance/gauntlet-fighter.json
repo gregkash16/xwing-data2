@@ -21,7 +21,7 @@
   "dialCodes": [
     "GtF"
   ],
-  "faction": "separatistalliance",
+  "faction": "Separatist Alliance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -86,7 +86,7 @@
         "Talent",
         "Crew",
         "Gunner",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Modification",
@@ -118,7 +118,7 @@
         "Talent",
         "Crew",
         "Gunner",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Configuration"
@@ -144,7 +144,7 @@
         "Talent",
         "Crew",
         "Gunner",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Configuration"

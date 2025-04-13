@@ -23,7 +23,7 @@
   "dialCodes": [
     "Dec"
   ],
-  "faction": "galacticempire",
+  "faction": "Galactic Empire",
   "stats": [
     {
       "arc": "Double Turret Arc",
@@ -83,7 +83,7 @@
         "Torpedo",
         "Crew",
         "Crew",
-        "Payload",
+        "Device",
         "Modification",
         "Title",
         "Gunner"
@@ -106,7 +106,7 @@
         "Torpedo",
         "Crew",
         "Crew",
-        "Payload",
+        "Device",
         "Modification",
         "Gunner"
       ],
@@ -131,7 +131,7 @@
         "Crew",
         "Crew",
         "Crew",
-        "Payload",
+        "Device",
         "Modification",
         "Title",
         "Gunner"
@@ -155,7 +155,7 @@
         "Crew",
         "Crew",
         "Gunner",
-        "Payload",
+        "Device",
         "Modification",
         "Modification",
         "Title"

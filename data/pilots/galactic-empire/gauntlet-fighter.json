@@ -21,7 +21,7 @@
   "dialCodes": [
     "GtF"
   ],
-  "faction": "galacticempire",
+  "faction": "Galactic Empire",
   "stats": [
     {
       "arc": "Front Arc",
@@ -81,7 +81,7 @@
         "Talent",
         "Crew",
         "Gunner",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Configuration"
@@ -112,7 +112,7 @@
         "Talent",
         "Crew",
         "Gunner",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Configuration"
@@ -138,8 +138,8 @@
         "Talent",
         "Crew",
         "Gunner",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Illicit",
         "Modification",
         "Configuration"

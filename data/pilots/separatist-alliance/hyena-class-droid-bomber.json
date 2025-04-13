@@ -25,7 +25,7 @@
   "dialCodes": [
     "HDB"
   ],
-  "faction": "separatistalliance",
+  "faction": "Separatist Alliance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -79,7 +79,7 @@
       "loadout": 13,
       "slots": [
         "Torpedo",
-        "Payload",
+        "Device",
         "Modification",
         "Configuration"
       ],
@@ -108,8 +108,8 @@
       "cost": 3,
       "loadout": 9,
       "slots": [
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bombardmentdrone.png",
@@ -135,7 +135,7 @@
       "slots": [
         "Torpedo",
         "Missile",
-        "Payload",
+        "Device",
         "Modification",
         "Configuration"
       ],
@@ -193,7 +193,7 @@
       "loadout": 10,
       "slots": [
         "Missile",
-        "Payload",
+        "Device",
         "Modification",
         "Configuration"
       ],

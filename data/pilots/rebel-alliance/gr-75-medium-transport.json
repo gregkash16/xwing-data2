@@ -1,7 +1,7 @@
 {
   "name": "GR-75 Medium Transport",
   "xws": "gr75mediumtransport",
-  "faction": "rebelalliance",
+  "faction": "Rebel Alliance",
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_GR-75.png",
   "size": "Huge",
   "dial": [
@@ -106,12 +106,14 @@
       "limited": 1,
       "artwork": "",
       "image": "",
-      "shipAbility": {"name" : "", 
-                      "text" : ""},
+      "shipAbility": {
+        "name": "",
+        "text": ""
+      },
       "text": "",
-      "standard": "No",
-      "extended": "No",
-      "epic": "Yes",
+      "standard": false,
+      "extended": false,
+      "epic": true,
       "engagement": 0,
       "xws": "treborzednem-epicsl",
       "slots": [],

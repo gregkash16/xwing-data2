@@ -22,7 +22,7 @@
   "dialCodes": [
     "YV6"
   ],
-  "faction": "scumandvillainy",
+  "faction": "Scum and Villainy",
   "stats": [
     {
       "arc": "Full Front Arc",
@@ -217,15 +217,15 @@
       "loadout": 0,
       "xws": "bossk-armedanddangerous",
       "ability": "While you perform an attack, after the Neutralize Results step, you may spend 1 [crit] result to add 2 [hit] results.",
-      "shipAbility" : {
-        "name" : "Imposing Behemoth",
-        "text" : "While an enemy ship at range 0 defends, if you are reinforced and the defender is in the [full front arc] or [full rear arc] matching your reinforce token, that enemy ship rolls 1 fewer defense die."
+      "shipAbility": {
+        "name": "Imposing Behemoth",
+        "text": "While an enemy ship at range 0 defends, if you are reinforced and the defender is in the [full front arc] or [full rear arc] matching your reinforce token, that enemy ship rolls 1 fewer defense die."
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/bossk-armedanddangerous.png",
       "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bossk-armedanddangerous.png",
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "Bounty Hunter",
         "Freighter"
@@ -235,7 +235,7 @@
         "contrabandcybernetics",
         "houndstooth-armedanddangerous"
       ],
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Armed and Dangerous"
     }
   ]

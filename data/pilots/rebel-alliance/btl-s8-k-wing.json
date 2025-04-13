@@ -18,7 +18,7 @@
   "dialCodes": [
     "KW"
   ],
-  "faction": "rebelalliance",
+  "faction": "Rebel Alliance",
   "stats": [
     {
       "arc": "Double Turret Arc",
@@ -77,7 +77,7 @@
         "Missile",
         "Missile",
         "Crew",
-        "Payload",
+        "Device",
         "Modification",
         "Gunner"
       ],
@@ -100,8 +100,8 @@
         "Torpedo",
         "Missile",
         "Crew",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Gunner"
       ],
@@ -122,8 +122,8 @@
       "slots": [
         "Torpedo",
         "Missile",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Gunner"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wardensquadronpilot.png",

@@ -24,7 +24,7 @@
   "dialCodes": [
     "BW"
   ],
-  "faction": "rebelalliance",
+  "faction": "Rebel Alliance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -101,7 +101,7 @@
         "Sensor",
         "Cannon",
         "Cannon",
-        "Payload",
+        "Device",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronpilot.png",
@@ -129,7 +129,7 @@
         "Cannon",
         "Torpedo",
         "Modification",
-        "Payload",
+        "Device",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/braylenstramm.png",
@@ -157,7 +157,7 @@
         "Cannon",
         "Torpedo",
         "Modification",
-        "Payload",
+        "Device",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tennumb.png",
@@ -183,7 +183,7 @@
         "Cannon",
         "Torpedo",
         "Modification",
-        "Payload",
+        "Device",
         "Configuration"
       ],
       "ability": "At the start of the Engagement Phase, you must transfer 1 of your stress tokens to another friendly ship at range 0-2.",
@@ -217,7 +217,7 @@
         "Cannon",
         "Torpedo",
         "Missile",
-        "Payload",
+        "Device",
         "Modification",
         "Title",
         "Configuration"
@@ -244,7 +244,7 @@
         "Cannon",
         "Missile",
         "Modification",
-        "Payload",
+        "Device",
         "Configuration"
       ],
       "ability": "After you barrel roll, you may choose 1 friendly ship that is not stressed at range 0-1. That ship gains 1 stress token, then you rotate 180\u00b0.",

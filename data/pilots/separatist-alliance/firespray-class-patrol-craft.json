@@ -24,7 +24,7 @@
   "dialCodes": [
     "FPC"
   ],
-  "faction": "separatistalliance",
+  "faction": "Separatist Alliance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -87,7 +87,7 @@
         "Cannon",
         "Missile",
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Illicit",
         "Modification",
@@ -124,7 +124,7 @@
         "Cannon",
         "Missile",
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Title"
@@ -151,7 +151,7 @@
         "Cannon",
         "Missile",
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Title"
@@ -176,7 +176,7 @@
       "slots": [
         "Cannon",
         "Missile",
-        "Payload"
+        "Device"
       ],
       "epic": true
     },
@@ -201,7 +201,7 @@
         "Talent",
         "Cannon",
         "Cannon",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Title"

@@ -22,7 +22,7 @@
   "dialCodes": [
     "YwB"
   ],
-  "faction": "galacticrepublic",
+  "faction": "Galactic Republic",
   "stats": [
     {
       "arc": "Front Arc",
@@ -81,7 +81,7 @@
         "Turret",
         "Torpedo",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification"
       ],
       "keywords": [
@@ -118,7 +118,7 @@
         "Turret",
         "Torpedo",
         "Astromech",
-        "Payload",
+        "Device",
         "Gunner",
         "Force Power"
       ],
@@ -168,8 +168,8 @@
         "Turret",
         "Torpedo",
         "Crew",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification"
       ],
       "initiative": 2,
@@ -232,7 +232,7 @@
         "Talent",
         "Turret",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification"
       ],
       "keywords": [
@@ -262,7 +262,7 @@
         "Talent",
         "Turret",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification"
       ],
       "keywords": [
@@ -292,9 +292,9 @@
         "Talent",
         "Turret",
         "Astromech",
-        "Payload",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
+        "Device",
         "Modification",
         "Gunner"
       ],
@@ -324,7 +324,7 @@
         "Turret",
         "Torpedo",
         "Astromech",
-        "Payload"
+        "Device"
       ],
       "keywords": [
         "Clone",

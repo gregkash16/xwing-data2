@@ -22,7 +22,7 @@
   "dialCodes": [
     "YW"
   ],
-  "faction": "rebelalliance",
+  "faction": "Rebel Alliance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -77,8 +77,8 @@
         "Turret",
         "Torpedo",
         "Astromech",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Missile"
       ],
@@ -105,7 +105,7 @@
         "Torpedo",
         "Missile",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification",
         "Modification"
       ],
@@ -151,7 +151,7 @@
       "slots": [
         "Turret",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification",
         "Missile"
       ],
@@ -177,7 +177,7 @@
         "Turret",
         "Torpedo",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification",
         "Missile"
       ],
@@ -205,7 +205,7 @@
         "Gunner",
         "Torpedo",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/norrawexley-btla4ywing.png",
@@ -344,7 +344,7 @@
         "Turret",
         "Torpedo",
         "Astromech",
-        "Payload",
+        "Device",
         "Missile",
         "Modification"
       ],

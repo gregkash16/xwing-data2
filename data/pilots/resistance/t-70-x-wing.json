@@ -24,7 +24,7 @@
   "dialCodes": [
     "T70"
   ],
-  "faction": "resistance",
+  "faction": "Resistance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -274,7 +274,7 @@
       "epic": true
     },
     {
-      "name": "Karé Kun",
+      "name": "Kar\u00e9 Kun",
       "caption": "Woman of Action",
       "initiative": 4,
       "limited": 1,
@@ -482,7 +482,7 @@
       "epic": true
     },
     {
-      "name": "C’ai Threnalli",
+      "name": "C\u2019ai Threnalli",
       "caption": "Tenacious Survivor",
       "initiative": 4,
       "limited": 1,
@@ -601,39 +601,62 @@
       "epic": true
     },
     {
-      "name": "C’ai Threnalli",
+      "name": "C\u2019ai Threnalli",
       "caption": "Evacuation of D'Qar",
       "initiative": 4,
       "limited": 1,
       "xws": "caithrenalli-evacuationofdqar",
       "ability": "After you fully execute a maneuver, if you moved through a friendly ship, you may perform an [Evade] action.",
-      "shipAbility": {"name" : "Adaptive S-Foils",
-                      "text" : "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."},
+      "shipAbility": {
+        "name": "Adaptive S-Foils",
+        "text": "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."
+      },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/caithrenalli-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/caithrenalli-evacuationofdqar.png",
       "cost": 4,
       "loadout": 0,
       "charges": {},
       "slots": [],
-      "actions": [
-        { "difficulty": "White", "type": "Focus", "linked" : {"difficulty" : "Red", "type" : "Barrel Roll"} },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Barrel Roll" },
-        { "difficulty": "White", "type": "Boost", "linked" : {"difficulty" : "Red", "type" : "Focus"} }
-      ],
+      "actions": [],
       "standardLoadout": [
         "forthecause-evacuationofdqar",
         "heroic",
         "bbastromech",
         "repulsorliftengines-evacuationofdqar"
       ],
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "X-wing"
       ],
-      "epic": "Yes",
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true,
+      "subtitle": "Evacuation of D'Qar",
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Barrel Roll"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Barrel Roll"
+        },
+        {
+          "difficulty": "White",
+          "type": "Boost",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Focus"
+          }
+        }
+      ]
     },
     {
       "name": "Jaycris Tubbs",
@@ -642,31 +665,54 @@
       "limited": 1,
       "xws": "jaycristubbs-evacuationofdqar",
       "ability": "After you fully execute a blue maneuver, you may choose a friendly ship at range 0-1. If you do, that ship removes 1 stress token.",
-      "shipAbility": {"name" : "Adaptive S-Foils",
-                      "text" : "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."},
+      "shipAbility": {
+        "name": "Adaptive S-Foils",
+        "text": "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."
+      },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/jaycristubbs-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jaycristubbs-evacuationofdqar.png",
       "cost": 4,
       "loadout": 0,
       "charges": {},
       "slots": [],
-      "actions": [
-        { "difficulty": "White", "type": "Focus", "linked" : {"difficulty" : "Red", "type" : "Barrel Roll"} },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Barrel Roll" },
-        { "difficulty": "White", "type": "Boost", "linked" : {"difficulty" : "Red", "type" : "Focus"} }
-      ],
+      "actions": [],
       "standardLoadout": [
         "forthecause-evacuationofdqar",
         "r0astromech-evacuationofdqar"
       ],
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "X-wing"
       ],
-      "epic": "Yes",
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true,
+      "subtitle": "Evacuation of D'Qar",
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Barrel Roll"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Barrel Roll"
+        },
+        {
+          "difficulty": "White",
+          "type": "Boost",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Focus"
+          }
+        }
+      ]
     },
     {
       "name": "Poe Dameron",
@@ -675,20 +721,19 @@
       "limited": 1,
       "xws": "poedameron-evacuationofdqar",
       "ability": "After your perform an action you may spend 1[Charge] to perform a white action, treating it as red.",
-      "shipAbility": {"name" : "Adaptive S-Foils",
-                      "text" : "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."},
+      "shipAbility": {
+        "name": "Adaptive S-Foils",
+        "text": "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."
+      },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/poedameron-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/poedameron-evacuationofdqar.png",
       "cost": 6,
       "loadout": 0,
-      "actions": [
-        { "difficulty": "White", "type": "Focus", "linked" : {"difficulty" : "Red", "type" : "Barrel Roll"} },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Barrel Roll" },
-        { "difficulty": "White", "type": "Boost" },
-        { "difficulty": "White", "type": "Slam" }
-      ],
-      "charges": {"value" : 1, "recovers" : 1},
+      "actions": [],
+      "charges": {
+        "value": 1,
+        "recovers": 1
+      },
       "slots": [],
       "standardLoadout": [
         "heroic",
@@ -696,13 +741,39 @@
         "primedoverdrivethrusters-evacuationofdqar",
         "blackone-evacuationofdqar"
       ],
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "X-wing"
       ],
-      "epic": "Yes",
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true,
+      "subtitle": "Evacuation of D'Qar",
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Barrel Roll"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Barrel Roll"
+        },
+        {
+          "difficulty": "White",
+          "type": "Boost"
+        },
+        {
+          "difficulty": "White",
+          "type": "Slam"
+        }
+      ]
     },
     {
       "name": "Stomeroni Starck",
@@ -711,18 +782,15 @@
       "limited": 1,
       "xws": "stomeronistarck-evacuationofdqar",
       "ability": "Setup: Instead of a T-70 X-wing dial, this ship uses an RZ-2 A-wing dial.",
-      "shipAbility": {"name" : "Adaptive S-Foils",
-                      "text" : "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."},
+      "shipAbility": {
+        "name": "Adaptive S-Foils",
+        "text": "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."
+      },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/stomeronistarck-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/stomeronistarck-evacuationofdqar.png",
       "cost": 5,
       "loadout": 0,
-      "actions": [
-        { "difficulty": "White", "type": "Focus", "linked" : {"difficulty" : "Red", "type" : "Barrel Roll"} },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Barrel Roll" },
-        { "difficulty": "White", "type": "Boost", "linked" : {"difficulty" : "Red", "type" : "Focus"} }
-      ],
+      "actions": [],
       "standardLoadout": [
         "forthecause-evacuationofdqar",
         "acceleratedsensorarray-evacuationofdqar",
@@ -730,13 +798,39 @@
       ],
       "charges": {},
       "slots": [],
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "X-wing"
       ],
-      "epic": "Yes",
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true,
+      "subtitle": "Evacuation of D'Qar",
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Barrel Roll"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Barrel Roll"
+        },
+        {
+          "difficulty": "White",
+          "type": "Boost",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Focus"
+          }
+        }
+      ]
     }
   ]
 }

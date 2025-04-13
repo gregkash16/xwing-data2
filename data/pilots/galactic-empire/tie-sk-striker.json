@@ -23,7 +23,7 @@
   "dialCodes": [
     "TS"
   ],
-  "faction": "galacticempire",
+  "faction": "Galactic Empire",
   "stats": [
     {
       "arc": "Front Arc",
@@ -72,7 +72,7 @@
       "slots": [
         "Talent",
         "Talent",
-        "Payload",
+        "Device",
         "Gunner"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/countdown.png",
@@ -100,7 +100,7 @@
       "slots": [
         "Talent",
         "Talent",
-        "Payload",
+        "Device",
         "Modification",
         "Gunner"
       ],
@@ -128,7 +128,7 @@
       },
       "slots": [
         "Talent",
-        "Payload",
+        "Device",
         "Modification",
         "Gunner"
       ],
@@ -155,7 +155,7 @@
       },
       "slots": [
         "Talent",
-        "Payload",
+        "Device",
         "Gunner"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksquadronscout.png",
@@ -206,8 +206,8 @@
       "slots": [
         "Talent",
         "Gunner",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification"
       ],
       "ability": "After you fully execute a maneuver using your Adaptive Ailerons, if you are not stressed, you may drop 1 device.",

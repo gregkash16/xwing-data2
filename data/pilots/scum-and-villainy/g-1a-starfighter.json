@@ -24,7 +24,7 @@
   "dialCodes": [
     "G1A"
   ],
-  "faction": "scumandvillainy",
+  "faction": "Scum and Villainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -160,17 +160,12 @@
       "xws": "zuckuss-armedanddangerous",
       "ability": "While you perform a primary attack, you may roll 1 additional attack die. If you do, the defender rolls 1 additional defense die.",
       "shipAbility": {
-        "name" : "Enduring Limitations",
-        "text" : "At the end of the Activation Phase, if you have 3 or more stress tokens, you must remove 1 stress token and suffer 1 [hit] damage."
+        "name": "Enduring Limitations",
+        "text": "At the end of the Activation Phase, if you have 3 or more stress tokens, you must remove 1 stress token and suffer 1 [hit] damage."
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/zuckuss-armedanddangerous.png",
       "slots": [],
-      "actions": [
-        { "difficulty": "White", "type": "Focus" },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Barrel Roll", "linked" : {"difficulty" : "Red", "type" : "Calculate"} },
-        { "difficulty": "White", "type": "Jame", "linked" : {"difficulty" : "Red", "type" : "Calculate"} }
-      ],
+      "actions": [],
       "standardLoadout": [
         "persistanttracker-armedanddangerous",
         "tractorbeam",
@@ -178,13 +173,39 @@
         "misthunter-armedanddangerous"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zuckuss-armedanddangerous.png",
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": "Yes",
-      "subtitle": "Armed and Dangerous"
+      "epic": true,
+      "subtitle": "Armed and Dangerous",
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Barrel Roll",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Calculate"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Jame",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Calculate"
+          }
+        }
+      ]
     }
   ]
 }

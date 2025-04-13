@@ -26,7 +26,7 @@
   "dialCodes": [
     "RCS"
   ],
-  "faction": "scumandvillainy",
+  "faction": "Scum and Villainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -244,11 +244,12 @@
       "slots": [],
       "ability": "After you perform an attack that hits, you may spend 2 [charges] to transfer 1 of your non-lock red or orange tokens to the defender.",
       "charges": {
-        "value" : 2, "recovers" : 1
+        "value": 2,
+        "recovers": 1
       },
       "shipAbility": {
-        "name" : "Dead to Rights",
-        "text" : "While you perform an attack, if the defender is in your [bullseye], defense dice cannot be modified using green tokens."
+        "name": "Dead to Rights",
+        "text": "While you perform an attack, if the defender is in your [bullseye], defense dice cannot be modified using green tokens."
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/cadbane-armedanddangerous.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cadbane-armedanddangerous.png",
@@ -260,17 +261,45 @@
         "todo360-armedanddangerous",
         "xanadublood-armedanddangerous"
       ],
-      "actions": [
-        { "difficulty": "White", "type": "Focus", "linked" : {"difficulty" : "Red", "type" : "Boost"} },
-        { "difficulty": "White", "type": "Focus", "linked" : {"difficulty" : "Red", "type" : "Barrel Roll"} },
-        { "difficulty": "White", "type": "Evade", "linked" : {"difficulty" : "Red", "type" : "Barrel Roll"} },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "Red", "type": "Cloak" }
-      ],
-      "standard": "Yes",
-      "extended": "Yes",
-      "epic": "Yes",
-      "subtitle": "Armed and Dangerous"
+      "actions": [],
+      "standard": true,
+      "extended": true,
+      "epic": true,
+      "subtitle": "Armed and Dangerous",
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Boost"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Focus",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Barrel Roll"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Evade",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Barrel Roll"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "Red",
+          "type": "Cloak"
+        }
+      ]
     }
   ]
 }

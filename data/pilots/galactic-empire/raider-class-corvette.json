@@ -1,7 +1,7 @@
 {
   "name": "Raider-class Corvette",
   "xws": "raiderclasscorvette",
-  "faction": "galacticempire",
+  "faction": "Galactic Empire",
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_Raider.png",
   "size": "Huge",
   "dial": [
@@ -111,12 +111,14 @@
       "limited": 1,
       "artwork": "",
       "image": "",
-      "shipAbility": {"name" : "", 
-                      "text" : ""},
+      "shipAbility": {
+        "name": "",
+        "text": ""
+      },
       "text": "",
-      "standard": "No",
-      "extended": "No",
-      "epic": "Yes",
+      "standard": false,
+      "extended": false,
+      "epic": true,
       "engagement": 0,
       "xws": "idenversio-epicsl",
       "slots": [],

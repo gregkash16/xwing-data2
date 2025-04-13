@@ -21,7 +21,7 @@
   "dialCodes": [
     "GtF"
   ],
-  "faction": "galacticrepublic",
+  "faction": "Galactic Republic",
   "stats": [
     {
       "arc": "Front Arc",
@@ -83,7 +83,7 @@
         "Crew",
         "Gunner",
         "Torpedo",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Modification",
@@ -110,7 +110,7 @@
         "Talent",
         "Crew",
         "Gunner",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Configuration"

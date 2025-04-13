@@ -24,7 +24,7 @@
   "dialCodes": [
     "RT"
   ],
-  "faction": "resistance",
+  "faction": "Resistance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -94,7 +94,7 @@
       "xws": "pammichnerrogoode",
       "initiative": 3,
       "limited": 1,
-      "caption": "D’Qar Dispatcher",
+      "caption": "D\u2019Qar Dispatcher",
       "standard": true,
       "extended": true,
       "cost": 4,
@@ -190,14 +190,16 @@
       "xws": "pammichnerrogoode-evacuationofdqar",
       "initiative": 3,
       "limited": 1,
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "cost": 4,
       "loadout": 0,
       "slots": [],
       "ability": "While you have 2 or fewer stress tokens, you may execute red maneuvers even while stressed.",
-      "shipAbility": {"name" : "Leave No One Behind",
-                      "text" : "After you perform an action, if you have fewer than 2 stress tokens, you may gain 1 stress token. If you do, another friendly small ship at range 0-1 may gain 1 deplete token to perform a [boost] action."},
+      "shipAbility": {
+        "name": "Leave No One Behind",
+        "text": "After you perform an action, if you have fewer than 2 stress tokens, you may gain 1 stress token. If you do, another friendly small ship at range 0-1 may gain 1 deplete token to perform a [boost] action."
+      },
       "standardLoadout": [
         "forthecause-evacuationofdqar",
         "R0-GR-evacuationofdqar",
@@ -206,7 +208,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/pammichnerrogoode-evacuationofdqar.png",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/pammichnerrogoode-evacuationofdqar.png",
       "caption": "Evacuation of D'Qar",
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Evacuation of D'Qar"
     }
   ],

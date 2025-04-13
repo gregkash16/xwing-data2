@@ -22,7 +22,7 @@
   "dialCodes": [
     "YW"
   ],
-  "faction": "scumandvillainy",
+  "faction": "Scum and Villainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -73,7 +73,7 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/crymorahgoon.png",
       "slots": [
         "Turret",
-        "Payload",
+        "Device",
         "Illicit",
         "Missile"
       ],
@@ -99,7 +99,7 @@
         "Turret",
         "Torpedo",
         "Astromech",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Missile"
@@ -125,7 +125,7 @@
       "slots": [
         "Turret",
         "Torpedo",
-        "Payload",
+        "Device",
         "Illicit",
         "Missile"
       ],
@@ -152,7 +152,7 @@
         "Turret",
         "Torpedo",
         "Astromech",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Missile"
@@ -183,7 +183,7 @@
         "Torpedo",
         "Missile",
         "Astromech",
-        "Payload"
+        "Device"
       ],
       "ability": "Before you engage, if you are not in any enemy ship's [Front Arc], you may acquire a lock on an enemy ship in your full front arc.",
       "caption": "Opportunity Knocks",
@@ -210,7 +210,7 @@
         "Torpedo",
         "Missile",
         "Astromech",
-        "Payload"
+        "Device"
       ],
       "ability": "While you perform a [Front Arc] attack, if you are damaged, you may change 1 of your [Focus] results to a [Critical Hit] result. While you defend, if you are damaged, before the Modify Defense Dice step, you must change 1 of your [Focus] results to a blank result.",
       "caption": "Crimson Blade",
@@ -232,7 +232,7 @@
         "Turret",
         "Torpedo",
         "Astromech",
-        "Payload"
+        "Device"
       ],
       "keywords": [
         "Y-wing"
@@ -258,7 +258,7 @@
         "Torpedo",
         "Missile",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification"
       ],
       "ability": "After a friendly device that you have locked detonates, each enemy ship at range 0-1 of that device gains 1 strain token.",
@@ -284,7 +284,7 @@
         "Turret",
         "Torpedo",
         "Missile",
-        "Payload"
+        "Device"
       ],
       "keywords": [
         "Y-wing"

@@ -23,7 +23,7 @@
   "dialCodes": [
     "JM5"
   ],
-  "faction": "scumandvillainy",
+  "faction": "Scum and Villainy",
   "stats": [
     {
       "arc": "Single Turret Arc",
@@ -221,10 +221,13 @@
         "starboardthrusters-armedanddangerous",
         "punishingone"
       ],
-      "charges" : {"value" : 1, "recovers" : 1},
-      "standard": "Yes",
-      "extended": "Yes",
-      "epic": "Yes",
+      "charges": {
+        "value": 1,
+        "recovers": 1
+      },
+      "standard": true,
+      "extended": true,
+      "epic": true,
       "subtitle": "Armed and Dangerous"
     }
   ]

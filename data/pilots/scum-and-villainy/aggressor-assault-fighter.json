@@ -24,7 +24,7 @@
   "dialCodes": [
     "AgF"
   ],
-  "faction": "scumandvillainy",
+  "faction": "Scum and Villainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -83,7 +83,7 @@
         "Sensor",
         "Cannon",
         "Cannon",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Title"
@@ -116,7 +116,7 @@
         "Sensor",
         "Cannon",
         "Cannon",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Title"
@@ -149,7 +149,7 @@
         "Sensor",
         "Cannon",
         "Cannon",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Title"
@@ -182,7 +182,7 @@
         "Sensor",
         "Cannon",
         "Cannon",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Title"

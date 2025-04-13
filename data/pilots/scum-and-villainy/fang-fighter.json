@@ -24,7 +24,7 @@
   "dialCodes": [
     "Fng"
   ],
-  "faction": "scumandvillainy",
+  "faction": "Scum and Villainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -311,12 +311,12 @@
         "beskarreinforcedplating"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/fennrau-armedanddangerous.png",
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "Mandalorian"
       ],
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Armed and Dangerous"
     }
   ]

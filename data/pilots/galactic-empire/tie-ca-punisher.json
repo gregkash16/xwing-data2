@@ -22,7 +22,7 @@
   "dialCodes": [
     "TPu"
   ],
-  "faction": "galacticempire",
+  "faction": "Galactic Empire",
   "stats": [
     {
       "arc": "Front Arc",
@@ -84,8 +84,8 @@
         "Talent",
         "Sensor",
         "Missile",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Gunner"
       ],
@@ -111,7 +111,7 @@
         "Torpedo",
         "Missile",
         "Missile",
-        "Payload",
+        "Device",
         "Modification",
         "Modification",
         "Gunner"
@@ -138,7 +138,7 @@
         "Sensor",
         "Torpedo",
         "Missile",
-        "Payload",
+        "Device",
         "Modification",
         "Gunner"
       ],

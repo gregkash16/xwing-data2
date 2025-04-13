@@ -22,7 +22,7 @@
   "dialCodes": [
     "NR2"
   ],
-  "faction": "resistance",
+  "faction": "Resistance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -79,7 +79,7 @@
         "Tech",
         "Turret",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification",
         "Illicit",
         "Configuration"
@@ -116,7 +116,7 @@
         "Missile",
         "Turret",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification",
         "Modification",
         "Configuration"
@@ -148,8 +148,8 @@
         "Missile",
         "Turret",
         "Astromech",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Modification"
       ],
@@ -179,7 +179,7 @@
         "Tech",
         "Turret",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification",
         "Modification"
       ],
@@ -210,7 +210,7 @@
         "Turret",
         "Missile",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification",
         "Modification"
       ],
@@ -242,7 +242,7 @@
         "Tech",
         "Turret",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification",
         "Configuration"
       ],
@@ -272,7 +272,7 @@
         "Tech",
         "Turret",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification",
         "Modification",
         "Illicit"
@@ -304,7 +304,7 @@
         "Tech",
         "Turret",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification",
         "Modification",
         "Configuration"
@@ -336,7 +336,7 @@
         "Tech",
         "Turret",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification",
         "Configuration"
       ],
@@ -365,7 +365,7 @@
         "Tech",
         "Turret",
         "Astromech",
-        "Payload",
+        "Device",
         "Modification",
         "Illicit"
       ],

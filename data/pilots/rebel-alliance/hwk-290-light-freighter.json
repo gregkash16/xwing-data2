@@ -22,7 +22,7 @@
   "dialCodes": [
     "HK"
   ],
-  "faction": "rebelalliance",
+  "faction": "Rebel Alliance",
   "stats": [
     {
       "arc": "Single Turret Arc",
@@ -87,8 +87,8 @@
       "slots": [
         "Talent",
         "Crew",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Modification",
         "Title"
@@ -115,7 +115,7 @@
         "Talent",
         "Talent",
         "Crew",
-        "Payload",
+        "Device",
         "Modification",
         "Title"
       ],
@@ -137,7 +137,7 @@
       "text": "Designed to look like a bird in flight by the Corellian Engineering Corporation, \u201chawk\u201d series ships are exemplary transport craft. Swift and rugged, the HWK-290 is often employed by Rebel agents as a mobile base of operations.",
       "image": "https://infinitearenas.com/xw2/images/pilots/rebelscout.png",
       "slots": [
-        "Payload",
+        "Device",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rebelscout.png",
@@ -161,7 +161,7 @@
       "slots": [
         "Talent",
         "Crew",
-        "Payload",
+        "Device",
         "Modification",
         "Modification",
         "Title"

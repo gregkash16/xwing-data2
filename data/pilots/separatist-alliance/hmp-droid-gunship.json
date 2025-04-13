@@ -23,7 +23,7 @@
   "dialCodes": [
     "HMP"
   ],
-  "faction": "separatistalliance",
+  "faction": "Separatist Alliance",
   "stats": [
     {
       "arc": "Full Front Arc",
@@ -77,7 +77,7 @@
         "Missile",
         "Missile",
         "Crew",
-        "Payload",
+        "Device",
         "Modification",
         "Configuration",
         "Tactical Relay"
@@ -105,7 +105,7 @@
       "loadout": 8,
       "slots": [
         "Missile",
-        "Payload",
+        "Device",
         "Modification",
         "Configuration"
       ],
@@ -195,7 +195,7 @@
         "Missile",
         "Missile",
         "Crew",
-        "Payload",
+        "Device",
         "Modification",
         "Configuration"
       ],
@@ -231,7 +231,7 @@
       "slots": [
         "Missile",
         "Missile",
-        "Payload",
+        "Device",
         "Modification",
         "Configuration"
       ],

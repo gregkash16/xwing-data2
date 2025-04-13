@@ -23,7 +23,7 @@
   "dialCodes": [
     "SRG"
   ],
-  "faction": "scumandvillainy",
+  "faction": "Scum and Villainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -77,8 +77,8 @@
         "Talent",
         "Turret",
         "Crew",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Title",
         "Gunner"
@@ -99,8 +99,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/lokrevenant.png",
       "slots": [
         "Turret",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Gunner",
         "Crew",
         "Modification"
@@ -124,8 +124,8 @@
         "Talent",
         "Turret",
         "Crew",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Gunner"
       ],

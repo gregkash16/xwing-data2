@@ -24,7 +24,7 @@
   "dialCodes": [
     "Tvn"
   ],
-  "faction": "firstorder",
+  "faction": "First Order",
   "stats": [
     {
       "arc": "Front Arc",
@@ -65,7 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_TIESilencer.png",
   "pilots": [
     {
-      "name": "“Blackout”",
+      "name": "\u201cBlackout\u201d",
       "xws": "blackout",
       "caption": "Ill-Fated Test Pilot",
       "initiative": 5,
@@ -164,7 +164,7 @@
       "epic": true
     },
     {
-      "name": "“Recoil”",
+      "name": "\u201cRecoil\u201d",
       "xws": "recoil",
       "caption": "Quantity Over Quality",
       "initiative": 4,
@@ -193,7 +193,7 @@
       "epic": true
     },
     {
-      "name": "“Avenger”",
+      "name": "\u201cAvenger\u201d",
       "xws": "avenger",
       "caption": "Wrathful Wingmate",
       "initiative": 3,
@@ -250,7 +250,7 @@
       "epic": true
     },
     {
-      "name": "“Rush”",
+      "name": "\u201cRush\u201d",
       "xws": "rush",
       "initiative": 2,
       "limited": 1,
@@ -299,8 +299,8 @@
       "slots": [],
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/kyloren-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kyloren-evacuationofdqar.png",
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "Dark Side",
         "TIE"
@@ -312,7 +312,7 @@
           "dark"
         ]
       },
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Evacuation of D'Qar"
     }
   ]

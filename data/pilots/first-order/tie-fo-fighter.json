@@ -24,7 +24,7 @@
   "dialCodes": [
     "Tfo"
   ],
-  "faction": "firstorder",
+  "faction": "First Order",
   "stats": [
     {
       "arc": "Front Arc",
@@ -65,7 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_TIEfo.png",
   "pilots": [
     {
-      "name": "“Midnight”",
+      "name": "\u201cMidnight\u201d",
       "caption": "Omega Leader",
       "initiative": 6,
       "limited": 1,
@@ -119,7 +119,7 @@
       "epic": true
     },
     {
-      "name": "“Scorch”",
+      "name": "\u201cScorch\u201d",
       "caption": "Zeta Leader",
       "initiative": 4,
       "limited": 1,
@@ -143,7 +143,7 @@
       "epic": true
     },
     {
-      "name": "“Static”",
+      "name": "\u201cStatic\u201d",
       "caption": "Omega Ace",
       "initiative": 4,
       "limited": 1,
@@ -168,7 +168,7 @@
       "epic": true
     },
     {
-      "name": "“Longshot”",
+      "name": "\u201cLongshot\u201d",
       "caption": "Zeta Ace",
       "initiative": 3,
       "limited": 1,
@@ -215,7 +215,7 @@
       "epic": true
     },
     {
-      "name": "“Muse”",
+      "name": "\u201cMuse\u201d",
       "caption": "Epsilon Leader",
       "initiative": 2,
       "limited": 1,
@@ -323,7 +323,7 @@
       "epic": true
     },
     {
-      "name": "“Null”",
+      "name": "\u201cNull\u201d",
       "caption": "Epsilon Ace",
       "initiative": 0,
       "limited": 1,
@@ -423,7 +423,7 @@
       "epic": true
     },
     {
-      "name": "“Longshot”",
+      "name": "\u201cLongshot\u201d",
       "caption": "Evacuation of D'Qar",
       "initiative": 3,
       "limited": 1,
@@ -443,16 +443,16 @@
         "fanatical",
         "experimentalscanners-evacuationofdqar"
       ],
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "TIE"
       ],
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Evacuation of D'Qar"
     },
     {
-      "name": "“Midnight”",
+      "name": "\u201cMidnight\u201d",
       "caption": "Evacuation of D'Qar",
       "initiative": 6,
       "limited": 1,
@@ -472,12 +472,12 @@
         "targetingsynchronizer",
         "advancedwarningsystems-evacuationofdqar"
       ],
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "TIE"
       ],
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Evacuation of D'Qar"
     },
     {
@@ -522,16 +522,16 @@
           }
         }
       ],
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "TIE"
       ],
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Evacuation of D'Qar"
     },
     {
-      "name": "“Scorch”",
+      "name": "\u201cScorch\u201d",
       "caption": "Evacuation of D'Qar",
       "initiative": 4,
       "limited": 1,
@@ -551,12 +551,12 @@
         "fanatical",
         "threatsensors-evacuationofdqar"
       ],
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "TIE"
       ],
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Evacuation of D'Qar"
     },
     {
@@ -580,12 +580,12 @@
         "patternanalyzer",
         "targetingmatrix-battleoverendor"
       ],
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "TIE"
       ],
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Evacuation of D'Qar"
     }
   ]

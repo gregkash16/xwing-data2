@@ -26,7 +26,7 @@
   "dialCodes": [
     "Tsf"
   ],
-  "faction": "firstorder",
+  "faction": "First Order",
   "stats": [
     {
       "arc": "Front Arc",
@@ -88,7 +88,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_TIEsf.png",
   "pilots": [
     {
-      "name": "“Quickdraw”",
+      "name": "\u201cQuickdraw\u201d",
       "caption": "Defiant Duelist",
       "initiative": 6,
       "limited": 1,
@@ -122,7 +122,7 @@
       "epic": true
     },
     {
-      "name": "“Backdraft”",
+      "name": "\u201cBackdraft\u201d",
       "caption": "Fiery Fanatic",
       "initiative": 4,
       "limited": 1,
@@ -316,12 +316,12 @@
       ],
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/lieutenantlehuse-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantlehuse-evacuationofdqar.png",
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "TIE"
       ],
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Evacuation of D'Qar"
     },
     {
@@ -375,12 +375,12 @@
       ],
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/theta3-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/theta3-evacuationofdqar.png",
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "TIE"
       ],
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Evacuation of D'Qar"
     },
     {
@@ -426,12 +426,12 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/theta4-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/theta4-evacuationofdqar.png",
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "TIE"
       ],
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Evacuation of D'Qar"
     }
   ]

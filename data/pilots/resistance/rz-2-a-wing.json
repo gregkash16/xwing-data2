@@ -24,7 +24,7 @@
   "dialCodes": [
     "RZ2"
   ],
-  "faction": "resistance",
+  "faction": "Resistance",
   "stats": [
     {
       "arc": "Single Turret Arc",
@@ -69,7 +69,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/resistance/I_RZ-2_A-wing.png",
   "pilots": [
     {
-      "name": "L’ulo L’ampar",
+      "name": "L\u2019ulo L\u2019ampar",
       "caption": "Luminous Mentor",
       "initiative": 5,
       "limited": 1,
@@ -338,7 +338,7 @@
       "cost": 3,
       "loadout": 4,
       "xws": "suralindajavos",
-      "ability": "After you partially execute a maneuver, you may gain 1 strain token to rotate 90° or 180°.",
+      "ability": "After you partially execute a maneuver, you may gain 1 strain token to rotate 90\u00b0 or 180\u00b0.",
       "shipAbility": {
         "name": "Refined Gyrostabilizers",
         "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. After you perform an action, you may perform a red [Boost] or red [Rotate Arc] action."
@@ -437,12 +437,12 @@
       ],
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/ronithblario-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ronithblario-evacuationofdqar.png",
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "A-wing"
       ],
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Evacuation of D'Qar"
     },
     {
@@ -461,26 +461,49 @@
       "slots": [],
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/tallissanlintra-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tallissanlintra-evacuationofdqar.png",
-      "charges": {"value" : 1, "recovers" : 1},
-      "actions": [
-        { "difficulty": "White", "type": "Focus", "linked" : {"difficulty" : "Red", "type" : "Coordinate"} },
-        { "difficulty": "White", "type": "Evade" },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Barrel Roll" },
-        { "difficulty": "White", "type": "Boost" }
-      ],
+      "charges": {
+        "value": 1,
+        "recovers": 1
+      },
+      "actions": [],
       "standardLoadout": [
         "heroic",
         "pushthelimit-battleoverendor",
         "xx23sthreadtracers"
       ],
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "A-wing"
       ],
-      "epic": "Yes",
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true,
+      "subtitle": "Evacuation of D'Qar",
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Coordinate"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Evade"
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Barrel Roll"
+        },
+        {
+          "difficulty": "White",
+          "type": "Boost"
+        }
+      ]
     },
     {
       "name": "Zizi Tlo",
@@ -501,15 +524,18 @@
         "precisionholotargeter-evacuationofdqar"
       ],
       "slots": [],
-      "charges": {"value" : 1, "recovers" : 1},
+      "charges": {
+        "value": 1,
+        "recovers": 1
+      },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/zizitlo-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zizitlo-evacuationofdqar.png",
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "A-wing"
       ],
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Evacuation of D'Qar"
     }
   ]

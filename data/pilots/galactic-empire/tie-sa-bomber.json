@@ -23,7 +23,7 @@
   "dialCodes": [
     "TB"
   ],
-  "faction": "galacticempire",
+  "faction": "Galactic Empire",
   "stats": [
     {
       "arc": "Front Arc",
@@ -80,7 +80,7 @@
       "slots": [
         "Torpedo",
         "Missile",
-        "Payload",
+        "Device",
         "Modification",
         "Gunner"
       ],
@@ -111,8 +111,8 @@
         "Torpedo",
         "Missile",
         "Missile",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Gunner"
       ],
@@ -140,8 +140,8 @@
       "slots": [
         "Talent",
         "Torpedo",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Gunner"
       ],
@@ -172,7 +172,7 @@
         "Torpedo",
         "Missile",
         "Missile",
-        "Payload",
+        "Device",
         "Modification",
         "Gunner"
       ],
@@ -199,8 +199,8 @@
       },
       "slots": [
         "Missile",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Gunner"
       ],
@@ -231,8 +231,8 @@
         "Talent",
         "Missile",
         "Missile",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Modification",
         "Gunner"
       ],

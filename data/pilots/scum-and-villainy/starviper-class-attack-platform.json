@@ -23,7 +23,7 @@
   "dialCodes": [
     "SV"
   ],
-  "faction": "scumandvillainy",
+  "faction": "Scum and Villainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -125,7 +125,7 @@
       "cost": 4,
       "loadout": 3,
       "xws": "dalanoberos-starviperclassattackplatform",
-      "ability": "After you fully execute a maneuver, you may gain 1 stress token to rotate your ship 90°.",
+      "ability": "After you fully execute a maneuver, you may gain 1 stress token to rotate your ship 90\u00b0.",
       "image": "https://infinitearenas.com/xw2/images/pilots/dalanoberos-starviperclassattackplatform.png",
       "shipAbility": {
         "name": "Microthrusters",
@@ -147,7 +147,7 @@
     },
     {
       "name": "Guri",
-      "caption": "Prince Xizor’s Bodyguard",
+      "caption": "Prince Xizor\u2019s Bodyguard",
       "initiative": 5,
       "limited": 1,
       "cost": 5,
@@ -237,10 +237,13 @@
       "ability": "When you perform an attack against a strained ship, you may remove 1 stress token.",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/princexizor-armedanddangerous.png",
       "shipAbility": {
-        "name" : "Adaptive Microthrusters",
-        "text" : "While you perform a barrel roll, you may spend 1 [charge] to use the [bank left] or [bank right] template instead of the [straight] template."
+        "name": "Adaptive Microthrusters",
+        "text": "While you perform a barrel roll, you may spend 1 [charge] to use the [bank left] or [bank right] template instead of the [straight] template."
       },
-      "charges" : {"value" : 3, "recovers" : 0},
+      "charges": {
+        "value": 3,
+        "recovers": 0
+      },
       "slots": [],
       "standardLoadout": [
         "crimelord-armedanddangerous",
@@ -248,9 +251,9 @@
         "virago-armedanddangerous"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/princexizor-armedanddangerous.png",
-      "standard": "Yes",
-      "extended": "Yes",
-      "epic": "Yes",
+      "standard": true,
+      "extended": true,
+      "epic": true,
       "subtitle": "Armed and Dangerous"
     }
   ]

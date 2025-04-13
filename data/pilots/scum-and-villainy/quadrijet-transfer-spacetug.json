@@ -25,7 +25,7 @@
   "dialCodes": [
     "QUA"
   ],
-  "faction": "scumandvillainy",
+  "faction": "Scum and Villainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -73,8 +73,8 @@
       },
       "slots": [
         "Talent",
-        "Payload",
-        "Payload",
+        "Device",
+        "Device",
         "Illicit",
         "Modification",
         "Tech"
@@ -98,7 +98,7 @@
         "text": "Action: Choose a ship in your [Front Arc] at range 1. That ship gains 1 tractor token, or 2 tractor tokens if it is in your [Bullseye Arc] at range 1."
       },
       "slots": [
-        "Payload",
+        "Device",
         "Illicit"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jakkugunrunner.png",
@@ -122,7 +122,7 @@
       },
       "slots": [
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Illicit",
         "Modification",
@@ -152,7 +152,7 @@
       },
       "slots": [
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Tech"

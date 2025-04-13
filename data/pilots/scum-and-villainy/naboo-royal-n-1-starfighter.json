@@ -21,19 +21,46 @@
     "4FW",
     "5FW"
   ],
-  "dialCodes": ["N1"],
-  "faction": "galacticrepublic",
+  "dialCodes": [
+    "N1"
+  ],
+  "faction": "Scum and Villainy",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 2 },
-    { "type": "hull", "value": 3 },
-    { "type": "shields", "value": 2 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 2
+    },
+    {
+      "type": "hull",
+      "value": 3
+    },
+    {
+      "type": "shields",
+      "value": 2
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "White", "type": "Barrel Roll" },
-    { "difficulty": "White", "type": "Boost" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "type": "Barrel Roll"
+    },
+    {
+      "difficulty": "White",
+      "type": "Boost"
+    }
   ],
   "pilots": [
     {
@@ -58,15 +85,36 @@
         "kinesoswitch-armedanddangerous",
         "calibratedlasertargeting"
       ],
-      "actions": [
-        { "difficulty": "White", "type": "Focus" },
-        { "difficulty": "White", "type": "Lock" },
-        { "difficulty": "White", "type": "Barrel Roll" },
-        { "difficulty": "White", "type": "Boost" },
-        { "difficulty": "White", "type": "Slam", "linked" : {"difficulty" : "Red", "type" : "Lock"} }
-    ],
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Barrel Roll"
+        },
+        {
+          "difficulty": "White",
+          "type": "Boost"
+        },
+        {
+          "difficulty": "White",
+          "type": "Slam",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Lock"
+          }
+        }
+      ],
       "caption": "Armed and Dangerous",
-      "keywords": ["Bounty Hunter"],
+      "keywords": [
+        "Bounty Hunter"
+      ],
       "epic": true
     }
   ],
