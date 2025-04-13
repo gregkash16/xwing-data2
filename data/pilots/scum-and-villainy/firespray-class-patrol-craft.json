@@ -24,7 +24,7 @@
   "dialCodes": [
     "FPC"
   ],
-  "faction": "scumandvillainy",
+  "faction": "Scum and Villainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -263,8 +263,8 @@
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/bobafett-armedanddangerous.png",
       "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bobafett-armedanddangerous.png",
-      "standard": "Yes",
-      "extended": "Yes",
+      "standard": true,
+      "extended": true,
       "keywords": [
         "Bounty Hunter"
       ],
@@ -279,7 +279,7 @@
         { "difficulty": "White", "type": "Lock" },
         { "difficulty": "White", "type": "Boost", "linked" : {"difficulty" : "Red", "type" : "Lock"} }
       ],
-      "epic": "Yes",
+      "epic": true,
       "subtitle": "Armed and Dangerous"
     }
   ]
