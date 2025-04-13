@@ -366,7 +366,7 @@
       {
         "title": "Targeting Relay",
         "type": "Tech",
-        "ability": "After a friendly ship acquires a lock on an enemy ship at range 0-1 of you, you may spend 1 [charge] and gain a stress token. If you do, that friendly ship may gain a calculate token.",
+        "ability": "After a friendly ship acquires a lock on an enemy ship at range 0-1 of you, you may spend 1 [Charge] and gain a stress token. If you do, that friendly ship may gain a calculate token.",
         "charges": {
           "value": 2,
           "recovers": 0
@@ -389,7 +389,7 @@
       {
         "title": "Interference Array",
         "type": "Tech",
-        "ability": "After you coordinate a ship, you may spend 1 [charge]. If you do, assign a jam token to an enemy ship at range 0-1 of the coordinated ship.",
+        "ability": "After you coordinate a ship, you may spend 1 [Charge]. If you do, assign a jam token to an enemy ship at range 0-1 of the coordinated ship.",
         "charges": {
           "value": 2,
           "recovers": 0
@@ -407,12 +407,12 @@
   {
     "name": "Synchronized Handling",
     "limited": 0,
-    "xws": "synchronizedhandling-evacuationofdqar",
+    "xws": "synchronizedhandling-armedanddangerous",
     "sides": [
       {
         "title": "Synchronized Handling",
         "type": "Tech",
-        "ability": "Before you engage, you may spend 1 [charge] to gain a [calculate] token.\n\nAfter you fully execute a turn [[hard turn left]], bank [[bank left]] or Segnor's Loop [[sloop left]] maneuver, recover 1[charge].",
+        "ability": "Before you engage, you may spend 1 [Charge] to gain a [Calculate] token.\n\nAfter you fully execute a turn [[Turn Left]], bank [[Bank Left]] or Segnor's Loop [[Sloop left]] maneuver, recover 1 [Charge].",
         "charges": {
           "value": 1,
           "recovers": 0
