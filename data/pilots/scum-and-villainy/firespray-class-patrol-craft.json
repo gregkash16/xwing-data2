@@ -83,7 +83,7 @@
         "Talent",
         "Cannon",
         "Missile",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Modification",
@@ -109,7 +109,7 @@
       "slots": [
         "Cannon",
         "Missile",
-        "Payload",
+        "Device",
         "Gunner",
         "Illicit"
       ],
@@ -136,7 +136,7 @@
         "Cannon",
         "Missile",
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Title"
@@ -161,7 +161,7 @@
         "Cannon",
         "Missile",
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Title"
@@ -186,7 +186,7 @@
         "Cannon",
         "Missile",
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Title"
@@ -215,7 +215,7 @@
         "Cannon",
         "Missile",
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Modification",
         "Title"
@@ -241,7 +241,7 @@
         "Cannon",
         "Missile",
         "Crew",
-        "Payload",
+        "Device",
         "Illicit",
         "Illicit",
         "Modification",
@@ -269,12 +269,12 @@
         "Bounty Hunter"
       ],
       "standardLoadout": [
-        "homeingbeacon-armedanddangerous",
+        "homingbeacon-armedanddangerous",
         "fennecshand-armedanddangerous",
         "seismiccharges",
         "slavei-swz82"
       ],
-      "actions": [
+      "shipActions": [
         { "difficulty": "White", "type": "Focus" },
         { "difficulty": "White", "type": "Lock" },
         { "difficulty": "White", "type": "Boost", "linked" : {"difficulty" : "Red", "type" : "Lock"} }
