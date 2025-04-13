@@ -52,12 +52,12 @@
       "type": "Focus"
     },
     {
-      "difficulty": "Red",
-      "type": "Reinforce"
-    },
-    {
       "difficulty": "White",
       "type": "Lock"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Reinforce"
     },
     {
       "difficulty": "Red",
@@ -161,9 +161,8 @@
       "ability": "While you perform an attack, if you are at range 0-1 of the defender, you may reroll 1 attack die.",
       "shipAbility": {
         "name": "Winged Reversal",
-        "text": "After you reveal a turn [[hard turn left] or [hard turn right]] maneuver, you may spend 1 [charge], gain 1 strain token and increase its difficulty. If you do, perform that maneuver as a Tallon Roll [[left talon roll] or [right talon roll]] maneuver in the same direction instead."
+        "text": "After you reveal a turn [[Turn Left] or [Turn Right]] maneuver, you may spend 1 [Charge], gain 1 strain token and increase its difficulty. If you do, perform that maneuver as a Tallon Roll [[Tallon Roll Left] or [Tallon Roll Right]] maneuver in the same direction instead."
       },
-      "force": {},
       "charges": {
         "value": 2,
         "recovers": 0
