@@ -328,7 +328,7 @@
       {
         "title": "Threat Sensors",
         "type": "Tech",
-        "ability": "While you defend, if you are not stressed, you may reroll 1 [focus] result.",
+        "ability": "While you defend, if you are not stressed, you may reroll 1 [Focus] result.",
         "slots": [
           "Tech"
         ]
@@ -366,7 +366,7 @@
       {
         "title": "Targeting Relay",
         "type": "Tech",
-        "ability": "After a friendly ship acquires a lock on an enemy ship at range 0-1 of you, you may spend 1 [charge] and gain a stress token. If you do, that friendly ship may gain a calculate token.",
+        "ability": "After a friendly ship acquires a lock on an enemy ship at range 0-1 of you, you may spend 1 [Charge] and gain a stress token. If you do, that friendly ship may gain a calculate token.",
         "charges": {
           "value": 2,
           "recovers": 0
@@ -389,7 +389,7 @@
       {
         "title": "Interference Array",
         "type": "Tech",
-        "ability": "After you coordinate a ship, you may spend 1 [charge]. If you do, assign a jam token to an enemy ship at range 0-1 of the coordinated ship.",
+        "ability": "After you coordinate a ship, you may spend 1 [Charge]. If you do, assign a jam token to an enemy ship at range 0-1 of the coordinated ship.",
         "charges": {
           "value": 2,
           "recovers": 0
@@ -412,7 +412,7 @@
       {
         "title": "Synchronized Handling",
         "type": "Tech",
-        "ability": "Before you engage, you may spend 1 [charge] to gain a [calculate] token.\n\nAfter you fully execute a turn [[hard turn left]], bank [[bank left]] or Segnor's Loop [[sloop left]] maneuver, recover 1[charge].",
+        "ability": "Before you engage, you may spend 1 [Charge] to gain a [Calculate] token.\n\nAfter you fully execute a turn [[Turn Left]], bank [[Bank Left]] or Segnor's Loop [[Sloop Left]] maneuver, recover 1[Charge].",
         "charges": {
           "value": 1,
           "recovers": 0
@@ -435,7 +435,7 @@
       {
         "title": "Primed Overdrive Thrusters",
         "type": "Tech",
-        "ability": "While you perform a red [boost], [barrel roll], or [slam] action, you must use a template 1 speed higher if able. Then, you may gain 1 strain token to remove 1 stress token.",
+        "ability": "While you perform a red [Boost], [Barrel Roll], or [Slam] action, you must use a template 1 speed higher if able. Then, you may gain 1 strain token to remove 1 stress token.",
         "slots": [
           "Tech"
         ]

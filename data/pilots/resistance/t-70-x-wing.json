@@ -609,7 +609,7 @@
       "ability": "After you fully execute a maneuver, if you moved through a friendly ship, you may perform an [Evade] action.",
       "shipAbility": {
         "name": "Adaptive S-Foils",
-        "text": "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."
+        "text": "After you perform a [Roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [Bullseye], you may remove 1 deplete token."
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/caithrenalli-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/caithrenalli-evacuationofdqar.png",
@@ -667,7 +667,7 @@
       "ability": "After you fully execute a blue maneuver, you may choose a friendly ship at range 0-1. If you do, that ship removes 1 stress token.",
       "shipAbility": {
         "name": "Adaptive S-Foils",
-        "text": "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."
+        "text": "After you perform a [Roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [Bullseye], you may remove 1 deplete token."
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/jaycristubbs-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jaycristubbs-evacuationofdqar.png",
@@ -723,7 +723,7 @@
       "ability": "After your perform an action you may spend 1[Charge] to perform a white action, treating it as red.",
       "shipAbility": {
         "name": "Adaptive S-Foils",
-        "text": "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."
+        "text": "After you perform a [Roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [Bullseye], you may remove 1 deplete token."
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/poedameron-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/poedameron-evacuationofdqar.png",
@@ -784,7 +784,7 @@
       "ability": "Setup: Instead of a T-70 X-wing dial, this ship uses an RZ-2 A-wing dial.",
       "shipAbility": {
         "name": "Adaptive S-Foils",
-        "text": "After you perform a [roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [bullseye], you may remove 1 deplete token."
+        "text": "After you perform a [Roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [Bullseye], you may remove 1 deplete token."
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/stomeronistarck-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/stomeronistarck-evacuationofdqar.png",

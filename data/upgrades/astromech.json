@@ -1207,7 +1207,7 @@
       {
         "title": "BB-8",
         "type": "Astromech",
-        "ability": "During the System Phase, you may spend 1[charge] to perform a [barrel roll] or [boost] action.\n\nBefore you engage, you may spend 1[charge] and gain a strain token. If you do, you may remove 1 disarm token.",
+        "ability": "During the System Phase, you may spend 1[Charge] to perform a [Barrel Roll] or [Boost] action.\n\nBefore you engage, you may spend 1[Charge] and gain a strain token. If you do, you may remove 1 disarm token.",
         "slots": [
           "Astromech"
         ],
@@ -1249,7 +1249,7 @@
       {
         "title": "R5-X3",
         "type": "Astromech",
-        "ability": "Before you activate or engage, you may spend 1[charge] to ignore obstacles until the end of this phase.",
+        "ability": "Before you activate or engage, you may spend 1[Charge] to ignore obstacles until the end of this phase.",
         "charges": {
           "value": 2,
           "recovers": 0
@@ -1272,7 +1272,7 @@
       {
         "title": "Black Squadron R4",
         "type": "Astromech",
-        "ability": "After you fully execute a blue maneuver, you may spend 1[charge] to remove all of your stress tokens.",
+        "ability": "After you fully execute a blue maneuver, you may spend 1[Charge] to remove all of your stress tokens.",
         "charges": {
           "value": 2,
           "recovers": 0

@@ -204,7 +204,7 @@
       "ability": "While you defend or perform a primary attack, if the attack is obstructed by an obstacle, you may roll 1 additional die.",
       "shipAbility": {
         "name": "Coaxium Injectors",
-        "text": "After you fully execute a speed 3 or 4 maneuver, you may spend 1 [charge] to perform a red [slam]  action, even while stressed. After you perform a [slam] action, you suffer 1 [crit] unless you expose 1 of your damage cards."
+        "text": "After you fully execute a speed 3 or 4 maneuver, you may spend 1 [Charge] to perform a red [Slam]  action, even while stressed. After you perform a [Slam] action, you suffer 1 [Crit] unless you expose 1 of your damage cards."
       },
       "slots": [],
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/hansolo-armedanddangerous.png",

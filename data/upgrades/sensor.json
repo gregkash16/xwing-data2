@@ -195,7 +195,7 @@
       {
         "title": "Homing Beacon",
         "type": "Sensor",
-        "ability": "While you perform a [lock] action, you may spend 1 [charge] to ignore range restrictions.",
+        "ability": "While you perform a [Lock] action, you may spend 1 [Charge] to ignore range restrictions.",
         "slots": [
           "Sensor"
         ]

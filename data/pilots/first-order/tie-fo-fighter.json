@@ -567,7 +567,7 @@
       "cost": 3,
       "loadout": 0,
       "xws": "zeta5-evacuationofdqar",
-      "ability": "While you perform an attack, if you are not shielded and the defender's initiative is higher than yours, add 1 [focus] result.",
+      "ability": "While you perform an attack, if you are not shielded and the defender's initiative is higher than yours, add 1 [Focus] result.",
       "shipAbility": {
         "name": "Merciless",
         "text": "While you perform an attack, you may choose another friendly ship at range 0-1 of the defender. If you do, that ship gains a strain token and you may reroll a blank result."

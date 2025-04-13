@@ -4253,7 +4253,7 @@
         "slots": [
           "Crew"
         ],
-        "ability": "General Hux: While you perform a white [coordinate] action, if you choose a friendly TIE/fo or TIE/sf, you may treat that action as red. If you do, coordinate up to 2 additional friendly TIE/fo or TIE/sf, and each ship you coordinate must perform the same action, treating it as red."
+        "ability": "General Hux: While you perform a white [Coordinate] action, if you choose a friendly TIE/fo or TIE/sf, you may treat that action as red. If you do, coordinate up to 2 additional friendly TIE/fo or TIE/sf, and each ship you coordinate must perform the same action, treating it as red."
       }
     ],
     "standard": true,
@@ -4266,7 +4266,7 @@
     "xws": "thechild-armedanddangerous",
     "sides": [
       {
-        "ability": "After you defend, if you suffered damage during that attack, recover 1 [force].",
+        "ability": "After you defend, if you suffered damage during that attack, recover 1 [Force].",
         "title": "The Child",
         "type": "Crew",
         "slots": [
@@ -4289,7 +4289,7 @@
     "xws": "chewbacca-armedanddangerous",
     "sides": [
       {
-        "ability": "During the System Phase, you may spend 2 [charges] to repair 1 faceup damage card.",
+        "ability": "During the System Phase, you may spend 2 [Charge] to repair 1 faceup damage card.",
         "title": "Chewbacca",
         "type": "Crew",
         "slots": [
@@ -4312,7 +4312,7 @@
     "xws": "l337-armedanddangerous",
     "sides": [
       {
-        "ability": "While you defend, you may spend 1 [charge]. If you do, the attacker must reroll all attack dice.\n\nIf this [charge] is inactive, decrease the difficulty of your bank [[left bank] and [right bank]] maneuvers.\n\nThis upgrade's [charge] cannot be recovered.",
+        "ability": "While you defend, you may spend 1 [Charge]. If you do, the attacker must reroll all attack dice.\n\nIf this [Charge] is inactive, decrease the difficulty of your bank [[Left Bank] and [Right Bank]] maneuvers.\n\nThis upgrade's [Charge] cannot be recovered.",
         "title": "L3-37",
         "type": "Crew",
         "slots": [
@@ -4335,7 +4335,7 @@
     "xws": "niteowlsentries-armedanddangerous",
     "sides": [
       {
-        "ability": "During the System Phase, you may spend 3[charges]. At the end of the Activation Phase, if this upgrade has 0 active [charges], each enemy ship at range 0-1 of you rolls 1 attack die. On a [hit] or [crit] result it suffers a [hit]. [Keep those in two separate paragraphs]",
+        "ability": "During the System Phase, you may spend 3[Charge]. At the end of the Activation Phase, if this upgrade has 0 active [Charge], each enemy ship at range 0-1 of you rolls 1 attack die. On a [Hit] or [Crit] result it suffers a [Hit]. [Keep Those In Two Separate Paragraphs]",
         "title": "Nite Owl Sentries",
         "type": "Crew",
         "slots": [
@@ -4377,7 +4377,7 @@
     "xws": "todo360-armedanddangerous",
     "sides": [
       {
-        "ability": "During the System Phase, you may spend 1 [charges]. If you do, you may remove 1 stress token to gain 1 strain token and 1 calculate token.",
+        "ability": "During the System Phase, you may spend 1 [Charge]. If you do, you may remove 1 stress token to gain 1 strain token and 1 calculate token.",
         "title": "Todo 360",
         "type": "Crew",
         "slots": [
@@ -4419,7 +4419,7 @@
     "xws": "r0gr-evacuationofdqar",
     "sides": [
       {
-        "ability": "While you have 2 or fewer stress tokens, you may perform [coordinate] and [jam] actions, even while stressed. After you perform a [coordinate] or [jam] action, gain 1 calculate token.",
+        "ability": "While you have 2 or fewer stress tokens, you may perform [Coordinate] and [Jam] actions, even while stressed. After you perform a [Coordinate] or [Jam] action, gain 1 calculate token.",
         "title": "R0-GR",
         "type": "Crew",
         "slots": [
@@ -4438,7 +4438,7 @@
     "xws": "nixjerd-evacuationofdqar",
     "sides": [
       {
-        "ability": "While you perform a [reload] action, you may spend 1 [charge] and gain 1 strain token. If you do, you may recover 1 additional [charge] on a [payload] upgrade.",
+        "ability": "While you perform a [Reload] action, you may spend 1 [Charge] and gain 1 strain token. If you do, you may recover 1 additional [Charge] on a [Payload] upgrade.",
         "title": "Nix Jerd",
         "charges": {
           "value": 2,

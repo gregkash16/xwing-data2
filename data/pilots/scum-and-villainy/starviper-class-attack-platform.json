@@ -238,7 +238,7 @@
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/princexizor-armedanddangerous.png",
       "shipAbility": {
         "name": "Adaptive Microthrusters",
-        "text": "While you perform a barrel roll, you may spend 1 [charge] to use the [bank left] or [bank right] template instead of the [straight] template."
+        "text": "While you perform a barrel roll, you may spend 1 [Charge] to use the [Bank Left] or [Bank Right] template instead of the [Straight] template."
       },
       "charges": {
         "value": 3,

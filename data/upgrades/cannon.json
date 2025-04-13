@@ -309,7 +309,7 @@
     "xws": "flechettecannons-armedanddangerous",
     "sides": [
       {
-        "ability": "Attack: After this attack hits, if the defender is in your [bullseye], the defender gains 1 strain token.",
+        "ability": "Attack: After this attack hits, if the defender is in your [Bullseye Arc], the defender gains 1 strain token.",
         "title": "Flechette Cannons",
         "attack": {
           "arc": "Front Arc",

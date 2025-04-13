@@ -242,14 +242,14 @@
       "loadout": 0,
       "xws": "cadbane-armedanddangerous",
       "slots": [],
-      "ability": "After you perform an attack that hits, you may spend 2 [charges] to transfer 1 of your non-lock red or orange tokens to the defender.",
+      "ability": "After you perform an attack that hits, you may spend 2 [Charge] to transfer 1 of your non-lock red or orange tokens to the defender.",
       "charges": {
         "value": 2,
         "recovers": 1
       },
       "shipAbility": {
         "name": "Dead to Rights",
-        "text": "While you perform an attack, if the defender is in your [bullseye], defense dice cannot be modified using green tokens."
+        "text": "While you perform an attack, if the defender is in your [Bullseye], defense dice cannot be modified using green tokens."
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/cadbane-armedanddangerous.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cadbane-armedanddangerous.png",

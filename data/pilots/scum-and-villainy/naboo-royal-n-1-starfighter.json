@@ -73,7 +73,7 @@
       "cost": 4,
       "loadout": 0,
       "slots": [],
-      "ability": "While you defend or perform an attack, if you are in the [front arc] at range 1-2 of 2 or more enemy ships, you may change 1 of your blank results to a [focus] result.",
+      "ability": "While you defend or perform an attack, if you are in the [Front Arc] at range 1-2 of 2 or more enemy ships, you may change 1 of your blank results to a [Focus] result.",
       "force": {},
       "shipAbility": {
         "name": "Restored Speedster",

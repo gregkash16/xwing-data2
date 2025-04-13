@@ -161,7 +161,7 @@
       "ability": "While you perform a primary attack, you may roll 1 additional attack die. If you do, the defender rolls 1 additional defense die.",
       "shipAbility": {
         "name": "Enduring Limitations",
-        "text": "At the end of the Activation Phase, if you have 3 or more stress tokens, you must remove 1 stress token and suffer 1 [hit] damage."
+        "text": "At the end of the Activation Phase, if you have 3 or more stress tokens, you must remove 1 stress token and suffer 1 [Hit] damage."
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/zuckuss-armedanddangerous.png",
       "slots": [],

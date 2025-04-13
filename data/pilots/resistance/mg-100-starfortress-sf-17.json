@@ -253,10 +253,10 @@
       "initiative": 4,
       "limited": 1,
       "xws": "finchdallow-evacuationofdqar",
-      "ability": "If you would drop a device using a [straight] template and you are not stressed, you may gain 1 stress token to use a [left bank] or [right bank] template of the same speed instead.",
+      "ability": "If you would drop a device using a [Straight] template and you are not stressed, you may gain 1 stress token to use a [Left Bank] or [Right Bank] template of the same speed instead.",
       "shipAbility": {
         "name": "Modular Bombing Magazine",
-        "text": "When you drop a device, you may set the template with its middle line aligned with the hashmark on the base in your [left side arc] or [right side arc]"
+        "text": "When you drop a device, you may set the template with its middle line aligned with the hashmark on the base in your [Left Side Arc] or [Right Side Arc]"
       },
       "standardLoadout": [
         "nixjerd-evacuationofdqar",
@@ -307,10 +307,10 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vennie-evacuationofdqar.png",
       "cost": 6,
       "loadout": 0,
-      "ability": "While you defend, if the attacker is in a friendly ship's [single arc turret], you may change 1 [focus] result to an [evade] result.",
+      "ability": "While you defend, if the attacker is in a friendly ship's [Single Arc Turret], you may change 1 [Focus] result to an [Evade] result.",
       "shipAbility": {
         "name": "Modular Bombing Magazine",
-        "text": "When you drop a device, you may set the template with its middle line aligned with the hashmark on the base in your [left side arc] or [right side arc]"
+        "text": "When you drop a device, you may set the template with its middle line aligned with the hashmark on the base in your [Left Side Arc] or [Right Side Arc]"
       },
       "actions": [],
       "standardLoadout": [
