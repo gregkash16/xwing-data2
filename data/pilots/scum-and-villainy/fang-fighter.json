@@ -304,6 +304,21 @@
         "name": "Concordia Faceoff",
         "text": "While you defend, if the attack range is 1 and you are in the attacker's [Front Arc], change 1 result to an [Evade] result."
       },
+      "shipStats": [
+        {
+          "arc": "Front Arc",
+          "type": "attack",
+          "value": 3
+        },
+        {
+          "type": "agility",
+          "value": 3
+        },
+        {
+          "type": "hull",
+          "value": 5
+        }
+      ],
       "standardLoadout": [
         "fearless",
         "adaptablepowersystems-armedanddangerous",
