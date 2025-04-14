@@ -1594,7 +1594,7 @@
   {
     "name": "Mandalorian Tactics",
     "limited": 0,
-    "xws": "mandaloriantactics-evacuationofdqar",
+    "xws": "mandaloriantactics-armedanddangerous",
     "sides": [
       {
         "title": "Mandalorian Tactics",
@@ -1613,7 +1613,7 @@
   {
     "name": "Crime Lord",
     "limited": 1,
-    "xws": "crimelord-evacuationofdqar",
+    "xws": "crimelord-armedanddangerous",
     "sides": [
       {
         "title": "Crime Lord",
@@ -1634,12 +1634,12 @@
     "standardLoadoutOnly": true
   },
   {
-    "name": "Persistant Tracker",
+    "name": "Persistent Tracker",
     "limited": 0,
-    "xws": "persistanttracker-armedanddangerous",
+    "xws": "persistenttracker-armedanddangerous",
     "sides": [
       {
-        "title": "Persistant Tracker",
+        "title": "Persistent Tracker",
         "type": "Talent",
         "charges": {
       "value": 3,
