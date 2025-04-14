@@ -1070,7 +1070,7 @@
       {
         "title": "Adaptable Power Systems",
         "type": "Modification",
-        "ability": "After you fully execute a red maneuver or perform a red action, you may spend 1 [Charge]. If you do, you may gain 1 deplete token to remove 1 stress token. Before you engage, you may spend 1 [Charge]. If you do, you may gain 1 strain token to remove 1 deplete token.",
+        "ability": "After you fully execute a red maneuver or perform a red action, you may spend 1 [Charge]. If you do, you may gain 1 deplete token to remove 1 stress token.\n\nBefore you engage, you may spend 1 [Charge]. If you do, you may gain 1 strain token to remove 1 deplete token.",
         "slots": [
           "Modification"
         ],
