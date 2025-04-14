@@ -42,7 +42,7 @@
       {
         "title": "Advanced SLAM",
         "type": "Modification",
-        "ability": "After you perform a [Slam] action, if you fully executed the maneuver, you may perform a white action on your action bar, treating that action as red.",
+        "ability": "After you perform a [SLAM] action, if you fully executed the maneuver, you may perform a white action on your action bar, treating that action as red.",
         "slots": [
           "Modification"
         ],
@@ -583,7 +583,7 @@
     "xws": "overdrivethruster",
     "sides": [
       {
-        "ability": "While you perform a red [Boost], [Barrel Roll], or [Slam] action, you must use a template of 1 speed higher, if able.",
+        "ability": "While you perform a red [Boost], [Barrel Roll], or [SLAM] action, you must use a template of 1 speed higher, if able.",
         "title": "Overdrive Thruster",
         "type": "Modification",
         "slots": [
@@ -729,7 +729,7 @@
     "xws": "burnoutthrusters",
     "sides": [
       {
-        "ability": "After you perform a [Slam] action, lose 1 [Charge]. Then you may gain 1 deplete token to remove 1 disarm token. If your [Charge] is inactive, you cannot perform the [Slam] action.",
+        "ability": "After you perform a [SLAM] action, lose 1 [Charge]. Then you may gain 1 deplete token to remove 1 disarm token. If your [Charge] is inactive, you cannot perform the [SLAM] action.",
         "title": "Burnout Thrusters",
         "type": "Modification",
         "slots": [
@@ -1093,7 +1093,7 @@
       {
         "title": "Starboard Thrusters",
         "type": "Modification",
-        "ability": "After you reveal a turn [[Turn Left]] or Segnor's Loop [[Sloop Left]] maneuver,  you may spend 1 [Charge]. If you do, decrease the difficulty of that maneuver. After you execute a white Segnor's Loop [[Sloop Left]], gain 1 strain token.",
+        "ability": "After you reveal a turn [[Turn Left]] or Segnor's Loop [[Segnor's Loop Left]] maneuver,  you may spend 1 [Charge]. If you do, decrease the difficulty of that maneuver. After you execute a white Segnor's Loop [[Segnor's Loop Left]], gain 1 strain token.",
         "slots": [
           "Modification"
         ],
@@ -1116,7 +1116,7 @@
       {
         "title": "Repulsorlift Engines",
         "type": "Modification",
-        "ability": "While you perform a [Barrel Roll] action, you may gain 1 strain token to use the [Left Bank] or [Right Bank] template instead of the [Straight] template.",
+        "ability": "While you perform a [Barrel Roll] action, you may gain 1 strain token to use the [Bank Left] or [Bank Right] template instead of the [Straight] template.",
         "slots": [
           "Modification"
         ]

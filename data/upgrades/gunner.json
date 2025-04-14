@@ -1056,7 +1056,7 @@
       {
         "title": "Tobias Beckett",
         "type": "Gunner",
-        "ability": "While you perform an attack, if you are stressed, you may reroll up to 2 attack dice. Then suffer 1 [Crit] damage if 1 or more of the rerolled results is a [Crit] result.",
+        "ability": "While you perform an attack, if you are stressed, you may reroll up to 2 attack dice. Then suffer 1 [Critical Hit] damage if 1 or more of the rerolled results is a [Critical Hit] result.",
         "slots": [
           "Gunner"
         ]
@@ -1098,7 +1098,7 @@
       {
         "title": "Paige Tico",
         "type": "Gunner",
-        "ability": "While you have exactly 1 disarm token, you can still perform [Single Arc Turret] attacks.\n\nAfter you perform an attack, you may drop a bomb or rotate your [Single Arc Turret] indicator.",
+        "ability": "While you have exactly 1 disarm token, you can still perform [Single Turret Arc] attacks.\n\nAfter you perform an attack, you may drop a bomb or rotate your [Single Turret Arc] indicator.",
         "slots": [
           "Gunner"
         ]
@@ -1117,7 +1117,7 @@
       {
         "title": "Dedicated Gunners",
         "type": "Gunner",
-        "ability": "While you perform a primary attack, if the defender is in your [Single Rotating Arc], you may spend 1 focus token to roll 1 additional attack die.\n\nAfter you perform a primary attack, you may perform a bonus [Single Rotating Arc] attack using a [Single Rotating Arc] you did not already attack from this round.",
+        "ability": "While you perform a primary attack, if the defender is in your [Single Turret Arc], you may spend 1 focus token to roll 1 additional attack die.\n\nAfter you perform a primary attack, you may perform a bonus [Single Turret Arc] attack using a [Single Turret Arc] you did not already attack from this round.",
         "slots": [
           "Gunner",
           "Gunner"

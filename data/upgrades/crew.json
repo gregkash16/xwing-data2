@@ -4312,7 +4312,7 @@
     "xws": "l337-armedanddangerous",
     "sides": [
       {
-        "ability": "While you defend, you may spend 1 [Charge]. If you do, the attacker must reroll all attack dice.\n\nIf this [Charge] is inactive, decrease the difficulty of your bank [[Left Bank] and [Right Bank]] maneuvers.\n\nThis upgrade's [Charge] cannot be recovered.",
+        "ability": "While you defend, you may spend 1 [Charge]. If you do, the attacker must reroll all attack dice.\n\nIf this [Charge] is inactive, decrease the difficulty of your bank [[Bank Left] and [Bank Right]] maneuvers.\n\nThis upgrade's [Charge] cannot be recovered.",
         "title": "L3-37",
         "type": "Crew",
         "slots": [
@@ -4335,7 +4335,7 @@
     "xws": "niteowlsentries-armedanddangerous",
     "sides": [
       {
-        "ability": "During the System Phase, you may spend 3[Charge]. At the end of the Activation Phase, if this upgrade has 0 active [Charge], each enemy ship at range 0-1 of you rolls 1 attack die. On a [Hit] or [Crit] result it suffers a [Hit]. [Keep Those In Two Separate Paragraphs]",
+        "ability": "During the System Phase, you may spend 3[Charge]. At the end of the Activation Phase, if this upgrade has 0 active [Charge], each enemy ship at range 0-1 of you rolls 1 attack die. On a [Hit] or [Critical Hit] result it suffers a [Hit].",
         "title": "Nite Owl Sentries",
         "type": "Crew",
         "slots": [
@@ -4380,15 +4380,15 @@
         "ability": "During the System Phase, you may spend 1 [Charge]. If you do, you may remove 1 stress token to gain 1 strain token and 1 calculate token.",
         "title": "Todo 360",
         "type": "Crew",
+        "charges": {
+                    "value": 2,
+                    "recovers": 0
+        },
         "slots": [
           "Crew"
         ]
       }
     ],
-    "charges": {
-      "value": 2,
-      "recovers": 0
-    },
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
@@ -4438,7 +4438,7 @@
     "xws": "nixjerd-evacuationofdqar",
     "sides": [
       {
-        "ability": "While you perform a [Reload] action, you may spend 1 [Charge] and gain 1 strain token. If you do, you may recover 1 additional [Charge] on a [Payload] upgrade.",
+        "ability": "While you perform a [Reload] action, you may spend 1 [Charge] and gain 1 strain token. If you do, you may recover 1 additional [Charge] on a [Device] upgrade.",
         "title": "Nix Jerd",
         "charges": {
           "value": 2,

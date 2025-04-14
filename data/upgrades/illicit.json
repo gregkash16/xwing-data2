@@ -176,7 +176,7 @@
     "xws": "coaxiumhyperfuel",
     "sides": [
       {
-        "ability": "You can perform the [Slam] action even while stressed. If you do, you suffer 1 [Critical Hit] damage unless you expose 1 of your damage cards. After you partially execute a maneuver, you may expose 1 of your damage cards or suffer 1 [Critical Hit] damage to perform a [Slam] action.",
+        "ability": "You can perform the [SLAM] action even while stressed. If you do, you suffer 1 [Critical Hit] damage unless you expose 1 of your damage cards. After you partially execute a maneuver, you may expose 1 of your damage cards or suffer 1 [Critical Hit] damage to perform a [SLAM] action.",
         "title": "Coaxium Hyperfuel",
         "type": "Illicit",
         "slots": [
@@ -465,7 +465,7 @@
           "recovers": 0
         },
         "type": "Illicit",
-        "ability": "After you perform a [Slam] action, if you fully executed the maneuver, you may spend 1 [Charge] to break all locks assigned to you.",
+        "ability": "After you perform a [SLAM] action, if you fully executed the maneuver, you may spend 1 [Charge] to break all locks assigned to you.",
         "slots": [
           "Illicit"
         ]

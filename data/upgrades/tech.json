@@ -412,7 +412,7 @@
       {
         "title": "Synchronized Handling",
         "type": "Tech",
-        "ability": "Before you engage, you may spend 1 [Charge] to gain a [Calculate] token.\n\nAfter you fully execute a turn [[Turn Left]], bank [[Bank Left]] or Segnor's Loop [[Sloop Left]] maneuver, recover 1[Charge].",
+        "ability": "Before you engage, you may spend 1 [Charge] to gain a [Calculate] token.\n\nAfter you fully execute a turn [[Turn Left]], bank [[Bank Left]] or [[Segnor's Loop Left]] maneuver, recover 1[Charge].",
         "charges": {
           "value": 1,
           "recovers": 0
@@ -435,7 +435,7 @@
       {
         "title": "Primed Overdrive Thrusters",
         "type": "Tech",
-        "ability": "While you perform a red [Boost], [Barrel Roll], or [Slam] action, you must use a template 1 speed higher if able. Then, you may gain 1 strain token to remove 1 stress token.",
+        "ability": "While you perform a red [Boost], [Barrel Roll], or [SLAM] action, you must use a template 1 speed higher if able. Then, you may gain 1 strain token to remove 1 stress token.",
         "slots": [
           "Tech"
         ]
