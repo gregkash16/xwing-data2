@@ -25,7 +25,7 @@
   "dialCodes": [
     "B22"
   ],
-  "faction": "Separatist Alliance",
+  "faction": "separatistalliance",
   "stats": [
     {
       "type": "attack",

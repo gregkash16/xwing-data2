@@ -24,7 +24,7 @@
   "dialCodes": [
     "AW"
   ],
-  "faction": "Rebel Alliance",
+  "faction": "rebelalliance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -438,8 +438,7 @@
         "A-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Jake Farrell",
@@ -466,8 +465,7 @@
         "A-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Shara Bey",
@@ -493,8 +491,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sharabey-rz1awing.png",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sharabey-swz106.png",
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Arvel Crynyd",
@@ -570,8 +567,7 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Tycho Celchu",
@@ -648,8 +644,7 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Gemmer Sojan",
@@ -696,8 +691,7 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     }
   ]
 }

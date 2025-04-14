@@ -24,7 +24,7 @@
   "dialCodes": [
     "Tvn"
   ],
-  "faction": "First Order",
+  "faction": "firstorder",
   "stats": [
     {
       "arc": "Front Arc",
@@ -296,7 +296,6 @@
         "malice",
         "protontorpedoes"
       ],
-      "slots": [],
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/kyloren-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kyloren-evacuationofdqar.png",
       "standard": true,

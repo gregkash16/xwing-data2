@@ -24,7 +24,7 @@
   "dialCodes": [
     "CY"
   ],
-  "faction": "Scum and Villainy",
+  "faction": "scumandvillainy",
   "stats": [
     {
       "arc": "Double Turret Arc",
@@ -204,9 +204,8 @@
       "ability": "While you defend or perform a primary attack, if the attack is obstructed by an obstacle, you may roll 1 additional die.",
       "shipAbility": {
         "name": "Coaxium Injectors",
-        "text": "After you fully execute a speed 3 or 4 maneuver, you may spend 1 [Charge] to perform a red [Slam]  action, even while stressed. After you perform a [Slam] action, you suffer 1 [Crit] unless you expose 1 of your damage cards."
+        "text": "After you fully execute a speed 3 or 4 maneuver, you may spend 1 [Charge] to perform a red [SLAM]  action, even while stressed. After you perform a [SLAM] action, you suffer 1 [Critical Hit] unless you expose 1 of your damage cards."
       },
-      "slots": [],
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/hansolo-armedanddangerous.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/hansolo-armedanddangerous.png",
       "standard": true,
@@ -221,7 +220,6 @@
         "tobiasbeckett-armedanddangerous",
         "landosmillenniumfalcon-armedanddangerous"
       ],
-      "actions": [],
       "epic": true,
       "subtitle": "Armed and Dangerous",
       "shipActions": [

@@ -24,7 +24,7 @@
   "dialCodes": [
     "TPh"
   ],
-  "faction": "Galactic Empire",
+  "faction": "galacticempire",
   "stats": [
     {
       "arc": "Front Arc",
@@ -201,8 +201,7 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "\u201cEcho\u201d",
@@ -230,8 +229,7 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     }
   ]
 }

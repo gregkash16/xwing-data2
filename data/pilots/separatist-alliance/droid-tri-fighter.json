@@ -25,7 +25,7 @@
   "dialCodes": [
     "DTF"
   ],
-  "faction": "Separatist Alliance",
+  "faction": "separatistalliance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -273,8 +273,7 @@
         "Droid"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "DIS-T81",
@@ -301,8 +300,7 @@
         "Droid"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Phlac-Arphocc Prototype",
@@ -329,8 +327,7 @@
         "Droid"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Volan Das",

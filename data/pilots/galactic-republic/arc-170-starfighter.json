@@ -22,7 +22,7 @@
   "dialCodes": [
     "AR"
   ],
-  "faction": "Galactic Republic",
+  "faction": "galacticrepublic",
   "stats": [
     {
       "arc": "Front Arc",
@@ -271,8 +271,7 @@
         "Clone"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "\u201cWolffe\u201d",
@@ -303,8 +302,7 @@
         "Clone"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "\u201cJag\u201d",
@@ -331,8 +329,7 @@
         "Clone"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     }
   ]
 }

@@ -24,7 +24,7 @@
   "dialCodes": [
     "E2A"
   ],
-  "faction": "Galactic Republic",
+  "faction": "galacticrepublic",
   "stats": [
     {
       "type": "attack",
@@ -309,8 +309,7 @@
         "Light Side"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Obi-Wan Kenobi",
@@ -342,8 +341,7 @@
         "Light Side"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Shaak Ti",
@@ -376,8 +374,7 @@
         "Light Side"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Kit Fisto",

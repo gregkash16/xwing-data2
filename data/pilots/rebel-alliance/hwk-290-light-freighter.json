@@ -22,7 +22,7 @@
   "dialCodes": [
     "HK"
   ],
-  "faction": "Rebel Alliance",
+  "faction": "rebelalliance",
   "stats": [
     {
       "arc": "Single Turret Arc",

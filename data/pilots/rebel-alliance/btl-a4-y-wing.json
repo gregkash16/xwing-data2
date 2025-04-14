@@ -22,7 +22,7 @@
   "dialCodes": [
     "YW"
   ],
-  "faction": "Rebel Alliance",
+  "faction": "rebelalliance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -241,8 +241,7 @@
         "Y-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "\u201cDutch\u201d Vander",
@@ -269,8 +268,7 @@
         "Y-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Hol Okand",
@@ -297,8 +295,7 @@
         "Y-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "\u201cPops\u201d Krail",
@@ -325,8 +322,7 @@
         "Y-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "\u201cPops\u201d Krail",
@@ -375,8 +371,7 @@
         "Y-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Horton Salm",
@@ -398,8 +393,7 @@
         "Y-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     }
   ]
 }

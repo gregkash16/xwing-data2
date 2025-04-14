@@ -24,7 +24,7 @@
   "dialCodes": [
     "G1A"
   ],
-  "faction": "Scum and Villainy",
+  "faction": "scumandvillainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -164,8 +164,6 @@
         "text": "At the end of the Activation Phase, if you have 3 or more stress tokens, you must remove 1 stress token and suffer 1 [Hit] damage."
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/zuckuss-armedanddangerous.png",
-      "slots": [],
-      "actions": [],
       "standardLoadout": [
         "persistanttracker-armedanddangerous",
         "tractorbeam",
@@ -199,7 +197,7 @@
         },
         {
           "difficulty": "White",
-          "type": "Jame",
+          "type": "Jam",
           "linked": {
             "difficulty": "Red",
             "type": "Calculate"

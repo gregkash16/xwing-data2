@@ -23,7 +23,7 @@
   "dialCodes": [
     "JM5"
   ],
-  "faction": "Scum and Villainy",
+  "faction": "scumandvillainy",
   "stats": [
     {
       "arc": "Single Turret Arc",
@@ -213,7 +213,6 @@
       "xws": "dengar-armedanddangerous",
       "ability": "After you defend, if the attacker is in your [Front Arc], you may spend 1 [Charge] to perform a bonus attack against the attacker.",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/dengar-armedanddangerous.png",
-      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dengar-armedanddangerous.png",
       "standardLoadout": [
         "r2g8-armedanddangerous",

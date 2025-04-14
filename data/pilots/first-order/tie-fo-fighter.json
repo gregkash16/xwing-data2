@@ -24,7 +24,7 @@
   "dialCodes": [
     "Tfo"
   ],
-  "faction": "First Order",
+  "faction": "firstorder",
   "stats": [
     {
       "arc": "Front Arc",
@@ -437,7 +437,6 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/longshot-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/longshot-evacuationofdqar.png",
-      "slots": [],
       "standardLoadout": [
         "determination-evacuationofdqar",
         "fanatical",
@@ -466,7 +465,6 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/midnight-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/midnight-evacuationofdqar.png",
-      "slots": [],
       "standardLoadout": [
         "determination-evacuationofdqar",
         "targetingsynchronizer",
@@ -495,7 +493,6 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/omega2-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/omega2-evacuationofdqar.png",
-      "slots": [],
       "standardLoadout": [
         "determination-evacuationofdqar",
         "targetingrelay-evacuationofdqar"
@@ -545,7 +542,6 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/scorch-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/scorch-evacuationofdqar.png",
-      "slots": [],
       "standardLoadout": [
         "determination-evacuationofdqar",
         "fanatical",
@@ -574,7 +570,6 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/zeta5-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zeta5-evacuationofdqar.png",
-      "slots": [],
       "standardLoadout": [
         "determination-evacuationofdqar",
         "patternanalyzer",

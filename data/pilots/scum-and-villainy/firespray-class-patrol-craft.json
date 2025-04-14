@@ -24,7 +24,7 @@
   "dialCodes": [
     "FPC"
   ],
-  "faction": "Scum and Villainy",
+  "faction": "scumandvillainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -261,7 +261,6 @@
       "xws": "bobafett-armedanddangerous",
       "ability": "After another friendly ship defends, if you have a lock on the attacker, you may perform a bonus attack against the attacker.",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/bobafett-armedanddangerous.png",
-      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bobafett-armedanddangerous.png",
       "standard": true,
       "extended": true,

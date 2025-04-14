@@ -23,7 +23,7 @@
   "dialCodes": [
     "TB"
   ],
-  "faction": "Galactic Empire",
+  "faction": "galacticempire",
   "stats": [
     {
       "arc": "Front Arc",
@@ -269,8 +269,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Tomax Bren",
@@ -297,8 +296,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "\u201cDeathfire\u201d",
@@ -329,8 +327,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Captain Jonus",
@@ -357,8 +354,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Tomax Bren",
@@ -389,8 +385,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Major Rhymer",
@@ -417,8 +412,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Scimitar 1",
@@ -450,8 +444,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Scimitar 3",
@@ -483,8 +476,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     }
   ]
 }

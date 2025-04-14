@@ -21,7 +21,7 @@
   "dialCodes": [
     "SW"
   ],
-  "faction": "Galactic Empire",
+  "faction": "galacticempire",
   "stats": [
     {
       "arc": "Front Arc",
@@ -196,8 +196,7 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Major Vynder",
@@ -251,8 +250,7 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     }
   ]
 }

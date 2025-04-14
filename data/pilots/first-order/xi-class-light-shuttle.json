@@ -22,7 +22,7 @@
   "dialCodes": [
     "Xi"
   ],
-  "faction": "First Order",
+  "faction": "firstorder",
   "stats": [
     {
       "arc": "Front Arc",

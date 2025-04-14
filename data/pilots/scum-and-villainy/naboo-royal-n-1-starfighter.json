@@ -24,7 +24,7 @@
   "dialCodes": [
     "N1"
   ],
-  "faction": "Scum and Villainy",
+  "faction": "scumandvillainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -72,9 +72,7 @@
       "extended": true,
       "cost": 4,
       "loadout": 0,
-      "slots": [],
       "ability": "While you defend or perform an attack, if you are in the [Front Arc] at range 1-2 of 2 or more enemy ships, you may change 1 of your blank results to a [Focus] result.",
-      "force": {},
       "shipAbility": {
         "name": "Restored Speedster",
         "text": "While you have exactly 1 disarm token, you may perform primary attacks against enemy objects in your [Bullseye Arc]"
@@ -104,7 +102,7 @@
         },
         {
           "difficulty": "White",
-          "type": "Slam",
+          "type": "SLAM",
           "linked": {
             "difficulty": "Red",
             "type": "Lock"

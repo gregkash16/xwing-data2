@@ -24,7 +24,7 @@
   "dialCodes": [
     "YT13"
   ],
-  "faction": "Rebel Alliance",
+  "faction": "rebelalliance",
   "stats": [
     {
       "arc": "Double Turret Arc",
@@ -246,8 +246,7 @@
         "YT-1300"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Lando Calrissian",
@@ -311,8 +310,7 @@
         "YT-1300"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     }
   ]
 }

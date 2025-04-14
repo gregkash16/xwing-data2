@@ -24,7 +24,7 @@
   "dialCodes": [
     "TI"
   ],
-  "faction": "Galactic Empire",
+  "faction": "galacticempire",
   "stats": [
     {
       "arc": "Front Arc",
@@ -384,8 +384,7 @@
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/idenversio-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/idenversio-battleofyavin.png",
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Sigma 4",
@@ -430,8 +429,7 @@
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sigma4-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma4.png",
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Sigma 5",
@@ -476,8 +474,7 @@
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sigma5-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma5.png",
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Sigma 6",
@@ -515,15 +512,14 @@
         "daredevil",
         "afterburners"
       ],
-      "ability": "After you fully execute a speed 3-5 maneuver, you may spend 1 [Charge] to perform a [Slam] action.",
+      "ability": "After you fully execute a speed 3-5 maneuver, you may spend 1 [Charge] to perform a [SLAM] action.",
       "keywords": [
         "TIE"
       ],
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sigma6-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma6.png",
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Sigma 7",
@@ -590,8 +586,7 @@
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sigma7-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma7.png",
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Second Sister",
@@ -653,8 +648,7 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Soontir Fel",
@@ -686,8 +680,7 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Maus Monare",
@@ -714,8 +707,7 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     }
   ]
 }

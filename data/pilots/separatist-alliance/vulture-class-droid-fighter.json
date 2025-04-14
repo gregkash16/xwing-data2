@@ -24,7 +24,7 @@
   "dialCodes": [
     "VDF"
   ],
-  "faction": "Separatist Alliance",
+  "faction": "separatistalliance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -250,8 +250,7 @@
         "Droid"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "DFS-311",
@@ -278,8 +277,7 @@
         "Droid"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Haor Chall Prototype",
@@ -306,8 +304,7 @@
         "Droid"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "The Iron Assembler",

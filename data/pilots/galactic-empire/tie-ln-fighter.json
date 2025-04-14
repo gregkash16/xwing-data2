@@ -23,7 +23,7 @@
   "dialCodes": [
     "TF"
   ],
-  "faction": "Galactic Empire",
+  "faction": "galacticempire",
   "stats": [
     {
       "arc": "Front Arc",
@@ -439,8 +439,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "\u201cDark Curse\u201d",
@@ -477,8 +476,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "\u201cMauler\u201d Mithel",
@@ -515,8 +513,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "\u201cWampa\u201d",
@@ -557,8 +554,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Magna Tolvan",
@@ -630,8 +626,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "\u201cNight Beast\u201d",
@@ -653,8 +648,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Valen Rudor",
@@ -676,8 +670,7 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Lieutenant Hebsly",
@@ -741,8 +734,7 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Scythe 6",
@@ -803,8 +795,7 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Major Mianda",
@@ -872,8 +863,7 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     }
   ]
 }

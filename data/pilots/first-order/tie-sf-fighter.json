@@ -26,7 +26,7 @@
   "dialCodes": [
     "Tsf"
   ],
-  "faction": "First Order",
+  "faction": "firstorder",
   "stats": [
     {
       "arc": "Front Arc",
@@ -279,7 +279,7 @@
       "ability": "At the start of the Engagement Phase, you may acquire a lock on an object at range 1-3 that has a friendly lock. If you do, break a friendly lock on that object.",
       "shipAbility": {
         "name": "Heavy Weapon Turret",
-        "text": "After you perform an action, you may perform a white [Rotate] action. You can only rotate your [Single Turret Arc] arc to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Missiles] upgrades as [Rotating Arc]."
+        "text": "After you perform an action, you may perform a white [Rotate Arc] action. You can only rotate your [Single Turret Arc] arc to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Missile] upgrades as [Single Turret Arc]."
       },
       "shipActions": [
         {
@@ -307,8 +307,6 @@
           }
         }
       ],
-      "slots": [],
-      "charges": {},
       "standardLoadout": [
         "determination-evacuationofdqar",
         "concussionmissiles",
@@ -335,9 +333,8 @@
       "ability": "At the start of the engagement phase, if you have no green tokens, you may spend 1 [Charge] to gain an evade token.",
       "shipAbility": {
         "name": "Heavy Weapon Turret",
-        "text": "After you perform an action, you may perform a white [Rotate] action. You can only rotate your [Single Turret Arc] arc to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Missiles] upgrades as [Rotating Arc]."
+        "text": "After you perform an action, you may perform a white [Rotate Arc] action. You can only rotate your [Single Turret Arc] arc to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Missile] upgrades as [Single Turret Arc]."
       },
-      "slots": [],
       "charges": {
         "value": 2,
         "recovers": 0
@@ -391,12 +388,11 @@
       "cost": 4,
       "loadout": 0,
       "xws": "theta4-evacuationofdqar",
-      "ability": "While an enemy ship in your [Single Rotating Arc] performs an attack you may spend 1 [Charge]. If you do, spend 1 [Charge] from your [Missile] upgrade to choose two attack dice. The attacker must reroll those dice.",
+      "ability": "While an enemy ship in your [Single Turret Arc] performs an attack you may spend 1 [Charge]. If you do, spend 1 [Charge] from your [Missile] upgrade to choose two attack dice. The attacker must reroll those dice.",
       "shipAbility": {
         "name": "Heavy Weapon Turret",
-        "text": "After you perform an action, you may perform a white [Rotate] action. You can only rotate your [Single Turret Arc] arc to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Missiles] upgrades as [Rotating Arc]."
+        "text": "After you perform an action, you may perform a white [Rotate Arc] action. You can only rotate your [Single Turret Arc] arc to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Missile] upgrades as [Single Turret Arc]."
       },
-      "slots": [],
       "shipActions": [
         {
           "difficulty": "White",

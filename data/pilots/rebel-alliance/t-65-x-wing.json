@@ -25,7 +25,7 @@
     "XW",
     "T65"
   ],
-  "faction": "Rebel Alliance",
+  "faction": "rebelalliance",
   "stats": [
     {
       "arc": "Front Arc",
@@ -389,8 +389,7 @@
         "X-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Garven Dreis",
@@ -416,8 +415,7 @@
         "X-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Jek Porkins",
@@ -444,8 +442,7 @@
         "X-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Luke Skywalker",
@@ -480,8 +477,7 @@
         "X-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Wedge Antilles",
@@ -509,8 +505,7 @@
         "X-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Corran Horn",
@@ -593,8 +588,7 @@
         "X-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Jek Porkins",
@@ -617,8 +611,7 @@
         "X-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Wedge Antilles",
@@ -691,8 +684,7 @@
         "X-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Yendor",
@@ -745,8 +737,7 @@
         "X-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Kendy Idele",
@@ -800,8 +791,7 @@
         "X-wing"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     }
   ]
 }

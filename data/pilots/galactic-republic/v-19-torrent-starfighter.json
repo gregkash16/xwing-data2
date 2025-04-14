@@ -24,7 +24,7 @@
   "dialCodes": [
     "V19*"
   ],
-  "faction": "Galactic Republic",
+  "faction": "galacticrepublic",
   "stats": [
     {
       "type": "attack",
@@ -264,8 +264,7 @@
         "Clone"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "\u201cAxe\u201d",
@@ -306,8 +305,7 @@
         "Clone"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "\u201cSlammer\u201d",
@@ -315,7 +313,7 @@
       "xws": "slammer",
       "initiative": 1,
       "limited": 1,
-      "ability": "After you fully execute a maneuver, you may spend 2 [Charge] to peform a [Slam] action, even while stressed.",
+      "ability": "After you fully execute a maneuver, you may spend 2 [Charge] to peform a [SLAM] action, even while stressed.",
       "charges": {
         "value": 2,
         "recovers": 1

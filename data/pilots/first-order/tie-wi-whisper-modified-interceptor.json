@@ -25,7 +25,7 @@
   "dialCodes": [
     "Twi"
   ],
-  "faction": "First Order",
+  "faction": "firstorder",
   "stats": [
     {
       "arc": "Bullseye Arc",

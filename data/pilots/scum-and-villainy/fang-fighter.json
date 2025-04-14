@@ -24,7 +24,7 @@
   "dialCodes": [
     "Fng"
   ],
-  "faction": "Scum and Villainy",
+  "faction": "scumandvillainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -304,7 +304,6 @@
         "name": "Concordia Faceoff",
         "text": "While you defend, if the attack range is 1 and you are in the attacker's [Front Arc], change 1 result to an [Evade] result."
       },
-      "slots": [],
       "standardLoadout": [
         "fearless",
         "adaptablepowersystems-armedanddangerous",

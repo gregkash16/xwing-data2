@@ -23,7 +23,7 @@
   "dialCodes": [
     "Ups"
   ],
-  "faction": "First Order",
+  "faction": "firstorder",
   "stats": [
     {
       "type": "attack",
@@ -266,7 +266,6 @@
         "name": "",
         "text": ""
       },
-      "slots": [],
       "standardLoadout": [
         "generalhux-evacuationofdqar",
         "advancedsensors",

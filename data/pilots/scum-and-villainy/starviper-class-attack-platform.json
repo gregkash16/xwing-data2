@@ -23,7 +23,7 @@
   "dialCodes": [
     "SV"
   ],
-  "faction": "Scum and Villainy",
+  "faction": "scumandvillainy",
   "stats": [
     {
       "arc": "Front Arc",
@@ -244,7 +244,6 @@
         "value": 3,
         "recovers": 0
       },
-      "slots": [],
       "standardLoadout": [
         "crimelord-armedanddangerous",
         "mandalorianoptics",

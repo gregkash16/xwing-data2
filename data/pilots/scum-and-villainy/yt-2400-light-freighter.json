@@ -24,7 +24,7 @@
   "dialCodes": [
     "YT24"
   ],
-  "faction": "Scum and Villainy",
+  "faction": "scumandvillainy",
   "stats": [
     {
       "arc": "Double Turret Arc",
@@ -112,8 +112,7 @@
         "Freighter"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     },
     {
       "name": "Dash Rendar",
@@ -142,8 +141,7 @@
         "Freighter"
       ],
       "epic": true,
-      "loadout": 0,
-      "slots": []
+      "loadout": 0
     }
   ]
 }
