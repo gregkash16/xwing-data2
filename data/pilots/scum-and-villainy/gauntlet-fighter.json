@@ -52,12 +52,12 @@
       "type": "Focus"
     },
     {
-      "difficulty": "Red",
-      "type": "Reinforce"
-    },
-    {
       "difficulty": "White",
       "type": "Lock"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Reinforce"
     },
     {
       "difficulty": "Red",
