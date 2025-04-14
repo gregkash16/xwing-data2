@@ -1037,7 +1037,7 @@
       {
         "title": "Fennec Shand",
         "type": "Gunner",
-        "ability": "While you defend or perform an attack, if you have a lock on the enemy ship, the enemy ship rolls 1 fewer die",
+        "ability": "While you defend or perform an attack, if you have a lock on the enemy ship, the enemy ship rolls 1 fewer die.",
         "slots": [
           "Gunner"
         ]
@@ -1078,7 +1078,7 @@
         "ability": "After you perform a primary attack that hits, you may spend 2 [Charge] to choose an enemy ship at range 0-1 of the defender. If you do, that ship gains a strain token.",
         "charges": {
           "value": 2,
-          "recovers": 0
+          "recovers": 1
         },
         "slots": [
           "Gunner"
