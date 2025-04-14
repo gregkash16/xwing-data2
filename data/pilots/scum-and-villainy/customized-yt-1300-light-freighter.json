@@ -222,6 +222,29 @@
       ],
       "epic": true,
       "subtitle": "Armed and Dangerous",
+      "charges": {
+        "value": 1,
+        "recovers": 0
+      },
+      "shipStats": [
+        {
+          "arc": "Double Turret Arc",
+          "type": "attack",
+          "value": 2
+        },
+        {
+          "type": "agility",
+          "value": 1
+        },
+        {
+          "type": "hull",
+          "value": 8
+        },
+        {
+          "type": "shields",
+          "value": 5
+        }
+      ],
       "shipActions": [
         {
           "difficulty": "White",
