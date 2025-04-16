@@ -178,6 +178,25 @@
       ],
       "epic": true,
       "subtitle": "Armed and Dangerous",
+      "stats": [
+        {
+          "arc": "Front Arc",
+          "type": "attack",
+          "value": 3
+        },
+        {
+          "type": "agility",
+          "value": 1
+        },
+        {
+          "type": "hull",
+          "value": 5
+        },
+        {
+          "type": "shields",
+          "value": 5
+        }
+      ],
       "shipActions": [
         {
           "difficulty": "White",
