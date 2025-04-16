@@ -156,8 +156,7 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Red Squadron Expert",
@@ -185,8 +184,7 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Black Squadron Ace",
@@ -214,8 +212,7 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Ello Asty",

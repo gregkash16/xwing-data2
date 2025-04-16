@@ -157,8 +157,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/knavesquadronescort.png",
       "standard": false,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Rogue Squadron Escort",
@@ -184,8 +183,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/roguesquadronescort.png",
       "standard": false,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     }
   ]
 }

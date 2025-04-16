@@ -206,8 +206,7 @@
       "keywords": [
         "Clone"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Loyalist Volunteer",
@@ -229,8 +228,7 @@
         "Modification",
         "Configuration"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "“Klick”",

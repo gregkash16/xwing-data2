@@ -84,8 +84,7 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Precise Hunter",
@@ -192,8 +191,7 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "DFS-311",

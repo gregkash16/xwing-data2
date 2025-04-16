@@ -242,8 +242,7 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Red Fury Zealot",
@@ -270,8 +269,7 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     }
   ],
   "icon": "???"

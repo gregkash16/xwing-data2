@@ -346,8 +346,7 @@
       "keywords": [
         "Y-wing"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Kijimi Spice Runner",
@@ -376,8 +375,7 @@
       "keywords": [
         "Y-wing"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     }
   ],
   "icon": "???"

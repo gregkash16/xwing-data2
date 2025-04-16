@@ -162,8 +162,7 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Captain Sear",
@@ -202,8 +201,7 @@
       "text": "With its powerful engines, devastating triple laser cannons, and high customizability, the Belbullab-22 is the chosen craft of several elite Separatist Alliance pilots, including the infamous General Grievous.",
       "standard": true,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     }
   ]
 }

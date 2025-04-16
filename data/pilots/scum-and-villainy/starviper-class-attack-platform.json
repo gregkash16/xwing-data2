@@ -93,8 +93,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunassassin.png",
       "standard": false,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Black Sun Enforcer",
@@ -116,8 +115,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunenforcer.png",
       "standard": false,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Dalan Oberos",

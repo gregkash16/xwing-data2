@@ -122,8 +122,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/nusquadronpilot.png",
       "standard": true,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Rho Squadron Pilot",
@@ -143,8 +142,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rhosquadronpilot.png",
       "standard": true,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Lieutenant Karsabi",

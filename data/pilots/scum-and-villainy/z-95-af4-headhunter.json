@@ -75,8 +75,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/binayrepirate.png",
       "standard": true,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Black Sun Soldier",
@@ -95,8 +94,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunsoldier.png",
       "standard": true,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Kaa’to Leeachos",

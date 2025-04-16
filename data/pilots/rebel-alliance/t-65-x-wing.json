@@ -106,8 +106,7 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Cavern Angels Zealot",
@@ -131,8 +130,7 @@
         "Partisan",
         "X-wing"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Edrio Two Tubes",
@@ -313,8 +311,7 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Thane Kyrell",

@@ -102,8 +102,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronscout.png",
       "standard": true,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Bodhi Rook",
@@ -221,8 +220,7 @@
       "keywords": [
         "Partisan"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Saw Gerrera",

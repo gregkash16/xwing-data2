@@ -87,8 +87,7 @@
       ],
       "standard": false,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Cat",

@@ -185,8 +185,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/starkillerbasepilot.png",
       "standard": false,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Lieutenant Tavson",

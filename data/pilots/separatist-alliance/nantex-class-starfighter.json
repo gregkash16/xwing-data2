@@ -77,8 +77,7 @@
       "slots": [
         "Talent"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Sun Fac",
@@ -194,8 +193,7 @@
         "Talent"
       ],
       "xws": "petranakiarenaace",
-      "epic": true,
-      "caption": ""
+      "epic": true
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/separatist-alliance/I_Nantex_Class_Starfighter.png"

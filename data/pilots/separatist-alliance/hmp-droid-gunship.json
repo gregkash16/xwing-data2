@@ -122,8 +122,7 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Geonosian Prototype",
@@ -241,8 +240,7 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/separatist-alliance/I_HMP_Droid_Gunship.png"

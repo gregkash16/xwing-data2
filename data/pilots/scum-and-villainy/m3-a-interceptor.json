@@ -82,8 +82,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cartelspacer.png",
       "standard": true,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Genesis Red",
@@ -250,8 +249,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tansariipointveteran.png",
       "standard": true,
       "extended": true,
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "G4R-G0R V/M",

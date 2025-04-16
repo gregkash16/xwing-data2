@@ -22,20 +22,11 @@ for faction in os.listdir(PILOT_DIR):
         changed = False
 
         for pilot in ship_data.get("pilots", []):
-            subtitle = pilot.pop("subtitle", None)
-            caption = pilot.get("caption", "")
-
-            if subtitle and not caption:
-                pilot["caption"] = subtitle
-                changed = True
-            elif not caption:
-                pilot["caption"] = ""
-                changed = True
-            elif subtitle:
-                # subtitle exists but caption already filled — discard subtitle
+            if "caption" in pilot and pilot["caption"] == "":
+                del pilot["caption"]
                 changed = True
 
         if changed:
             with open(filepath, "w", encoding="utf-8") as f:
                 json.dump(ship_data, f, indent=2, ensure_ascii=False)
-            print(f"Updated: {filepath}")
+            print(f"Cleaned: {filepath}")

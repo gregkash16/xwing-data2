@@ -88,8 +88,7 @@
         "Clone",
         "Y-wing"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Anakin Skywalker",
@@ -331,8 +330,7 @@
         "Clone",
         "Y-wing"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_BTL-B_Ywing.png"

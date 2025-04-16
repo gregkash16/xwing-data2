@@ -220,8 +220,7 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Colicoid Interceptor",
@@ -247,8 +246,7 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "DIS-347",

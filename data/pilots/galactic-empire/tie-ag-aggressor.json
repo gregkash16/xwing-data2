@@ -137,8 +137,7 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     },
     {
       "name": "Sienar Specialist",
@@ -161,8 +160,7 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true,
-      "caption": ""
+      "epic": true
     }
   ]
 }
