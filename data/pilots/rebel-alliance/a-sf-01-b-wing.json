@@ -86,7 +86,8 @@
       "keywords": [
         "B-wing"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Blue Squadron Pilot",
@@ -110,7 +111,8 @@
       "keywords": [
         "B-wing"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Braylen Stramm",
@@ -247,7 +249,7 @@
         "Device",
         "Configuration"
       ],
-      "ability": "After you barrel roll, you may choose 1 friendly ship that is not stressed at range 0-1. That ship gains 1 stress token, then you rotate 180\u00b0.",
+      "ability": "After you barrel roll, you may choose 1 friendly ship that is not stressed at range 0-1. That ship gains 1 stress token, then you rotate 180°.",
       "keywords": [
         "B-wing"
       ],

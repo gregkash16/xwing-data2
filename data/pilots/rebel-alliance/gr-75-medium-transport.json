@@ -96,7 +96,8 @@
         "Cargo",
         "Cargo",
         "Title"
-      ]
+      ],
+      "caption": ""
     },
     {
       "name": "Trebor Zednem",
@@ -113,7 +114,7 @@
       "engagement": 0,
       "xws": "treborzednem-epicsl",
       "slots": [],
-      "subtitle": "Bright Hope"
+      "caption": "Bright Hope"
     }
   ]
 }

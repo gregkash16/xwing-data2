@@ -101,7 +101,8 @@
         "Team",
         "Cargo",
         "Title"
-      ]
+      ],
+      "caption": ""
     },
     {
       "name": "Iden Versio",
@@ -118,7 +119,7 @@
       "engagement": 0,
       "xws": "idenversio-epicsl",
       "slots": [],
-      "subtitle": "Corvus"
+      "caption": "Corvus"
     }
   ]
 }

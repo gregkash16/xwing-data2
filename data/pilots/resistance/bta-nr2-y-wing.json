@@ -249,7 +249,7 @@
       "ability": "After you execute a red basic maneuver or perform a red action, if you have exactly 1 stress token, you may gain 1 strain token to remove that stress token.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/aftabackbar.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/aftabackbar.png",
-      "caption": "\u201cJunior\u201d",
+      "caption": "“Junior”",
       "keywords": [
         "Y-wing"
       ],
@@ -280,14 +280,14 @@
       "ability": "Before you engage, you may choose 1 ship in your firing arc at range 0-1. If you do, transfer 1 green token from that ship to yourself.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/coruskapellim.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/coruskapellim.png",
-      "caption": "\u201cGentleman Flyer\u201d",
+      "caption": "“Gentleman Flyer”",
       "keywords": [
         "Y-wing"
       ],
       "epic": true
     },
     {
-      "name": "C\u2019ai Threnalli",
+      "name": "C’ai Threnalli",
       "xws": "caithrenalli-btanr2ywing",
       "initiative": 2,
       "limited": 1,
@@ -346,7 +346,8 @@
       "keywords": [
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Kijimi Spice Runner",
@@ -375,7 +376,8 @@
       "keywords": [
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     }
   ],
   "icon": "???"

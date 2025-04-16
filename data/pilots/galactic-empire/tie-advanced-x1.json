@@ -158,7 +158,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Tempest Squadron Pilot",
@@ -183,7 +184,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Ved Foslo",

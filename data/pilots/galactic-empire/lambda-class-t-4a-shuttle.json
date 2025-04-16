@@ -66,7 +66,7 @@
   "pilots": [
     {
       "name": "Captain Kagi",
-      "caption": "The Emperor\u2019s Shuttle Pilot",
+      "caption": "The Emperor’s Shuttle Pilot",
       "initiative": 4,
       "limited": 1,
       "cost": 5,
@@ -89,7 +89,7 @@
     },
     {
       "name": "Colonel Jendon",
-      "caption": "Darth Vader\u2019s Shuttle Pilot",
+      "caption": "Darth Vader’s Shuttle Pilot",
       "initiative": 3,
       "limited": 1,
       "cost": 5,
@@ -156,7 +156,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/omicrongrouppilot.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     }
   ]
 }

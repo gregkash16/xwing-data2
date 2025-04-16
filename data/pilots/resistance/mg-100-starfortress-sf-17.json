@@ -87,7 +87,8 @@
       ],
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Cat",
@@ -271,7 +272,6 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "subtitle": "Evacuation of D'Qar",
       "shipActions": [
         {
           "difficulty": "White",
@@ -293,7 +293,8 @@
             "type": "Reinforce"
           }
         }
-      ]
+      ],
+      "caption": "Evacuation of D'Qar"
     },
     {
       "name": "Vennie",
@@ -318,7 +319,6 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "subtitle": "Evacuation of D'Qar",
       "shipActions": [
         {
           "difficulty": "White",
@@ -340,7 +340,8 @@
           "difficulty": "White",
           "type": "Reload"
         }
-      ]
+      ],
+      "caption": "Evacuation of D'Qar"
     }
   ]
 }

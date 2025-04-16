@@ -99,7 +99,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Grand Inquisitor",
@@ -162,7 +163,8 @@
         "Dark Side",
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Seventh Sister",

@@ -153,7 +153,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Torkil Mux",
@@ -246,7 +247,7 @@
       "epic": true
     },
     {
-      "name": "T\u00e1pusk",
+      "name": "Tápusk",
       "xws": "tapusk",
       "initiative": 5,
       "limited": 1,

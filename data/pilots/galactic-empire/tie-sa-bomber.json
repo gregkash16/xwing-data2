@@ -64,7 +64,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEBomber.png",
   "pilots": [
     {
-      "name": "\u201cDeathfire\u201d",
+      "name": "“Deathfire”",
       "caption": "Unflinching Diehard",
       "initiative": 2,
       "limited": 1,
@@ -151,7 +151,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Major Rhymer",
@@ -210,7 +211,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Tomax Bren",
@@ -299,7 +301,7 @@
       "loadout": 0
     },
     {
-      "name": "\u201cDeathfire\u201d",
+      "name": "“Deathfire”",
       "caption": "Obstinate Bombardier",
       "initiative": 2,
       "limited": 1,

@@ -101,7 +101,8 @@
         "Light Side"
       ],
       "loadout": 9,
-      "extended": true
+      "extended": true,
+      "caption": ""
     },
     {
       "name": "Obi-Wan Kenobi",
@@ -286,7 +287,7 @@
     },
     {
       "name": "Ahsoka Tano",
-      "caption": "\u201cSnips\u201d",
+      "caption": "“Snips”",
       "initiative": 3,
       "limited": 1,
       "xws": "ahsokatano-delta7baethersprite",

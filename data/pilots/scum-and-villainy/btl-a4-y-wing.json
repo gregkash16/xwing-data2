@@ -83,7 +83,8 @@
       "keywords": [
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Drea Renthal",
@@ -135,7 +136,8 @@
       "keywords": [
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Kavil",
@@ -239,7 +241,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/amaxinewarrior.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/amaxinewarrior.png",
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Padric",
@@ -291,7 +294,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jinatasecurityofficer.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/jinatasecurityofficer.png",
-      "epic": true
+      "epic": true,
+      "caption": ""
     }
   ]
 }

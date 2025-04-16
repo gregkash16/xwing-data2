@@ -206,7 +206,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Zealous Recruit",
@@ -232,7 +233,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Mandalorian Royal Guard",
@@ -330,8 +332,7 @@
       "keywords": [
         "Mandalorian"
       ],
-      "epic": true,
-      "subtitle": "Armed and Dangerous"
+      "epic": true
     }
   ]
 }

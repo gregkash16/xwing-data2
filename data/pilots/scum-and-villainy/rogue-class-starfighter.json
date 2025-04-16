@@ -201,7 +201,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/outerrimhunter.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Durge",
@@ -263,7 +264,6 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "subtitle": "Armed and Dangerous",
       "shipActions": [
         {
           "difficulty": "White",

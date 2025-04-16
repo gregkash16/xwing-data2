@@ -83,7 +83,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Saber Squadron Ace",
@@ -109,7 +110,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Soontir Fel",

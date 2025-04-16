@@ -89,7 +89,8 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Bombardment Drone",
@@ -201,7 +202,8 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "DBS-32C",

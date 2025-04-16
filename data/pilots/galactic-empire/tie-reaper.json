@@ -64,7 +64,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEReaper.png",
   "pilots": [
     {
-      "name": "\u201cVizier\u201d",
+      "name": "“Vizier”",
       "caption": "Ruthless Tactician",
       "initiative": 2,
       "limited": 1,
@@ -169,7 +169,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     }
   ]
 }

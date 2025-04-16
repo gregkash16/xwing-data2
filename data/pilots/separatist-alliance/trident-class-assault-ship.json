@@ -100,7 +100,8 @@
         "Team",
         "Cargo",
         "Title"
-      ]
+      ],
+      "caption": ""
     },
     {
       "name": "Asajj Ventress",
@@ -117,7 +118,7 @@
       "engagement": 0,
       "xws": "asajjventress-epicsl",
       "slots": [],
-      "subtitle": "Trident"
+      "caption": "Trident"
     }
   ]
 }

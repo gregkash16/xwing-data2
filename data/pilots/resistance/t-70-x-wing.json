@@ -156,7 +156,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Red Squadron Expert",
@@ -184,7 +185,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Black Squadron Ace",
@@ -212,7 +214,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Ello Asty",
@@ -274,7 +277,7 @@
       "epic": true
     },
     {
-      "name": "Kar\u00e9 Kun",
+      "name": "Karé Kun",
       "caption": "Woman of Action",
       "initiative": 4,
       "limited": 1,
@@ -482,7 +485,7 @@
       "epic": true
     },
     {
-      "name": "C\u2019ai Threnalli",
+      "name": "C’ai Threnalli",
       "caption": "Tenacious Survivor",
       "initiative": 4,
       "limited": 1,
@@ -601,7 +604,7 @@
       "epic": true
     },
     {
-      "name": "C\u2019ai Threnalli",
+      "name": "C’ai Threnalli",
       "caption": "Evacuation of D'Qar",
       "initiative": 4,
       "limited": 1,
@@ -627,7 +630,6 @@
         "X-wing"
       ],
       "epic": true,
-      "subtitle": "Evacuation of D'Qar",
       "shipActions": [
         {
           "difficulty": "White",
@@ -680,7 +682,6 @@
         "X-wing"
       ],
       "epic": true,
-      "subtitle": "Evacuation of D'Qar",
       "shipActions": [
         {
           "difficulty": "White",
@@ -739,7 +740,6 @@
         "X-wing"
       ],
       "epic": true,
-      "subtitle": "Evacuation of D'Qar",
       "shipActions": [
         {
           "difficulty": "White",
@@ -793,7 +793,6 @@
         "X-wing"
       ],
       "epic": true,
-      "subtitle": "Evacuation of D'Qar",
       "shipActions": [
         {
           "difficulty": "White",

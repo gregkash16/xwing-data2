@@ -65,7 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_TIEfo.png",
   "pilots": [
     {
-      "name": "\u201cMidnight\u201d",
+      "name": "“Midnight”",
       "caption": "Omega Leader",
       "initiative": 6,
       "limited": 1,
@@ -119,7 +119,7 @@
       "epic": true
     },
     {
-      "name": "\u201cScorch\u201d",
+      "name": "“Scorch”",
       "caption": "Zeta Leader",
       "initiative": 4,
       "limited": 1,
@@ -143,7 +143,7 @@
       "epic": true
     },
     {
-      "name": "\u201cStatic\u201d",
+      "name": "“Static”",
       "caption": "Omega Ace",
       "initiative": 4,
       "limited": 1,
@@ -168,7 +168,7 @@
       "epic": true
     },
     {
-      "name": "\u201cLongshot\u201d",
+      "name": "“Longshot”",
       "caption": "Zeta Ace",
       "initiative": 3,
       "limited": 1,
@@ -212,10 +212,11 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
-      "name": "\u201cMuse\u201d",
+      "name": "“Muse”",
       "caption": "Epsilon Leader",
       "initiative": 2,
       "limited": 1,
@@ -277,7 +278,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Epsilon Squadron Cadet",
@@ -297,7 +299,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Lieutenant Rivas",
@@ -323,7 +326,7 @@
       "epic": true
     },
     {
-      "name": "\u201cNull\u201d",
+      "name": "“Null”",
       "caption": "Epsilon Ace",
       "initiative": 0,
       "limited": 1,
@@ -423,7 +426,7 @@
       "epic": true
     },
     {
-      "name": "\u201cLongshot\u201d",
+      "name": "“Longshot”",
       "caption": "Evacuation of D'Qar",
       "initiative": 3,
       "limited": 1,
@@ -447,11 +450,10 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true,
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true
     },
     {
-      "name": "\u201cMidnight\u201d",
+      "name": "“Midnight”",
       "caption": "Evacuation of D'Qar",
       "initiative": 6,
       "limited": 1,
@@ -475,8 +477,7 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true,
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true
     },
     {
       "name": "Omega 2",
@@ -524,11 +525,10 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true,
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true
     },
     {
-      "name": "\u201cScorch\u201d",
+      "name": "“Scorch”",
       "caption": "Evacuation of D'Qar",
       "initiative": 4,
       "limited": 1,
@@ -552,8 +552,7 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true,
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true
     },
     {
       "name": "Zeta 5",
@@ -580,8 +579,7 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true,
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true
     }
   ]
 }

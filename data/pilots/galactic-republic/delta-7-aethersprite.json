@@ -102,7 +102,8 @@
         "Jedi",
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Obi-Wan Kenobi",
@@ -292,7 +293,7 @@
     },
     {
       "name": "Ahsoka Tano",
-      "caption": "\u201cSnips\u201d",
+      "caption": "“Snips”",
       "initiative": 3,
       "limited": 1,
       "xws": "ahsokatano",

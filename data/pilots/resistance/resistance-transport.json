@@ -94,7 +94,7 @@
       "xws": "pammichnerrogoode",
       "initiative": 3,
       "limited": 1,
-      "caption": "D\u2019Qar Dispatcher",
+      "caption": "D’Qar Dispatcher",
       "standard": true,
       "extended": true,
       "cost": 4,
@@ -158,7 +158,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/logisticsdivisionpilot.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/logisticsdivisionpilot.png",
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Taka Jamoreesa",
@@ -207,8 +208,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/pammichnerrogoode-evacuationofdqar.png",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/pammichnerrogoode-evacuationofdqar.png",
       "caption": "Evacuation of D'Qar",
-      "epic": true,
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/resistance/I_Resistance_Transport.png"

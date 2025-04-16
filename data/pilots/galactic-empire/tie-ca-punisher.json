@@ -71,7 +71,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEPunisher.png",
   "pilots": [
     {
-      "name": "\u201cDeathrain\u201d",
+      "name": "“Deathrain”",
       "caption": "Dexterous Bombardier",
       "initiative": 4,
       "limited": 1,
@@ -98,7 +98,7 @@
       "epic": true
     },
     {
-      "name": "\u201cRedline\u201d",
+      "name": "“Redline”",
       "caption": "Adrenaline Junkie",
       "initiative": 5,
       "limited": 1,
@@ -148,7 +148,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     }
   ]
 }

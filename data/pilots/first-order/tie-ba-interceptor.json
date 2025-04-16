@@ -101,7 +101,7 @@
       "epic": true
     },
     {
-      "name": "\u201cHolo\u201d",
+      "name": "“Holo”",
       "caption": "Trick of the Light",
       "initiative": 5,
       "limited": 1,
@@ -130,7 +130,7 @@
       "epic": true
     },
     {
-      "name": "\u201cEmber\u201d",
+      "name": "“Ember”",
       "caption": "Dying Flame",
       "initiative": 4,
       "limited": 1,
@@ -182,7 +182,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     }
   ]
 }

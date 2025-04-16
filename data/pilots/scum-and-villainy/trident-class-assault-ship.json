@@ -100,7 +100,8 @@
         "Team",
         "Cargo",
         "Title"
-      ]
+      ],
+      "caption": ""
     },
     {
       "name": "Sorc Tormo",
@@ -117,7 +118,7 @@
       "engagement": 0,
       "xws": "sorctormo-epicsl",
       "slots": [],
-      "subtitle": "Nautolan's Revenge"
+      "caption": "Nautolan's Revenge"
     }
   ]
 }

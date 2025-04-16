@@ -60,7 +60,7 @@
   "icon": "???",
   "pilots": [
     {
-      "name": "\u201cKiller\u201d",
+      "name": "“Killer”",
       "caption": "Dependable Closer",
       "initiative": 2,
       "limited": 1,
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "name": "\u201cDrift\u201d",
+      "name": "“Drift”",
       "caption": "CT-1020",
       "initiative": 3,
       "limited": 1,
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "name": "\u201cBoost\u201d",
+      "name": "“Boost”",
       "caption": "CT-4860",
       "initiative": 3,
       "limited": 1,
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "\u201cStub\u201d",
+      "name": "“Stub”",
       "caption": "Scrappy Flier",
       "initiative": 3,
       "limited": 1,
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "\u201cKnack\u201d",
+      "name": "“Knack”",
       "caption": "Incautious Instructor",
       "initiative": 5,
       "limited": 1,
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "name": "\u201cHawk\u201d",
+      "name": "“Hawk”",
       "caption": "Valkyrie 2929",
       "initiative": 4,
       "limited": 1,
@@ -249,7 +249,8 @@
       "epic": true,
       "keywords": [
         "Clone"
-      ]
+      ],
+      "caption": ""
     },
     {
       "name": "Reaper Squadron Scout",
@@ -274,10 +275,11 @@
       "epic": true,
       "keywords": [
         "Clone"
-      ]
+      ],
+      "caption": ""
     },
     {
-      "name": "\u201cSlider\u201d",
+      "name": "“Slider”",
       "caption": "Evasive Aviator",
       "initiative": 4,
       "limited": 1,
@@ -310,7 +312,7 @@
       ]
     },
     {
-      "name": "\u201cWarthog\u201d",
+      "name": "“Warthog”",
       "caption": "Veteran of Kadavo",
       "initiative": 3,
       "limited": 1,

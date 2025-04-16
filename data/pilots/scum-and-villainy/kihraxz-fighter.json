@@ -76,7 +76,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunace.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Captain Jostero",
@@ -117,7 +118,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cartelmarauder.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Graz",

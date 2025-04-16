@@ -119,7 +119,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Emon Azzameen",

@@ -122,7 +122,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Zuckuss",
@@ -177,7 +178,6 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "subtitle": "Armed and Dangerous",
       "stats": [
         {
           "arc": "Front Arc",

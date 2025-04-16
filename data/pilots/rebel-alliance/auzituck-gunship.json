@@ -75,7 +75,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kashyyykdefender.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Lowhhrick",

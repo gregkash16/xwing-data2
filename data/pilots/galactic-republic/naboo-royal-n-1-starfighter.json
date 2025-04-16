@@ -100,7 +100,7 @@
       "epic": true
     },
     {
-      "name": "Ric Oli\u00e9",
+      "name": "Ric Olié",
       "xws": "ricolie",
       "initiative": 5,
       "limited": 1,
@@ -126,7 +126,7 @@
       "epic": true
     },
     {
-      "name": "Padm\u00e9 Amidala",
+      "name": "Padmé Amidala",
       "xws": "padmeamidala",
       "initiative": 4,
       "limited": 1,
@@ -151,7 +151,7 @@
       "epic": true
     },
     {
-      "name": "Dine\u00e9 Ellberger",
+      "name": "Dineé Ellberger",
       "xws": "dineeellberger",
       "caption": "Bravo Five",
       "initiative": 3,
@@ -196,7 +196,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bravoflightofficer.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/bravoflightofficer.png",
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Naboo Handmaiden",

@@ -242,7 +242,8 @@
         "Jedi",
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Yoda",

@@ -99,7 +99,8 @@
         "Cargo",
         "Device",
         "Configuration"
-      ]
+      ],
+      "caption": ""
     }
   ]
 }

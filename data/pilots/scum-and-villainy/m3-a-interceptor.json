@@ -70,7 +70,7 @@
       "cost": 3,
       "loadout": 6,
       "xws": "cartelspacer",
-      "text": "MandalMotors' M3-A \u201cScyk\u201d Interceptor is purchased in large quantities by the Hutt Cartel and the Car'das smugglers due to its low cost and customizability.",
+      "text": "MandalMotors' M3-A “Scyk” Interceptor is purchased in large quantities by the Hutt Cartel and the Car'das smugglers due to its low cost and customizability.",
       "image": "https://infinitearenas.com/xw2/images/pilots/cartelspacer.png",
       "shipAbility": {
         "name": "Weapon Hardpoint",
@@ -82,7 +82,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cartelspacer.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Genesis Red",
@@ -130,8 +131,8 @@
       "epic": true
     },
     {
-      "name": "Laetin A\u2019shera",
-      "caption": "Car\u2019das Enforcer",
+      "name": "Laetin A’shera",
+      "caption": "Car’das Enforcer",
       "initiative": 3,
       "limited": 1,
       "cost": 3,
@@ -249,7 +250,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tansariipointveteran.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "G4R-G0R V/M",

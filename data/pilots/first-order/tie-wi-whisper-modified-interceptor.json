@@ -128,7 +128,7 @@
       "epic": true
     },
     {
-      "name": "\u201cWrath\u201d",
+      "name": "“Wrath”",
       "xws": "wrath",
       "initiative": 5,
       "limited": 1,
@@ -158,7 +158,7 @@
       "epic": true
     },
     {
-      "name": "\u201cNightfall\u201d",
+      "name": "“Nightfall”",
       "xws": "nightfall",
       "initiative": 4,
       "limited": 1,
@@ -187,7 +187,7 @@
       "epic": true
     },
     {
-      "name": "\u201cWhirlwind\u201d",
+      "name": "“Whirlwind”",
       "xws": "whirlwind",
       "initiative": 3,
       "limited": 1,
@@ -242,7 +242,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Red Fury Zealot",
@@ -269,7 +270,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     }
   ],
   "icon": "???"

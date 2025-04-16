@@ -65,7 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_YT-2400.png",
   "pilots": [
     {
-      "name": "\u201cLeebo\u201d",
+      "name": "“Leebo”",
       "caption": "Dry-Witted Droid",
       "initiative": 3,
       "limited": 1,
@@ -205,10 +205,11 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
-      "name": "\u201cLeebo\u201d",
+      "name": "“Leebo”",
       "caption": "Wisdom of Ages",
       "initiative": 3,
       "limited": 1,
@@ -292,7 +293,7 @@
       "epic": true
     },
     {
-      "name": "\u201cLeebo\u201d",
+      "name": "“Leebo”",
       "caption": "He Thinks He's Funny",
       "initiative": 3,
       "limited": 1,

@@ -85,7 +85,8 @@
       "text": "Some ambitious and talented pilots begin their racing careers as ground crew, working around the clock to keep cobbled-together ships in the sky on far-flung worlds like Castilon.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/colossusstationmechanic.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/colossusstationmechanic.png",
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Jarek Yeager",

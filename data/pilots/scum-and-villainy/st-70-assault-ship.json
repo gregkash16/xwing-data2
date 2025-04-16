@@ -184,7 +184,8 @@
       "loadout": 10,
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     }
   ]
 }

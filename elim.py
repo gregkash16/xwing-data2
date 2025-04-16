@@ -1,29 +1,41 @@
-import os
 import json
+import os
 
-# Define the root directory
-root_dir = r'C:\Users\gregk\Documents\GitHub\xwa-points\xwing-data2\data\pilots'
+# Set this to your pilots folder
+PILOT_DIR = r"C:\Users\gregk\Documents\GitHub\xwa-points\xwing-data2\data\pilots"
 
-# Walk through every file in the directory and subdirectories
-for subdir, _, files in os.walk(root_dir):
-    for file in files:
-        if file.endswith('.json'):
-            file_path = os.path.join(subdir, file)
-            with open(file_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
+# Loop through all JSON files in all faction folders
+for faction in os.listdir(PILOT_DIR):
+    faction_dir = os.path.join(PILOT_DIR, faction)
+    if not os.path.isdir(faction_dir):
+        continue
 
-            modified = False
+    for filename in os.listdir(faction_dir):
+        if not filename.endswith(".json"):
+            continue
 
-            # If the file has pilots (it's a ship file), iterate through them
-            if isinstance(data, dict) and 'pilots' in data:
-                for pilot in data['pilots']:
-                    if 'shipAbility' in pilot:
-                        ability = pilot['shipAbility']
-                        if not ability.get('name') or not ability.get('text'):
-                            del pilot['shipAbility']
-                            modified = True
+        filepath = os.path.join(faction_dir, filename)
 
-            if modified:
-                with open(file_path, 'w', encoding='utf-8') as f:
-                    json.dump(data, f, indent=2)
-                print(f'Updated: {file_path}')
+        with open(filepath, "r", encoding="utf-8") as f:
+            ship_data = json.load(f)
+
+        changed = False
+
+        for pilot in ship_data.get("pilots", []):
+            subtitle = pilot.pop("subtitle", None)
+            caption = pilot.get("caption", "")
+
+            if subtitle and not caption:
+                pilot["caption"] = subtitle
+                changed = True
+            elif not caption:
+                pilot["caption"] = ""
+                changed = True
+            elif subtitle:
+                # subtitle exists but caption already filled — discard subtitle
+                changed = True
+
+        if changed:
+            with open(filepath, "w", encoding="utf-8") as f:
+                json.dump(ship_data, f, indent=2, ensure_ascii=False)
+            print(f"Updated: {filepath}")

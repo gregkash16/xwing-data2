@@ -96,7 +96,8 @@
         "Team",
         "Cargo",
         "Cargo"
-      ]
+      ],
+      "caption": ""
     },
     {
       "name": "Oraf Desyk",
@@ -114,7 +115,7 @@
       "engagement": 0,
       "xws": "orafdesyk-epicsl",
       "slots": [],
-      "subtitle": "Hosnian Lament"
+      "caption": "Hosnian Lament"
     }
   ]
 }

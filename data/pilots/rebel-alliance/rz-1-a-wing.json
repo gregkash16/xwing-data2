@@ -120,7 +120,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Jake Farrell",
@@ -174,7 +175,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Wedge Antilles",

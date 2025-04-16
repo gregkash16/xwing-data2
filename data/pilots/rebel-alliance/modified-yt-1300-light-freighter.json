@@ -180,7 +180,8 @@
         "Freighter",
         "YT-1300"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Leia Organa",

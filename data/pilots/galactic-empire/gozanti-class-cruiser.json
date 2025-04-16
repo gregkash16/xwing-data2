@@ -96,7 +96,8 @@
         "Crew",
         "Team",
         "Cargo"
-      ]
+      ],
+      "caption": ""
     },
     {
       "name": "Rik Virgilio",
@@ -113,7 +114,7 @@
       "engagement": 0,
       "xws": "rikvirgilio-epicsl",
       "slots": [],
-      "subtitle": "Blood Crow"
+      "caption": "Blood Crow"
     }
   ]
 }

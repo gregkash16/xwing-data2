@@ -66,7 +66,7 @@
       "cost": 3,
       "loadout": 11,
       "xws": "binayrepirate",
-      "text": "Operating from the Double Worlds, Talus and Tralus, Kath Scarlet's gang of smugglers and pirates would never be described as reputable or dependable\u2014even by other criminals.",
+      "text": "Operating from the Double Worlds, Talus and Tralus, Kath Scarlet's gang of smugglers and pirates would never be described as reputable or dependable—even by other criminals.",
       "image": "https://infinitearenas.com/xw2/images/pilots/binayrepirate.png",
       "slots": [
         "Illicit",
@@ -75,7 +75,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/binayrepirate.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Black Sun Soldier",
@@ -94,10 +95,11 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunsoldier.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
-      "name": "Kaa\u2019to Leeachos",
+      "name": "Kaa’to Leeachos",
       "caption": "Imposing Marauder",
       "initiative": 3,
       "limited": 1,
@@ -121,7 +123,7 @@
       "epic": true
     },
     {
-      "name": "N\u2019dru Suhlak",
+      "name": "N’dru Suhlak",
       "caption": "Hunt Saboteur",
       "initiative": 4,
       "limited": 1,

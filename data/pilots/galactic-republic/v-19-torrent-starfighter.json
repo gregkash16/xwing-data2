@@ -65,7 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_V-19Torrent.png",
   "pilots": [
     {
-      "name": "\u201cKickback\u201d",
+      "name": "“Kickback”",
       "caption": "Blue Four",
       "xws": "kickback",
       "initiative": 4,
@@ -88,7 +88,7 @@
       "epic": true
     },
     {
-      "name": "\u201cOdd Ball\u201d",
+      "name": "“Odd Ball”",
       "caption": "CC-2237",
       "xws": "oddball",
       "initiative": 5,
@@ -112,7 +112,7 @@
       "epic": true
     },
     {
-      "name": "\u201cSwoop\u201d",
+      "name": "“Swoop”",
       "caption": "Blue Six",
       "xws": "swoop",
       "initiative": 3,
@@ -136,7 +136,7 @@
       "epic": true
     },
     {
-      "name": "\u201cAxe\u201d",
+      "name": "“Axe”",
       "caption": "Blue Two",
       "xws": "axe",
       "initiative": 3,
@@ -159,7 +159,7 @@
       "epic": true
     },
     {
-      "name": "\u201cTucker\u201d",
+      "name": "“Tucker”",
       "caption": "Blue Five",
       "xws": "tucker",
       "initiative": 2,
@@ -201,7 +201,8 @@
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Gold Squadron Trooper",
@@ -223,10 +224,11 @@
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
-      "name": "\u201cKickback\u201d",
+      "name": "“Kickback”",
       "caption": "Siege of Coruscant",
       "initiative": 5,
       "limited": 1,
@@ -267,7 +269,7 @@
       "loadout": 0
     },
     {
-      "name": "\u201cAxe\u201d",
+      "name": "“Axe”",
       "caption": "Siege of Coruscant",
       "initiative": 3,
       "limited": 1,
@@ -308,7 +310,7 @@
       "loadout": 0
     },
     {
-      "name": "\u201cSlammer\u201d",
+      "name": "“Slammer”",
       "caption": "Blue Three",
       "xws": "slammer",
       "initiative": 1,

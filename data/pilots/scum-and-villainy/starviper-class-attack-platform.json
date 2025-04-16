@@ -93,7 +93,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunassassin.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Black Sun Enforcer",
@@ -115,7 +116,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunenforcer.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Dalan Oberos",
@@ -125,7 +127,7 @@
       "cost": 4,
       "loadout": 3,
       "xws": "dalanoberos-starviperclassattackplatform",
-      "ability": "After you fully execute a maneuver, you may gain 1 stress token to rotate your ship 90\u00b0.",
+      "ability": "After you fully execute a maneuver, you may gain 1 stress token to rotate your ship 90°.",
       "image": "https://infinitearenas.com/xw2/images/pilots/dalanoberos-starviperclassattackplatform.png",
       "shipAbility": {
         "name": "Microthrusters",
@@ -147,7 +149,7 @@
     },
     {
       "name": "Guri",
-      "caption": "Prince Xizor\u2019s Bodyguard",
+      "caption": "Prince Xizor’s Bodyguard",
       "initiative": 5,
       "limited": 1,
       "cost": 5,

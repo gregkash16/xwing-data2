@@ -155,7 +155,8 @@
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/darkcourier.png",
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "0-66",

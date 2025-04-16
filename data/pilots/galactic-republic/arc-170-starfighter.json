@@ -64,7 +64,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_Arc-170.png",
   "pilots": [
     {
-      "name": "\u201cSinker\u201d",
+      "name": "“Sinker”",
       "caption": "Wolfpack Veteran",
       "initiative": 3,
       "limited": 1,
@@ -91,7 +91,7 @@
       "epic": true
     },
     {
-      "name": "\u201cJag\u201d",
+      "name": "“Jag”",
       "xws": "jag",
       "cost": 5,
       "loadout": 18,
@@ -118,7 +118,7 @@
       "epic": true
     },
     {
-      "name": "\u201cOdd Ball\u201d",
+      "name": "“Odd Ball”",
       "xws": "oddball-arc170starfighter",
       "cost": 5,
       "loadout": 17,
@@ -146,7 +146,7 @@
       "epic": true
     },
     {
-      "name": "\u201cWolffe\u201d",
+      "name": "“Wolffe”",
       "xws": "wolffe",
       "cost": 4,
       "loadout": 4,
@@ -197,7 +197,8 @@
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Squad Seven Veteran",
@@ -220,10 +221,11 @@
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
-      "name": "\u201cOdd Ball\u201d",
+      "name": "“Odd Ball”",
       "caption": "Siege of Coruscant",
       "initiative": 5,
       "limited": 1,
@@ -274,7 +276,7 @@
       "loadout": 0
     },
     {
-      "name": "\u201cWolffe\u201d",
+      "name": "“Wolffe”",
       "caption": "Siege of Coruscant",
       "initiative": 4,
       "limited": 1,
@@ -305,7 +307,7 @@
       "loadout": 0
     },
     {
-      "name": "\u201cJag\u201d",
+      "name": "“Jag”",
       "caption": "Siege of Coruscant",
       "initiative": 3,
       "limited": 1,

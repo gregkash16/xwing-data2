@@ -95,7 +95,8 @@
         "Team",
         "Cargo",
         "Cargo"
-      ]
+      ],
+      "caption": ""
     },
     {
       "name": "Cerra Fellian",
@@ -112,7 +113,7 @@
       "engagement": 0,
       "xws": "cerrafellian-sl",
       "slots": [],
-      "subtitle": "Malefactor"
+      "caption": "Malefactor"
     }
   ]
 }

@@ -185,7 +185,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/starkillerbasepilot.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Lieutenant Tavson",
@@ -271,8 +272,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/pettyofficerthanisson-evacuationofdqar.png",
       "standard": true,
       "extended": true,
-      "epic": true,
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true
     }
   ]
 }

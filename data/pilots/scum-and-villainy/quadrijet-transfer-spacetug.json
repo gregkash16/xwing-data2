@@ -91,7 +91,7 @@
       "cost": 3,
       "loadout": 7,
       "xws": "jakkugunrunner",
-      "text": "The Quadrijet transfer spacetug, commonly called a \u201cQuadjumper,\u201d is nimble in space and atmosphere alike, making it popular among both smugglers and explorers.",
+      "text": "The Quadrijet transfer spacetug, commonly called a “Quadjumper,” is nimble in space and atmosphere alike, making it popular among both smugglers and explorers.",
       "image": "https://infinitearenas.com/xw2/images/pilots/jakkugunrunner.png",
       "shipAbility": {
         "name": "Spacetug Tractor Array",
@@ -104,7 +104,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jakkugunrunner.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Sarco Plank",

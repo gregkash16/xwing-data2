@@ -88,7 +88,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_TIEsf.png",
   "pilots": [
     {
-      "name": "\u201cQuickdraw\u201d",
+      "name": "“Quickdraw”",
       "caption": "Defiant Duelist",
       "initiative": 6,
       "limited": 1,
@@ -122,7 +122,7 @@
       "epic": true
     },
     {
-      "name": "\u201cBackdraft\u201d",
+      "name": "“Backdraft”",
       "caption": "Fiery Fanatic",
       "initiative": 4,
       "limited": 1,
@@ -177,7 +177,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Zeta Squadron Survivor",
@@ -204,7 +205,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Lieutenant LeHuse",
@@ -319,8 +321,7 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true,
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true
     },
     {
       "name": "Theta 3",
@@ -377,8 +378,7 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true,
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true
     },
     {
       "name": "Theta 4",
@@ -427,8 +427,7 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true,
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true
     }
   ]
 }

@@ -65,7 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_TIESilencer.png",
   "pilots": [
     {
-      "name": "\u201cBlackout\u201d",
+      "name": "“Blackout”",
       "xws": "blackout",
       "caption": "Ill-Fated Test Pilot",
       "initiative": 5,
@@ -161,10 +161,11 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
-      "name": "\u201cRecoil\u201d",
+      "name": "“Recoil”",
       "xws": "recoil",
       "caption": "Quantity Over Quality",
       "initiative": 4,
@@ -193,7 +194,7 @@
       "epic": true
     },
     {
-      "name": "\u201cAvenger\u201d",
+      "name": "“Avenger”",
       "xws": "avenger",
       "caption": "Wrathful Wingmate",
       "initiative": 3,
@@ -247,10 +248,11 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
-      "name": "\u201cRush\u201d",
+      "name": "“Rush”",
       "xws": "rush",
       "initiative": 2,
       "limited": 1,
@@ -311,8 +313,7 @@
           "dark"
         ]
       },
-      "epic": true,
-      "subtitle": "Evacuation of D'Qar"
+      "epic": true
     }
   ]
 }

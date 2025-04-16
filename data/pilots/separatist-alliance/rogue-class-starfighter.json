@@ -238,7 +238,8 @@
       ],
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "MagnaGuard Protector",

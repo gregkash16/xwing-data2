@@ -173,7 +173,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Doctor Aphra",
@@ -234,8 +235,7 @@
         "contrabandcybernetics",
         "houndstooth-armedanddangerous"
       ],
-      "epic": true,
-      "subtitle": "Armed and Dangerous"
+      "epic": true
     }
   ]
 }

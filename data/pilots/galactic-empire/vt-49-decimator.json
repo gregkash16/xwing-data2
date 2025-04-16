@@ -113,7 +113,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/patrolleader.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Rear Admiral Chiraneau",
@@ -146,7 +147,7 @@
       "xws": "mornakee",
       "initiative": 4,
       "limited": 1,
-      "caption": "Determined Attach\u00e9",
+      "caption": "Determined Attaché",
       "standard": true,
       "extended": true,
       "slots": [

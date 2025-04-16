@@ -128,7 +128,8 @@
       "text": "The First Order lurks in many bases hidden in shadowy corners of the galaxy, slowly spreading its insidious influence.",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Gideon Hask",

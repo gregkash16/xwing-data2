@@ -66,7 +66,7 @@
   ],
   "pilots": [
     {
-      "name": "\u201cHawk\u201d",
+      "name": "“Hawk”",
       "xws": "hawk",
       "caption": "Valkyrie 2929",
       "initiative": 4,
@@ -102,7 +102,7 @@
       "epic": true
     },
     {
-      "name": "\u201cHound\u201d",
+      "name": "“Hound”",
       "xws": "hound",
       "caption": "Vigilant Tracker",
       "initiative": 2,
@@ -138,7 +138,7 @@
       "epic": true
     },
     {
-      "name": "\u201cWarthog\u201d",
+      "name": "“Warthog”",
       "xws": "warthog",
       "caption": "Veteran of Kadavo",
       "initiative": 3,
@@ -205,10 +205,11 @@
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
-      "name": "\u201cSicko\u201d",
+      "name": "“Sicko”",
       "xws": "sicko",
       "caption": "CT-1127/549",
       "initiative": 2,

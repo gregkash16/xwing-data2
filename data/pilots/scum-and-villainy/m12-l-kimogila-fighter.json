@@ -86,7 +86,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cartelexecutioner.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Dalan Oberos",

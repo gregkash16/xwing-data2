@@ -100,7 +100,8 @@
         "Team",
         "Team",
         "Cargo"
-      ]
+      ],
+      "caption": ""
     },
     {
       "name": "Gideon Hask",
@@ -117,7 +118,7 @@
       "engagement": 0,
       "xws": "gideonhask-sl",
       "slots": [],
-      "subtitle": "Precursor"
+      "caption": "Precursor"
     }
   ]
 }

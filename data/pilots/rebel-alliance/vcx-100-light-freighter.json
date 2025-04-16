@@ -61,7 +61,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_Ghost.png",
   "pilots": [
     {
-      "name": "\u201cChopper\u201d",
+      "name": "“Chopper”",
       "caption": "Spectre-3",
       "initiative": 2,
       "limited": 1,
@@ -209,7 +209,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Alexsandr Kallus",

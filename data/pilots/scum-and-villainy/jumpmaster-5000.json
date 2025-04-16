@@ -86,7 +86,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/contractedscout.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Dengar",

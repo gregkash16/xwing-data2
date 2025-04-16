@@ -92,7 +92,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Onyx Squadron Sentry",
@@ -112,17 +113,18 @@
       },
       "standard": true,
       "extended": true,
-      "text": "The TIE/rb heavy, sometimes called the \u201cbrute\u201d, is designed for operational flexibility. Its heavy armor and capacity to house an integrated MGK-300 droid co-pilot make it an excellent patrol craft.",
+      "text": "The TIE/rb heavy, sometimes called the “brute”, is designed for operational flexibility. Its heavy armor and capacity to house an integrated MGK-300 droid co-pilot make it an excellent patrol craft.",
       "limited": 0,
       "image": "https://infinitearenas.com/xw2/images/pilots/onyxsquadronsentry.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/onyxsquadronsentry.png",
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
-      "name": "\u201cRampage\u201d",
+      "name": "“Rampage”",
       "caption": "Implacable Pursuer",
       "cost": 4,
       "loadout": 12,

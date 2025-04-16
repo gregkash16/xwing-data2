@@ -88,7 +88,8 @@
         "Clone",
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Anakin Skywalker",
@@ -180,7 +181,7 @@
       "epic": true
     },
     {
-      "name": "\u201cOdd Ball\u201d",
+      "name": "“Odd Ball”",
       "xws": "oddball-btlbywing",
       "initiative": 5,
       "limited": 1,
@@ -212,7 +213,7 @@
       "epic": true
     },
     {
-      "name": "\u201cMatchstick\u201d",
+      "name": "“Matchstick”",
       "xws": "matchstick",
       "initiative": 4,
       "limited": 1,
@@ -242,7 +243,7 @@
       "epic": true
     },
     {
-      "name": "\u201cBroadside\u201d",
+      "name": "“Broadside”",
       "xws": "broadside",
       "initiative": 3,
       "limited": 1,
@@ -272,7 +273,7 @@
       "epic": true
     },
     {
-      "name": "\u201cGoji\u201d",
+      "name": "“Goji”",
       "xws": "goji",
       "initiative": 2,
       "limited": 1,
@@ -330,7 +331,8 @@
         "Clone",
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_BTL-B_Ywing.png"

@@ -177,7 +177,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     }
   ]
 }

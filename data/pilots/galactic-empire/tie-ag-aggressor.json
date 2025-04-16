@@ -63,7 +63,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEAggressor.png",
   "pilots": [
     {
-      "name": "\u201cDouble Edge\u201d",
+      "name": "“Double Edge”",
       "caption": "Contingency Planner",
       "initiative": 2,
       "limited": 1,
@@ -137,7 +137,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     },
     {
       "name": "Sienar Specialist",
@@ -160,7 +161,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "caption": ""
     }
   ]
 }

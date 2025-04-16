@@ -100,7 +100,8 @@
         "Illicit",
         "Title",
         "Configuration"
-      ]
+      ],
+      "caption": ""
     },
     {
       "name": "Cikatro Vizago",
@@ -117,7 +118,7 @@
       "engagement": 0,
       "xws": "cikatrovizago-epicsl",
       "slots": [],
-      "subtitle": "Broken Horn"
+      "caption": "Broken Horn"
     }
   ]
 }

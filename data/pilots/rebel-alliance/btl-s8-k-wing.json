@@ -129,7 +129,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wardensquadronpilot.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "caption": ""
     }
   ]
 }
