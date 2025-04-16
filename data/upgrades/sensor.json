@@ -195,6 +195,10 @@
       {
         "title": "Homing Beacon",
         "type": "Sensor",
+        "charges": {
+          "value": 2,
+          "recovers": 0
+        },
         "ability": "While you perform a [lock] action, you may spend 1 [charge] to ignore range restrictions.\n\nAfter you fully execute an advanced maneuver, if there is an enemy ship at range 1-2 in your [Front Arc], you may spend 1 [Charge] to acquire a lock on that ship.",
         "slots": [
           "Sensor"
