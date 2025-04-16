@@ -240,6 +240,25 @@
         "name": "Adaptive Microthrusters",
         "text": "While you perform a barrel roll, you may spend 1 [Charge] to use the [Bank Left] or [Bank Right] template instead of the [Straight] template."
       },
+      "stats": [
+        {
+          "arc": "Front Arc",
+          "type": "attack",
+          "value": 3
+        },
+        {
+          "type": "agility",
+          "value": 3
+        },
+        {
+          "type": "hull",
+          "value": 4
+        },
+        {
+          "type": "shields",
+          "value": 2
+        }
+      ],
       "charges": {
         "value": 3,
         "recovers": 0
