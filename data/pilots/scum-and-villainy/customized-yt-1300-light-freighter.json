@@ -221,7 +221,7 @@
         "landosmillenniumfalcon-armedanddangerous"
       ],
       "epic": true,
-      "subtitle": "Armed and Dangerous",
+      "caption": "Armed and Dangerous",
       "charges": {
         "value": 1,
         "recovers": 0
