@@ -250,13 +250,14 @@
     },
     {
       "name": "Finch Dallow",
+      "caption": "Evacuation of D'Qar",
       "initiative": 4,
       "limited": 1,
       "xws": "finchdallow-evacuationofdqar",
       "ability": "If you would drop a device using a [Straight] template and you are not stressed, you may gain 1 stress token to use a [Bank Left] or [Bank Right] template of the same speed instead.",
       "shipAbility": {
         "name": "Modular Bombing Magazine",
-        "text": "When you drop a device, you may set the template with its middle line aligned with the hashmark on the base in your [Left Arc] or [Right Arc]"
+        "text": "When you drop a device, you may set the template with its middle line aligned with the hashmark on the base in your [Left Arc] or [Right Arc]."
       },
       "standardLoadout": [
         "nixjerd-evacuationofdqar",
@@ -297,6 +298,7 @@
     },
     {
       "name": "Vennie",
+      "caption": "Evacuation of D'Qar",
       "initiative": 2,
       "limited": 1,
       "xws": "vennie-evacuationofdqar",
@@ -308,7 +310,7 @@
       "ability": "While you defend, if the attacker is in a friendly ship's [Single Turret Arc], you may change 1 [Focus] result to an [Evade] result.",
       "shipAbility": {
         "name": "Modular Bombing Magazine",
-        "text": "When you drop a device, you may set the template with its middle line aligned with the hashmark on the base in your [Left Arc] or [Right Arc]"
+        "text": "When you drop a device, you may set the template with its middle line aligned with the hashmark on the base in your [Left Arc] or [Right Arc]."
       },
       "standardLoadout": [
         "perceptivecopilot",
