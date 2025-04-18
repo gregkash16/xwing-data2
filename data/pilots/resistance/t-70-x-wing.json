@@ -712,7 +712,7 @@
       "initiative": 6,
       "limited": 1,
       "xws": "poedameron-evacuationofdqar",
-      "ability": "After your perform an action you may spend 1[Charge] to perform a white action, treating it as red.",
+      "ability": "After your perform an action, you may spend 1[Charge] to perform a white action, treating it as red.",
       "shipAbility": {
         "name": "Adaptive S-Foils",
         "text": "After you perform a [Barrel Roll] action, gain a deplete token. While you perform an attack, before rolling attack dice, if the defender is in your [Bullseye Arc], you may remove 1 deplete token."
