@@ -4253,7 +4253,7 @@
         "slots": [
           "Crew"
         ],
-        "ability": "General Hux: While you perform a white [Coordinate] action, if you choose a friendly TIE/fo or TIE/sf, you may treat that action as red. If you do, coordinate up to 2 additional friendly TIE/fo or TIE/sf, and each ship you coordinate must perform the same action, treating it as red."
+        "ability": "While you perform a white [Coordinate] action, if you choose a friendly TIE/fo or TIE/sf, you may treat that action as red. If you do, coordinate up to 2 additional friendly TIE/fo or TIE/sf, and each ship you coordinate must perform the same action, treating it as red."
       }
     ],
     "standard": true,
