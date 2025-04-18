@@ -329,7 +329,7 @@
       "cost": 4,
       "loadout": 0,
       "xws": "theta3-evacuationofdqar",
-      "ability": "At the start of the engagement phase, if you have no green tokens, you may spend 1 [Charge] to gain an evade token.",
+      "ability": "At the start of the Engagement Phase, if you have no green tokens, you may spend 1 [Charge] to gain an evade token.",
       "shipAbility": {
         "name": "Heavy Weapon Turret",
         "text": "After you perform an action, you may perform a white [Rotate Arc] action. You can only rotate your [Single Turret Arc] arc to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Missile] upgrades as [Single Turret Arc]."
@@ -365,8 +365,8 @@
         }
       ],
       "standardLoadout": [
-        "seekermissiles-swz103",
         "passivesensors",
+        "seekermissiles-swz103",
         "firstorderordnancetech-evacuationofdqar"
       ],
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/theta3-evacuationofdqar.png",
@@ -386,7 +386,7 @@
       "cost": 4,
       "loadout": 0,
       "xws": "theta4-evacuationofdqar",
-      "ability": "While an enemy ship in your [Single Turret Arc] performs an attack you may spend 1 [Charge]. If you do, spend 1 [Charge] from your [Missile] upgrade to choose two attack dice. The attacker must reroll those dice.",
+      "ability": "While an enemy ship in your [Single Turret Arc] performs an attack, you may spend 1 [Charge]. If you do, spend 1 [Charge] from your [Missile] upgrade to choose two attack dice. The attacker must reroll those dice.",
       "shipAbility": {
         "name": "Heavy Weapon Turret",
         "text": "After you perform an action, you may perform a white [Rotate Arc] action. You can only rotate your [Single Turret Arc] arc to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Missile] upgrades as [Single Turret Arc]."
