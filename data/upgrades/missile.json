@@ -473,7 +473,7 @@
     "xws": "seekermissiles-swz103",
     "sides": [
       {
-        "ability": "Attack ([Lock]): During the Modify Attack Dice step, you may spend up to 2 additional [Charge]. Change one [Focus] result to a [Hit] result for each [Charge] spent in this way.",
+        "ability": "Attack ([Lock]): Spend 1 [Charge]. During the Modify Attack Dice step, you may spend up to 2 additional [Charge]. Change one [Focus] result to a [Hit] result for each [Charge] spent in this way.",
         "attack": {
           "arc": "Front Arc",
           "maxrange": 3,
