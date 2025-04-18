@@ -261,6 +261,10 @@
       "cost": 6,
       "loadout": 0,
       "xws": "pettyofficerthanisson-evacuationofdqar",
+      "charges": {
+        "value": 1,
+        "recovers": 1
+      },
       "ability": "During the Activation or Engagement Phase, after a ship in your [Front Arc] at range 0-2 gains 1 deplete or strain token, you may spend 1[Charge]. If you do, that ship gains 1 stress token.",
       "standardLoadout": [
         "generalhux-evacuationofdqar",
