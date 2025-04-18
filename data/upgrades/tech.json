@@ -466,12 +466,12 @@
     "standardLoadoutOnly": true
   },
   {
-    "name": "Precision Holo Targeter",
+    "name": "Precision Holo-Targeter",
     "limited": 0,
     "xws": "precisionholotargeter-evacuationofdqar",
     "sides": [
       {
-        "title": "Precision Holo Targeter",
+        "title": "Precision Holo-Targeter",
         "type": "Tech",
         "ability": "While you perform a primary attack, if you are not in the defender's firing arc, the defender rolls 1 fewer defense die.",
         "slots": [
