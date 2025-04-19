@@ -78,6 +78,7 @@
       "slots": [
         "Talent",
         "Talent",
+        "Sensor",
         "Modification",
         "Modification",
         "Tech"
@@ -103,6 +104,7 @@
       "slots": [
         "Talent",
         "Talent",
+        "Sensor",
         "Missile",
         "Modification",
         "Tech"
@@ -132,8 +134,10 @@
       "slots": [
         "Talent",
         "Talent",
+        "Sensor",
         "Modification",
-        "Tech"
+        "Tech",
+        "Missile"
       ],
       "standard": true,
       "extended": true,
@@ -156,7 +160,7 @@
       "slots": [
         "Talent",
         "Talent",
-        "Cannon",
+        "Sensor",
         "Modification",
         "Tech"
       ],
@@ -180,6 +184,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/longshot.png",
       "slots": [
         "Talent",
+        "Sensor",
         "Modification",
         "Tech",
         "Tech"
@@ -203,6 +208,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/omegasquadronace.png",
       "slots": [
         "Talent",
+        "Sensor",
         "Modification",
         "Modification",
         "Tech"
@@ -226,6 +232,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/muse.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/muse.png",
       "slots": [
+        "Talent",
+        "Sensor",
         "Modification",
         "Tech"
       ],
@@ -248,6 +256,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/tn3465.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tn3465.png",
       "slots": [
+        "Talent",
+        "Sensor",
         "Modification",
         "Tech"
       ],
@@ -269,6 +279,7 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/zetasquadronpilot.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zetasquadronpilot.png",
       "slots": [
+        "Sensor",
         "Modification",
         "Tech"
       ],
@@ -290,6 +301,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/epsilonsquadroncadet.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/epsilonsquadroncadet.png",
       "slots": [
+        "Talent",
+        "Sensor",
+        "Modification",
         "Tech"
       ],
       "standard": true,
@@ -312,6 +326,7 @@
       "ability": "After a ship at range 1-2 gains a red or orange token, if you do not have that ship locked, you may acquire a lock on that ship.",
       "slots": [
         "Talent",
+        "Sensor",
         "Tech",
         "Modification"
       ],
@@ -336,6 +351,8 @@
       "slots": [
         "Talent",
         "Talent",
+        "Sensor",
+        "Modification",
         "Tech",
         "Tech"
       ],
@@ -359,9 +376,10 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantgalek.png",
       "slots": [
         "Talent",
+        "Sensor",
         "Tech",
         "Tech",
-        "Cannon",
+        "Missile",
         "Modification"
       ],
       "standard": true,
@@ -384,8 +402,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dt798.png",
       "slots": [
         "Talent",
+        "Sensor",
         "Tech",
-        "Modification",
         "Modification"
       ],
       "standard": true,
@@ -412,6 +430,7 @@
       "slots": [
         "Talent",
         "Talent",
+        "Sensor",
         "Tech",
         "Modification"
       ],
