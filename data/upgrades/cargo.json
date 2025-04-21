@@ -8,12 +8,12 @@
     "epic": true,
     "sides": [
       {
-        "ability": "While another friendly ship at range 0-1 defends, if it is a smaller size than you, you may spend 1 shield or 2 [Energy] to cancel 1 [Hit] or [Critical Hit] result.",
+        "ability": "While another friendly ship at range 0-1 defends, if it is a smaller size than you, you may spend 1 [Shield] or 2 [Energy] to cancel 1 [Hit] or [Critical Hit] result.",
         "title": "Adaptive Shields",
         "type": "Cargo",
         "slots": ["Cargo"],
-        "image": "https://infinitearenas.com/xw2/images/artwork/upgrades/adaptiveshields.png",
-        "artwork": "https://infinitearenas.com/xw2/images/upgrades/adaptiveshields.png"
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/adaptiveshields.png",
+        "image": "https://infinitearenas.com/xw2/images/upgrades/adaptiveshields.png"
       }
     ],
     "cost": { "value": 5 }
@@ -31,8 +31,8 @@
         "title": "Boosted Scanners",
         "type": "Cargo",
         "slots": ["Cargo"],
-        "image": "https://infinitearenas.com/xw2/images/artwork/upgrades/boostedscanners.png",
-        "artwork": "https://infinitearenas.com/xw2/images/upgrades/boostedscanners.png"
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/boostedscanners.png",
+        "image": "https://infinitearenas.com/xw2/images/upgrades/boostedscanners.png"
       }
     ],
     "cost": { "value": 7 }
@@ -50,8 +50,8 @@
         "title": "Optimized Power Core",
         "type": "Cargo",
         "slots": ["Cargo"],
-        "image": "https://infinitearenas.com/xw2/images/artwork/upgrades/optimizedpowercore.png",
-        "artwork": "https://infinitearenas.com/xw2/images/upgrades/optimizedpowercore.png"
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/optimizedpowercore.png",
+        "image": "https://infinitearenas.com/xw2/images/upgrades/optimizedpowercore.png"
       }
     ],
     "cost": { "value": 6 }
@@ -70,8 +70,8 @@
         "type": "Cargo",
         "slots": ["Cargo"],
         "charges": { "value": 3, "recovers": 0 },
-        "image": "https://infinitearenas.com/xw2/images/artwork/upgrades/tibannareserves.png",
-        "artwork": "https://infinitearenas.com/xw2/images/upgrades/tibannareserves.png"
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/tibannareserves.png",
+        "image": "https://infinitearenas.com/xw2/images/upgrades/tibannareserves.png"
       }
     ],
     "cost": { "value": 3 }
