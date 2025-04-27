@@ -105,20 +105,52 @@
     },
     {
       "name": "Iden Versio",
-      "initiative": 0,
-      "cost": 13,
-      "loadout": 0,
+      "initiative": 8,
+      "engagement": 0,
       "limited": 1,
-      "artwork": "",
-      "image": "",
+      "cost": 13,
+      "xws": "idenversio-epicsl",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/idenversio-epicsl.png",
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/idenversio-epicsl.png",
+      "shipAbility": {
+        "name": "Concentrated Batteries",
+        "text": "While you perform a primary, [Torpedo], or [Missile] attack, if the defender is in your [Bullseye Arc], roll 1 additional die."
+      },
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "White",
+          "type": "Reinforce",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Focus"
+          }    
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Coordinate"
+        },
+        {
+          "difficulty": "White",
+          "type": "Jam"
+        },
+        {
+          "difficulty": "White",
+          "type": "Rotate Arc"
+        }
+      ],
       "text": "",
       "standard": false,
       "extended": false,
       "epic": true,
-      "engagement": 0,
-      "xws": "idenversio-epicsl",
-      "slots": [],
-      "caption": "Corvus"
+      "standardLoadout": ["ruthless", "fanatical-epicsl", "infernosquad-epicsl", "twinmissilelauncher-epicsl", "corvus-epicsl"]
     }
   ]
 }
