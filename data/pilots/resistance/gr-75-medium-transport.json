@@ -84,7 +84,6 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "ability": "In use since the Galactic Civil War, groups within the New Republic still utilize the GR-75 medium transport for supply and aid missions.",
       "engagement": 1,
       "xws": "newrepublicvolunteers",
       "slots": [
@@ -100,21 +99,49 @@
     },
     {
       "name": "Oraf Desyk",
-      "initiative": 0,
-      "cost": 8,
-      "loadout": 0,
+      "caption": "Hosnian Lament",
+      "initiative": 7,
+      "engagement": 1,
       "limited": 1,
+      "cost": 8,
+      "xws": "orafdesyk-epicsl",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/orafdesyk-epicsl.png",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/orafdesyk-epicsl.png",
+      "shipAbility": {
+        "name": "Resupply Craft",
+        "text": "After another friendly ship at range 0-1 performs an action, you may spend 1 [Energy]. If you do, it removes 1 orange or red token, or recovers 1 [Shield]."
+      },
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "White",
+          "type": "Reinforce",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Coordinate"
+          }   
+        },
+        {
+          "difficulty": "Red",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Coordinate"
+        },
+        {
+          "difficulty": "White",
+          "type": "Jam"
+        }
+      ],
       "text": "",
       "standard": false,
       "extended": false,
       "epic": true,
-      "ability": "",
-      "engagement": 0,
-      "xws": "orafdesyk-epicsl",
-      "slots": [],
-      "caption": "Hosnian Lament"
+      "standardLoadout": ["ga75-epicsl", "adaptiveshields", "hosnianlament-epicsl"]
     }
   ]
 }
