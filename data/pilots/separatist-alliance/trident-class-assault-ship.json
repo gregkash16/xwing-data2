@@ -104,20 +104,52 @@
     },
     {
       "name": "Asajj Ventress",
-      "initiative": 0,
-      "cost": 8,
-      "loadout": 0,
+      "caption": "Trident",
+      "initiative": 8,
+      "engagement": 1,
       "limited": 1,
-      "image": "",
-      "artwork": "",
+      "cost": 8,
+      "xws": "asajjventress-epicsl",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/asajjventress-epicsl.png",
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/asajjventress-epicsl.png",
+      "shipAbility": {
+        "name": "Tractor Grasp",
+        "text": "After you perform a Tractor Tentacles attack that hits, the defender gains 1 tractor token."
+      },
+      "force": {
+        "value": 1,
+        "recovers": 1,
+        "side": [
+          "dark"
+        ]
+      },
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "Red",
+          "type": "Evade"
+        },
+        {
+          "difficulty": "White",
+          "type": "Reinforce"
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "Red",
+          "type": "Coordinate"
+        }
+      ],
       "text": "",
       "standard": false,
       "extended": false,
       "epic": true,
-      "engagement": 0,
-      "xws": "asajjventress-epicsl",
-      "slots": [],
-      "caption": "Trident"
+      "standardLoadout": ["aqseriesbattledroids-epicsl", "tractortentacles-epicsl", "drillbeak-epicsl", "trident-epicsl"]
     }
   ]
 }
