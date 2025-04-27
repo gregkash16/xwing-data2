@@ -88,6 +88,7 @@
     {
       "faction": "resistance",
       "ships": [
+        "data/pilots/resistance/cr90-corellian-corvette.json",
         "data/pilots/resistance/gr-75-medium-transport.json",
         "data/pilots/resistance/mg-100-starfortress-sf-17.json",
         "data/pilots/resistance/scavenged-yt-1300.json",
@@ -134,6 +135,7 @@
     {
       "faction": "galacticrepublic",
       "ships": [
+        "data/pilots/galactic-republic/gozanti-class-cruiser.json",
         "data/pilots/galactic-republic/arc-170-starfighter.json",
         "data/pilots/galactic-republic/delta-7-aethersprite.json",
         "data/pilots/galactic-republic/delta-7b-aethersprite.json",
