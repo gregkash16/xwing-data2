@@ -99,20 +99,53 @@
     },
     {
       "name": "Cerra Fellian",
-      "initiative": 0,
-      "cost": 8,
-      "loadout": 0,
+      "caption": "Malefactor",
+      "initiative": 7,
+      "engagement": 1,
       "limited": 1,
-      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cerrafellian-sl.png",
-      "image": "https://infinitearenas.com/xw2/images/pilots/cerrafellian-sl.png",
+      "cost": 8,
+      "xws": "cerrafellian-epicsl",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cerrafellian-epicsl.png",
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/cerrafellian-epicsl.png",
+      "shipAbility": {
+        "name": "Docking Clamps",
+        "text": "You can dock up to 4 small ships."
+      },
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "White",
+          "type": "Reinforce",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Coordinate"
+          }    
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Coordinate"
+        },
+        {
+          "difficulty": "White",
+          "type": "Jam"
+        },
+        {
+          "difficulty": "White",
+          "type": "Rotate Arc"
+        }
+      ],
       "text": "",
       "standard": false,
       "extended": false,
       "epic": true,
-      "engagement": 0,
-      "xws": "cerrafellian-sl",
-      "slots": [],
-      "caption": "Malefactor"
+      "standardLoadout": ["pettyofficerthanisson", "ioncannonbattery-epicsl", "malefactor-epicsl"]
     }
   ]
 }
