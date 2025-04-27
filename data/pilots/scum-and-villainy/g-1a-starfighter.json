@@ -177,7 +177,7 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "stats": [
+      "shipStats": [
         {
           "arc": "Front Arc",
           "type": "attack",
