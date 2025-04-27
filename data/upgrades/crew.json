@@ -4454,5 +4454,255 @@
     "standard": true,
     "extended": true,
     "epic": true
+  },
+  {
+    "name": "Leia Organa",
+    "limited": 1,
+    "xws": "leiaorgana-epicsl",
+    "sides": [
+      {
+        "ability": "After a friendly ship at range 0-3 is destroyed, choose another friendly ship at range 0-3. That ship may perform a [Boost] or [Focus] action.",
+        "title": "Leia Organa",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ]
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
+  },
+  {
+    "name": "C-3PO",
+    "limited": 1,
+    "xws": "c3po-epicsl",
+    "sides": [
+      {
+        "ability": "While you defend, you may gain 1 strain token. If you do, change 1 of your results to an [Evade] result.",
+        "title": "C-3PO",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ]
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
+  },
+  {
+    "name": "R2-D2",
+    "limited": 1,
+    "xws": "r2d2-epicsl",
+    "sides": [
+      {
+        "ability": "At the end of the Engagement Phase, if you are not shielded, you may roll 1 attack die to recover 1 [Shield]. If you do, on a [Hit] result, deal 1 facedown damage card to this ship.",
+        "title": "R2-D2",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ]
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
+  },
+  {
+    "name": "Thrawn",
+    "limited": 1,
+    "xws": "thrawn-epicsl",
+    "sides": [
+      {
+        "ability": "Before an enemy ship at range 0-3 reveals its dial, you may spend 1 [Charge] and choose a number. If the speed on the dial matches your choice, acquire a lock on that ship or recover 1 [Energy].",
+        "title": "Thrawn",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ],
+        "charges": {
+          "value": 1,
+          "recovers": 1
+        }
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
+  },
+  {
+    "name": "Caij Vanda",
+    "limited": 1,
+    "xws": "caijvanda-epicsl",
+    "sides": [
+      {
+        "ability": "While you defend, if the attacker is in your [Front Arc], add 1 [Evade] result.",
+        "title": "Caij Vanda",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ]
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
+  },
+  {
+    "name": "Azmorigan",
+    "limited": 1,
+    "xws": "azmorigan-epicsl",
+    "sides": [
+      {
+        "ability": "After a friendly ship at range 0-3 is destroyed, before that ship is removed, you may equip an [Illicit] upgrade attached to that ship to this one. Recover all charges on it.",
+        "title": "Azmorigan",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ]
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
+  },
+  {
+    "name": "Nien Nunb",
+    "limited": 1,
+    "xws": "niennunb-epicsl",
+    "sides": [
+      {
+        "ability": "Bonus Attack: After performing a primary attack, you may spend 2 [Energy] and 1 [Charge] to perform a bonus primary attack against a different target.",
+        "title": "Nien Nunb",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ],
+        "charges": {
+          "value": 1,
+          "recovers": 1
+        }
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
+  },
+  {
+    "name": "Urcos Furdam",
+    "limited": 1,
+    "xws": "urcosfurdam-epicsl",
+    "sides": [
+      {
+        "ability": "After you perform a blue maneuver, recover 1 [Energy].",
+        "title": "Urcos Furdam",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ]
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
+  },
+  {
+    "name": "GA-75",
+    "limited": 1,
+    "xws": "ga75-epicsl",
+    "sides": [
+      {
+        "ability": "Setup: Before placing forces, you may spend 2 [Charge]. If you do, choose a friendly ship with a Wing Leader upgrade. Assign the It's the Resistance condition to it.",
+        "title": "GA-75",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ],
+        "charges": {
+          "value": 2,
+          "recovers": 1
+        }
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
+  },
+  {
+    "name": "Agent Terex",
+    "limited": 1,
+    "xws": "agentterex-epicsl",
+    "sides": [
+      {
+        "ability": "After an enemy ship is destroyed during an attack, if the attacker is at range 1-2 of you, assign a focus token to them.",
+        "title": "Agent Terex",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ]
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
+  },
+  {
+    "name": "Protectorate Gleb",
+    "limited": 1,
+    "xws": "protectorategleb-epicsl",
+    "sides": [
+      {
+        "ability": "While you defend or perform an attack, during the Modify Dice step, another friendly ship at range 0-2 to you may gain a strain or deplete token. If they do, you may transfer one focus token from that ship to you.",
+        "title": "Protectorate Gleb",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ]
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
+  },
+  {
+    "name": "Bail Organa",
+    "limited": 1,
+    "xws": "bailorgana-epicsl",
+    "sides": [
+      {
+        "ability": "At the start of the Engagement Phase, you may remove a green token from this ship. If you do, up to three other friendly ships at range 0-3 gain that token.",
+        "title": "Bail Organa",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ]
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
+  },
+  {
+    "name": "Clone Commander Cody",
+    "limited": 1,
+    "xws": "clonecommandercody-epicsl",
+    "sides": [
+      {
+        "ability": "After you perform a [Single Turret Arc] attack that missed, if 1 or more [Hit]/[Critical Hit] results were neutralized, the defender gains 1 strain token.",
+        "title": "Clone Commander Cody",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ]
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
+  },
+  {
+    "name": "AQ-Series Battle Droids",
+    "limited": 1,
+    "xws": "aqseriesbattledroids-epicsl",
+    "sides": [
+      {
+        "ability": "After an enemy ship at range 0-2 becomes tractored, assign it a jam token.",
+        "title": "AQ-Series Battle Droids",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ]
+      }
+    ],
+    "standardLoadoutOnly": true,
+    "epic": true
   }
 ]
