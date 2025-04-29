@@ -81,7 +81,8 @@
         "Sensor",
         "Modification",
         "Modification",
-        "Tech"
+        "Tech",
+        "Missile"
       ],
       "standard": true,
       "extended": true,
