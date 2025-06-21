@@ -142,7 +142,7 @@
       "standard": true,
       "extended": true,
       "cost": 3,
-      "loadout": 5,
+      "loadout": 8,
       "slots": [
         "Tech",
         "Missile",
@@ -174,7 +174,7 @@
       "standard": true,
       "extended": true,
       "cost": 3,
-      "loadout": 6,
+      "loadout": 8,
       "slots": [
         "Tech",
         "Turret",
@@ -204,7 +204,7 @@
       "standard": true,
       "extended": true,
       "cost": 3,
-      "loadout": 6,
+      "loadout": 8,
       "slots": [
         "Tech",
         "Turret",
@@ -267,7 +267,7 @@
       "standard": true,
       "extended": true,
       "cost": 3,
-      "loadout": 7,
+      "loadout": 9,
       "slots": [
         "Tech",
         "Turret",
@@ -360,7 +360,7 @@
       "standard": true,
       "extended": true,
       "cost": 3,
-      "loadout": 8,
+      "loadout": 10,
       "slots": [
         "Tech",
         "Turret",

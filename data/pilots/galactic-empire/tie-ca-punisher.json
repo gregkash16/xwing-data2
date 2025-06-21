@@ -103,7 +103,7 @@
       "initiative": 5,
       "limited": 1,
       "cost": 6,
-      "loadout": 20,
+      "loadout": 26,
       "xws": "redline",
       "ability": "You can maintain up to 2 locks. After you perform an action, you may acquire a lock.",
       "slots": [

@@ -108,8 +108,8 @@
         "Modification",
         "Title"
       ],
-      "cost": 4,
-      "loadout": 20,
+      "cost": 3,
+      "loadout": 6,
       "ability": "While you have 2 or fewer stress tokens, if you are damaged, you can execute red basic maneuvers even while stressed; if you are critically damaged, you can execute red advanced maneuvers even while stressed.",
       "caption": "Too Old for This",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jarekyeager.png",
@@ -139,7 +139,7 @@
       ],
       "ability": "While you defend or perform a primary attack, if the enemy ship's initiative is higher than the number of damage cards you have, you may roll 1 additional die.",
       "cost": 4,
-      "loadout": 13,
+      "loadout": 16,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kazudaxiono.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/kazudaxiono.png",
       "epic": true
