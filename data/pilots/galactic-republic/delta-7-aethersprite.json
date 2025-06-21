@@ -126,7 +126,7 @@
       "standard": true,
       "extended": true,
       "cost": 5,
-      "loadout": 10,
+      "loadout": 9,
       "slots": [
         "Force Power",
         "Force Power",
@@ -273,8 +273,8 @@
       "standard": true,
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/anakinskywalker.png",
-      "cost": 5,
-      "loadout": 5,
+      "cost": 6,
+      "loadout": 12,
       "slots": [
         "Force Power",
         "Force Power",
@@ -312,7 +312,7 @@
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/ahsokatano.png",
       "cost": 4,
-      "loadout": 8,
+      "loadout": 7,
       "slots": [
         "Force Power",
         "Configuration",
@@ -348,7 +348,7 @@
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/barrissoffee.png",
       "cost": 4,
-      "loadout": 11,
+      "loadout": 9,
       "slots": [
         "Force Power",
         "Configuration",
@@ -421,7 +421,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/adigallia.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/adigallia.png",
       "cost": 5,
-      "loadout": 12,
+      "loadout": 6,
       "slots": [
         "Force Power",
         "Force Power",

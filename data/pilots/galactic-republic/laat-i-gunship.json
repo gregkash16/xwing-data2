@@ -71,7 +71,7 @@
       "caption": "Valkyrie 2929",
       "initiative": 4,
       "cost": 5,
-      "loadout": 16,
+      "loadout": 10,
       "charges": {
         "value": 2,
         "recovers": 1
@@ -107,7 +107,7 @@
       "caption": "Vigilant Tracker",
       "initiative": 2,
       "cost": 5,
-      "loadout": 16,
+      "loadout": 14,
       "charges": {
         "value": 2,
         "recovers": 1
@@ -213,7 +213,7 @@
       "caption": "CT-1127/549",
       "initiative": 2,
       "cost": 5,
-      "loadout": 16,
+      "loadout": 12,
       "charges": {
         "value": 2,
         "recovers": 1

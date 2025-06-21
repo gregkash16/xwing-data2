@@ -88,7 +88,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 4,
-      "loadout": 11,
+      "loadout": 13,
       "xws": "cadbane-separatistalliance",
       "slots": [
         "Cannon",
@@ -246,7 +246,7 @@
       "initiative": 4,
       "limited": 2,
       "cost": 4,
-      "loadout": 9,
+      "loadout": 6,
       "xws": "magnaguardprotector",
       "slots": [
         "Cannon",
@@ -431,8 +431,8 @@
       "caption": "On His Own Time",
       "initiative": 5,
       "limited": 1,
-      "cost": 5,
-      "loadout": 16,
+      "cost": 4,
+      "loadout": 6,
       "charges": {
         "value": 1,
         "recovers": 0

@@ -265,7 +265,7 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 5,
+      "loadout": 9,
       "slots": [
         "Talent",
         "Modification",

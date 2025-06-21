@@ -225,7 +225,7 @@
       "standard": true,
       "extended": true,
       "cost": 7,
-      "loadout": 18,
+      "loadout": 14,
       "slots": [
         "Talent",
         "Talent",
@@ -263,7 +263,7 @@
         "recovers": 1
       },
       "cost": 9,
-      "loadout": 8,
+      "loadout": 5,
       "slots": [
         "Force Power",
         "Tech",

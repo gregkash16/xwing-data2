@@ -93,8 +93,8 @@
     {
       "name": "“Jag”",
       "xws": "jag",
-      "cost": 4,
-      "loadout": 7,
+      "cost": 5,
+      "loadout": 18,
       "slots": [
         "Torpedo",
         "Astromech",
@@ -149,7 +149,7 @@
       "name": "“Wolffe”",
       "xws": "wolffe",
       "cost": 4,
-      "loadout": 6,
+      "loadout": 4,
       "slots": [
         "Talent",
         "Torpedo",
@@ -313,7 +313,7 @@
         "name": "Born for This",
         "text": "While another friendly ship at range 0-2 defends, if you are not strained, it may spend your focus and evade tokens as if that ship has them. If it does, you gain 1 strain token."
       },
-      "cost": 5,
+      "cost": 4,
       "xws": "jag-siegeofcoruscant",
       "ability": "After a friendly ship at range 0-2 in your [Left Arc] or [Right Arc] performs an attack, if you are not strained, you may acquire a lock on the defender.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/jag-siegeofcoruscant.png",

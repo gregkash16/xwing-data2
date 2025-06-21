@@ -79,7 +79,7 @@
       "standard": true,
       "extended": true,
       "cost": 8,
-      "loadout": 25,
+      "loadout": 21,
       "image": "https://infinitearenas.com/xw2/images/pilots/jangofett.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jangofett.png",
       "slots": [
@@ -116,7 +116,7 @@
         "recovers": 0
       },
       "cost": 8,
-      "loadout": 20,
+      "loadout": 17,
       "image": "https://infinitearenas.com/xw2/images/pilots/zamwesell.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zamwesell.png",
       "slots": [
@@ -144,7 +144,7 @@
       "extended": true,
       "ability": "While you defend, if there are no other friendly ships at range 0-2, you may change 1 of your blank results to a [Focus] result.",
       "cost": 6,
-      "loadout": 10,
+      "loadout": 5,
       "image": "https://infinitearenas.com/xw2/images/pilots/bobafett-separatistalliance.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bobafett-separatistalliance.png",
       "slots": [

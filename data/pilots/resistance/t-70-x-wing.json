@@ -143,8 +143,8 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/bluesquadronrookie.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronrookie.png",
-      "cost": 4,
-      "loadout": 7,
+      "cost": 5,
+      "loadout": 13,
       "slots": [
         "Astromech",
         "Modification",
@@ -198,8 +198,8 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/blacksquadronace-t70xwing.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksquadronace-t70xwing.png",
-      "cost": 5,
-      "loadout": 15,
+      "cost": 4,
+      "loadout": 2,
       "slots": [
         "Talent",
         "Astromech",
@@ -226,7 +226,7 @@
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
       "cost": 5,
-      "loadout": 15,
+      "loadout": 12,
       "slots": [
         "Talent",
         "Talent",
@@ -462,8 +462,8 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 4,
-      "loadout": 7,
+      "cost": 5,
+      "loadout": 12,
       "slots": [
         "Talent",
         "Astromech",

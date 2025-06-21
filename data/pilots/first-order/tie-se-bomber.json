@@ -183,8 +183,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 7,
+      "cost": 4,
+      "loadout": 16,
       "slots": [
         "Tech",
         "Talent",

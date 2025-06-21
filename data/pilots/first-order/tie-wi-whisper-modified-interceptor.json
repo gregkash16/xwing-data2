@@ -96,8 +96,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 5,
-      "loadout": 12,
+      "cost": 6,
+      "loadout": 20,
       "slots": [
         "Force Power",
         "Force Power",
@@ -169,7 +169,7 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 11,
+      "loadout": 8,
       "slots": [
         "Talent",
         "Missile",
@@ -257,7 +257,7 @@
       "standard": true,
       "extended": true,
       "cost": 3,
-      "loadout": 7,
+      "loadout": 8,
       "slots": [
         "Talent",
         "Tech",

@@ -134,7 +134,7 @@
       "xws": "r2d2",
       "caption": "Bucket of Bolts",
       "cost": 3,
-      "loadout": 10,
+      "loadout": 8,
       "limited": 1,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/r2d2.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/r2d2.png",
@@ -257,7 +257,7 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/broadside.png",
       "ability": "While you perform a [Single Turret Arc] attack, if your [Single Turret Arc] indicator is in your [Left Arc] or [Right Arc], you may change 1 blank result to a [Focus] result.",
       "cost": 3,
-      "loadout": 8,
+      "loadout": 6,
       "slots": [
         "Talent",
         "Turret",
@@ -286,8 +286,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/goji.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/goji.png",
       "ability": "While a friendly ship at range 0-3 defends, it may roll 1 additional defense die for each friendly bomb at range 0-1 of it.",
-      "cost": 3,
-      "loadout": 8,
+      "cost": 4,
+      "loadout": 16,
       "slots": [
         "Talent",
         "Turret",

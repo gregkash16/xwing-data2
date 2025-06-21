@@ -149,7 +149,7 @@
       "extended": true,
       "ability": "Setup: After placing forces, assign the Fearful Prey condition to 1 enemy ship.",
       "cost": 3,
-      "loadout": 5,
+      "loadout": 3,
       "image": "https://infinitearenas.com/xw2/images/pilots/fearsomepredator.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/fearsomepredator.png",
       "slots": [

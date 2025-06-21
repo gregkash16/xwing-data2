@@ -67,7 +67,7 @@
       "initiative": 3,
       "limited": 1,
       "cost": 4,
-      "loadout": 10,
+      "loadout": 5,
       "xws": "biggsdarklighter",
       "ability": "While another friendly ship at range 0-1 defends, before the Neutralize Results step, if you are in the attack arc, you may suffer 1 [Hit] or [Critical Hit] damage to cancel 1 matching result.",
       "slots": [
@@ -263,7 +263,7 @@
       "initiative": 5,
       "limited": 1,
       "cost": 5,
-      "loadout": 7,
+      "loadout": 5,
       "xws": "lukeskywalker",
       "ability": "After you become the defender (before dice are rolled), you may recover 1 [Force].",
       "image": "https://infinitearenas.com/xw2/images/pilots/lukeskywalker.png",
