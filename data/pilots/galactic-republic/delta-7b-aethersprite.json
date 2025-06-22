@@ -197,7 +197,7 @@
       },
       "standard": false,
       "epic": true,
-      "cost": 6,
+      "cost": 5,
       "slots": [
         "Force Power",
         "Astromech",
@@ -208,7 +208,7 @@
         "Jedi",
         "Light Side"
       ],
-      "loadout": 6,
+      "loadout": 9,
       "extended": true
     },
     {
@@ -268,8 +268,8 @@
       },
       "standard": true,
       "epic": true,
-      "cost": 7,
-      "loadout": 15,
+      "cost": 6,
+      "loadout": 9,
       "slots": [
         "Force Power",
         "Force Power",

@@ -83,8 +83,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/generalgrievous.png",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 11,
+      "cost": 5,
+      "loadout": 20,
       "slots": [
         "Talent",
         "Modification",
