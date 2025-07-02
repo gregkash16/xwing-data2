@@ -259,7 +259,7 @@
       "limited": 1,
       "shipAbility": {
         "name": "Autothrusters",
-        "text": "At the start of the Engagement Phase, choose a friendly ship at range 0-3 with a lower initiative than yours. The chosen ship gains 1 evade token and removes 1 non-stress red token."
+        "text": "After you perform an action, you may perform a red [Barrel Roll] or red [Boost] action."
       },
       "caption": "Skystrike Superintendent",
       "standard": true,
@@ -271,7 +271,7 @@
         "Modification",
         "Configuration"
       ],
-      "ability": "After a friendly ship at range 0-3 with a lower initiative than yours partially executes a maneuver, it may perform a red [Focus] action.",
+      "ability": "At the start of the Engagement Phase, choose a friendly ship at range 0-3 with a lower initiative than yours. The chosen ship gains 1 evade token and removes 1 non-stress red token.",
       "keywords": [
         "TIE"
       ],
