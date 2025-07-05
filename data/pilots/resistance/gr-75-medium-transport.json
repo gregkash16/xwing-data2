@@ -36,8 +36,13 @@
     {
       "name": "New Republic Volunteers",
       "initiative": 7,
+<<<<<<< Updated upstream
       "cost": 65,
       "loadout": 0,
+=======
+      "cost": 23,
+      "loadout": 25,
+>>>>>>> Stashed changes
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/newrepublicvolunteers.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/newrepublicvolunteers.png",
@@ -62,6 +67,59 @@
         "Cargo",
         "Cargo"
       ]
+<<<<<<< Updated upstream
+=======
+    },
+    {
+      "name": "Oraf Desyk",
+      "caption": "Hosnian Lament",
+      "initiative": 7,
+      "engagement": 1,
+      "limited": 1,
+      "cost": 18,
+      "xws": "orafdesyk-epicsl",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/orafdesyk-epicsl.png",
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/orafdesyk-epicsl.png",
+      "shipAbility": {
+        "name": "Resupply Craft",
+        "text": "After another friendly ship at range 0-1 performs an action, you may spend 1 [Energy]. If you do, it removes 1 orange or red token, or recovers 1 [Shield]."
+      },
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "White",
+          "type": "Reinforce",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Coordinate"
+          }
+        },
+        {
+          "difficulty": "Red",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Coordinate"
+        },
+        {
+          "difficulty": "White",
+          "type": "Jam"
+        }
+      ],
+      "text": "",
+      "standard": false,
+      "extended": false,
+      "epic": true,
+      "standardLoadout": [
+        "ga75-epicsl",
+        "adaptiveshields",
+        "hosnianlament-epicsl"
+      ]
+>>>>>>> Stashed changes
     }
   ]
 }

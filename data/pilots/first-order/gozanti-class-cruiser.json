@@ -36,8 +36,13 @@
     {
       "name": "First Order Sympathizers",
       "initiative": 7,
+<<<<<<< Updated upstream
       "cost": 67,
       "loadout": 0,
+=======
+      "cost": 26,
+      "loadout": 40,
+>>>>>>> Stashed changes
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/firstordersympathizers.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/firstordersympathizers.png",
@@ -61,6 +66,63 @@
         "Cargo",
         "Cargo"
       ]
+<<<<<<< Updated upstream
+=======
+    },
+    {
+      "name": "Cerra Fellian",
+      "caption": "Malefactor",
+      "initiative": 7,
+      "engagement": 1,
+      "limited": 1,
+      "cost": 19,
+      "xws": "cerrafellian-epicsl",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cerrafellian-epicsl.png",
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/cerrafellian-epicsl.png",
+      "shipAbility": {
+        "name": "Docking Clamps",
+        "text": "You can dock up to 4 small ships."
+      },
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "White",
+          "type": "Reinforce",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Coordinate"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Coordinate"
+        },
+        {
+          "difficulty": "White",
+          "type": "Jam"
+        },
+        {
+          "difficulty": "White",
+          "type": "Rotate Arc"
+        }
+      ],
+      "text": "",
+      "standard": false,
+      "extended": false,
+      "epic": true,
+      "standardLoadout": [
+        "pettyofficerthanisson",
+        "ioncannonbattery-epicsl",
+        "malefactor-epicsl"
+      ]
+>>>>>>> Stashed changes
     }
   ]
 }

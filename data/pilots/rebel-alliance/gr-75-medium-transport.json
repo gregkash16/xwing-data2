@@ -36,8 +36,13 @@
     {
       "name": "Echo Base Evacuees",
       "initiative": 7,
+<<<<<<< Updated upstream
       "cost": 65,
       "loadout": 0,
+=======
+      "cost": 23,
+      "loadout": 25,
+>>>>>>> Stashed changes
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/echobaseevacuees.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/echobaseevacuees.png",
@@ -62,6 +67,62 @@
         "Cargo",
         "Title"
       ]
+<<<<<<< Updated upstream
+=======
+    },
+    {
+      "name": "Trebor Zednem",
+      "initiative": 7,
+      "engagement": 1,
+      "limited": 1,
+      "cost": 19,
+      "xws": "treborzednem-epicsl",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/treborzednem-epicsl.png",
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/treborzednem-epicsl.png",
+      "shipAbility": {
+        "name": "Resupply Craft",
+        "text": "After another friendly ship at range 0-1 performs an action, you may spend 1 [Energy]. If you do, it removes 1 orange or red token, or recovers 1 [Shield]."
+      },
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Coordinate"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Reinforce",
+          "linked": {
+            "difficulty": "Red",
+            "type": "Coordinate"
+          }
+        },
+        {
+          "difficulty": "White",
+          "type": "Coordinate"
+        },
+        {
+          "difficulty": "White",
+          "type": "Jam"
+        }
+      ],
+      "text": "",
+      "standard": false,
+      "extended": false,
+      "epic": true,
+      "standardLoadout": [
+        "torynfarr",
+        "planetaryionbombardment-epicsl",
+        "brighthope"
+      ]
+>>>>>>> Stashed changes
     }
   ]
 }

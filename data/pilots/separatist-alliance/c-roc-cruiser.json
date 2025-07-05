@@ -39,8 +39,13 @@
     {
       "name": "Separatist Privateers",
       "initiative": 7,
+<<<<<<< Updated upstream
       "cost": 63,
       "loadout": 0,
+=======
+      "cost": 24,
+      "loadout": 30,
+>>>>>>> Stashed changes
       "limited": 0,
       "image": "https://infinitearenas.com/xw2/images/pilots/separatistprivateers.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/separatistprivateers.png",
