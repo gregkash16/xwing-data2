@@ -37,9 +37,12 @@
       "name": "Outer Rim Garrison",
       "initiative": 7,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "cost": 67,
       "loadout": 0,
 =======
+=======
+>>>>>>> Stashed changes
       "cost": 26,
       "loadout": 40,
 >>>>>>> Stashed changes
@@ -122,6 +125,9 @@
         "heavylasercannonturret-epicsl",
         "bloodcrow-epicsl"
       ]
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ]

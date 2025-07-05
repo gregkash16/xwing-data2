@@ -40,9 +40,12 @@
       "name": "First Order Collaborators",
       "initiative": 8,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "cost": 131,
       "loadout": 0,
 =======
+=======
+>>>>>>> Stashed changes
       "cost": 39,
       "loadout": 50,
 >>>>>>> Stashed changes
@@ -128,6 +131,9 @@
         "twinmissilelauncher-epicsl",
         "precursor-epicsl"
       ]
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ]

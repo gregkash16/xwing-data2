@@ -40,9 +40,12 @@
       "name": "Syndicate Smugglers",
       "initiative": 7,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "cost": 63,
       "loadout": 0,
 =======
+=======
+>>>>>>> Stashed changes
       "cost": 24,
       "loadout": 30,
 >>>>>>> Stashed changes
@@ -128,6 +131,9 @@
         "modifieddorsalturret-epicsl",
         "brokenhorn-epicsl"
       ]
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ]

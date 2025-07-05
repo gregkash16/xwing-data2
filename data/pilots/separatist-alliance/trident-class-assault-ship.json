@@ -40,9 +40,12 @@
       "name": "Colicoid Destroyer",
       "initiative": 8,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "cost": 85,
       "loadout": 0,
 =======
+=======
+>>>>>>> Stashed changes
       "cost": 26,
       "loadout": 45,
 >>>>>>> Stashed changes
@@ -127,6 +130,9 @@
         "drillbeak-epicsl",
         "trident-epicsl"
       ]
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ]

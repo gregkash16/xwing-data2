@@ -37,9 +37,12 @@
       "name": "New Republic Volunteers",
       "initiative": 7,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "cost": 65,
       "loadout": 0,
 =======
+=======
+>>>>>>> Stashed changes
       "cost": 23,
       "loadout": 25,
 >>>>>>> Stashed changes
@@ -119,6 +122,9 @@
         "adaptiveshields",
         "hosnianlament-epicsl"
       ]
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ]

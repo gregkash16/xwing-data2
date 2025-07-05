@@ -41,9 +41,12 @@
       "name": "Republic Judiciary",
       "initiative": 8,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "cost": 131,
       "loadout": 0,
 =======
+=======
+>>>>>>> Stashed changes
       "cost": 36,
       "loadout": 40,
 >>>>>>> Stashed changes
@@ -129,6 +132,9 @@
         "turbolaserbattery-epicsl",
         "tantiveiv-epicsl-galacticrepublic"
       ]
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ]
