@@ -136,7 +136,7 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/deathwatchwarrior.png",
       "cost": 6,
       "loadout": 20,
-      "initiative": 1,
+      "initiative": 2,
       "limited": 0,
       "standard": true,
       "extended": true,
