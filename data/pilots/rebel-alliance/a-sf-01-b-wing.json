@@ -260,7 +260,7 @@
       "xws": "ginamoonsong-battleoverendor",
       "initiative": 5,
       "limited": 1,
-      "cost": 6,
+      "cost": 16,
       "ability": "At the start of the Engagement Phase, if a friendly Braylen Stramm ship at range 0-2 is stressed, you may acquire a lock.",
       "shipAbility": {
         "name": "Gyro-Cockpit",
@@ -337,7 +337,7 @@
       "xws": "braylenstramm-battleoverendor",
       "initiative": 4,
       "limited": 1,
-      "cost": 5,
+      "cost": 13,
       "ability": "At the start of the Engagement Phase, if a friendly Gina Moonsong ship at range 0-2 is stressed, you may gain a focus token.",
       "shipAbility": {
         "name": "Gyro-Cockpit",

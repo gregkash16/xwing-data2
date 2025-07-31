@@ -144,7 +144,8 @@
         "infernosquad-epicsl",
         "twinmissilelauncher-epicsl",
         "corvus-epicsl"
-      ]
+      ],
+      "loadout": 0
     }
   ]
 }

@@ -194,7 +194,7 @@
       "caption": "Armed and Dangerous",
       "initiative": 5,
       "limited": 1,
-      "cost": 7,
+      "cost": 18,
       "loadout": 0,
       "xws": "bobafett-armedanddangerous",
       "ability": "After another friendly ship defends, if you have a lock on the attacker, you may perform a bonus attack against the attacker.",

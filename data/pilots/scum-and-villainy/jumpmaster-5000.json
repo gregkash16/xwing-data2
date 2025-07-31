@@ -167,7 +167,7 @@
       "name": "Dengar",
       "initiative": 6,
       "limited": 1,
-      "cost": 6,
+      "cost": 15,
       "loadout": 0,
       "xws": "dengar-armedanddangerous",
       "ability": "After you defend, if the attacker is in your [Front Arc], you may spend 1 [Charge] to perform a bonus attack against the attacker.",

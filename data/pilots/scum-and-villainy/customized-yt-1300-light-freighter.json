@@ -166,7 +166,7 @@
       "name": "Han Solo",
       "initiative": 6,
       "limited": 1,
-      "cost": 6,
+      "cost": 16,
       "loadout": 0,
       "xws": "hansolo-armedanddangerous",
       "ability": "While you defend or perform a primary attack, if the attack is obstructed by an obstacle, you may roll 1 additional die.",

@@ -205,7 +205,7 @@
       "name": "Prince Xizor",
       "initiative": 4,
       "limited": 1,
-      "cost": 5,
+      "cost": 13,
       "loadout": 0,
       "xws": "princexizor-armedanddangerous",
       "ability": "When you perform an attack against a strained ship, you may remove 1 stress token.",

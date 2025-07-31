@@ -180,7 +180,7 @@
       "caption": "Battle of Yavin",
       "initiative": 6,
       "limited": 1,
-      "cost": 7,
+      "cost": 18,
       "xws": "hansolo-battleofyavin",
       "ability": "After performing an attack that hits, you may spend 1 [Charge] to perform a [Coordinate] action.",
       "shipAbility": {
@@ -209,7 +209,7 @@
       "caption": "Battle Over Endor",
       "initiative": 5,
       "limited": 1,
-      "cost": 7,
+      "cost": 18,
       "xws": "landocalrissian-battleoverendor",
       "ability": "At the start of the Activation Phase, you may spend 1 [Charge]. If you do, choose an initiative value from 1 to 6. You activate at that initiative this phase.",
       "shipAbility": {

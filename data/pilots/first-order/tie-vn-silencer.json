@@ -240,7 +240,7 @@
       "caption": "Evacuation of D'Qar",
       "initiative": 5,
       "limited": 1,
-      "cost": 7,
+      "cost": 18,
       "loadout": 0,
       "ability": "Before an enemy ship in your [Bullseye Arc] is dealt a facedown damage card, you may spend 1 [Force]. If you do, that damage card is dealt faceup instead.",
       "shipAbility": {

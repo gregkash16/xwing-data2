@@ -496,7 +496,7 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/caithrenalli-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/caithrenalli-evacuationofdqar.png",
-      "cost": 4,
+      "cost": 11,
       "loadout": 0,
       "standardLoadout": [
         "forthecause-evacuationofdqar",
@@ -550,7 +550,7 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/jaycristubbs-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jaycristubbs-evacuationofdqar.png",
-      "cost": 4,
+      "cost": 10,
       "loadout": 0,
       "standardLoadout": [
         "forthecause-evacuationofdqar",
@@ -602,7 +602,7 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/poedameron-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/poedameron-evacuationofdqar.png",
-      "cost": 6,
+      "cost": 16,
       "loadout": 0,
       "charges": {
         "value": 1,
@@ -660,7 +660,7 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/stomeronistarck-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/stomeronistarck-evacuationofdqar.png",
-      "cost": 5,
+      "cost": 13,
       "loadout": 0,
       "standardLoadout": [
         "forthecause-evacuationofdqar",

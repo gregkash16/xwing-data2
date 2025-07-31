@@ -201,7 +201,7 @@
       "caption": "Siege of Coruscant",
       "initiative": 3,
       "limited": 1,
-      "cost": 2,
+      "cost": 6,
       "charges": {
         "value": 2,
         "recovers": 0
@@ -232,7 +232,7 @@
       "caption": "Siege of Coruscant",
       "initiative": 1,
       "limited": 1,
-      "cost": 2,
+      "cost": 6,
       "xws": "dfs311-siegeofcoruscant",
       "ability": "At the start of the Engagement Phase, you may transfer 1 of your calculate tokens to another friendly ship at range 0-3.",
       "shipAbility": {
@@ -259,7 +259,7 @@
       "caption": "Siege of Coruscant",
       "initiative": 1,
       "limited": 1,
-      "cost": 2,
+      "cost": 6,
       "xws": "haorchallprototype-siegeofcoruscant",
       "ability": "After an enemy ship in your [Bullseye Arc] at range 0-2 declares a scenario feature or another friendly ship as the defender, you may perform a [Calculate] or [Lock] action.",
       "shipAbility": {

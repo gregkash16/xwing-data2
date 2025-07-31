@@ -31,12 +31,9 @@ def parse_coffee(path):
     for line in lines:
         line = line.strip()
         if line.startswith("xws_name:"):
-            if current:
-                if all(k in current for k in ["xws_name", "faction", "pointsxwa", "loadoutxwa", "slotsxwa"]):
-                    ships.append(current)
-                else:
-                    print(f"Skipping incomplete entry: {current}")
-                current = {}
+            if current and "xws_name" in current and "faction" in current and "pointsxwa" in current and "loadoutxwa" in current:
+                ships.append(current)
+            current = {}
             capture = True
             current["xws_name"] = line.split(":", 1)[1].strip().strip("'\"")
 
@@ -53,10 +50,10 @@ def parse_coffee(path):
             slot_list = re.findall(r"'(.*?)'", line)
             current["slotsxwa"] = slot_list
 
-    if current and all(k in current for k in ["xws_name", "faction", "pointsxwa", "loadoutxwa", "slotsxwa"]):
+    if current and "xws_name" in current and "faction" in current and "pointsxwa" in current and "loadoutxwa" in current:
         ships.append(current)
-    return ships
 
+    return ships
 
 def update_jsons(ships, base_dir):
     unmatched = []
@@ -80,7 +77,8 @@ def update_jsons(ships, base_dir):
                 if pilot.get("xws") == ship["xws_name"]:
                     pilot["cost"] = ship["pointsxwa"]
                     pilot["loadout"] = ship["loadoutxwa"]
-                    pilot["slots"] = ship.get("slotsxwa", [])
+                    if "slotsxwa" in ship:
+                        pilot["slots"] = ship["slotsxwa"]
                     updated = True
                     found = True
 
@@ -93,7 +91,6 @@ def update_jsons(ships, base_dir):
             unmatched.append(ship["xws_name"])
 
     return unmatched
-
 
 # === MAIN EXECUTION ===
 def main():

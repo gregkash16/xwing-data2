@@ -203,7 +203,7 @@
       ],
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/finchdallow-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/finchdallow-evacuationofdqar.png",
-      "cost": 6,
+      "cost": 16,
       "loadout": 0,
       "standard": true,
       "extended": true,
@@ -240,7 +240,7 @@
       "text": "",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/vennie-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vennie-evacuationofdqar.png",
-      "cost": 6,
+      "cost": 16,
       "loadout": 0,
       "ability": "While you defend, if the attacker is in a friendly ship's [Single Turret Arc], you may change 1 [Focus] result to an [Evade] result.",
       "shipAbility": {

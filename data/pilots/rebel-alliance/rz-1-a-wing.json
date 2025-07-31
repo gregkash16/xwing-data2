@@ -358,7 +358,7 @@
       "caption": "Green Leader",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
+      "cost": 9,
       "xws": "arvelcrynyd-swz106",
       "ability": "If you would fail a [Boost] action by overlapping another ship, you may resolve it as though you were partially executing a maneuver instead. While you perform an attack at attack range 0, treat it as an attack at attack range 1.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/arvelcrynyd-swz106.png",
@@ -384,7 +384,7 @@
       "caption": "Sage Instructor",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
+      "cost": 10,
       "xws": "jakefarrell-swz106",
       "ability": "After you perform a [Barrel Roll] or [Boost] action, you may choose a friendly ship at range 0-1. That ship may perform a [Focus] action.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/jakefarrell-swz106.png",
@@ -418,7 +418,7 @@
       "caption": "Green Four",
       "standard": true,
       "extended": true,
-      "cost": 3,
+      "cost": 9,
       "standardLoadout": [
         "hopeful",
         "concussionmissiles"

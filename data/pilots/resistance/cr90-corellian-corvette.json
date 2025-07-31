@@ -20,7 +20,9 @@
     "4FR",
     "5FR"
   ],
-  "dialCodes": ["CR90-REB"],
+  "dialCodes": [
+    "CR90-REB"
+  ],
   "stats": [
     {
       "arc": "Left Arc",
@@ -99,7 +101,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Focus"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -112,8 +114,7 @@
         {
           "difficulty": "White",
           "type": "Jam"
-        }
-        ,
+        },
         {
           "difficulty": "White",
           "type": "Rotate Arc"
@@ -123,7 +124,14 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["niennunb-epicsl", "urcosfurdam-epicsl", "tibannareserves", "turbolaserbattery-epicsl", "tantiveiv-epicsl-resistance"]
+      "standardLoadout": [
+        "niennunb-epicsl",
+        "urcosfurdam-epicsl",
+        "tibannareserves",
+        "turbolaserbattery-epicsl",
+        "tantiveiv-epicsl-resistance"
+      ],
+      "loadout": 0
     }
   ]
 }

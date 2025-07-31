@@ -306,7 +306,7 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 5,
+      "cost": 12,
       "charges": {
         "value": 2,
         "recovers": 1
@@ -355,7 +355,7 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 10,
       "charges": {
         "value": 2,
         "recovers": 0
@@ -400,7 +400,7 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 10,
       "charges": {
         "value": 2,
         "recovers": 0
@@ -445,7 +445,7 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 11,
       "charges": {
         "value": 2,
         "recovers": 0
@@ -490,7 +490,7 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 10,
       "charges": {
         "value": 2,
         "recovers": 0
@@ -583,7 +583,7 @@
         "name": "Sensitive Controls",
         "text": "During the System Phase, you may perform a red [Barrel Roll] or red [Boost] action."
       },
-      "cost": 4,
+      "cost": 10,
       "standardLoadout": [
         "noescape-battleoverendor",
         "reckless-battleoverendor",
@@ -615,7 +615,7 @@
         "value": 2,
         "recovers": 0
       },
-      "cost": 5,
+      "cost": 13,
       "standardLoadout": [
         "apexpredator-battleoverendor",
         "noescape-battleoverendor",
@@ -643,7 +643,7 @@
         "name": "Sensitive Controls",
         "text": "During the System Phase, you may perform a red [Barrel Roll] or red [Boost] action."
       },
-      "cost": 4,
+      "cost": 10,
       "standardLoadout": [
         "noescape-battleoverendor",
         "outmaneuver",

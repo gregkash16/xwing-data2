@@ -159,7 +159,7 @@
       "caption": "Unseen Assailant",
       "initiative": 5,
       "limited": 1,
-      "cost": 6,
+      "cost": 15,
       "charges": {
         "value": 2,
         "recovers": 0
@@ -187,7 +187,7 @@
       "caption": "Copycat",
       "initiative": 4,
       "limited": 1,
-      "cost": 6,
+      "cost": 14,
       "charges": {
         "value": 1,
         "recovers": 1
