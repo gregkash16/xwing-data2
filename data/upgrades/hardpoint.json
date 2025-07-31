@@ -19,22 +19,24 @@
           "maxrange": 4,
           "ordnance": false
         },
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
-      },
-      {
-        "ability": "Offline: After you engage, you may spend 2 [Energy] to flip this card.",
-        "title": "Ion Cannon Battery (Offline)",
-        "type": "Hardpoint",
-        "slots": ["Hardpoint"],
         "grants": [
           {
             "type": "action",
             "value": { "type": "Rotate Arc", "difficulty": "White" }
           }
         ],
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
-      }
-    ],
+        "image": "https://infinitearenas.com/xw2/images/upgrades/ioncannonbattery.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/ioncannonbattery.png"
+      },
+      {
+        "ability": "Offline: After you engage, you may spend 2 [Energy] to flip this card.",
+        "title": "Ion Cannon Battery (Offline)",
+        "type": "Hardpoint",
+        "slots": ["Hardpoint"],
+        "image": "https://infinitearenas.com/xw2/images/upgrades/ioncannonbattery-sideb.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/ioncannonbattery-sideb.png"
+          }
+        ],
     "cost": { "value": 5 }
   },
   {
@@ -50,14 +52,16 @@
         "title": "Ordnance Tubes",
         "type": "Hardpoint",
         "slots": ["Hardpoint"],
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/ordnancetubes.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/ordnancetubes.png"
       },
       {
         "ability": "Offline: You must treat the [Front Arc] requirement of your equipped [Torpedo] and [Missile] upgrades as [Bullseye Arc]. Action: Spend 2 [Energy] to flip this card.",
         "title": "Ordnance Tubes (Offline)",
         "type": "Hardpoint",
         "slots": ["Hardpoint"],
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/ordnancetubes-sideb.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/ordnancetubes-sideb.png"
       }
     ],
     "cost": { "value": 1 }
@@ -88,14 +92,16 @@
           "maxrange": 2,
           "ordnance": false
         },
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/pointdefensebattery.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/pointdefensebattery.png"
       },
       {
         "ability": "Offline: After you engage, you may spend 2 [Energy] to flip this card.",
         "title": "Point-Defense Battery (Offline)",
         "type": "Hardpoint",
         "slots": ["Hardpoint"],
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/pointdefensebattery-sideb.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/pointdefensebattery-sideb.png"
       }
     ],
     "cost": { "value": 9 }
@@ -126,14 +132,16 @@
           "maxrange": 5,
           "ordnance": false
         },
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/targetingbattery.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/targetingbattery.png"
       },
       {
         "ability": "Offline: After you engage, you may spend 2 [Energy] to flip this card.",
         "title": "Targeting Battery (Offline)",
         "type": "Hardpoint",
         "slots": ["Hardpoint"],
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/targetingbattery-sideb.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/targetingbattery-sideb.png"
       }
     ],
     "cost": { "value": 5 }
@@ -164,14 +172,16 @@
           "maxrange": 5,
           "ordnance": false
         },
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/turbolaserbattery.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/turbolaserbattery.png"
       },
       {
         "ability": "Offline: After you engage, you may spend 2 [Energy] to flip this card.",
         "title": "Turbolaser Battery (Offline)",
         "type": "Hardpoint",
         "slots": ["Hardpoint"],
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/turbolaserbattery-sideb.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/turbolaserbattery-sideb.png"
       }
     ],
     "cost": { "value": 10 }
@@ -184,7 +194,6 @@
     "extended": false,
     "epic": true,
     "restrictions": [
-      { "sizes": ["Huge"] },
       { "ships": ["tridentclassassaultship"] }
     ],
     "sides": [
@@ -200,14 +209,16 @@
           "maxrange": 2,
           "ordnance": true
         },
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/tractortentacles.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/tractortentacles.png"
       },
       {
-        "ability": "Action: Spend 1 [Energy] to repair this card.",
+        "ability": "Offline: Action: Spend 1 [Energy] to repair this card.",
         "title": "Tractor Tentacles (Offline)",
         "type": "Hardpoint",
         "slots": ["Hardpoint"],
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/tractortentacles-sideb.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/tractortentacles-sideb.png"
       }
     ],
     "cost": { "value": 0 }
@@ -232,14 +243,16 @@
           "maxrange": 5,
           "ordnance": false
         },
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/protoncannonbattery.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/protoncannonbattery.png"
       },
       {
-        "ability": "Action: Spend 1 [Energy] to repair this card.",
+        "ability": "Offline: Action: Spend 1 [Energy] to repair this card.",
         "title": "Proton Cannon Battery (Offline)",
         "type": "Hardpoint",
         "slots": ["Hardpoint", "Cargo"],
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/protoncannonbattery-sideb.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/protoncannonbattery-sideb.png"
       }
     ],
     "cost": { "value": 10 }
@@ -257,19 +270,20 @@
         "title": "Enhanced Propulsion",
         "type": "Hardpoint",
         "slots": ["Hardpoint", "Cargo"],
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/enhancedpropulsion.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/enhancedpropulsion.png"
       },
       {
-        "ability": "Action: Spend 1 [Energy] to repair this card.",
+        "ability": "Offline: Action: Spend 1 [Energy] to repair this card.",
         "title": "Enhanced Propulsion (Offline)",
         "type": "Hardpoint",
         "slots": ["Hardpoint", "Cargo"],
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/enhancedpropulsion-sideb.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/enhancedpropulsion-sideb.png"
       }
     ],
     "cost": { "value": 6 },
     "restrictions": [
-      { "sizes": ["Huge"] },
       { "ships": ["tridentclassassaultship"] }
     ]
   },
@@ -293,20 +307,237 @@
           "maxrange": 1,
           "ordnance": true
         },
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/drillbeak.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/drillbeak.png"
       },
       {
-        "ability": "Action: Spend 1 [Energy] to repair this card.",
+        "ability": "Offline: Action: Spend 1 [Energy] to repair this card.",
         "title": "Drill Beak (Offline)",
         "type": "Hardpoint",
         "slots": ["Hardpoint", "Cargo"],
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/drillbeak-sideb.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/drillbeak-sideb.png"
       }
     ],
     "cost": { "value": 4 },
     "restrictions": [
-      { "sizes": ["Huge"] },
       { "ships": ["tridentclassassaultship"] }
+    ]
+  },
+  {
+    "name": "Turbolaser Battery",
+    "limited": 0,
+    "xws": "turbolaserbattery-epicsl",
+    "standard": false,
+    "extended": false,
+    "epic": true,
+    "standardLoadoutOnly": true,
+    "sides": [
+      {
+        "ability": "Bonus Attack ([Lock]): Spend 3 [Energy]. If this attack hits, add 3 [Hit] results.",
+        "title": "Turbolaser Battery",
+        "type": "Hardpoint",
+        "slots": ["Hardpoint"],
+        "attack": {
+          "arc": "Single Turret Arc",
+          "value": 3,
+          "minrange": 3,
+          "maxrange": 5,
+          "ordnance": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "Planetary Ion Bombardment",
+    "limited": 0,
+    "xws": "planetaryionbombardment-epicsl",
+    "standard": false,
+    "extended": false,
+    "epic": true,
+    "standardLoadoutOnly": true,
+    "sides": [
+      {
+        "ability": "Setup: Equip this side faceup. You can perform this attack at range 0. Bonus Attack: Spend 1 [Energy]. If the attack range is 0, change all [Hit] results to [Critical Hit] results.",
+        "title": "Planetary Ion Bombardment",
+        "type": "Hardpoint",
+        "slots": ["Hardpoint"],
+        "attack": {
+          "arc": "Full Front Arc",
+          "value": 5,
+          "minrange": 1,
+          "maxrange": 3,
+          "ordnance": true
+        }
+      }
+    ]
+  },
+  {
+    "name": "Twin Missile Launcher",
+    "limited": 0,
+    "xws": "twinmissilelauncher-epicsl",
+    "standard": false,
+    "extended": false,
+    "epic": true,
+    "standardLoadoutOnly": true,
+    "sides": [
+      {
+        "ability": "Bonus attack: Spend 1 [Energy].<br>Bonus attack: Spend 1 [Energy].",
+        "title": "Twin Missile Launcher",
+        "type": "Hardpoint",
+        "slots": ["Hardpoint", "Missile"],
+        "attack": {
+          "arc": "Single Turret Arc",
+          "value": 3,
+          "minrange": 2,
+          "maxrange": 3,
+          "ordnance": true
+        }
+      }
+    ]
+  },
+  {
+    "name": "Heavy Laser Cannon Turret",
+    "limited": 0,
+    "xws": "heavylasercannonturret-epicsl",
+    "standard": false,
+    "extended": false,
+    "epic": true,
+    "standardLoadoutOnly": true,
+    "sides": [
+      {
+        "ability": "Bonus attack: If the attack range is 3, roll 1 additional attack die.",
+        "title": "Heavy Laser Cannon Turret",
+        "type": "Hardpoint",
+        "slots": ["Hardpoint"],
+        "attack": {
+          "arc": "Single Turret Arc",
+          "value": 3,
+          "minrange": 2,
+          "maxrange": 3,
+          "ordnance": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tractor Tentacles",
+    "limited": 0,
+    "xws": "tractortentacles-epicsl",
+    "standard": false,
+    "extended": false,
+    "epic": true,
+    "standardLoadoutOnly": true,
+    "sides": [
+      {
+        "ability": "Bonus Attack<br>Bonus Attack: Spend 1 [Energy].<br>Bonus Attack: Spend 1 [Energy].<br>Bonus Attack: Spend 1 [Energy].",
+        "title": "Tractor Tentacles",
+        "type": "Hardpoint",
+        "slots": ["Hardpoint"],
+        "attack": {
+          "arc": "Rear Arc",
+          "value": 2,
+          "minrange": 0,
+          "maxrange": 2,
+          "ordnance": true
+        }
+      }
+    ]
+  },
+  {
+    "name": "Drill Beak",
+    "limited": 0,
+    "xws": "drillbeak-epicsl",
+    "standard": false,
+    "extended": false,
+    "epic": true,
+    "standardLoadoutOnly": true,
+    "sides": [
+      {
+        "ability": "Bonus Attack: If the attack range is 0, change all [Hit] results to [Critical Hit] results.",
+        "title": "Drill Beak",
+        "type": "Hardpoint",
+        "slots": ["Hardpoint", "Cargo"],
+        "attack": {
+          "arc": "Rear Arc",
+          "value": 3,
+          "minrange": 0,
+          "maxrange": 1,
+          "ordnance": true
+        }
+      }
+    ]
+  },
+  {
+    "name": "Modified Dorsal Turret",
+    "limited": 0,
+    "xws": "modifieddorsalturret-epicsl",
+    "standard": false,
+    "extended": false,
+    "epic": true,
+    "standardLoadoutOnly": true,
+    "sides": [
+      {
+        "ability": "Bonus Attack",
+        "title": "Modified Dorsal Turret",
+        "type": "Hardpoint",
+        "slots": ["Hardpoint"],
+        "attack": {
+          "arc": "Single Turret Arc",
+          "value": 2,
+          "minrange": 1,
+          "maxrange": 3,
+          "ordnance": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ion Cannon Battery",
+    "limited": 0,
+    "xws": "ioncannonbattery-epicsl",
+    "standard": false,
+    "extended": false,
+    "epic": true,
+    "standardLoadoutOnly": true,
+    "sides": [
+      {
+        "ability": "Bonus Attack: Spend 1 [Energy]. If this attack hits, the defender suffers 1 [Critical Hit] damage, and all [Hit]/[Critical Hit] results inflict ion tokens instead of damage.",
+        "title": "Ion Cannon Battery",
+        "type": "Hardpoint",
+        "slots": ["Hardpoint"],
+        "attack": {
+          "arc": "Single Turret Arc",
+          "value": 4,
+          "minrange": 2,
+          "maxrange": 4,
+          "ordnance": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "Point-Defense Battery",
+    "limited": 0,
+    "xws": "pointdefensebattery-epicsl",
+    "standard": false,
+    "extended": false,
+    "epic": true,
+    "standardLoadoutOnly": true,
+    "sides": [
+      {
+        "ability": "Bonus Attack: Spend 1 [Energy].<br>Bonus Attack: Spend 1 [Energy].<br>Bonus Attack: Spend 1 [Energy].<br>Bonus Attack: Spend 1 [Energy].",
+        "title": "Point-Defense Battery",
+        "type": "Hardpoint",
+        "slots": ["Hardpoint"],
+        "attack": {
+          "arc": "Double Turret Arc",
+          "value": 2,
+          "minrange": 1,
+          "maxrange": 2,
+          "ordnance": false
+        }
+      }
     ]
   }
 ]

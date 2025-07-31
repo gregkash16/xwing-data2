@@ -19,19 +19,46 @@
     "4FR",
     "5KR"
   ],
-  "dialCodes": ["NR2"],
+  "dialCodes": [
+    "NR2"
+  ],
   "faction": "resistance",
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 2 },
-    { "type": "agility", "value": 1 },
-    { "type": "hull", "value": 4 },
-    { "type": "shields", "value": 3 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 1
+    },
+    {
+      "type": "hull",
+      "value": 4
+    },
+    {
+      "type": "shields",
+      "value": 3
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "Red", "type": "Lock" },
-    { "difficulty": "Red", "type": "Barrel Roll" },
-    { "difficulty": "Red", "type": "Boost" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Barrel Roll"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Boost"
+    }
   ],
   "pilots": [
     {
@@ -46,7 +73,7 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 9,
+      "loadout": 12,
       "slots": [
         "Talent",
         "Tech",
@@ -59,10 +86,15 @@
       ],
       "ability": "After a ship at range 1 performs an action during its Perform Action step, if that action is on your action bar, you may spend 1 [Charge] to perform that action, treating it as red.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zoriibliss.png",
-      "charges": { "value": 1, "recovers": 1 },
+      "charges": {
+        "value": 1,
+        "recovers": 1
+      },
       "image": "https://infinitearenas.com/xw2/images/pilots/zoriibliss.png",
       "caption": "Corsair of Kijimi",
-      "keywords": ["Y-wing"],
+      "keywords": [
+        "Y-wing"
+      ],
       "epic": true
     },
     {
@@ -77,7 +109,7 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 12,
+      "loadout": 13,
       "slots": [
         "Talent",
         "Tech",
@@ -93,7 +125,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tezanasz.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/tezanasz.png",
       "caption": "Old Soldier",
-      "keywords": ["Y-wing"],
+      "keywords": [
+        "Y-wing"
+      ],
       "epic": true
     },
     {
@@ -107,8 +141,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 3,
+      "loadout": 8,
       "slots": [
         "Tech",
         "Missile",
@@ -117,14 +151,15 @@
         "Device",
         "Device",
         "Modification",
-        "Modification",
-        "Configuration"
+        "Modification"
       ],
       "ability": "After you perform an attack, if the defender was dealt a faceup damage card, the defender gains 1 strain token unless it chooses 1 non-recurring [Charge] from 1 of its equipped upgrades and loses that [Charge].",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wilsateshlo.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/wilsateshlo.png",
       "caption": "Veiled Sorority Privateer",
-      "keywords": ["Y-wing"],
+      "keywords": [
+        "Y-wing"
+      ],
       "epic": true
     },
     {
@@ -139,21 +174,22 @@
       "standard": true,
       "extended": true,
       "cost": 3,
-      "loadout": 9,
+      "loadout": 8,
       "slots": [
         "Tech",
         "Turret",
         "Astromech",
         "Device",
         "Modification",
-        "Modification",
-        "Configuration"
+        "Modification"
       ],
       "ability": "After you defend, you may choose a friendly ship in your [Full Rear Arc] at range 0-2 and 1 of your green tokens. If you do, that ship gains a matching token.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/shasazaro.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/shasazaro.png",
       "caption": "Artistic Ace",
-      "keywords": ["Y-wing"],
+      "keywords": [
+        "Y-wing"
+      ],
       "epic": true
     },
     {
@@ -168,7 +204,7 @@
       "standard": true,
       "extended": true,
       "cost": 3,
-      "loadout": 7,
+      "loadout": 8,
       "slots": [
         "Tech",
         "Turret",
@@ -176,14 +212,15 @@
         "Astromech",
         "Device",
         "Modification",
-        "Modification",
-        "Configuration"
+        "Modification"
       ],
       "ability": "While you perform a primary or [Turret] attack, you may reroll 1 attack die for each friendly device or calculating friendly ship in the attack arc.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/legafossang.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/legafossang.png",
       "caption": "Hero of Humbarine",
-      "keywords": ["Y-wing"],
+      "keywords": [
+        "Y-wing"
+      ],
       "epic": true
     },
     {
@@ -213,7 +250,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/aftabackbar.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/aftabackbar.png",
       "caption": "“Junior”",
-      "keywords": ["Y-wing"],
+      "keywords": [
+        "Y-wing"
+      ],
       "epic": true
     },
     {
@@ -228,7 +267,7 @@
       "standard": true,
       "extended": true,
       "cost": 3,
-      "loadout": 8,
+      "loadout": 9,
       "slots": [
         "Tech",
         "Turret",
@@ -236,14 +275,15 @@
         "Device",
         "Modification",
         "Modification",
-        "Illicit",
-        "Configuration"
+        "Illicit"
       ],
       "ability": "Before you engage, you may choose 1 ship in your firing arc at range 0-1. If you do, transfer 1 green token from that ship to yourself.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/coruskapellim.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/coruskapellim.png",
       "caption": "“Gentleman Flyer”",
-      "keywords": ["Y-wing"],
+      "keywords": [
+        "Y-wing"
+      ],
       "epic": true
     },
     {
@@ -258,7 +298,7 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 10,
+      "loadout": 12,
       "slots": [
         "Talent",
         "Tech",
@@ -273,7 +313,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/caithrenalli-btanr2ywing.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/caithrenalli-btanr2ywing.png",
       "caption": "Tenacious Survivor",
-      "keywords": ["Y-wing"],
+      "keywords": [
+        "Y-wing"
+      ],
       "epic": true
     },
     {
@@ -288,7 +330,7 @@
       "standard": true,
       "extended": true,
       "cost": 4,
-      "loadout": 7,
+      "loadout": 12,
       "slots": [
         "Talent",
         "Tech",
@@ -301,7 +343,9 @@
       "text": "Designed for customization, the BTA-NR2 Y-wing is used by numerous military organizations across the galaxy in a variety of roles, from law enforcement craft to wartime bombers.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/newrepublicpatrol.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/newrepublicpatrol.png",
-      "keywords": ["Y-wing"],
+      "keywords": [
+        "Y-wing"
+      ],
       "epic": true
     },
     {
@@ -315,23 +359,24 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 4,
+      "cost": 3,
+      "loadout": 10,
       "slots": [
         "Tech",
         "Turret",
         "Astromech",
         "Device",
         "Modification",
-        "Illicit",
-        "Configuration"
+        "Illicit"
       ],
       "text": "Led by Zorii Bliss, the Kijimi Spice Runners set aside their usual mercenary ways to take the fight to the Final Order at the Battle of Exegol.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kijimispicerunner.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/kijimispicerunner.png",
-      "keywords": ["Y-wing"],
+      "keywords": [
+        "Y-wing"
+      ],
       "epic": true
     }
   ],
-  "icon": "???"
+  "icon": "https://infinitearenas.com/xw2/images/shipicons/resistance/I_Y-wing-bta-nr2.png"
 }

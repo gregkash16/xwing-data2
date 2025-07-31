@@ -20,20 +20,50 @@
     "3YW",
     "4FW"
   ],
-  "dialCodes": ["Dec"],
+  "dialCodes": [
+    "Dec"
+  ],
   "faction": "galacticempire",
   "stats": [
-    { "arc": "Double Turret Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 0 },
-    { "type": "hull", "value": 12 },
-    { "type": "shields", "value": 4 }
+    {
+      "arc": "Double Turret Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 0
+    },
+    {
+      "type": "hull",
+      "value": 12
+    },
+    {
+      "type": "shields",
+      "value": 4
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "White", "type": "Reinforce" },
-    { "difficulty": "White", "type": "Rotate Arc" },
-    { "difficulty": "Red", "type": "Coordinate" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "type": "Reinforce"
+    },
+    {
+      "difficulty": "White",
+      "type": "Rotate Arc"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Coordinate"
+    }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_Decimator.png",
   "pilots": [
@@ -43,7 +73,7 @@
       "initiative": 3,
       "limited": 1,
       "cost": 7,
-      "loadout": 19,
+      "loadout": 16,
       "xws": "captainoicunn",
       "ability": "While you perform an attack at attack range 0, treat it as an attack at attack range 1.",
       "image": "https://infinitearenas.com/xw2/images/pilots/captainoicunn.png",
@@ -68,11 +98,18 @@
       "initiative": 2,
       "limited": 0,
       "cost": 7,
-      "loadout": 12,
+      "loadout": 19,
       "xws": "patrolleader",
       "text": "To be granted command of a VT-49 Decimator is seen as a significant promotion for a middling officer of the Imperial Navy.",
       "image": "https://infinitearenas.com/xw2/images/pilots/patrolleader.png",
-      "slots": ["Torpedo", "Crew", "Device", "Modification", "Gunner"],
+      "slots": [
+        "Torpedo",
+        "Crew",
+        "Crew",
+        "Device",
+        "Modification",
+        "Gunner"
+      ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/patrolleader.png",
       "standard": true,
       "extended": true,
@@ -83,8 +120,8 @@
       "caption": "Advisor to Admiral Piett",
       "initiative": 5,
       "limited": 1,
-      "cost": 7,
-      "loadout": 20,
+      "cost": 8,
+      "loadout": 24,
       "xws": "rearadmiralchiraneau",
       "ability": "While you perform an attack, if you are reinforced and the defender is in the [Full Front Arc] or [Full Rear Arc] matching your reinforce token, you may change 1 of your [Focus] results to a [Critical Hit] result.",
       "image": "https://infinitearenas.com/xw2/images/pilots/rearadmiralchiraneau.png",
@@ -123,10 +160,13 @@
         "Modification",
         "Title"
       ],
-      "charges": { "value": 3, "recovers": 0 },
+      "charges": {
+        "value": 3,
+        "recovers": 0
+      },
       "ability": "During the End Phase, you may spend 1 [Charge] to flip 1 of your reinforce tokens to your other full arc instead of removing it.",
       "cost": 7,
-      "loadout": 22,
+      "loadout": 14,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/mornakee.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/mornakee.png",
       "epic": true

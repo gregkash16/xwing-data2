@@ -274,5 +274,43 @@
     ],
     "cost": { "value": 5 },
     "restrictions": [{ "factions": ["separatistalliance"] }]
+  },
+  {
+    "name": "Inferno Squad",
+    "limited": 1,
+    "xws": "infernosquad-epicsl",
+    "sides": [
+      {
+        "title": "Inferno Squad",
+        "type": "Team",
+        "slots": [
+          "Team"
+        ],
+        "ability": "While a friendly Gideon Hask, Del Meeko, or Seyn Marana ship at range 0-2 performs an attack, you may suffer 1 [Hit] damage. If you do, they may change 1 of their results to a [Hit] result."
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "standardLoadoutOnly": true
+  },
+  {
+    "name": "Jinata Security Forces",
+    "limited": 1,
+    "xws": "jinatasecurityforces-epicsl",
+    "sides": [
+      {
+        "title": "Jinata Security Forces",
+        "type": "Team",
+        "slots": [
+          "Team"
+        ],
+        "ability": "While you defend or perform an attack, you may spend a focus token to change a blank result to a [Hit] result or an [Evade] result."
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "standardLoadoutOnly": true
   }
 ]

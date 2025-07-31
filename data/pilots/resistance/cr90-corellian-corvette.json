@@ -1,7 +1,7 @@
 {
   "name": "CR90 Corellian Corvette",
   "xws": "cr90corelliancorvette",
-  "faction": "rebelalliance",
+  "faction": "Resistance",
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_CR90.png",
   "size": "Huge",
   "dial": [
@@ -20,9 +20,7 @@
     "4FR",
     "5FR"
   ],
-  "dialCodes": [
-    "CR90-REB"
-  ],
+  "dialCodes": ["CR90-REB"],
   "stats": [
     {
       "arc": "Left Arc",
@@ -77,45 +75,15 @@
   ],
   "pilots": [
     {
-      "name": "Alderaanian Guard",
-      "initiative": 8,
-      "cost": 14,
-      "loadout": 40,
-      "limited": 0,
-      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/alderaanianguard.png",
-      "image": "https://infinitearenas.com/xw2/images/pilots/alderaanianguard.png",
-      "shipAbility": {
-        "name": "Broadside Batteries",
-        "text": "You can acquire locks and perform primary attacks at range 1-4."
-      },
-      "text": "A craft used since before the Clone Wars, the CR90 corvette is favored by the Royal House of Alderaan for its versatility.",
-      "standard": false,
-      "extended": false,
-      "epic": true,
-      "engagement": 0,
-      "xws": "alderaanianguard",
-      "slots": [
-        "Command",
-        "Hardpoint",
-        "Hardpoint",
-        "Crew",
-        "Crew",
-        "Gunner",
-        "Team",
-        "Team",
-        "Cargo",
-        "Title"
-      ]
-    },
-    {
-      "name": "Raymus Antilles",
+      "name": "Leia Organa",
+      "caption": "Tantive IV",
       "initiative": 8,
       "engagement": 0,
       "limited": 1,
       "cost": 12,
-      "xws": "raymusantilles-epicsl-rebelalliance",
-      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/raymusantilles-epicsl-rebelalliance.png",
-      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/raymusantilles-epicsl-rebelalliance.png",
+      "xws": "leiaorgana-epicsl",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/leiaorgana-epicsl.png",
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/leiaorgana-epicsl.png",
       "shipAbility": {
         "name": "Broadside Batteries",
         "text": "You can acquire locks and perform primary attacks at range 1-4."
@@ -155,7 +123,7 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["leiaorgana-epicsl", "c3po-epicsl", "r2d2-epicsl", "turbolaserbattery-epicsl", "tantiveiv-epicsl"]
+      "standardLoadout": ["niennunb-epicsl", "urcosfurdam-epicsl", "tibannareserves", "turbolaserbattery-epicsl", "tantiveiv-epicsl-resistance"]
     }
   ]
 }

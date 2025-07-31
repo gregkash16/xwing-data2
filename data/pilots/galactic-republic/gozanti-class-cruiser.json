@@ -1,7 +1,7 @@
 {
   "name": "Gozanti-class Cruiser",
   "xws": "gozanticlasscruiser",
-  "faction": "galacticempire",
+  "faction": "Galactic Republic",
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_Gozanti.png",
   "size": "Huge",
   "dial": [
@@ -17,9 +17,7 @@
     "3FB",
     "4FR"
   ],
-  "dialCodes": [
-    "GOZ-I"
-  ],
+  "dialCodes": ["GOZ-I"],
   "stats": [
     {
       "arc": "Front Arc",
@@ -69,44 +67,15 @@
   ],
   "pilots": [
     {
-      "name": "Outer Rim Garrison",
-      "initiative": 7,
-      "cost": 11,
-      "loadout": 40,
-      "limited": 0,
-      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/outerrimgarrison.png",
-      "image": "https://infinitearenas.com/xw2/images/pilots/outerrimgarrison.png",
-      "shipAbility": {
-        "name": "Docking Clamps",
-        "text": "You can dock up to 4 small ships."
-      },
-      "text": "Capable of carrying TIE fighters and operating independently for long periods of time, the Gozanti-class cruiser is a common sight in the skies of downtrodden worlds across the Outer Rim.",
-      "standard": false,
-      "extended": false,
-      "epic": true,
-      "engagement": 1,
-      "xws": "outerrimgarrison",
-      "slots": [
-        "Command",
-        "Crew",
-        "Gunner",
-        "Cargo",
-        "Title",
-        "Hardpoint",
-        "Crew",
-        "Team",
-        "Cargo"
-      ]
-    },
-    {
-      "name": "Rik Virgilio",
+      "name": "Wez Synat",
+      "caption": "Spectre of Nayr",
       "initiative": 7,
       "engagement": 1,
       "limited": 1,
       "cost": 8,
-      "xws": "rikvirgilio-epicsl",
-      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rikvirgilio-epicsl.png",
-      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/rikvirgilio-epicsl.png",
+      "xws": "wezsynat-epicsl",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wezsynat-epicsl.png",
+      "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/wezsynat-epicsl.png",
       "shipAbility": {
         "name": "Docking Clamps",
         "text": "You can dock up to 4 small ships."
@@ -145,7 +114,7 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["thrawn-epicsl", "heavylasercannonturret-epicsl", "bloodcrow-epicsl"]
+      "standardLoadout": ["clonecommandercody-epicsl", "pointdefensebattery-epicsl", "spectreofnayr-epicsl"]
     }
   ]
 }

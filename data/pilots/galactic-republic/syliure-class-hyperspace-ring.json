@@ -4,9 +4,18 @@
   "size": "Small",
   "faction": "galacticrepublic",
   "stats": [
-    { "type": "agility", "value": 1 },
-    { "type": "hull", "value": 1 },
-    { "type": "shields", "value": 2 }
+    {
+      "type": "agility",
+      "value": 1
+    },
+    {
+      "type": "hull",
+      "value": 1
+    },
+    {
+      "type": "shields",
+      "value": 2
+    }
   ],
   "actions": [],
   "pilots": [
