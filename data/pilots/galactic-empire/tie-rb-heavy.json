@@ -70,14 +70,10 @@
   "pilots": [
     {
       "name": "Carida Academy Cadet",
-      "cost": 5,
-      "loadout": 18,
+      "cost": 9,
+      "loadout": 8,
       "initiative": 1,
-      "slots": [
-        "Cannon",
-        "Cannon",
-        "Configuration"
-      ],
+      "slots": [],
       "xws": "caridaacademycadet",
       "shipAbility": {
         "name": "Rotating Cannons",
@@ -96,15 +92,10 @@
     },
     {
       "name": "Onyx Squadron Sentry",
-      "cost": 5,
-      "loadout": 17,
+      "cost": 10,
+      "loadout": 11,
       "initiative": 3,
-      "slots": [
-        "Cannon",
-        "Cannon",
-        "Modification",
-        "Configuration"
-      ],
+      "slots": [],
       "xws": "onyxsquadronsentry",
       "shipAbility": {
         "name": "Rotating Cannons",
@@ -112,7 +103,7 @@
       },
       "standard": true,
       "extended": true,
-      "text": "The TIE/rb heavy, sometimes called the “brute”, is designed for operational flexibility. Its heavy armor and capacity to house an integrated MGK-300 droid co-pilot make it an excellent patrol craft.",
+      "text": "The TIE/rb heavy, sometimes called the \u201cbrute\u201d, is designed for operational flexibility. Its heavy armor and capacity to house an integrated MGK-300 droid co-pilot make it an excellent patrol craft.",
       "limited": 0,
       "image": "https://infinitearenas.com/xw2/images/pilots/onyxsquadronsentry.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/onyxsquadronsentry.png",
@@ -122,20 +113,13 @@
       "epic": true
     },
     {
-      "name": "“Rampage”",
+      "name": "\u201cRampage\u201d",
       "caption": "Implacable Pursuer",
-      "cost": 4,
-      "loadout": 12,
+      "cost": 11,
+      "loadout": 17,
       "initiative": 4,
       "limited": 1,
-      "slots": [
-        "Talent",
-        "Cannon",
-        "Cannon",
-        "Gunner",
-        "Modification",
-        "Configuration"
-      ],
+      "slots": [],
       "xws": "rampage",
       "ability": "After you execute a speed 3-4 maneuver, you may choose a ship in your [Single Turret Arc] at range 0-1. That ship gains 1 strain token, or 2 strain tokens if you are damaged.",
       "shipAbility": {
@@ -154,18 +138,11 @@
     {
       "name": "Lyttan Dree",
       "caption": "Onyx 2",
-      "cost": 4,
-      "loadout": 6,
+      "cost": 10,
+      "loadout": 9,
       "initiative": 3,
       "limited": 1,
-      "slots": [
-        "Sensor",
-        "Cannon",
-        "Cannon",
-        "Gunner",
-        "Modification",
-        "Configuration"
-      ],
+      "slots": [],
       "xws": "lyttandree",
       "ability": "While a friendly ship at range 0-2 performs an attack, if you are in the defender's [Left Arc] or [Right Arc], the attacker may reroll 1 attack die.",
       "shipAbility": {
@@ -184,19 +161,11 @@
     {
       "name": "Flight Leader Ubbel",
       "caption": "Onyx Leader",
-      "cost": 4,
-      "loadout": 8,
+      "cost": 12,
+      "loadout": 13,
       "initiative": 5,
       "limited": 1,
-      "slots": [
-        "Talent",
-        "Cannon",
-        "Cannon",
-        "Gunner",
-        "Modification",
-        "Modification",
-        "Configuration"
-      ],
+      "slots": [],
       "xws": "flightleaderubbel",
       "ability": "After a friendly ship at range 0-2 defends, if it was dealt a damage card, you may perform a bonus attack against the attacker.",
       "shipAbility": {

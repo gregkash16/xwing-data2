@@ -74,8 +74,8 @@
       "caption": "Contemplative Commander",
       "initiative": 4,
       "limited": 1,
-      "cost": 8,
-      "loadout": 23,
+      "cost": 18,
+      "loadout": 16,
       "xws": "colonelvessery",
       "ability": "While you perform an attack against a locked ship, after you roll attack dice, you may acquire a lock on the defender.",
       "image": "https://infinitearenas.com/xw2/images/pilots/colonelvessery.png",
@@ -83,13 +83,7 @@
         "name": "Full Throttle",
         "text": "After you fully execute a speed 3-5 maneuver, you may perform an [Evade] action."
       },
-      "slots": [
-        "Talent",
-        "Sensor",
-        "Cannon",
-        "Missile",
-        "Configuration"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/colonelvessery.png",
       "standard": true,
       "extended": true,
@@ -103,8 +97,8 @@
       "caption": "Cutthroat Politico",
       "initiative": 4,
       "limited": 1,
-      "cost": 7,
-      "loadout": 12,
+      "cost": 17,
+      "loadout": 13,
       "xws": "countessryad",
       "ability": "While you would execute a [Straight] maneuver, you may increase the difficulty of the maneuver. If you do, execute it as a [Koiogran Turn] maneuver instead.",
       "image": "https://infinitearenas.com/xw2/images/pilots/countessryad.png",
@@ -112,14 +106,7 @@
         "name": "Full Throttle",
         "text": "After you fully execute a speed 3-5 maneuver, you may perform an [Evade] action."
       },
-      "slots": [
-        "Talent",
-        "Sensor",
-        "Sensor",
-        "Cannon",
-        "Missile",
-        "Configuration"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/countessryad.png",
       "standard": true,
       "extended": true,
@@ -132,8 +119,8 @@
       "name": "Delta Squadron Pilot",
       "initiative": 1,
       "limited": 0,
-      "cost": 6,
-      "loadout": 11,
+      "cost": 15,
+      "loadout": 9,
       "xws": "deltasquadronpilot",
       "text": "In addition to its missile launchers and six wingtip laser cannons, the formidable TIE defender is equipped with deflector shields and a hyperdrive.",
       "image": "https://infinitearenas.com/xw2/images/pilots/deltasquadronpilot.png",
@@ -141,11 +128,7 @@
         "name": "Full Throttle",
         "text": "After you fully execute a speed 3-5 maneuver, you may perform an [Evade] action."
       },
-      "slots": [
-        "Sensor",
-        "Cannon",
-        "Configuration"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/deltasquadronpilot.png",
       "standard": true,
       "extended": true,
@@ -158,8 +141,8 @@
       "name": "Onyx Squadron Ace",
       "initiative": 4,
       "limited": 0,
-      "cost": 7,
-      "loadout": 18,
+      "cost": 16,
+      "loadout": 10,
       "xws": "onyxsquadronace",
       "text": "The experimental TIE defender outclasses all other contemporary starfighters, though its size, speed, and array of weapons come at a tremendous cost in credits.",
       "image": "https://infinitearenas.com/xw2/images/pilots/onyxsquadronace.png",
@@ -167,13 +150,7 @@
         "name": "Full Throttle",
         "text": "After you fully execute a speed 3-5 maneuver, you may perform an [Evade] action."
       },
-      "slots": [
-        "Talent",
-        "Sensor",
-        "Cannon",
-        "Missile",
-        "Configuration"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/onyxsquadronace.png",
       "standard": true,
       "extended": true,
@@ -187,7 +164,7 @@
       "caption": "Onyx Leader",
       "initiative": 5,
       "limited": 1,
-      "cost": 7,
+      "cost": 18,
       "loadout": 13,
       "xws": "rexlerbrath",
       "ability": "After you perform an attack that hits, if you are evading, expose 1 of the defender's damage cards.",
@@ -196,14 +173,7 @@
         "name": "Full Throttle",
         "text": "After you fully execute a speed 3-5 maneuver, you may perform an [Evade] action."
       },
-      "slots": [
-        "Talent",
-        "Sensor",
-        "Cannon",
-        "Missile",
-        "Missile",
-        "Configuration"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rexlerbrath.png",
       "standard": true,
       "extended": true,
@@ -224,16 +194,9 @@
       "caption": "Arrogant Ace",
       "standard": true,
       "extended": true,
-      "cost": 7,
-      "loadout": 18,
-      "slots": [
-        "Talent",
-        "Talent",
-        "Sensor",
-        "Cannon",
-        "Missile",
-        "Configuration"
-      ],
+      "cost": 17,
+      "loadout": 11,
+      "slots": [],
       "ability": "Action: Gain 1 strain token to recover 1 [Charge]. Before you engage, you may spend 1 [Charge] to perform an action.",
       "charges": {
         "value": 1,
@@ -262,15 +225,9 @@
         "value": 3,
         "recovers": 1
       },
-      "cost": 9,
-      "loadout": 8,
-      "slots": [
-        "Force Power",
-        "Tech",
-        "Cannon",
-        "Missile",
-        "Configuration"
-      ],
+      "cost": 21,
+      "loadout": 14,
+      "slots": [],
       "ability": "You cannot spend [Force] except while attacking. While you perform an attack, you may spend 1 [Force] to change 1 blank result to a [Hit] result.",
       "keywords": [
         "Dark Side",
@@ -293,15 +250,9 @@
       "caption": "Reliable Replacement",
       "standard": true,
       "extended": true,
-      "cost": 7,
-      "loadout": 18,
-      "slots": [
-        "Talent",
-        "Sensor",
-        "Cannon",
-        "Missile",
-        "Configuration"
-      ],
+      "cost": 16,
+      "loadout": 10,
+      "slots": [],
       "ability": "While another friendly ship at range 0-1 defends, before the Neutralize Results step, if you are in the attack arc and are not ionized, you may gain 1 ion token to cancel 1 [Hit] result.",
       "keywords": [
         "TIE"

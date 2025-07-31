@@ -86,16 +86,7 @@
       "epic": true,
       "engagement": 1,
       "xws": "firstordersympathizers",
-      "slots": [
-        "Command",
-        "Hardpoint",
-        "Crew",
-        "Crew",
-        "Gunner",
-        "Team",
-        "Cargo",
-        "Cargo"
-      ]
+      "slots": []
     },
     {
       "name": "Cerra Fellian",
@@ -122,7 +113,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Coordinate"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -145,7 +136,11 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["pettyofficerthanisson", "ioncannonbattery-epicsl", "malefactor-epicsl"]
+      "standardLoadout": [
+        "pettyofficerthanisson",
+        "ioncannonbattery-epicsl",
+        "malefactor-epicsl"
+      ]
     }
   ]
 }

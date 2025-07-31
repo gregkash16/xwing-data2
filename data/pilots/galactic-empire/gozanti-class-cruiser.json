@@ -86,17 +86,7 @@
       "epic": true,
       "engagement": 1,
       "xws": "outerrimgarrison",
-      "slots": [
-        "Command",
-        "Crew",
-        "Gunner",
-        "Cargo",
-        "Title",
-        "Hardpoint",
-        "Crew",
-        "Team",
-        "Cargo"
-      ]
+      "slots": []
     },
     {
       "name": "Rik Virgilio",
@@ -122,7 +112,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Coordinate"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -145,7 +135,11 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["thrawn-epicsl", "heavylasercannonturret-epicsl", "bloodcrow-epicsl"]
+      "standardLoadout": [
+        "thrawn-epicsl",
+        "heavylasercannonturret-epicsl",
+        "bloodcrow-epicsl"
+      ]
     }
   ]
 }

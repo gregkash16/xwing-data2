@@ -89,19 +89,7 @@
       "epic": true,
       "engagement": 0,
       "xws": "outerrimpatrol",
-      "slots": [
-        "Command",
-        "Missile",
-        "Torpedo",
-        "Hardpoint",
-        "Hardpoint",
-        "Crew",
-        "Crew",
-        "Team",
-        "Team",
-        "Cargo",
-        "Title"
-      ]
+      "slots": []
     },
     {
       "name": "Iden Versio",
@@ -127,7 +115,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Focus"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -150,7 +138,13 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["ruthless", "fanatical-epicsl", "infernosquad-epicsl", "twinmissilelauncher-epicsl", "corvus-epicsl"]
+      "standardLoadout": [
+        "ruthless",
+        "fanatical-epicsl",
+        "infernosquad-epicsl",
+        "twinmissilelauncher-epicsl",
+        "corvus-epicsl"
+      ]
     }
   ]
 }

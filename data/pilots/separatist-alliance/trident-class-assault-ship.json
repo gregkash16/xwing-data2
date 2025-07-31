@@ -89,18 +89,7 @@
       "epic": true,
       "engagement": 0,
       "xws": "colicoiddestroyer",
-      "slots": [
-        "Command",
-        "Torpedo",
-        "Hardpoint",
-        "Hardpoint",
-        "Crew",
-        "Crew",
-        "Gunner",
-        "Team",
-        "Cargo",
-        "Title"
-      ]
+      "slots": []
     },
     {
       "name": "Asajj Ventress",
@@ -149,7 +138,12 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["aqseriesbattledroids-epicsl", "tractortentacles-epicsl", "drillbeak-epicsl", "trident-epicsl"]
+      "standardLoadout": [
+        "aqseriesbattledroids-epicsl",
+        "tractortentacles-epicsl",
+        "drillbeak-epicsl",
+        "trident-epicsl"
+      ]
     }
   ]
 }

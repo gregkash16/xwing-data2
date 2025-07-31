@@ -68,14 +68,9 @@
       "limited": 1,
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 14,
-      "slots": [
-        "Tech",
-        "Tech",
-        "Crew",
-        "Modification"
-      ],
+      "cost": 6,
+      "loadout": 6,
+      "slots": [],
       "ability": "During the System Phase, you may perform a red [Barrel Roll] or [Boost] action.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bb8.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/bb8.png",
@@ -111,15 +106,9 @@
       "caption": "Earnest Engineer",
       "standard": true,
       "extended": true,
-      "cost": 3,
+      "cost": 7,
       "loadout": 11,
-      "slots": [
-        "Talent",
-        "Tech",
-        "Crew",
-        "Modification",
-        "Modification"
-      ],
+      "slots": [],
       "ability": "While you defend or perform an attack, you may reroll up to 1 of your results for each other friendly ship in the attack arc.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rosetico.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/rosetico.png",
@@ -133,13 +122,9 @@
       "caption": "Starling",
       "standard": false,
       "extended": true,
-      "cost": 3,
-      "loadout": 12,
-      "slots": [
-        "Tech",
-        "Crew",
-        "Modification"
-      ],
+      "cost": 6,
+      "loadout": 6,
+      "slots": [],
       "ability": "Setup: After placing forces, assign the Compromising Intel condition to 1 enemy ship.",
       "conditions": [
         "compromisingintel"
@@ -156,15 +141,9 @@
       "caption": "Big Deal",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 7,
-      "slots": [
-        "Talent",
-        "Talent",
-        "Tech",
-        "Crew",
-        "Modification"
-      ],
+      "cost": 9,
+      "loadout": 16,
+      "slots": [],
       "ability": "While you defend or perform an attack, you may add 1 blank result, or you may gain 1 strain token to add 1 focus result instead.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/finn.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/finn.png",

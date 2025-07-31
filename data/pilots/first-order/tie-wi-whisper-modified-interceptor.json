@@ -96,18 +96,9 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 5,
-      "loadout": 12,
-      "slots": [
-        "Force Power",
-        "Force Power",
-        "Missile",
-        "Tech",
-        "Tech",
-        "Modification",
-        "Modification",
-        "Configuration"
-      ],
+      "cost": 15,
+      "loadout": 15,
+      "slots": [],
       "ability": "Before an enemy ship in your [Bullseye Arc] is dealt a facedown damage card, you may spend 1 [Force]. If you do, that damage card is dealt faceup instead.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kyloren-tiewiwhispermodifiedinterceptor.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/kyloren-tiewiwhispermodifiedinterceptor.png",
@@ -128,7 +119,7 @@
       "epic": true
     },
     {
-      "name": "“Wrath”",
+      "name": "\u201cWrath\u201d",
       "xws": "wrath",
       "initiative": 5,
       "limited": 1,
@@ -138,16 +129,9 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 5,
+      "cost": 13,
       "loadout": 17,
-      "slots": [
-        "Talent",
-        "Talent",
-        "Cannon",
-        "Tech",
-        "Tech",
-        "Configuration"
-      ],
+      "slots": [],
       "ability": "After you perform a [Bullseye Arc] attack, if you have 1 or more non-lock red or orange tokens, you may perform a bonus attack against a different target.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wrath.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/wrath.png",
@@ -158,7 +142,7 @@
       "epic": true
     },
     {
-      "name": "“Nightfall”",
+      "name": "\u201cNightfall\u201d",
       "xws": "nightfall",
       "initiative": 4,
       "limited": 1,
@@ -168,15 +152,9 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 11,
       "loadout": 11,
-      "slots": [
-        "Talent",
-        "Missile",
-        "Tech",
-        "Tech",
-        "Configuration"
-      ],
+      "slots": [],
       "ability": "After you fully execute a maneuver or perform a [Boost] action, each ship you moved through gains 2 jam tokens.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/nightfall.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/nightfall.png",
@@ -187,7 +165,7 @@
       "epic": true
     },
     {
-      "name": "“Whirlwind”",
+      "name": "\u201cWhirlwind\u201d",
       "xws": "whirlwind",
       "initiative": 3,
       "limited": 1,
@@ -197,16 +175,9 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 5,
-      "loadout": 20,
-      "slots": [
-        "Talent",
-        "Talent",
-        "Missile",
-        "Tech",
-        "Tech",
-        "Configuration"
-      ],
+      "cost": 11,
+      "loadout": 10,
+      "slots": [],
       "ability": "Before you engage, you may remove any number of jam tokens, then you may gain 1 focus token for each enemy ship that has you in its [Front Arc].",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/whirlwind.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/whirlwind.png",
@@ -228,15 +199,9 @@
       "text": "Commanded by Supreme Leader Kylo Ren, the 709th Legion fights without mercy or remorse to crush the Resistance and bring the galaxy under the First Order's dominion.",
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 10,
       "loadout": 5,
-      "slots": [
-        "Talent",
-        "Missile",
-        "Tech",
-        "Tech",
-        "Configuration"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/709thlegionace.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/709thlegionace.png",
       "keywords": [
@@ -256,14 +221,9 @@
       "text": "Also called Red Fury, the 709th Legion is charged by Supreme Leader Kylo Ren with rooting out dissenters at Black Spire Outpost.",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 7,
-      "slots": [
-        "Talent",
-        "Tech",
-        "Tech",
-        "Configuration"
-      ],
+      "cost": 8,
+      "loadout": 5,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/redfuryzealot.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/redfuryzealot.png",
       "keywords": [

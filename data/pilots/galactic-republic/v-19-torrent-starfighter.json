@@ -65,7 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_V-19Torrent.png",
   "pilots": [
     {
-      "name": "“Kickback”",
+      "name": "\u201cKickback\u201d",
       "caption": "Blue Four",
       "xws": "kickback",
       "initiative": 4,
@@ -74,13 +74,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/kickback.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 10,
-      "slots": [
-        "Talent",
-        "Missile",
-        "Modification"
-      ],
+      "cost": 8,
+      "loadout": 11,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kickback.png",
       "keywords": [
         "Clone"
@@ -88,7 +84,7 @@
       "epic": true
     },
     {
-      "name": "“Odd Ball”",
+      "name": "\u201cOdd Ball\u201d",
       "caption": "CC-2237",
       "xws": "oddball",
       "initiative": 5,
@@ -97,14 +93,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/oddball.png",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 23,
-      "slots": [
-        "Talent",
-        "Torpedo",
-        "Missile",
-        "Modification"
-      ],
+      "cost": 9,
+      "loadout": 16,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/oddball.png",
       "keywords": [
         "Clone"
@@ -112,7 +103,7 @@
       "epic": true
     },
     {
-      "name": "“Swoop”",
+      "name": "\u201cSwoop\u201d",
       "caption": "Blue Six",
       "xws": "swoop",
       "initiative": 3,
@@ -121,14 +112,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/swoop.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 7,
-      "slots": [
-        "Talent",
-        "Missile",
-        "Missile",
-        "Modification"
-      ],
+      "cost": 8,
+      "loadout": 12,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/swoop.png",
       "keywords": [
         "Clone"
@@ -136,7 +122,7 @@
       "epic": true
     },
     {
-      "name": "“Axe”",
+      "name": "\u201cAxe\u201d",
       "caption": "Blue Two",
       "xws": "axe",
       "initiative": 3,
@@ -145,13 +131,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/axe.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 11,
-      "slots": [
-        "Talent",
-        "Missile",
-        "Modification"
-      ],
+      "cost": 7,
+      "loadout": 7,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/axe.png",
       "keywords": [
         "Clone"
@@ -159,7 +141,7 @@
       "epic": true
     },
     {
-      "name": "“Tucker”",
+      "name": "\u201cTucker\u201d",
       "caption": "Blue Five",
       "xws": "tucker",
       "initiative": 2,
@@ -168,14 +150,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/tucker.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
+      "cost": 8,
       "loadout": 13,
-      "slots": [
-        "Talent",
-        "Missile",
-        "Missile",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tucker.png",
       "keywords": [
         "Clone"
@@ -191,12 +168,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/bluesquadronprotector.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 8,
-      "slots": [
-        "Talent",
-        "Modification"
-      ],
+      "cost": 8,
+      "loadout": 10,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronprotector.png",
       "keywords": [
         "Clone"
@@ -212,13 +186,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/goldsquadrontrooper.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 8,
-      "slots": [
-        "Missile",
-        "Talent",
-        "Modification"
-      ],
+      "cost": 6,
+      "loadout": 0,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/goldsquadrontrooper.png",
       "keywords": [
         "Clone"
@@ -226,7 +196,7 @@
       "epic": true
     },
     {
-      "name": "“Kickback”",
+      "name": "\u201cKickback\u201d",
       "caption": "Siege of Coruscant",
       "initiative": 5,
       "limited": 1,
@@ -267,7 +237,7 @@
       "loadout": 0
     },
     {
-      "name": "“Axe”",
+      "name": "\u201cAxe\u201d",
       "caption": "Siege of Coruscant",
       "initiative": 3,
       "limited": 1,
@@ -308,7 +278,7 @@
       "loadout": 0
     },
     {
-      "name": "“Slammer”",
+      "name": "\u201cSlammer\u201d",
       "caption": "Blue Three",
       "xws": "slammer",
       "initiative": 1,
@@ -320,14 +290,9 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 6,
-      "slots": [
-        "Talent",
-        "Missile",
-        "Missile",
-        "Modification"
-      ],
+      "cost": 7,
+      "loadout": 7,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/slammer.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/slammer.png",
       "keywords": [

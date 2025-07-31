@@ -89,18 +89,7 @@
       "epic": true,
       "engagement": 0,
       "xws": "firstordercollaborators",
-      "slots": [
-        "Command",
-        "Torpedo",
-        "Missile",
-        "Hardpoint",
-        "Hardpoint",
-        "Crew",
-        "Crew",
-        "Team",
-        "Team",
-        "Cargo"
-      ]
+      "slots": []
     },
     {
       "name": "Gideon Hask",
@@ -127,7 +116,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Focus"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -149,7 +138,13 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["agentterex-epicsl", "protectorategleb-epicsl", "jinatasecurityforces-epicsl", "twinmissilelauncher-epicsl", "precursor-epicsl"]
+      "standardLoadout": [
+        "agentterex-epicsl",
+        "protectorategleb-epicsl",
+        "jinatasecurityforces-epicsl",
+        "twinmissilelauncher-epicsl",
+        "precursor-epicsl"
+      ]
     }
   ]
 }

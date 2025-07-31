@@ -74,17 +74,9 @@
       "text": "Whether the ordnance silos of their StarFortresses are loaded with proton bombs or relief supplies, the heroic crews of Cobalt Squadron dedicate their lives to making a difference in the galaxy.",
       "image": "https://infinitearenas.com/xw2/images/pilots/cobaltsquadronbomber.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cobaltsquadronbomber.png",
-      "cost": 6,
-      "loadout": 14,
-      "slots": [
-        "Sensor",
-        "Device",
-        "Device",
-        "Modification",
-        "Gunner",
-        "Gunner",
-        "Tech"
-      ],
+      "cost": 15,
+      "loadout": 20,
+      "slots": [],
       "standard": false,
       "extended": true,
       "epic": true
@@ -98,19 +90,9 @@
       "ability": "While you perform a primary attack, if the defender is at range 0-1 of at least 1 friendly device, roll 1 additional die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/cat.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cat.png",
-      "cost": 5,
-      "loadout": 14,
-      "slots": [
-        "Talent",
-        "Sensor",
-        "Crew",
-        "Device",
-        "Device",
-        "Modification",
-        "Gunner",
-        "Gunner",
-        "Tech"
-      ],
+      "cost": 15,
+      "loadout": 22,
+      "slots": [],
       "standard": false,
       "extended": true,
       "epic": true
@@ -124,18 +106,9 @@
       "ability": "While you defend, if the attacker is in a friendly ship's [Single Turret Arc], you may add 1 [Focus] result to your roll.",
       "image": "https://infinitearenas.com/xw2/images/pilots/vennie.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vennie.png",
-      "cost": 6,
-      "loadout": 20,
-      "slots": [
-        "Torpedo",
-        "Crew",
-        "Crew",
-        "Device",
-        "Device",
-        "Modification",
-        "Gunner",
-        "Gunner"
-      ],
+      "cost": 17,
+      "loadout": 27,
+      "slots": [],
       "standard": false,
       "extended": true,
       "epic": true
@@ -149,22 +122,12 @@
       "ability": "After you perform an attack, if the defender is in your [Single Turret Arc], assign the Rattled condition to the defender.",
       "image": "https://infinitearenas.com/xw2/images/pilots/benteene.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/benteene.png",
-      "cost": 5,
-      "loadout": 11,
+      "cost": 15,
+      "loadout": 19,
       "conditions": [
         "rattled"
       ],
-      "slots": [
-        "Sensor",
-        "Crew",
-        "Device",
-        "Device",
-        "Modification",
-        "Gunner",
-        "Gunner",
-        "Tech",
-        "Tech"
-      ],
+      "slots": [],
       "standard": false,
       "extended": true,
       "epic": true
@@ -178,19 +141,9 @@
       "ability": "After you fully execute a blue or white maneuver, if you have not dropped or launched a device this round, you may drop 1 device.",
       "image": "https://infinitearenas.com/xw2/images/pilots/edonkappehl.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/edonkappehl.png",
-      "cost": 5,
-      "loadout": 10,
-      "slots": [
-        "Sensor",
-        "Cannon",
-        "Crew",
-        "Device",
-        "Device",
-        "Modification",
-        "Gunner",
-        "Gunner",
-        "Tech"
-      ],
+      "cost": 16,
+      "loadout": 23,
+      "slots": [],
       "standard": false,
       "extended": true,
       "epic": true
@@ -204,18 +157,9 @@
       "ability": "Before you would drop a bomb, you may place it in the play area touching you instead.",
       "image": "https://infinitearenas.com/xw2/images/pilots/finchdallow.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/finchdallow.png",
-      "cost": 6,
-      "loadout": 23,
-      "slots": [
-        "Missile",
-        "Crew",
-        "Device",
-        "Device",
-        "Modification",
-        "Gunner",
-        "Gunner",
-        "Tech"
-      ],
+      "cost": 17,
+      "loadout": 28,
+      "slots": [],
       "standard": false,
       "extended": true,
       "epic": true
@@ -232,18 +176,10 @@
         "value": 1,
         "recovers": 1
       },
-      "slots": [
-        "Talent",
-        "Sensor",
-        "Tech",
-        "Crew",
-        "Device",
-        "Device",
-        "Modification"
-      ],
+      "slots": [],
       "ability": "After you drop a device, you may spend 1 [Charge] to drop an additional device.",
-      "cost": 6,
-      "loadout": 23,
+      "cost": 16,
+      "loadout": 21,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/paigetico.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/paigetico.png",
       "epic": true
@@ -293,8 +229,7 @@
             "type": "Reinforce"
           }
         }
-      ],
-      "caption": "Evacuation of D'Qar"
+      ]
     },
     {
       "name": "Vennie",
@@ -341,8 +276,7 @@
           "difficulty": "White",
           "type": "Reload"
         }
-      ],
-      "caption": "Evacuation of D'Qar"
+      ]
     }
   ]
 }

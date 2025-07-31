@@ -73,13 +73,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/tradefederationdrone.png",
       "standard": true,
       "extended": true,
-      "cost": 2,
-      "loadout": 5,
-      "slots": [
-        "Modification",
-        "Missile",
-        "Configuration"
-      ],
+      "cost": 5,
+      "loadout": 0,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tradefederationdrone.png",
       "keywords": [
         "Droid"
@@ -100,13 +96,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/precisehunter.png",
       "standard": true,
       "extended": true,
-      "cost": 2,
-      "loadout": 4,
-      "slots": [
-        "Cannon",
-        "Modification",
-        "Configuration"
-      ],
+      "cost": 6,
+      "loadout": 5,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/precisehunter.png",
       "keywords": [
         "Droid"
@@ -127,13 +119,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/haorchallprototype.png",
       "standard": true,
       "extended": true,
-      "cost": 2,
-      "loadout": 2,
-      "slots": [
-        "Missile",
-        "Modification",
-        "Configuration"
-      ],
+      "cost": 6,
+      "loadout": 7,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/haorchallprototype.png",
       "keywords": [
         "Droid"
@@ -154,13 +142,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/dfs081.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 16,
-      "slots": [
-        "Missile",
-        "Modification",
-        "Configuration"
-      ],
+      "cost": 6,
+      "loadout": 7,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dfs081.png",
       "keywords": [
         "Droid"
@@ -180,13 +164,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/separatistdrone.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 14,
-      "slots": [
-        "Missile",
-        "Modification",
-        "Configuration"
-      ],
+      "cost": 6,
+      "loadout": 6,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/separatistdrone.png",
       "keywords": [
         "Droid"
@@ -207,14 +187,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/dfs311.png",
       "standard": true,
       "extended": true,
-      "cost": 2,
-      "loadout": 2,
-      "slots": [
-        "Missile",
-        "Modification",
-        "Modification",
-        "Configuration"
-      ],
+      "cost": 6,
+      "loadout": 6,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dfs311.png",
       "keywords": [
         "Droid"
@@ -321,18 +296,13 @@
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/theironassembler.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/theironassembler.png",
-      "cost": 3,
-      "loadout": 12,
+      "cost": 6,
+      "loadout": 3,
       "charges": {
         "value": 3,
         "recovers": 0
       },
-      "slots": [
-        "Missile",
-        "Modification",
-        "Modification",
-        "Configuration"
-      ],
+      "slots": [],
       "keywords": [
         "Droid"
       ],
@@ -371,13 +341,9 @@
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/kelrodoaiholdout.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kelrodoaiholdout.png",
-      "cost": 3,
-      "loadout": 14,
-      "slots": [
-        "Talent",
-        "Missile",
-        "Modification"
-      ],
+      "cost": 6,
+      "loadout": 10,
+      "slots": [],
       "epic": true
     }
   ]

@@ -75,14 +75,9 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 13,
-      "slots": [
-        "Torpedo",
-        "Device",
-        "Modification",
-        "Configuration"
-      ],
+      "cost": 8,
+      "loadout": 12,
+      "slots": [],
       "text": "Baktoid Armor Workshop developed the Hyena as a strike craft compatible with Trade Federation Vulture swarm tactics.",
       "image": "https://infinitearenas.com/xw2/images/pilots/technounionbomber.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/technounionbomber.png",
@@ -105,13 +100,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/bombardmentdrone.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
+      "cost": 9,
       "loadout": 9,
-      "slots": [
-        "Device",
-        "Device",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bombardmentdrone.png",
       "keywords": [
         "Droid"
@@ -130,15 +121,9 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 14,
-      "slots": [
-        "Torpedo",
-        "Missile",
-        "Device",
-        "Modification",
-        "Configuration"
-      ],
+      "cost": 9,
+      "loadout": 12,
+      "slots": [],
       "ability": "While you perform an attack at attack range 1, you must roll 1 additional die. After the attack hits, suffer 1 [Critical Hit] damage.",
       "image": "https://infinitearenas.com/xw2/images/pilots/dbs404.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dbs404.png",
@@ -161,15 +146,9 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 3,
+      "cost": 8,
       "loadout": 10,
-      "slots": [
-        "Sensor",
-        "Missile",
-        "Missile",
-        "Modification",
-        "Configuration"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/baktoidprototype.png",
       "keywords": [
         "Droid"
@@ -189,14 +168,9 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 10,
-      "slots": [
-        "Missile",
-        "Device",
-        "Modification",
-        "Configuration"
-      ],
+      "cost": 9,
+      "loadout": 14,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/separatistbomber.png",
       "keywords": [
         "Droid"
@@ -239,14 +213,9 @@
       ],
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 7,
-      "slots": [
-        "Sensor",
-        "Tactical Relay",
-        "Modification",
-        "Configuration"
-      ],
+      "cost": 9,
+      "loadout": 10,
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dbs32c.png",
       "keywords": [
         "Droid"

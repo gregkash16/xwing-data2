@@ -71,15 +71,9 @@
       "text": "After witnessing the Hosnian Cataclysm, some spacers willingly aided the Resistance with whatever ships they had.",
       "image": "https://infinitearenas.com/xw2/images/pilots/resistancesympathizer.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/resistancesympathizer.png",
-      "cost": 6,
-      "loadout": 18,
-      "slots": [
-        "Talent",
-        "Missile",
-        "Modification",
-        "Modification",
-        "Gunner"
-      ],
+      "cost": 15,
+      "loadout": 16,
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -97,20 +91,9 @@
       "ability": "After a friendly ship at range 0-3 is destroyed, before that ship is removed, you may perform an action. Then you may perform a bonus attack.",
       "image": "https://infinitearenas.com/xw2/images/pilots/chewbacca-scavengedyt1300.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/chewbacca-scavengedyt1300.png",
-      "cost": 6,
-      "loadout": 16,
-      "slots": [
-        "Talent",
-        "Talent",
-        "Missile",
-        "Crew",
-        "Crew",
-        "Illicit",
-        "Illicit",
-        "Modification",
-        "Title",
-        "Gunner"
-      ],
+      "cost": 17,
+      "loadout": 18,
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -128,20 +111,9 @@
       "ability": "Setup: You can be placed anywhere in the play area beyond range 3 of enemy ships.",
       "image": "https://infinitearenas.com/xw2/images/pilots/hansolo-scavengedyt1300.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/hansolo-scavengedyt1300.png",
-      "cost": 7,
-      "loadout": 21,
-      "slots": [
-        "Talent",
-        "Missile",
-        "Crew",
-        "Crew",
-        "Illicit",
-        "Illicit",
-        "Modification",
-        "Modification",
-        "Gunner",
-        "Title"
-      ],
+      "cost": 18,
+      "loadout": 23,
+      "slots": [],
       "standard": false,
       "extended": true,
       "keywords": [
@@ -166,19 +138,9 @@
           "light"
         ]
       },
-      "cost": 8,
-      "loadout": 28,
-      "slots": [
-        "Missile",
-        "Force Power",
-        "Crew",
-        "Crew",
-        "Illicit",
-        "Modification",
-        "Title",
-        "Gunner",
-        "Force Power"
-      ],
+      "cost": 20,
+      "loadout": 23,
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -201,18 +163,9 @@
         "value": 2,
         "recovers": 1
       },
-      "cost": 7,
-      "loadout": 21,
-      "slots": [
-        "Talent",
-        "Talent",
-        "Missile",
-        "Crew",
-        "Illicit",
-        "Modification",
-        "Title",
-        "Gunner"
-      ],
+      "cost": 19,
+      "loadout": 24,
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -234,19 +187,9 @@
         "value": 3,
         "recovers": 1
       },
-      "cost": 7,
+      "cost": 18,
       "loadout": 20,
-      "slots": [
-        "Talent",
-        "Missile",
-        "Crew",
-        "Crew",
-        "Illicit",
-        "Illicit",
-        "Modification",
-        "Title",
-        "Gunner"
-      ],
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [

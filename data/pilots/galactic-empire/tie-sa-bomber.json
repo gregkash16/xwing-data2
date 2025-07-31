@@ -64,12 +64,12 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEBomber.png",
   "pilots": [
     {
-      "name": "“Deathfire”",
+      "name": "\u201cDeathfire\u201d",
       "caption": "Unflinching Diehard",
       "initiative": 2,
       "limited": 1,
-      "cost": 3,
-      "loadout": 7,
+      "cost": 9,
+      "loadout": 12,
       "xws": "deathfire",
       "ability": "After you are destroyed, before you are removed, you may perform an attack and drop or launch 1 device.",
       "image": "https://infinitearenas.com/xw2/images/pilots/deathfire.png",
@@ -77,13 +77,7 @@
         "name": "Nimble Bomber",
         "text": "If you would drop a device using a [Straight] template, you may use a [Bank Left] or [Bank Right] template of the same speed instead."
       },
-      "slots": [
-        "Torpedo",
-        "Missile",
-        "Device",
-        "Modification",
-        "Gunner"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/deathfire.png",
       "standard": true,
       "extended": true,
@@ -97,8 +91,8 @@
       "caption": "Disciplined Instructor",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 7,
+      "cost": 10,
+      "loadout": 10,
       "xws": "captainjonus",
       "ability": "While a friendly ship at range 0-1 performs a [Torpedo] or [Missile] attack, that ship may reroll up to 2 attack dice.",
       "image": "https://infinitearenas.com/xw2/images/pilots/captainjonus.png",
@@ -106,16 +100,7 @@
         "name": "Nimble Bomber",
         "text": "If you would drop a device using a [Straight] template, you may use a [Bank Left] or [Bank Right] template of the same speed instead."
       },
-      "slots": [
-        "Talent",
-        "Torpedo",
-        "Missile",
-        "Missile",
-        "Device",
-        "Device",
-        "Modification",
-        "Gunner"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captainjonus.png",
       "standard": true,
       "extended": true,
@@ -128,8 +113,8 @@
       "name": "Gamma Squadron Ace",
       "initiative": 3,
       "limited": 0,
-      "cost": 4,
-      "loadout": 10,
+      "cost": 10,
+      "loadout": 14,
       "xws": "gammasquadronace",
       "text": "Though it sacrifices a degree of speed and maneuverability compared to a TIE/ln, the TIE bomber's increased payload can carry enough firepower to destroy virtually any enemy target.",
       "image": "https://infinitearenas.com/xw2/images/pilots/gammasquadronace.png",
@@ -137,14 +122,7 @@
         "name": "Nimble Bomber",
         "text": "If you would drop a device using a [Straight] template, you may use a [Bank Left] or [Bank Right] template of the same speed instead."
       },
-      "slots": [
-        "Talent",
-        "Torpedo",
-        "Device",
-        "Device",
-        "Modification",
-        "Gunner"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gammasquadronace.png",
       "standard": true,
       "extended": true,
@@ -158,8 +136,8 @@
       "caption": "Scimitar Leader",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 10,
+      "cost": 10,
+      "loadout": 13,
       "xws": "majorrhymer",
       "ability": "While you perform a [Torpedo] or [Missile] attack, you may increase or decrease the range requirement by 1, to a limit of 0-3.",
       "image": "https://infinitearenas.com/xw2/images/pilots/majorrhymer.png",
@@ -167,15 +145,7 @@
         "name": "Nimble Bomber",
         "text": "If you would drop a device using a [Straight] template, you may use a [Bank Left] or [Bank Right] template of the same speed instead."
       },
-      "slots": [
-        "Talent",
-        "Torpedo",
-        "Missile",
-        "Missile",
-        "Device",
-        "Modification",
-        "Gunner"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/majorrhymer.png",
       "standard": true,
       "extended": true,
@@ -188,8 +158,8 @@
       "name": "Scimitar Squadron Pilot",
       "initiative": 2,
       "limited": 0,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 8,
+      "loadout": 5,
       "xws": "scimitarsquadronpilot",
       "text": "The TIE/sa is exceptionally nimble for a bomber, allowing it to pinpoint its target while avoiding excessive collateral damage to the surrounding area.",
       "image": "https://infinitearenas.com/xw2/images/pilots/scimitarsquadronpilot.png",
@@ -197,13 +167,7 @@
         "name": "Nimble Bomber",
         "text": "If you would drop a device using a [Straight] template, you may use a [Bank Left] or [Bank Right] template of the same speed instead."
       },
-      "slots": [
-        "Missile",
-        "Device",
-        "Device",
-        "Modification",
-        "Gunner"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/scimitarsquadronpilot.png",
       "standard": true,
       "extended": true,
@@ -217,8 +181,8 @@
       "caption": "Brash Maverick",
       "initiative": 5,
       "limited": 1,
-      "cost": 3,
-      "loadout": 4,
+      "cost": 10,
+      "loadout": 13,
       "xws": "tomaxbren",
       "ability": "After you perform a [Reload] action, you may recover 1 [Charge] token on 1 of your equipped [Talent] upgrade cards.",
       "image": "https://infinitearenas.com/xw2/images/pilots/tomaxbren.png",
@@ -226,16 +190,7 @@
         "name": "Nimble Bomber",
         "text": "If you would drop a device using a [Straight] template, you may use a [Bank Left] or [Bank Right] template of the same speed instead."
       },
-      "slots": [
-        "Talent",
-        "Talent",
-        "Missile",
-        "Missile",
-        "Device",
-        "Device",
-        "Modification",
-        "Gunner"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tomaxbren.png",
       "standard": true,
       "extended": true,
@@ -299,7 +254,7 @@
       "loadout": 0
     },
     {
-      "name": "“Deathfire”",
+      "name": "\u201cDeathfire\u201d",
       "caption": "Obstinate Bombardier",
       "initiative": 2,
       "limited": 1,

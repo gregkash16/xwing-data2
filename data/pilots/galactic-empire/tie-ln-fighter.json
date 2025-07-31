@@ -56,20 +56,16 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEFighter.png",
   "pilots": [
     {
-      "name": "“Howlrunner”",
+      "name": "\u201cHowlrunner\u201d",
       "caption": "Obsidian Leader",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
-      "loadout": 18,
+      "cost": 8,
+      "loadout": 6,
       "xws": "howlrunner",
       "ability": "While a friendly ship at range 0-1 performs a primary attack, that ship may reroll 1 attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/howlrunner.png",
-      "slots": [
-        "Talent",
-        "Talent",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/howlrunner.png",
       "standard": true,
       "extended": true,
@@ -79,19 +75,16 @@
       "epic": true
     },
     {
-      "name": "“Mauler” Mithel",
+      "name": "\u201cMauler\u201d Mithel",
       "caption": "Black Two",
       "initiative": 5,
       "limited": 1,
-      "cost": 3,
-      "loadout": 11,
+      "cost": 8,
+      "loadout": 9,
       "xws": "maulermithel",
       "ability": "While you perform an attack at attack range 1, roll 1 additional attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/maulermithel.png",
-      "slots": [
-        "Talent",
-        "Cannon"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/maulermithel.png",
       "standard": true,
       "extended": true,
@@ -101,19 +94,16 @@
       "epic": true
     },
     {
-      "name": "“Night Beast”",
+      "name": "\u201cNight Beast\u201d",
       "caption": "Obsidian Two",
       "initiative": 2,
       "limited": 1,
-      "cost": 3,
-      "loadout": 6,
+      "cost": 8,
+      "loadout": 9,
       "xws": "nightbeast",
       "ability": "After you fully execute a blue maneuver, you may perform a [Focus] action.",
       "image": "https://infinitearenas.com/xw2/images/pilots/nightbeast.png",
-      "slots": [
-        "Talent",
-        "Talent"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/nightbeast.png",
       "standard": true,
       "extended": true,
@@ -123,19 +113,16 @@
       "epic": true
     },
     {
-      "name": "“Scourge” Skutu",
+      "name": "\u201cScourge\u201d Skutu",
       "caption": "Seasoned Veteran",
       "initiative": 5,
       "limited": 1,
-      "cost": 3,
-      "loadout": 11,
+      "cost": 8,
+      "loadout": 9,
       "xws": "scourgeskutu",
       "ability": "While you perform an attack against a defender in your [Bullseye Arc], roll 1 additional attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/scourgeskutu.png",
-      "slots": [
-        "Talent",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/scourgeskutu.png",
       "standard": true,
       "extended": true,
@@ -145,12 +132,12 @@
       "epic": true
     },
     {
-      "name": "“Wampa”",
+      "name": "\u201cWampa\u201d",
       "caption": "Black Eleven",
       "initiative": 1,
       "limited": 1,
-      "cost": 3,
-      "loadout": 11,
+      "cost": 6,
+      "loadout": 2,
       "xws": "wampa",
       "ability": "While you perform an attack, you may spend 1 [Charge] to roll 1 additional attack die. After defending, lose 1 [Charge].",
       "image": "https://infinitearenas.com/xw2/images/pilots/wampa.png",
@@ -158,10 +145,7 @@
         "value": 1,
         "recovers": 1
       },
-      "slots": [
-        "Talent",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wampa.png",
       "standard": true,
       "extended": true,
@@ -174,14 +158,12 @@
       "name": "Academy Pilot",
       "initiative": 1,
       "limited": 0,
-      "cost": 2,
-      "loadout": 4,
+      "cost": 5,
+      "loadout": 0,
       "xws": "academypilot",
       "text": "The Galactic Empire uses the fast and agile TIE/ln, developed by Sienar Fleet Systems and produced in staggering quantity, as its primary starfighter.",
       "image": "https://infinitearenas.com/xw2/images/pilots/academypilot.png",
-      "slots": [
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/academypilot.png",
       "standard": true,
       "extended": true,
@@ -194,15 +176,12 @@
       "name": "Black Squadron Ace",
       "initiative": 3,
       "limited": 0,
-      "cost": 3,
-      "loadout": 14,
+      "cost": 6,
+      "loadout": 5,
       "xws": "blacksquadronace",
       "text": "The elite TIE/ln pilots of Black Squadron accompanied Darth Vader on a devastating strike against the Rebel forces at the Battle of Yavin.",
       "image": "https://infinitearenas.com/xw2/images/pilots/blacksquadronace.png",
-      "slots": [
-        "Talent",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksquadronace.png",
       "standard": true,
       "extended": true,
@@ -216,16 +195,12 @@
       "caption": "Inferno Three",
       "initiative": 4,
       "limited": 1,
-      "cost": 3,
-      "loadout": 12,
+      "cost": 9,
+      "loadout": 17,
       "xws": "delmeeko",
       "ability": "While a friendly ship at range 0-2 defends against a damaged attacker, the defender may reroll 1 defense die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/delmeeko.png",
-      "slots": [
-        "Cannon",
-        "Talent",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/delmeeko.png",
       "standard": true,
       "extended": true,
@@ -239,17 +214,12 @@
       "caption": "Inferno Two",
       "initiative": 4,
       "limited": 1,
-      "cost": 3,
-      "loadout": 12,
+      "cost": 9,
+      "loadout": 16,
       "xws": "gideonhask",
       "ability": "While you perform an attack against a damaged defender, roll 1 additional attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/gideonhask.png",
-      "slots": [
-        "Talent",
-        "Talent",
-        "Missile",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gideonhask.png",
       "standard": true,
       "extended": true,
@@ -263,7 +233,7 @@
       "caption": "Inferno Leader",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
+      "cost": 10,
       "loadout": 16,
       "xws": "idenversio",
       "ability": "Before a friendly TIE/ln fighter at range 0-1 would suffer 1 or more damage, you may spend 1 [Charge]. If you do, prevent that damage.",
@@ -272,13 +242,7 @@
         "value": 1,
         "recovers": 0
       },
-      "slots": [
-        "Talent",
-        "Talent",
-        "Cannon",
-        "Missile",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/idenversio.png",
       "standard": true,
       "extended": true,
@@ -291,14 +255,12 @@
       "name": "Obsidian Squadron Pilot",
       "initiative": 2,
       "limited": 0,
-      "cost": 2,
-      "loadout": 0,
+      "cost": 5,
+      "loadout": 2,
       "xws": "obsidiansquadronpilot",
       "text": "The TIE fighter's Twin Ion Engine system was designed for speed, making the TIE/ln one of the most maneuverable starships ever mass-produced.",
       "image": "https://infinitearenas.com/xw2/images/pilots/obsidiansquadronpilot.png",
-      "slots": [
-        "Talent"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/obsidiansquadronpilot.png",
       "standard": true,
       "extended": true,
@@ -312,16 +274,12 @@
       "caption": "Inferno Four",
       "initiative": 4,
       "limited": 1,
-      "cost": 3,
-      "loadout": 12,
+      "cost": 8,
+      "loadout": 11,
       "xws": "seynmarana",
       "ability": "While you perform an attack, you may spend 1 [Critical Hit] result. If you do, deal 1 facedown damage card to the defender, then cancel your remaining results.",
       "image": "https://infinitearenas.com/xw2/images/pilots/seynmarana.png",
-      "slots": [
-        "Talent",
-        "Cannon",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/seynmarana.png",
       "standard": true,
       "extended": true,
@@ -335,15 +293,12 @@
       "caption": "Braggadocious Baron",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
-      "loadout": 5,
+      "cost": 8,
+      "loadout": 8,
       "xws": "valenrudor",
       "ability": "After a friendly ship at range 0-1 defends (after damage is resolved, if any), you may perform an action.",
       "image": "https://infinitearenas.com/xw2/images/pilots/valenrudor.png",
-      "slots": [
-        "Talent",
-        "Talent"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/valenrudor.png",
       "standard": true,
       "extended": true,
@@ -357,16 +312,12 @@
       "caption": "Heartless Enforcer",
       "initiative": 4,
       "limited": 2,
-      "cost": 4,
-      "loadout": 18,
+      "cost": 8,
+      "loadout": 8,
       "xws": "isbjingoist",
       "ability": "Before you engage, you may choose 1 enemy ship in your [Front Arc] at range 0-1. If you do, that ship gains 1 deplete or strain token of your choice unless it chooses to remove 1 green token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/isbjingoist.png",
-      "slots": [
-        "Talent",
-        "Illicit",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/isbjingoist.png",
       "standard": true,
       "extended": true,
@@ -380,8 +331,8 @@
       "caption": "Ruthless Remnant Leader",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 15,
+      "cost": 9,
+      "loadout": 12,
       "xws": "moffgideon",
       "charges": {
         "value": 2,
@@ -389,12 +340,7 @@
       },
       "ability": "While an enemy ship at range 1-3 defends, before attack dice are rolled, you may spend 1 [Charge] and choose a friendly ship at range 0-1 of the defender. If you do, defense dice cannot be modified during this attack and the chosen friendly ship gains 1 strain token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/moffgideon.png",
-      "slots": [
-        "Talent",
-        "Missile",
-        "Modification",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/moffgideon.png",
       "standard": true,
       "extended": true,
@@ -404,13 +350,13 @@
       "epic": true
     },
     {
-      "name": "“Backstabber”",
+      "name": "\u201cBackstabber\u201d",
       "caption": "Battle of Yavin",
       "initiative": 5,
       "limited": 1,
       "cost": 4,
       "xws": "backstabber-battleofyavin",
-      "ability": "While you perform a primary attack, if a friendly Darth Vader or “Mauler” Mithel is in your [Left Arc] or [Right Arc] at range 0-1, roll 1 additional attack die.",
+      "ability": "While you perform a primary attack, if a friendly Darth Vader or \u201cMauler\u201d Mithel is in your [Left Arc] or [Right Arc] at range 0-1, roll 1 additional attack die.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/backstabber-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/backstabber.png",
       "shipStats": [
@@ -442,7 +388,7 @@
       "loadout": 0
     },
     {
-      "name": "“Dark Curse”",
+      "name": "\u201cDark Curse\u201d",
       "caption": "Battle of Yavin",
       "initiative": 6,
       "limited": 1,
@@ -479,13 +425,13 @@
       "loadout": 0
     },
     {
-      "name": "“Mauler” Mithel",
+      "name": "\u201cMauler\u201d Mithel",
       "caption": "Battle of Yavin",
       "initiative": 5,
       "limited": 1,
       "cost": 4,
       "xws": "maulermithel-battleofyavin",
-      "ability": "While you perform a primary attack, if a friendly Darth Vader or “Backstabber” is in your [Left Arc] or [Right Arc] at range 0-1, roll 1 additional attack die.",
+      "ability": "While you perform a primary attack, if a friendly Darth Vader or \u201cBackstabber\u201d is in your [Left Arc] or [Right Arc] at range 0-1, roll 1 additional attack die.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/maulermithel-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/maulermithel.png",
       "shipStats": [
@@ -516,7 +462,7 @@
       "loadout": 0
     },
     {
-      "name": "“Wampa”",
+      "name": "\u201cWampa\u201d",
       "caption": "Battle of Yavin",
       "initiative": 1,
       "limited": 1,
@@ -561,17 +507,13 @@
       "caption": "Cold Tyrant",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
-      "loadout": 10,
+      "cost": 8,
+      "loadout": 9,
       "xws": "magnatolvan",
       "ability": "While you have 2 or fewer stress tokens, you can perform white actions, even while stressed. After you gain a stress token, you may perform a white action, if able.",
       "image": "https://infinitearenas.com/xw2/images/pilots/magnatolvan.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/magnatolvan.png",
-      "slots": [
-        "Talent",
-        "Cannon",
-        "Modification"
-      ],
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -584,17 +526,13 @@
       "caption": "Consumed by Duty",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
-      "loadout": 9,
+      "cost": 7,
+      "loadout": 8,
       "xws": "yricaquell",
       "ability": "After you fully execute a maneuver, you may acquire a lock on an enemy ship in your [Bullseye Arc].",
       "image": "https://infinitearenas.com/xw2/images/pilots/yricaquell.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/yricaquell.png",
-      "slots": [
-        "Talent",
-        "Missile",
-        "Modification"
-      ],
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -629,7 +567,7 @@
       "loadout": 0
     },
     {
-      "name": "“Night Beast”",
+      "name": "\u201cNight Beast\u201d",
       "caption": "Obsidian Two",
       "initiative": 2,
       "limited": 1,

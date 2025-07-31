@@ -86,17 +86,7 @@
       "epic": true,
       "engagement": 1,
       "xws": "echobaseevacuees",
-      "slots": [
-        "Command",
-        "Hardpoint",
-        "Turret",
-        "Crew",
-        "Crew",
-        "Team",
-        "Cargo",
-        "Cargo",
-        "Title"
-      ]
+      "slots": []
     },
     {
       "name": "Trebor Zednem",
@@ -122,7 +112,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Coordinate"
-          }   
+          }
         },
         {
           "difficulty": "White",
@@ -130,7 +120,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Coordinate"
-          }   
+          }
         },
         {
           "difficulty": "White",
@@ -145,7 +135,11 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["torynfarr", "planetaryionbombardment-epicsl", "brighthope"]
+      "standardLoadout": [
+        "torynfarr",
+        "planetaryionbombardment-epicsl",
+        "brighthope"
+      ]
     }
   ]
 }

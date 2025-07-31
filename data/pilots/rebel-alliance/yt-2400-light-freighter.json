@@ -65,12 +65,12 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_YT-2400.png",
   "pilots": [
     {
-      "name": "“Leebo”",
+      "name": "\u201cLeebo\u201d",
       "caption": "Dry-Witted Droid",
       "initiative": 3,
       "limited": 1,
-      "cost": 7,
-      "loadout": 22,
+      "cost": 20,
+      "loadout": 19,
       "xws": "leebo",
       "ability": "After you defend or perform an attack, if you spent a calculate token, gain 1 calculate token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/leebo.png",
@@ -115,13 +115,7 @@
           "value": 4
         }
       ],
-      "slots": [
-        "Talent",
-        "Missile",
-        "Illicit",
-        "Illicit",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/leebo.png",
       "standard": false,
       "extended": true,
@@ -136,7 +130,7 @@
       "caption": "Hotshot Mercenary",
       "initiative": 5,
       "limited": 1,
-      "cost": 8,
+      "cost": 20,
       "loadout": 20,
       "xws": "dashrendar",
       "ability": "While you move, you ignore obstacles.",
@@ -164,14 +158,7 @@
           "value": 4
         }
       ],
-      "slots": [
-        "Talent",
-        "Missile",
-        "Crew",
-        "Illicit",
-        "Illicit",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dashrendar.png",
       "standard": false,
       "extended": true,
@@ -184,8 +171,8 @@
       "name": "Wild Space Fringer",
       "initiative": 1,
       "limited": 0,
-      "cost": 7,
-      "loadout": 19,
+      "cost": 17,
+      "loadout": 14,
       "xws": "wildspacefringer",
       "text": "Although stock YT-2400 light freighters have plenty of room for cargo, that space is often annexed to support modified weapon systems and oversized engines.",
       "image": "https://infinitearenas.com/xw2/images/pilots/wildspacefringer.png",
@@ -193,12 +180,7 @@
         "name": "Sensor Blindspot",
         "text": "While you perform a primary attack at attack range 0-1, do not apply the range 0-1 bonus and roll 1 fewer attack die."
       },
-      "slots": [
-        "Missile",
-        "Gunner",
-        "Illicit",
-        "Modification"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wildspacefringer.png",
       "standard": false,
       "extended": true,
@@ -208,12 +190,12 @@
       "epic": true
     },
     {
-      "name": "“Leebo”",
+      "name": "\u201cLeebo\u201d",
       "caption": "Wisdom of Ages",
       "initiative": 3,
       "limited": 1,
-      "cost": 6,
-      "loadout": 7,
+      "cost": 17,
+      "loadout": 10,
       "xws": "leebo-swz103-rebelalliance",
       "ability": "After you defend or perform an attack, if you spent a calculate token, gain 1 calculate token.",
       "shipActions": [
@@ -242,14 +224,7 @@
         "name": "Sensor Blackout",
         "text": "While you perform a primary attack at range 0-1, you roll 1 fewer attack die. While you defend at range 1, you roll 1 fewer defense die."
       },
-      "slots": [
-        "Talent",
-        "Missile",
-        "Illicit",
-        "Illicit",
-        "Crew",
-        "Title"
-      ],
+      "slots": [],
       "artwork": "",
       "image": "https://infinitearenas.com/xw2/images/pilots/leebo-wisdomofages.png",
       "standard": true,
@@ -265,7 +240,7 @@
       "caption": "Freighter for Hire",
       "initiative": 5,
       "limited": 1,
-      "cost": 7,
+      "cost": 19,
       "loadout": 20,
       "xws": "dashrendar-swz103-rebelalliance",
       "ability": "During the Engagement Phase, you ignore the effects of obstacles that you are overlapping.",
@@ -273,15 +248,7 @@
         "name": "Sensor Blackout",
         "text": "While you perform a primary attack at range 0-1, you roll 1 fewer attack die. While you defend at range 1, you roll 1 fewer defense die."
       },
-      "slots": [
-        "Talent",
-        "Missile",
-        "Crew",
-        "Illicit",
-        "Illicit",
-        "Modification",
-        "Title"
-      ],
+      "slots": [],
       "artwork": "",
       "image": "https://infinitearenas.com/xw2/images/pilots/dashrendar-freighterforhire.png",
       "standard": true,
@@ -292,7 +259,7 @@
       "epic": true
     },
     {
-      "name": "“Leebo”",
+      "name": "\u201cLeebo\u201d",
       "caption": "He Thinks He's Funny",
       "initiative": 3,
       "limited": 1,

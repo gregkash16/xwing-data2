@@ -64,26 +64,18 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_Arc-170.png",
   "pilots": [
     {
-      "name": "“Sinker”",
+      "name": "\u201cSinker\u201d",
       "caption": "Wolfpack Veteran",
       "initiative": 3,
       "limited": 1,
       "xws": "sinker",
       "ability": "While a friendly ship at range 1-2 in your [Left Arc] or [Right Arc] performs a primary attack, it may reroll 1 attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sinker.png",
-      "slots": [
-        "Talent",
-        "Torpedo",
-        "Crew",
-        "Astromech",
-        "Modification",
-        "Gunner",
-        "Gunner"
-      ],
+      "slots": [],
       "standard": true,
       "extended": true,
-      "cost": 5,
-      "loadout": 12,
+      "cost": 11,
+      "loadout": 6,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sinker.png",
       "keywords": [
         "Clone"
@@ -91,19 +83,11 @@
       "epic": true
     },
     {
-      "name": "“Jag”",
+      "name": "\u201cJag\u201d",
       "xws": "jag",
-      "cost": 4,
-      "loadout": 7,
-      "slots": [
-        "Torpedo",
-        "Astromech",
-        "Modification",
-        "Modification",
-        "Gunner",
-        "Gunner",
-        "Talent"
-      ],
+      "cost": 10,
+      "loadout": 4,
+      "slots": [],
       "caption": "CT-55/11-9009",
       "initiative": 3,
       "limited": 1,
@@ -118,20 +102,11 @@
       "epic": true
     },
     {
-      "name": "“Odd Ball”",
+      "name": "\u201cOdd Ball\u201d",
       "xws": "oddball-arc170starfighter",
-      "cost": 5,
-      "loadout": 17,
-      "slots": [
-        "Talent",
-        "Sensor",
-        "Torpedo",
-        "Torpedo",
-        "Astromech",
-        "Modification",
-        "Gunner",
-        "Gunner"
-      ],
+      "cost": 12,
+      "loadout": 12,
+      "slots": [],
       "caption": "CC-2237",
       "initiative": 5,
       "limited": 1,
@@ -146,18 +121,11 @@
       "epic": true
     },
     {
-      "name": "“Wolffe”",
+      "name": "\u201cWolffe\u201d",
       "xws": "wolffe",
-      "cost": 4,
-      "loadout": 6,
-      "slots": [
-        "Talent",
-        "Torpedo",
-        "Astromech",
-        "Modification",
-        "Gunner",
-        "Crew"
-      ],
+      "cost": 11,
+      "loadout": 9,
+      "slots": [],
       "caption": "CC-3636",
       "initiative": 4,
       "limited": 1,
@@ -178,15 +146,9 @@
     {
       "name": "104th Battalion Pilot",
       "xws": "104thbattalionpilot",
-      "cost": 5,
-      "loadout": 13,
-      "slots": [
-        "Torpedo",
-        "Astromech",
-        "Modification",
-        "Gunner",
-        "Gunner"
-      ],
+      "cost": 11,
+      "loadout": 8,
+      "slots": [],
       "initiative": 2,
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/104thbattalionpilot.png",
@@ -202,14 +164,9 @@
     {
       "name": "Squad Seven Veteran",
       "xws": "squadsevenveteran",
-      "cost": 4,
-      "loadout": 5,
-      "slots": [
-        "Talent",
-        "Astromech",
-        "Gunner",
-        "Gunner"
-      ],
+      "cost": 12,
+      "loadout": 16,
+      "slots": [],
       "initiative": 3,
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/squadsevenveteran.png",
@@ -223,7 +180,7 @@
       "epic": true
     },
     {
-      "name": "“Odd Ball”",
+      "name": "\u201cOdd Ball\u201d",
       "caption": "Siege of Coruscant",
       "initiative": 5,
       "limited": 1,
@@ -274,7 +231,7 @@
       "loadout": 0
     },
     {
-      "name": "“Wolffe”",
+      "name": "\u201cWolffe\u201d",
       "caption": "Siege of Coruscant",
       "initiative": 4,
       "limited": 1,
@@ -305,7 +262,7 @@
       "loadout": 0
     },
     {
-      "name": "“Jag”",
+      "name": "\u201cJag\u201d",
       "caption": "Siege of Coruscant",
       "initiative": 3,
       "limited": 1,

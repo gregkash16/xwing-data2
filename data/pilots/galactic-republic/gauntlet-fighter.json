@@ -100,22 +100,14 @@
       "xws": "niteowlliberator",
       "name": "Nite Owl Liberator",
       "image": "https://infinitearenas.com/xw2/images/pilots/niteowlliberator.png",
-      "cost": 6,
+      "cost": 15,
       "loadout": 20,
       "initiative": 2,
       "limited": 1,
       "standard": true,
       "extended": true,
       "epic": true,
-      "slots": [
-        "Talent",
-        "Crew",
-        "Gunner",
-        "Device",
-        "Illicit",
-        "Modification",
-        "Configuration"
-      ],
+      "slots": [],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/niteowlliberator.png",
       "keywords": [
         "Mandalorian"

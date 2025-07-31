@@ -89,18 +89,7 @@
       "epic": true,
       "engagement": 1,
       "xws": "syndicatesmugglers",
-      "slots": [
-        "Command",
-        "Hardpoint",
-        "Crew",
-        "Crew",
-        "Team",
-        "Cargo",
-        "Device",
-        "Illicit",
-        "Title",
-        "Configuration"
-      ]
+      "slots": []
     },
     {
       "name": "Cikatro Vizago",
@@ -127,7 +116,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Jam"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -150,7 +139,12 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["azmorigan-epicsl", "illegalcountermeasures-epicsl", "modifieddorsalturret-epicsl", "brokenhorn-epicsl"]
+      "standardLoadout": [
+        "azmorigan-epicsl",
+        "illegalcountermeasures-epicsl",
+        "modifieddorsalturret-epicsl",
+        "brokenhorn-epicsl"
+      ]
     }
   ]
 }

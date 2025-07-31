@@ -94,18 +94,7 @@
       "epic": true,
       "engagement": 0,
       "xws": "alderaanianguard",
-      "slots": [
-        "Command",
-        "Hardpoint",
-        "Hardpoint",
-        "Crew",
-        "Crew",
-        "Gunner",
-        "Team",
-        "Team",
-        "Cargo",
-        "Title"
-      ]
+      "slots": []
     },
     {
       "name": "Raymus Antilles",
@@ -131,7 +120,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Focus"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -144,8 +133,7 @@
         {
           "difficulty": "White",
           "type": "Jam"
-        }
-        ,
+        },
         {
           "difficulty": "White",
           "type": "Rotate Arc"
@@ -155,7 +143,13 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["leiaorgana-epicsl", "c3po-epicsl", "r2d2-epicsl", "turbolaserbattery-epicsl", "tantiveiv-epicsl"]
+      "standardLoadout": [
+        "leiaorgana-epicsl",
+        "c3po-epicsl",
+        "r2d2-epicsl",
+        "turbolaserbattery-epicsl",
+        "tantiveiv-epicsl"
+      ]
     }
   ]
 }

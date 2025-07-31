@@ -73,22 +73,13 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/poedameron.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/poedameron.png",
-      "cost": 7,
-      "loadout": 26,
+      "cost": 17,
+      "loadout": 20,
       "charges": {
         "value": 1,
         "recovers": 1
       },
-      "slots": [
-        "Talent",
-        "Astromech",
-        "Modification",
-        "Modification",
-        "Torpedo",
-        "Title",
-        "Configuration",
-        "Tech"
-      ],
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -107,21 +98,13 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 5,
-      "loadout": 7,
+      "cost": 14,
+      "loadout": 11,
       "charges": {
         "value": 2,
         "recovers": 1
       },
-      "slots": [
-        "Talent",
-        "Talent",
-        "Astromech",
-        "Modification",
-        "Configuration",
-        "Tech",
-        "Tech"
-      ],
+      "slots": [],
       "standard": true,
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/poedameron-swz68.png",
@@ -143,14 +126,9 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/bluesquadronrookie.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronrookie.png",
-      "cost": 4,
-      "loadout": 7,
-      "slots": [
-        "Astromech",
-        "Modification",
-        "Configuration",
-        "Tech"
-      ],
+      "cost": 10,
+      "loadout": 5,
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -170,15 +148,9 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/redsquadronexpert.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/redsquadronexpert.png",
-      "cost": 4,
-      "loadout": 5,
-      "slots": [
-        "Talent",
-        "Astromech",
-        "Modification",
-        "Configuration",
-        "Tech"
-      ],
+      "cost": 11,
+      "loadout": 9,
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -198,15 +170,9 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/blacksquadronace-t70xwing.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksquadronace-t70xwing.png",
-      "cost": 5,
-      "loadout": 15,
-      "slots": [
-        "Talent",
-        "Astromech",
-        "Modification",
-        "Configuration",
-        "Tech"
-      ],
+      "cost": 13,
+      "loadout": 17,
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -225,16 +191,9 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 5,
-      "loadout": 15,
-      "slots": [
-        "Talent",
-        "Talent",
-        "Astromech",
-        "Modification",
-        "Configuration",
-        "Tech"
-      ],
+      "cost": 14,
+      "loadout": 16,
+      "slots": [],
       "image": "https://infinitearenas.com/xw2/images/pilots/elloasty.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/elloasty.png",
       "standard": true,
@@ -255,15 +214,9 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 4,
-      "loadout": 6,
-      "slots": [
-        "Talent",
-        "Astromech",
-        "Modification",
-        "Configuration",
-        "Tech"
-      ],
+      "cost": 11,
+      "loadout": 10,
+      "slots": [],
       "image": "https://infinitearenas.com/xw2/images/pilots/jophseastriker.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jophseastriker.png",
       "standard": true,
@@ -274,7 +227,7 @@
       "epic": true
     },
     {
-      "name": "Karé Kun",
+      "name": "Kar\u00e9 Kun",
       "caption": "Woman of Action",
       "initiative": 4,
       "limited": 1,
@@ -284,16 +237,9 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 4,
-      "loadout": 5,
-      "slots": [
-        "Talent",
-        "Astromech",
-        "Modification",
-        "Configuration",
-        "Cannon",
-        "Tech"
-      ],
+      "cost": 12,
+      "loadout": 13,
+      "slots": [],
       "image": "https://infinitearenas.com/xw2/images/pilots/karekun.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/karekun.png",
       "standard": true,
@@ -316,14 +262,9 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantbastian.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantbastian.png",
-      "cost": 4,
-      "loadout": 5,
-      "slots": [
-        "Astromech",
-        "Modification",
-        "Configuration",
-        "Tech"
-      ],
+      "cost": 10,
+      "loadout": 4,
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -342,16 +283,9 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 5,
-      "loadout": 11,
-      "slots": [
-        "Talent",
-        "Astromech",
-        "Missile",
-        "Modification",
-        "Configuration",
-        "Tech"
-      ],
+      "cost": 14,
+      "loadout": 16,
+      "slots": [],
       "image": "https://infinitearenas.com/xw2/images/pilots/niennunb.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/niennunb.png",
       "standard": true,
@@ -374,14 +308,9 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/jaycristubbs.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jaycristubbs.png",
-      "cost": 4,
+      "cost": 10,
       "loadout": 7,
-      "slots": [
-        "Astromech",
-        "Modification",
-        "Configuration",
-        "Tech"
-      ],
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -402,18 +331,13 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/jessikapava.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jessikapava.png",
-      "cost": 5,
-      "loadout": 14,
+      "cost": 12,
+      "loadout": 10,
       "charges": {
         "value": 1,
         "recovers": 1
       },
-      "slots": [
-        "Astromech",
-        "Modification",
-        "Configuration",
-        "Tech"
-      ],
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -434,16 +358,9 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/temminwexley.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/temminwexley.png",
-      "cost": 5,
-      "loadout": 16,
-      "slots": [
-        "Talent",
-        "Astromech",
-        "Modification",
-        "Modification",
-        "Configuration",
-        "Tech"
-      ],
+      "cost": 12,
+      "loadout": 11,
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -462,16 +379,9 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 4,
-      "loadout": 7,
-      "slots": [
-        "Talent",
-        "Astromech",
-        "Modification",
-        "Configuration",
-        "Tech",
-        "Tech"
-      ],
+      "cost": 11,
+      "loadout": 5,
+      "slots": [],
       "standard": true,
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/temminwexley-swz68.png",
@@ -482,7 +392,7 @@
       "epic": true
     },
     {
-      "name": "C’ai Threnalli",
+      "name": "C\u2019ai Threnalli",
       "caption": "Tenacious Survivor",
       "initiative": 4,
       "limited": 1,
@@ -492,15 +402,9 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 4,
-      "loadout": 6,
-      "slots": [
-        "Talent",
-        "Astromech",
-        "Modification",
-        "Configuration",
-        "Tech"
-      ],
+      "cost": 12,
+      "loadout": 14,
+      "slots": [],
       "standard": true,
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/caithrenalli.png",
@@ -522,14 +426,9 @@
       "caption": "Hopeful Hero",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 5,
-      "slots": [
-        "Tech",
-        "Astromech",
-        "Modification",
-        "Configuration"
-      ],
+      "cost": 11,
+      "loadout": 10,
+      "slots": [],
       "ability": "While you perform an attack, if the defender's initiative is higher than yours, you may change 1 blank result to a [Focus] result.",
       "image": "https://infinitearenas.com/xw2/images/pilots/nimichireen.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/nimichireen.png",
@@ -550,18 +449,9 @@
       "caption": "Jade Leader",
       "standard": true,
       "extended": true,
-      "cost": 5,
-      "loadout": 13,
-      "slots": [
-        "Talent",
-        "Tech",
-        "Missile",
-        "Missile",
-        "Astromech",
-        "Modification",
-        "Modification",
-        "Configuration"
-      ],
+      "cost": 13,
+      "loadout": 15,
+      "slots": [],
       "ability": "While you perform a [Torpedo] or [Missile] attack, you may treat the [Front Arc] requirement as [Rear Arc] for that attack. If you do, treat the range requirement as 1-2.",
       "image": "https://infinitearenas.com/xw2/images/pilots/venisadoza.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/venisadoza.png",
@@ -582,16 +472,9 @@
       "caption": "Her Father's Daughter",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 6,
-      "slots": [
-        "Talent",
-        "Talent",
-        "Tech",
-        "Astromech",
-        "Modification",
-        "Configuration"
-      ],
+      "cost": 11,
+      "loadout": 10,
+      "slots": [],
       "ability": "While you defend, if the attacker is damaged, you may reroll 1 defense die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/zayversio.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zayversio.png",
@@ -601,7 +484,7 @@
       "epic": true
     },
     {
-      "name": "C’ai Threnalli",
+      "name": "C\u2019ai Threnalli",
       "caption": "Evacuation of D'Qar",
       "initiative": 4,
       "limited": 1,
