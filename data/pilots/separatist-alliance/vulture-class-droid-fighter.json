@@ -286,7 +286,7 @@
       "limited": 1,
       "cost": 2,
       "xws": "haorchallprototype-siegeofcoruscant",
-      "ability": "After an enemy ship in your [Bullseye Arc] at range 0-2 declares a scenario feature or another friendly ship as the defender, you may perform a [Calculate] or [Lock] action.",
+      "ability": "After an enemy ship in your [Bullseye Arc] declares a scenario feature or another friendly ship as the defender, you may perform a [Calculate] or [Lock] action.",
       "shipAbility": {
         "name": "Networked Calculations",
         "text": "While you defend or perform an attack, you may spend 1 calculate token from a friendly ship at range 0-1 to change 1 [Focus] result to an [Evade] or [Hit] result."
