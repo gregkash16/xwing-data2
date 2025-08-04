@@ -37,6 +37,9 @@ def collect_pilot_entities():
             if not file_name.endswith('.json'):
                 continue
             file_path = os.path.join(faction_path, file_name)
+            table_base = os.path.splitext(file_name)[0].replace('-', '_')
+            full_table_name = f"{faction_folder}.{table_base}"
+
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
@@ -48,7 +51,8 @@ def collect_pilot_entities():
                             "xws": xws,
                             "name": name,
                             "type": "pilot",
-                            "faction": faction_folder  # raw folder name
+                            "faction": faction_folder,
+                            "table_name": full_table_name
                         })
             except Exception as e:
                 log_error(f"collect_pilot_entities({file_path})", e)
@@ -61,6 +65,9 @@ def collect_upgrade_entities():
         if not file_name.endswith(".json"):
             continue
         file_path = os.path.join(UPGRADE_DIR, file_name)
+        table_base = os.path.splitext(file_name)[0].replace('-', '_')
+        full_table_name = f"upgrades.{table_base}"
+
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 upgrades = json.load(f)
@@ -73,12 +80,12 @@ def collect_upgrade_entities():
                         "xws": xws,
                         "name": name,
                         "type": "upgrade",
-                        "faction": faction
+                        "faction": faction,
+                        "table_name": full_table_name
                     })
         except Exception as e:
             log_error(f"collect_upgrade_entities({file_path})", e)
     return rows
-
 
 # === MYSQL ===
 def create_entity_table(cursor):
@@ -89,7 +96,8 @@ def create_entity_table(cursor):
                 `xws` VARCHAR(255) PRIMARY KEY,
                 `name` TEXT,
                 `type` VARCHAR(10),
-                `faction` VARCHAR(255)
+                `faction` VARCHAR(255),
+                `table_name` VARCHAR(255)
             )
         """)
     except Exception as e:
@@ -103,8 +111,8 @@ def insert_entities(cursor, rows):
                 continue
             seen.add(row['xws'])
             cursor.execute(
-                f"INSERT INTO `{TABLE_NAME}` (`xws`, `name`, `type`, `faction`) VALUES (%s, %s, %s, %s)",
-                (row["xws"], row["name"], row["type"], row["faction"])
+                f"INSERT INTO `{TABLE_NAME}` (`xws`, `name`, `type`, `faction`, `table_name`) VALUES (%s, %s, %s, %s, %s)",
+                (row["xws"], row["name"], row["type"], row["faction"], row["table_name"])
             )
         except Exception as e:
             log_error(f"insert_entity({row['xws']})", e)
