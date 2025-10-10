@@ -300,8 +300,7 @@
       },
       {
         "action": {
-          "type": "Boost",
-          "difficulty": "White"
+          "type": "Boost"
         }
       }
     ],
