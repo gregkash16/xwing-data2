@@ -107,8 +107,8 @@
       "standard": true,
       "extended": true,
       "ability": "After you fully execute a red maneuver or perform a red action, if there is an enemy ship in your [Bullseye Arc], you may acquire a lock on that ship.",
-      "cost": 3,
-      "loadout": 8,
+      "cost": 4,
+      "loadout": 15,
       "image": "https://infinitearenas.com/xw2/images/pilots/oddball-nimbusclassvwing.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/oddball-nimbusclassvwing.png",
       "slots": [
