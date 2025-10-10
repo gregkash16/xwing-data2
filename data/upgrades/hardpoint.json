@@ -184,6 +184,11 @@
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/turbolaserbattery-sideb.png"
       }
     ],
+    "restrictions": [
+      {
+        "energy": ["5 OR HIGHER"]
+      }
+    ],
     "cost": { "value": 10 }
   },
   {
@@ -253,6 +258,13 @@
         "slots": ["Hardpoint", "Cargo"],
         "image": "https://infinitearenas.com/xw2/images/upgrades/protoncannonbattery-sideb.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/protoncannonbattery-sideb.png"
+      }
+    ],
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "cost": { "value": 10 }
