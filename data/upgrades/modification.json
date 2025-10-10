@@ -472,6 +472,9 @@
           "Small",
           "Medium"
         ]
+      },
+      {
+        "shields": ["1 OR MORE"]
       }
     ],
     "sides": [
@@ -481,14 +484,6 @@
         "type": "Modification",
         "slots": [
           "Modification"
-        ],
-        "restrictions": [
-          {
-            "sizes": [
-              "Small",
-              "Medium"
-            ]
-          }
         ],
         "grants": [
           {
@@ -596,6 +591,13 @@
     "cost": {
       "value": 5
     },
+    "restrictions": [
+      {
+        "ships": [
+          "t70xwing"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -650,6 +652,13 @@
     "cost": {
       "value": 3
     },
+    "restrictions": [
+      {
+        "keywords": [
+          "Mandalorian"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -714,6 +723,13 @@
         },
         "image": "https://infinitearenas.com/xw2/images/upgrades/beskarreinforcedplating.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/beskarreinforcedplating.png"
+      }
+    ],
+    "restrictions": [
+      {
+        "keywords": [
+          "Mandalorian"
+        ]
       }
     ],
     "cost": {
