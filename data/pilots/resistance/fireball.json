@@ -39,10 +39,6 @@
     {
       "type": "hull",
       "value": 6
-    },
-    {
-      "type": "shields",
-      "value": 0
     }
   ],
   "actions": [
