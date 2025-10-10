@@ -56,8 +56,7 @@
     "restrictions": [
       {
         "action": {
-          "type": "SLAM",
-          "difficulty": "White"
+          "type": "SLAM"
         }
       }
     ],
