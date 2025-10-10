@@ -857,6 +857,18 @@
         "image": "https://infinitearenas.com/xw2/images/upgrades/backwardstailslide.png"
       }
     ],
+    "restrictions": [
+      {
+        "keywords": [
+          "X-wing"
+        ]
+      },
+      {
+        "equipped": [
+          "Configuration"
+        ]
+      }
+    ],
     "cost": {
       "value": 1
     },
@@ -910,6 +922,14 @@
         "image": "https://infinitearenas.com/xw2/images/upgrades/margsablclosure.png"
       }
     ],
+    "restrictions": [
+      {
+        "sizes": [
+          "Small",
+          "Medium"
+        ]
+      }
+    ],
     "cost": {
       "value": 1
     },
@@ -931,6 +951,13 @@
         ],
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/starbirdslash.png",
         "image": "https://infinitearenas.com/xw2/images/upgrades/starbirdslash.png"
+      }
+    ],
+    "restrictions": [
+      {
+        "keywords": [
+          "A-wing"
+        ]
       }
     ],
     "cost": {
@@ -956,6 +983,13 @@
         "image": "https://infinitearenas.com/xw2/images/upgrades/cutthroat.png"
       }
     ],
+    "restrictions": [
+      {
+        "factions": [
+          "scumandvillainy"
+        ]
+      }
+    ],
     "cost": {
       "value": 2
     },
@@ -979,6 +1013,13 @@
         "image": "https://infinitearenas.com/xw2/images/upgrades/disciplined.png"
       }
     ],
+    "restrictions": [
+      {
+        "factions": [
+          "galacticempire"
+        ]
+      }
+    ],
     "cost": {
       "value": 2
     },
@@ -1000,6 +1041,13 @@
         ],
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/hopeful.png",
         "image": "https://infinitearenas.com/xw2/images/upgrades/hopeful.png"
+      }
+    ],
+    "restrictions": [
+      {
+        "factions": [
+          "rebelalliance"
+        ]
       }
     ],
     "cost": {
@@ -1055,6 +1103,13 @@
         "image": "https://infinitearenas.com/xw2/images/upgrades/tierfonbellyrun.png"
       }
     ],
+    "restrictions": [
+      {
+        "keywords": [
+          "Y-wing"
+        ]
+      }
+    ],
     "cost": {
       "value": 1
     },
@@ -1083,14 +1138,14 @@
     },
     "restrictions": [
       {
-        "action": {
-          "type": "Reload"
-        }
-      },
-      {
         "keywords": [
           "TIE"
         ]
+      },
+      {
+        "action": {
+          "type": "Reload"
+        }
       }
     ],
     "standard": true,
