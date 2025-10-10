@@ -133,6 +133,13 @@
         ]
       }
     ],
+    "restrictions": [
+      {
+        "action": {
+          "type": "Lock"
+        }
+      }
+    ],
     "cost": {
       "value": 3
     },
@@ -219,6 +226,13 @@
         "image": "https://infinitearenas.com/xw2/images/upgrades/deuteriumpowercells.png"
       }
     ],
+    "restrictions": [
+      {
+        "factions": [
+          "firstorder"
+        ]
+      }
+    ],
     "cost": {
       "value": 8
     },
@@ -240,6 +254,11 @@
       }
     ],
     "name": "Automated Target Priority",
+    "restrictions": [
+      {
+        "initiative": ["3 OR LOWER"]
+      }
+    ],
     "cost": {
       "value": 1
     },
@@ -280,6 +299,19 @@
       }
     ],
     "name": "Sensor Buoy Suite",
+    "restrictions": [
+      {
+        "factions": [
+          "firstorder"
+        ]
+      },
+      {
+        "sizes": [
+          "Medium",
+          "Large"
+        ]
+      }
+    ],
     "cost": {
       "value": 4
     },
