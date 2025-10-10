@@ -704,6 +704,11 @@
         "factions": [
           "firstorder"
         ]
+      },
+      {
+        "action": {
+          "type": "Coordinate"
+        }
       }
     ],
     "standard": true,
@@ -2480,6 +2485,13 @@
     "cost": {
       "value": 12
     },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticrepublic"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -2513,6 +2525,13 @@
     "cost": {
       "value": 7
     },
+    "restrictions": [
+      {
+        "factions": [
+          "firstorder"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -2552,6 +2571,13 @@
     "cost": {
       "value": 8
     },
+    "restrictions": [
+      {
+        "factions": [
+          "rebelalliance"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -2588,6 +2614,13 @@
     "cost": {
       "value": 9
     },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticrepublic"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -2624,6 +2657,18 @@
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/torynfarr.png"
       }
     ],
+    "restrictions": [
+      {
+        "factions": [
+          "rebelalliance"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ],
     "cost": {
       "value": 4
     }
@@ -2658,6 +2703,13 @@
     "cost": {
       "value": 8
     },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticrepublic"
+        ]
+      }
+    ],
     "limited": 1,
     "xws": "kitfisto",
     "standard": true,
@@ -2694,6 +2746,13 @@
     "cost": {
       "value": 12
     },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticrepublic"
+        ]
+      }
+    ],
     "limited": 1,
     "xws": "yoda",
     "standard": true,
@@ -2717,6 +2776,13 @@
     "cost": {
       "value": 3
     },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticrepublic"
+        ]
+      }
+    ],
     "limited": 1,
     "xws": "fives",
     "standard": true,
@@ -2741,6 +2807,13 @@
     "cost": {
       "value": 4
     },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticrepublic"
+        ]
+      }
+    ],
     "limited": 1,
     "xws": "wolfpack",
     "standard": true,
@@ -2774,6 +2847,13 @@
     "cost": {
       "value": 2
     },
+    "restrictions": [
+      {
+        "factions": [
+          "firstorder"
+        ]
+      }
+    ],
     "limited": 1,
     "xws": "commandermalarus",
     "standard": true,
@@ -2811,6 +2891,18 @@
     "cost": {
       "value": 5
     },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticrepublic"
+        ]
+      },
+      {
+        "action": {
+          "type": "Rotate Arc"
+        }
+      }
+    ],
     "limited": 1,
     "xws": "ghostcompany",
     "standard": true,
@@ -2834,6 +2926,13 @@
     "cost": {
       "value": 10
     },
+    "restrictions": [
+      {
+        "factions": [
+          "firstorder"
+        ]
+      }
+    ],
     "limited": 1,
     "xws": "commanderpyre",
     "standard": false,
@@ -2885,8 +2984,8 @@
     "restrictions": [
       {
         "factions": [
-          "scumandvillainy",
-          "separatistalliance"
+          "separatistalliance",
+          "scumandvillainy"
         ]
       }
     ],
@@ -2924,8 +3023,8 @@
     "restrictions": [
       {
         "factions": [
-          "scumandvillainy",
-          "separatistalliance"
+          "separatistalliance",
+          "scumandvillainy"
         ]
       }
     ],
@@ -2998,9 +3097,9 @@
     "restrictions": [
       {
         "factions": [
-          "scumandvillainy",
           "galacticempire",
-          "firstorder"
+          "firstorder",
+          "scumandvillainy"
         ]
       }
     ],
@@ -3269,8 +3368,8 @@
     "restrictions": [
       {
         "factions": [
-          "scumandvillainy",
-          "galacticrepublic"
+          "galacticrepublic",
+          "scumandvillainy"
         ]
       }
     ],
@@ -3404,8 +3503,8 @@
     "restrictions": [
       {
         "factions": [
-          "scumandvillainy",
-          "rebelalliance"
+          "rebelalliance",
+          "scumandvillainy"
         ]
       }
     ],
@@ -3564,8 +3663,8 @@
     "restrictions": [
       {
         "factions": [
-          "scumandvillainy",
-          "rebelalliance"
+          "rebelalliance",
+          "scumandvillainy"
         ]
       }
     ],
@@ -3770,8 +3869,8 @@
     "restrictions": [
       {
         "factions": [
-          "scumandvillainy",
-          "galacticrepublic"
+          "galacticrepublic",
+          "scumandvillainy"
         ]
       }
     ],
