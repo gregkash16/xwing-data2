@@ -333,51 +333,6 @@
     "epic": true
   },
   {
-    "name": "Delta-7B",
-    "limited": 0,
-    "xws": "delta7b",
-    "sides": [
-      {
-        "title": "Delta-7B",
-        "type": "Configuration",
-        "slots": [
-          "Configuration"
-        ],
-        "grants": [
-          {
-            "type": "stat",
-            "value": "agility",
-            "amount": -1
-          },
-          {
-            "type": "stat",
-            "value": "shields",
-            "amount": 2
-          },
-          {
-            "type": "stat",
-            "value": "attack",
-            "arc": "Front Arc",
-            "amount": 1
-          }
-        ],
-        "image": "https://infinitearenas.com/xw2/images/upgrades/delta7b.png",
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/delta7b.png",
-        "text": "The Delta-7B was designed as a heavier variant of the Delta-7 Aethersprite-class Interceptor, identifiable by the repositioned astromech slot. Many Jedi Generals favor this craft's greater firepower and durability."
-      }
-    ],
-    "restrictions": [
-      {
-        "ships": [
-          "delta7aethersprite"
-        ]
-      }
-    ],
-    "standard": false,
-    "extended": false,
-    "epic": false
-  },
-  {
     "name": "Calibrated Laser Targeting",
     "limited": 0,
     "xws": "calibratedlasertargeting",
@@ -499,6 +454,13 @@
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/corsairrefit.png"
       }
     ],
+    "restrictions": [
+      {
+        "ships": [
+          "croccruiser"
+        ]
+      }
+    ],
     "cost": {
       "value": 6
     }
@@ -565,6 +527,13 @@
     "cost": {
       "value": 0
     },
+    "restrictions": [
+      {
+        "ships": [
+          "asf01bwing"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -593,6 +562,13 @@
       }
     ],
     "name": "Repulsorlift Stabilizers",
+    "restrictions": [
+      {
+        "ships": [
+          "hmpdroidgunship"
+        ]
+      }
+    ],
     "cost": {
       "value": 0
     },
@@ -621,6 +597,13 @@
     "cost": {
       "value": 1
     },
+    "restrictions": [
+      {
+        "ships": [
+          "nimbusclassvwing"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -648,6 +631,13 @@
     "cost": {
       "value": 0
     },
+    "restrictions": [
+      {
+        "ships": [
+          "nimbusclassvwing"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -698,6 +688,13 @@
     "cost": {
       "value": 0
     },
+    "restrictions": [
+      {
+        "ships": [
+          "droidtrifighter"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -741,6 +738,13 @@
     "cost": {
       "value": 0
     },
+    "restrictions": [
+      {
+        "ships": [
+          "tierbheavy"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -784,6 +788,13 @@
     "cost": {
       "value": 0
     },
+    "restrictions": [
+      {
+        "ships": [
+          "tierbheavy"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
