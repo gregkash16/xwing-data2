@@ -1000,13 +1000,13 @@
         "grants": [
           {
             "type": "stat",
-            "value": "energy",
-            "amount": 2
+            "value": "shields",
+            "amount": -1
           },
           {
             "type": "stat",
-            "value": "shields",
-            "amount": -1
+            "value": "energy",
+            "amount": 2
           },
           {
             "type": "slot",
@@ -1252,13 +1252,13 @@
         "grants": [
           {
             "type": "stat",
-            "value": "energy",
-            "amount": 2
+            "value": "shields",
+            "amount": -2
           },
           {
             "type": "stat",
-            "value": "shields",
-            "amount": -2
+            "value": "energy",
+            "amount": 2
           },
           {
             "type": "slot",
@@ -1304,17 +1304,17 @@
         "grants": [
           {
             "type": "stat",
-            "value": "energy",
-            "amount": -1
-          },
-          {
-            "type": "stat",
             "value": "hull",
             "amount": 3
           },
           {
             "type": "stat",
             "value": "shields",
+            "amount": -1
+          },
+          {
+            "type": "stat",
+            "value": "energy",
             "amount": -1
           },
           {
@@ -1403,13 +1403,13 @@
         "grants": [
           {
             "type": "stat",
-            "value": "energy",
-            "amount": -1
+            "value": "shields",
+            "amount": 1
           },
           {
             "type": "stat",
-            "value": "shields",
-            "amount": 1
+            "value": "energy",
+            "amount": -1
           }
         ],
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/jainaslight.png",
@@ -1527,13 +1527,13 @@
         "grants": [
           {
             "type": "stat",
-            "value": "energy",
-            "amount": 2
+            "value": "shields",
+            "amount": -1
           },
           {
             "type": "stat",
-            "value": "shields",
-            "amount": -1
+            "value": "energy",
+            "amount": 2
           }
         ],
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/luminous.png",
@@ -1931,8 +1931,8 @@
     "restrictions": [
       {
         "factions": [
-          "scumandvillainy",
-          "separatistalliance"
+          "separatistalliance",
+          "scumandvillainy"
         ]
       },
       {
@@ -2005,17 +2005,17 @@
         "grants": [
           {
             "type": "stat",
-            "value": "energy",
-            "amount": 1
-          },
-          {
-            "type": "stat",
             "value": "hull",
             "amount": -2
           },
           {
             "type": "stat",
             "value": "shields",
+            "amount": 1
+          },
+          {
+            "type": "stat",
+            "value": "energy",
             "amount": 1
           }
         ],
@@ -2099,7 +2099,7 @@
         "grants": [
           {
             "type": "stat",
-            "value": "shields",
+            "value": "hull",
             "amount": -2
           }
         ],
@@ -2199,8 +2199,8 @@
     "restrictions": [
       {
         "factions": [
-          "scumandvillainy",
-          "rebelalliance"
+          "rebelalliance",
+          "scumandvillainy"
         ]
       },
       {
