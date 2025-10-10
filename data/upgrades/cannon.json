@@ -250,6 +250,16 @@
     "cost": {
       "value": 2
     },
+    "restrictions": [
+      {
+        "factions": [
+          "resistance"
+        ],
+        "keywords": [
+          "X-wing"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
