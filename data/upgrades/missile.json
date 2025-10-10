@@ -233,15 +233,15 @@
     ],
     "restrictions": [
       {
+        "factions": [
+          "separatistalliance"
+        ]
+      },
+      {
         "action": {
           "type": "Calculate",
           "difficulty": "White"
         }
-      },
-      {
-        "factions": [
-          "separatistalliance"
-        ]
       }
     ],
     "cost": {
