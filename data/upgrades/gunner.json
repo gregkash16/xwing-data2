@@ -662,6 +662,13 @@
         "type": "Gunner"
       }
     ],
+    "restrictions": [
+      {
+        "factions": [
+          "galacticrepublic"
+        ]
+      }
+    ],
     "cost": {
       "value": 12
     },
@@ -688,6 +695,13 @@
     "cost": {
       "value": 2
     },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticrepublic"
+        ]
+      }
+    ],
     "limited": 1,
     "xws": "clonecaptainrex",
     "standard": true,
@@ -736,6 +750,14 @@
     "cost": {
       "value": 4
     },
+    "restrictions": [
+      {
+        "factions": [
+          "separatistalliance",
+          "scumandvillainy"
+        ]
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -777,6 +799,13 @@
         ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/sabinewren-gunner.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/sabinewren-gunner.png"
+      }
+    ],
+    "restrictions": [
+      {
+        "factions": [
+          "rebelalliance"
+        ]
       }
     ],
     "cost": {
@@ -880,14 +909,14 @@
     },
     "restrictions": [
       {
-        "sizes": [
-          "Large",
-          "Huge"
+        "factions": [
+          "scumandvillainy"
         ]
       },
       {
-        "factions": [
-          "scumandvillainy"
+        "sizes": [
+          "Large",
+          "Huge"
         ]
       }
     ],
