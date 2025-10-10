@@ -189,6 +189,13 @@
     "cost": {
       "value": 4
     },
+    "restrictions": [
+      {
+        "action": {
+          "type": "SLAM"
+        }
+      }
+    ],
     "standard": true,
     "extended": true,
     "epic": true
@@ -216,6 +223,13 @@
         "image": "https://infinitearenas.com/xw2/images/upgrades/quickreleaselocks.png"
       }
     ],
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ],
     "cost": {
       "value": 5
     }
@@ -239,6 +253,13 @@
         "image": "https://infinitearenas.com/xw2/images/upgrades/saboteursmap.png"
       }
     ],
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ],
     "cost": {
       "value": 3
     }
@@ -260,6 +281,13 @@
         ],
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/scannerbaffler.png",
         "image": "https://infinitearenas.com/xw2/images/upgrades/scannerbaffler.png"
+      }
+    ],
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "cost": {
@@ -316,8 +344,8 @@
     "restrictions": [
       {
         "factions": [
-          "scumandvillainy",
-          "resistance"
+          "resistance",
+          "scumandvillainy"
         ]
       }
     ],
