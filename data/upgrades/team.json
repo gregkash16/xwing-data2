@@ -146,6 +146,13 @@
         "image": "https://infinitearenas.com/xw2/images/upgrades/igrmdroids.png"
       }
     ],
+    "restrictions": [
+      {
+        "factions": [
+          "scumandvillainy"
+        ]
+      }
+    ],
     "cost": { "value": 2 }
   },
   {
