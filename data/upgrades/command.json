@@ -809,13 +809,13 @@
     },
     "restrictions": [
       {
-        "sizes": [
-          "Huge"
+        "factions": [
+          "separatistalliance"
         ]
       },
       {
-        "factions": [
-          "separatistalliance"
+        "sizes": [
+          "Huge"
         ]
       }
     ]
