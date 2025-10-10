@@ -777,6 +777,13 @@
     ],
     "name": "Gravitic Deflection",
     "limited": 0,
+    "restrictions": [
+      {
+        "ships": [
+          "nantexclassstarfighter"
+        ]
+      }
+    ],
     "cost": {
       "value": 3
     },
@@ -811,6 +818,13 @@
         "image": "https://infinitearenas.com/xw2/images/upgrades/proudtradition-sideb.png"
       }
     ],
+    "restrictions": [
+      {
+        "factions": [
+          "firstorder"
+        ]
+      }
+    ],
     "cost": {
       "value": 2
     },
@@ -832,6 +846,14 @@
       }
     ],
     "name": "Deadeye Shot",
+    "restrictions": [
+      {
+        "sizes": [
+          "Small",
+          "Medium"
+        ]
+      }
+    ],
     "cost": {
       "value": 1
     },
