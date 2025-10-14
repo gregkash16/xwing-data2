@@ -82,16 +82,16 @@
       "name": "Baron of the Empire",
       "initiative": 3,
       "limited": 0,
-      "cost": 3,
-      "loadout": 5,
+      "cost": 9,
+      "loadout": 10,
       "xws": "baronoftheempire",
       "text": "Sienar Fleet System's TIE Advanced v1 is a groundbreaking starfighter design, featuring upgraded engines, a missile launcher, and folding s-foils.",
       "image": "https://infinitearenas.com/xw2/images/pilots/baronoftheempire.png",
       "slots": [
-        "Talent",
+        "Missile",
         "Sensor",
         "Modification",
-        "Missile"
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/baronoftheempire.png",
       "standard": true,
@@ -106,8 +106,8 @@
       "caption": "Master of the Inquisitorious",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
-      "loadout": 5,
+      "cost": 13,
+      "loadout": 15,
       "xws": "grandinquisitor",
       "ability": "While you defend at attack range 1, you may spend 1 [Force] to prevent the range 1 bonus. While you perform an attack against a defender at attack range 2-3, you may spend 1 [Force] to apply the range 1 bonus.",
       "image": "https://infinitearenas.com/xw2/images/pilots/grandinquisitor.png",
@@ -119,11 +119,11 @@
         ]
       },
       "slots": [
-        "Sensor",
         "Missile",
+        "Sensor",
+        "Modification",
         "Force Power",
-        "Force Power",
-        "Modification"
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/grandinquisitor.png",
       "standard": true,
@@ -138,7 +138,7 @@
       "name": "Inquisitor",
       "initiative": 3,
       "limited": 0,
-      "cost": 4,
+      "cost": 10,
       "loadout": 13,
       "xws": "inquisitor",
       "text": "The fearsome Inquisitors are given a great deal of autonomy and access to the Empire's latest technology, like the prototype TIE Advanced v1.",
@@ -151,6 +151,7 @@
         ]
       },
       "slots": [
+        "Missile",
         "Sensor",
         "Modification",
         "Force Power"
@@ -169,8 +170,8 @@
       "caption": "Sadistic Interrogator",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 11,
+      "cost": 11,
+      "loadout": 13,
       "xws": "seventhsister",
       "ability": "While you perform a primary attack, before the Neutralize Results step, you may spend 2 [Force] to cancel 1 [Evade] result.",
       "image": "https://infinitearenas.com/xw2/images/pilots/seventhsister.png",
@@ -182,9 +183,8 @@
         ]
       },
       "slots": [
-        "Sensor",
         "Missile",
-        "Force Power",
+        "Sensor",
         "Modification",
         "Force Power"
       ],
@@ -213,15 +213,14 @@
         ]
       },
       "slots": [
-        "Force Power",
+        "Missile",
         "Sensor",
-        "Force Power",
         "Modification",
-        "Missile"
+        "Force Power"
       ],
       "ability": "While you perform an attack, after the Neutralize Results step, if the attack hit, you may spend 2 [Force] to add 1 [Critical Hit] result.",
-      "cost": 4,
-      "loadout": 10,
+      "cost": 11,
+      "loadout": 12,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/fifthbrother.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/fifthbrother.png",
       "keywords": [

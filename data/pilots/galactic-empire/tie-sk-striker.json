@@ -60,8 +60,8 @@
       "caption": "Death Defier",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 11,
+      "cost": 10,
+      "loadout": 10,
       "xws": "countdown",
       "ability": "While you defend, after the Neutralize Results step, if you are not stressed, you may suffer 1 [Hit] damage and gain 1 stress token. If you do, cancel all dice results.",
       "image": "https://infinitearenas.com/xw2/images/pilots/countdown.png",
@@ -70,10 +70,8 @@
         "text": "Before you reveal your dial, if you are not stressed, you must boost."
       },
       "slots": [
-        "Talent",
-        "Talent",
-        "Device",
-        "Gunner"
+        "Gunner",
+        "Payload"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/countdown.png",
       "standard": true,
@@ -88,8 +86,8 @@
       "caption": "Urbane Ace",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 11,
+      "loadout": 17,
       "xws": "duchess",
       "ability": "You may choose not to use your Adaptive Ailerons. You may use your Adaptive Ailerons even while stressed.",
       "image": "https://infinitearenas.com/xw2/images/pilots/duchess.png",
@@ -98,11 +96,11 @@
         "text": "Before you reveal your dial, if you are not stressed, you must boost."
       },
       "slots": [
-        "Talent",
-        "Talent",
-        "Device",
+        "Gunner",
         "Modification",
-        "Gunner"
+        "Payload",
+        "Talent",
+        "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/duchess.png",
       "standard": true,
@@ -117,8 +115,8 @@
       "caption": "Confident Gambler",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 10,
+      "cost": 10,
+      "loadout": 11,
       "xws": "puresabacc",
       "ability": "While you perform an attack, if you have 1 or fewer damage cards, you may roll 1 additional attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/puresabacc.png",
@@ -127,10 +125,10 @@
         "text": "Before you reveal your dial, if you are not stressed, you must boost."
       },
       "slots": [
-        "Talent",
-        "Device",
+        "Gunner",
         "Modification",
-        "Gunner"
+        "Payload",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/puresabacc.png",
       "standard": true,
@@ -144,8 +142,8 @@
       "name": "Black Squadron Scout",
       "initiative": 3,
       "limited": 0,
-      "cost": 4,
-      "loadout": 10,
+      "cost": 9,
+      "loadout": 8,
       "xws": "blacksquadronscout",
       "text": "These heavily armed atmospheric craft employ their specialized moveable wings to gain additional speed and maneuverability.",
       "image": "https://infinitearenas.com/xw2/images/pilots/blacksquadronscout.png",
@@ -154,9 +152,10 @@
         "text": "Before you reveal your dial, if you are not stressed, you must boost."
       },
       "slots": [
-        "Talent",
-        "Device",
-        "Gunner"
+        "Gunner",
+        "Modification",
+        "Payload",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksquadronscout.png",
       "standard": true,
@@ -170,8 +169,8 @@
       "name": "Planetary Sentinel",
       "initiative": 1,
       "limited": 0,
-      "cost": 4,
-      "loadout": 10,
+      "cost": 8,
+      "loadout": 4,
       "xws": "planetarysentinel",
       "text": "To protect its many military installations, the Empire requires a swift and vigilant defense force.",
       "image": "https://infinitearenas.com/xw2/images/pilots/planetarysentinel.png",
@@ -180,8 +179,9 @@
         "text": "Before you reveal your dial, if you are not stressed, you must boost."
       },
       "slots": [
+        "Gunner",
         "Modification",
-        "Gunner"
+        "Payload"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/planetarysentinel.png",
       "standard": true,
@@ -204,15 +204,13 @@
       "standard": true,
       "extended": true,
       "slots": [
-        "Talent",
         "Gunner",
-        "Device",
-        "Device",
-        "Modification"
+        "Modification",
+        "Payload"
       ],
       "ability": "After you fully execute a maneuver using your Adaptive Ailerons, if you are not stressed, you may drop 1 device.",
-      "cost": 4,
-      "loadout": 20,
+      "cost": 9,
+      "loadout": 14,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vagabond.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/vagabond.png",
       "keywords": [

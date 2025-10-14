@@ -70,21 +70,22 @@
       "xws": "hawk",
       "caption": "Valkyrie 2929",
       "initiative": 4,
-      "cost": 5,
-      "loadout": 16,
+      "cost": 12,
+      "loadout": 9,
       "charges": {
         "value": 2,
         "recovers": 1
       },
       "slots": [
-        "Talent",
-        "Missile",
-        "Missile",
         "Crew",
         "Crew",
-        "Modification",
         "Gunner",
-        "Gunner"
+        "Gunner",
+        "Modification",
+        "Missile",
+        "Missile",
+        "Torpedo",
+        "Talent"
       ],
       "limited": 1,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/hawk.png",
@@ -106,21 +107,21 @@
       "xws": "hound",
       "caption": "Vigilant Tracker",
       "initiative": 2,
-      "cost": 5,
-      "loadout": 16,
+      "cost": 10,
+      "loadout": 5,
       "charges": {
         "value": 2,
         "recovers": 1
       },
       "slots": [
-        "Sensor",
-        "Missile",
-        "Missile",
         "Crew",
         "Crew",
-        "Modification",
         "Gunner",
-        "Gunner"
+        "Gunner",
+        "Modification",
+        "Torpedo",
+        "Missile",
+        "Missile"
       ],
       "limited": 1,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/hound.png",
@@ -142,21 +143,22 @@
       "xws": "warthog",
       "caption": "Veteran of Kadavo",
       "initiative": 3,
-      "cost": 6,
-      "loadout": 26,
+      "cost": 13,
+      "loadout": 16,
       "charges": {
         "value": 2,
         "recovers": 1
       },
       "slots": [
-        "Talent",
-        "Torpedo",
-        "Missile",
         "Crew",
         "Crew",
-        "Modification",
         "Gunner",
-        "Gunner"
+        "Gunner",
+        "Modification",
+        "Missile",
+        "Missile",
+        "Torpedo",
+        "Talent"
       ],
       "limited": 1,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/warthog.png",
@@ -181,20 +183,21 @@
       "text": "Capable of functioning in space assaults and atmospheric battles alike, the LAAT/i gunship transports Republic troops to battlefronts on planets besieged by the Separatists.",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 5,
+      "cost": 11,
+      "loadout": 11,
       "charges": {
         "value": 2,
         "recovers": 1
       },
       "slots": [
-        "Missile",
-        "Missile",
         "Crew",
         "Crew",
-        "Modification",
         "Gunner",
-        "Gunner"
+        "Gunner",
+        "Modification",
+        "Torpedo",
+        "Missile",
+        "Missile"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/212thbattalionpilot.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/212thbattalionpilot.png",
@@ -212,21 +215,21 @@
       "xws": "sicko",
       "caption": "CT-1127/549",
       "initiative": 2,
-      "cost": 5,
-      "loadout": 16,
+      "cost": 12,
+      "loadout": 12,
       "charges": {
         "value": 2,
         "recovers": 1
       },
       "slots": [
-        "Talent",
-        "Missile",
-        "Missile",
         "Crew",
         "Crew",
-        "Modification",
         "Gunner",
-        "Gunner"
+        "Gunner",
+        "Modification",
+        "Torpedo",
+        "Missile",
+        "Missile"
       ],
       "limited": 1,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sicko.png",

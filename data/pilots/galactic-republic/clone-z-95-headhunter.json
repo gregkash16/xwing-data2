@@ -64,8 +64,8 @@
       "caption": "Dependable Closer",
       "initiative": 2,
       "limited": 1,
-      "cost": 3,
-      "loadout": 6,
+      "cost": 7,
+      "loadout": 5,
       "xws": "killer",
       "ability": "While you perform an attack, if the defender has 2 or fewer hull remaining, you may roll 1 additional attack die. If you do, gain 1 deplete token after rolling attack dice.",
       "shipAbility": {
@@ -75,11 +75,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/killer.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/killer.png",
       "slots": [
-        "Talent",
-        "Talent",
-        "Sensor",
-        "Cannon",
-        "Modification"
+        "Modification",
+        "Sensor"
       ],
       "standard": true,
       "extended": true,
@@ -93,8 +90,8 @@
       "caption": "CT-1020",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
-      "loadout": 16,
+      "cost": 8,
+      "loadout": 12,
       "xws": "drift",
       "ability": "While a friendly ship at range 0-1 performs an attack, if you have exactly 1 non-lock red token or exactly 1 orange token, that ship may reroll 1 attack die.",
       "shipAbility": {
@@ -105,8 +102,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/drift.png",
       "slots": [
         "Talent",
-        "Sensor",
-        "Modification"
+        "Modification",
+        "Sensor"
       ],
       "standard": true,
       "extended": true,
@@ -120,8 +117,8 @@
       "caption": "CT-4860",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
-      "loadout": 12,
+      "cost": 8,
+      "loadout": 10,
       "xws": "boost",
       "ability": "At the start of the Engagement Phase, if there is a friendly ship at range 0-1 whose revealed maneuver is blue, you may perform a [Boost] action.",
       "shipAbility": {
@@ -132,9 +129,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/boost.png",
       "slots": [
         "Talent",
-        "Talent",
-        "Sensor",
-        "Modification"
+        "Modification",
+        "Sensor"
       ],
       "standard": true,
       "extended": true,
@@ -148,8 +144,8 @@
       "caption": "Scrappy Flier",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
-      "loadout": 8,
+      "cost": 8,
+      "loadout": 10,
       "xws": "stub",
       "ability": "While you defend, if the speed of your revealed maneuver is even, roll 1 additional defende die. While you perform a primary attack, if the speed of your revealed maneuver is odd, roll 1 additional attack die.",
       "shipAbility": {
@@ -160,8 +156,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/stub.png",
       "slots": [
         "Talent",
-        "Sensor",
-        "Modification"
+        "Modification",
+        "Sensor"
       ],
       "standard": true,
       "extended": true,
@@ -175,8 +171,8 @@
       "caption": "Incautious Instructor",
       "initiative": 5,
       "limited": 1,
-      "cost": 3,
-      "loadout": 9,
+      "cost": 8,
+      "loadout": 11,
       "xws": "knack",
       "ability": "After you are destroyed, you may choose a friendly non-limited ship and assign 1 of your equipped [Talent] upgrades to it. End of Game: Return all [Talent] upgrades to their original ships.",
       "shipAbility": {
@@ -187,9 +183,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/knack.png",
       "slots": [
         "Talent",
-        "Talent",
+        "Modification",
         "Sensor",
-        "Modification"
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -203,8 +199,8 @@
       "caption": "Valkyrie 2929",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 14,
+      "cost": 8,
+      "loadout": 10,
       "xws": "hawk-clonez95headhunter",
       "ability": "At the start of the end phase, each friendly ship at range 0-1 that has a revealed maneuver of speed 3-5 may gain 1 strain token to perform a [Barrel Roll] or [Boost] action.",
       "shipAbility": {
@@ -215,9 +211,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/hawk-clonez95headhunter.png",
       "slots": [
         "Talent",
-        "Sensor",
         "Modification",
-        "Modification"
+        "Sensor"
       ],
       "standard": true,
       "extended": true,
@@ -230,7 +225,7 @@
       "name": "7th Sky Corps Pilot",
       "initiative": 2,
       "limited": 0,
-      "cost": 3,
+      "cost": 7,
       "loadout": 8,
       "xws": "7thskycorpspilot",
       "text": "",
@@ -241,8 +236,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/7thskycorpspilot.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/7thskycorpspilot.png",
       "slots": [
-        "Sensor",
-        "Modification"
+        "Modification",
+        "Sensor"
       ],
       "standard": true,
       "extended": true,
@@ -255,8 +250,8 @@
       "name": "Reaper Squadron Scout",
       "initiative": 3,
       "limited": 0,
-      "cost": 3,
-      "loadout": 6,
+      "cost": 8,
+      "loadout": 11,
       "xws": "reapersquadronscout",
       "text": "Despite the Clone Z-95's unglamorous reputation, Reaper Squadron has become legendary for their skill with this fighter in far-flung engagements, such as the skirmish over Castilon.",
       "shipAbility": {
@@ -267,6 +262,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/reapersquadronscout.png",
       "slots": [
         "Talent",
+        "Modification",
         "Sensor"
       ],
       "standard": true,
@@ -281,8 +277,8 @@
       "caption": "Evasive Aviator",
       "initiative": 4,
       "limited": 1,
-      "cost": 3,
-      "loadout": 3,
+      "cost": 7,
+      "loadout": 5,
       "xws": "slider",
       "ability": "When you reveal a [2 [Bank Left]] or [2 [Bank Right]] maneuver, you may spend 2 [Charge] to execute it as a sideslip.",
       "charges": {
@@ -297,10 +293,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/slider.png",
       "slots": [
         "Talent",
-        "Talent",
-        "Sensor",
         "Modification",
-        "Modification"
+        "Sensor"
       ],
       "standard": true,
       "extended": true,
@@ -314,8 +308,8 @@
       "caption": "Veteran of Kadavo",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
-      "loadout": 19,
+      "cost": 9,
+      "loadout": 17,
       "xws": "warthog-clonez95headhunter",
       "ability": "After you or a friendly non-limited ship at range 0-2 are destroyed during the Engagement Phase, that ship is not removed until the end of that phase.",
       "shipAbility": {
@@ -326,8 +320,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/warthog-clonez95headhunter.png",
       "slots": [
         "Talent",
-        "Sensor",
-        "Modification"
+        "Modification",
+        "Sensor"
       ],
       "standard": true,
       "extended": true,

@@ -89,18 +89,18 @@
       },
       "standard": true,
       "epic": true,
-      "cost": 5,
+      "cost": 11,
       "slots": [
         "Force Power",
-        "Astromech",
-        "Modification"
+        "Modification",
+        "Astromech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jediknight-delta7baethersprite.png",
       "keywords": [
         "Jedi",
         "Light Side"
       ],
-      "loadout": 9,
+      "loadout": 4,
       "extended": true
     },
     {
@@ -124,20 +124,19 @@
       },
       "standard": true,
       "epic": true,
-      "cost": 6,
+      "cost": 15,
       "slots": [
         "Force Power",
-        "Force Power",
         "Modification",
-        "Modification",
-        "Astromech"
+        "Astromech",
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/obiwankenobi-delta7baethersprite.png",
       "keywords": [
         "Jedi",
         "Light Side"
       ],
-      "loadout": 9,
+      "loadout": 11,
       "extended": true
     },
     {
@@ -161,19 +160,19 @@
       },
       "standard": true,
       "epic": true,
-      "cost": 6,
+      "cost": 14,
       "slots": [
         "Force Power",
-        "Force Power",
+        "Modification",
         "Astromech",
-        "Modification"
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/plokoon-delta7baethersprite.png",
       "keywords": [
         "Jedi",
         "Light Side"
       ],
-      "loadout": 15,
+      "loadout": 8,
       "extended": true
     },
     {
@@ -197,18 +196,19 @@
       },
       "standard": false,
       "epic": true,
-      "cost": 5,
+      "cost": 13,
       "slots": [
         "Force Power",
+        "Modification",
         "Astromech",
-        "Modification"
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/saeseetiin-delta7baethersprite.png",
       "keywords": [
         "Jedi",
         "Light Side"
       ],
-      "loadout": 9,
+      "loadout": 8,
       "extended": true
     },
     {
@@ -232,19 +232,19 @@
       },
       "standard": true,
       "epic": true,
-      "cost": 5,
+      "cost": 13,
       "slots": [
         "Force Power",
-        "Force Power",
+        "Modification",
         "Astromech",
-        "Modification"
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/macewindu-delta7baethersprite.png",
       "keywords": [
         "Jedi",
         "Light Side"
       ],
-      "loadout": 4,
+      "loadout": 8,
       "extended": true
     },
     {
@@ -268,14 +268,13 @@
       },
       "standard": true,
       "epic": true,
-      "cost": 6,
-      "loadout": 9,
+      "cost": 16,
+      "loadout": 12,
       "slots": [
         "Force Power",
-        "Force Power",
         "Modification",
-        "Modification",
-        "Astromech"
+        "Astromech",
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/anakinskywalker-delta7baethersprite.png",
       "keywords": [
@@ -305,11 +304,11 @@
       },
       "standard": true,
       "epic": true,
-      "cost": 5,
+      "cost": 13,
       "slots": [
         "Force Power",
-        "Astromech",
-        "Modification"
+        "Modification",
+        "Astromech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ahsokatano-delta7baethersprite.png",
       "keywords": [
@@ -340,18 +339,18 @@
       },
       "standard": true,
       "epic": true,
-      "cost": 5,
+      "cost": 12,
       "slots": [
         "Force Power",
-        "Astromech",
-        "Modification"
+        "Modification",
+        "Astromech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/barrissoffee-delta7baethersprite.png",
       "keywords": [
         "Jedi",
         "Light Side"
       ],
-      "loadout": 12,
+      "loadout": 9,
       "extended": true
     },
     {
@@ -375,11 +374,12 @@
       },
       "standard": true,
       "epic": true,
-      "cost": 5,
+      "cost": 13,
       "slots": [
         "Force Power",
+        "Modification",
         "Astromech",
-        "Modification"
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/luminaraunduli-delta7baethersprite.png",
       "keywords": [
@@ -411,13 +411,13 @@
       "extended": true,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/adigallia.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/adigallia-delta7baethersprite.png",
-      "cost": 6,
-      "loadout": 10,
+      "cost": 14,
+      "loadout": 7,
       "slots": [
         "Force Power",
-        "Force Power",
+        "Modification",
         "Astromech",
-        "Modification"
+        "Force Power"
       ],
       "keywords": [
         "Jedi",

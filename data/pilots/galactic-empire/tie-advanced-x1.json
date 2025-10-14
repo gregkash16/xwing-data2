@@ -70,8 +70,8 @@
       "caption": "Black Leader",
       "initiative": 6,
       "limited": 1,
-      "cost": 6,
-      "loadout": 12,
+      "cost": 15,
+      "loadout": 7,
       "xws": "darthvader",
       "ability": "After you perform an action, you may spend 1 [Force] to perform an action.",
       "image": "https://infinitearenas.com/xw2/images/pilots/darthvader.png",
@@ -87,13 +87,11 @@
         "text": "While you perform a primary attack against a defender you have locked, roll 1 additional attack die and change 1 [Hit] result to a [Critical Hit] result."
       },
       "slots": [
-        "Sensor",
         "Missile",
-        "Modification",
+        "Sensor",
         "Modification",
         "Force Power",
-        "Force Power",
-        "Tech"
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/darthvader.png",
       "standard": true,
@@ -110,8 +108,8 @@
       "caption": "Servant of the Empire",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
-      "loadout": 6,
+      "cost": 11,
+      "loadout": 10,
       "xws": "maarekstele",
       "ability": "While you perform an attack, if the defender would be dealt a faceup damage card, instead draw 3 damage cards, choose 1, and discard the rest.",
       "image": "https://infinitearenas.com/xw2/images/pilots/maarekstele.png",
@@ -120,11 +118,11 @@
         "text": "While you perform a primary attack against a defender you have locked, roll 1 additional attack die and change 1 [Hit] result to a [Critical Hit] result."
       },
       "slots": [
-        "Talent",
-        "Talent",
-        "Sensor",
         "Missile",
-        "Modification"
+        "Sensor",
+        "Modification",
+        "Talent",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/maarekstele.png",
       "standard": true,
@@ -138,8 +136,8 @@
       "name": "Storm Squadron Ace",
       "initiative": 3,
       "limited": 0,
-      "cost": 4,
-      "loadout": 10,
+      "cost": 10,
+      "loadout": 9,
       "xws": "stormsquadronace",
       "text": "The TIE Advanced x1 was produced in limited quantities, but Sienar engineers incorporated many of its best qualities into their next TIE model: the TIE Interceptor.",
       "image": "https://infinitearenas.com/xw2/images/pilots/stormsquadronace.png",
@@ -148,9 +146,10 @@
         "text": "While you perform a primary attack against a defender you have locked, roll 1 additional attack die and change 1 [Hit] result to a [Critical Hit] result."
       },
       "slots": [
+        "Missile",
         "Sensor",
-        "Talent",
-        "Modification"
+        "Modification",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/stormsquadronace.png",
       "standard": true,
@@ -164,8 +163,8 @@
       "name": "Tempest Squadron Pilot",
       "initiative": 2,
       "limited": 0,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 9,
+      "loadout": 5,
       "xws": "tempestsquadronpilot",
       "text": "The TIE Advanced improved on the popular TIE/ln design by adding shielding, better weapons systems, curved solar panels, and a hyperdrive.",
       "shipAbility": {
@@ -173,6 +172,7 @@
         "text": "While you perform a primary attack against a defender you have locked, roll 1 additional attack die and change 1 [Hit] result to a [Critical Hit] result."
       },
       "slots": [
+        "Missile",
         "Sensor",
         "Modification"
       ],
@@ -190,8 +190,8 @@
       "caption": "Ambitious Engineer",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 9,
+      "cost": 10,
+      "loadout": 7,
       "xws": "vedfoslo",
       "ability": "While you execute a maneuver, you may execute a maneuver of the same bearing and difficulty of a speed 1 higher or lower instead.",
       "image": "https://infinitearenas.com/xw2/images/pilots/vedfoslo.png",
@@ -200,10 +200,10 @@
         "text": "While you perform a primary attack against a defender you have locked, roll 1 additional attack die and change 1 [Hit] result to a [Critical Hit] result."
       },
       "slots": [
-        "Talent",
-        "Sensor",
         "Missile",
-        "Modification"
+        "Sensor",
+        "Modification",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vedfoslo.png",
       "standard": false,
@@ -218,8 +218,8 @@
       "caption": "Pitiless Administrator",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 10,
+      "loadout": 11,
       "xws": "zertikstrom",
       "ability": "During the End Phase, you may spend a lock you have on an enemy ship to expose 1 of that ship's damage cards.",
       "image": "https://infinitearenas.com/xw2/images/pilots/zertikstrom.png",
@@ -228,8 +228,8 @@
         "text": "While you perform a primary attack against a defender you have locked, roll 1 additional attack die and change 1 [Hit] result to a [Critical Hit] result."
       },
       "slots": [
-        "Sensor",
         "Missile",
+        "Sensor",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zertikstrom.png",
@@ -245,7 +245,7 @@
       "caption": "Battle of Yavin",
       "initiative": 6,
       "limited": 1,
-      "cost": 7,
+      "cost": 17,
       "xws": "darthvader-battleofyavin",
       "ability": "While you perform an attack, you may spend 1 [Force] to change 1 blank result to a [Hit] result.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/darthvader-battleofyavin.png",
@@ -293,15 +293,16 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Juno Eclipse",
       "caption": "Corulag's Finest",
       "initiative": 5,
       "limited": 1,
-      "cost": 5,
-      "loadout": 18,
+      "cost": 11,
+      "loadout": 11,
       "xws": "junoeclipse",
       "ability": "After you perform an action, you may perform a red [Boost] action.",
       "image": "https://infinitearenas.com/xw2/images/pilots/junoeclipse.png",
@@ -311,10 +312,11 @@
         "text": "While you perform a primary attack against a defender you have locked, roll 1 additional attack die and change 1 [Hit] result to a [Critical Hit] result."
       },
       "slots": [
-        "Talent",
-        "Sensor",
         "Missile",
-        "Modification"
+        "Sensor",
+        "Modification",
+        "Talent",
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -328,7 +330,7 @@
       "caption": "Black Leader",
       "initiative": 6,
       "limited": 1,
-      "cost": 7,
+      "cost": 17,
       "xws": "darthvader-swz105",
       "ability": "After you perform an action, you may spend 1 [Force] to perform an action.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/darthvader-swz105.png",
@@ -376,14 +378,15 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Maarek Stele",
       "caption": "Servant of the Empire",
       "initiative": 5,
       "limited": 1,
-      "cost": 5,
+      "cost": 13,
       "standardLoadout": [
         "elusive",
         "outmaneuver",
@@ -403,7 +406,8 @@
         "TIE"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     }
   ]
 }

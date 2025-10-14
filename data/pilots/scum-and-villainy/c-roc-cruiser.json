@@ -74,7 +74,7 @@
     {
       "name": "Syndicate Smugglers",
       "initiative": 7,
-      "cost": 10,
+      "cost": 24,
       "loadout": 30,
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/syndicatesmugglers.png",
@@ -96,7 +96,7 @@
         "Crew",
         "Team",
         "Cargo",
-        "Device",
+        "Payload",
         "Illicit",
         "Title",
         "Configuration"
@@ -108,7 +108,7 @@
       "initiative": 7,
       "engagement": 1,
       "limited": 1,
-      "cost": 8,
+      "cost": 20,
       "xws": "cikatrovizago-epicsl",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cikatrovizago-epicsl.png",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/cikatrovizago-epicsl.png",
@@ -127,7 +127,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Jam"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -150,7 +150,14 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["azmorigan-epicsl", "illegalcountermeasures-epicsl", "modifieddorsalturret-epicsl", "brokenhorn-epicsl"]
+      "standardLoadout": [
+        "azmorigan-epicsl",
+        "illegalcountermeasures-epicsl",
+        "modifieddorsalturret-epicsl",
+        "brokenhorn-epicsl"
+      ],
+      "loadout": 0,
+      "slots": []
     }
   ]
 }

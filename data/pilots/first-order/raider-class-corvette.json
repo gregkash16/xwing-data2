@@ -74,7 +74,7 @@
     {
       "name": "First Order Collaborators",
       "initiative": 8,
-      "cost": 15,
+      "cost": 39,
       "loadout": 50,
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/firstordercollaborators.png",
@@ -127,7 +127,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Focus"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -149,7 +149,13 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["agentterex-epicsl", "protectorategleb-epicsl", "jinatasecurityforces-epicsl", "twinmissilelauncher-epicsl", "precursor-epicsl"]
+      "standardLoadout": [
+        "agentterex-epicsl",
+        "protectorategleb-epicsl",
+        "jinatasecurityforces-epicsl",
+        "twinmissilelauncher-epicsl",
+        "precursor-epicsl"
+      ]
     }
   ]
 }

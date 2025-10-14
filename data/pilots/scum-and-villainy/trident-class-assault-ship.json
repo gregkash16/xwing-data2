@@ -74,7 +74,7 @@
     {
       "name": "Lawless Pirates",
       "initiative": 8,
-      "cost": 11,
+      "cost": 26,
       "loadout": 45,
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lawlesspirates.png",
@@ -108,7 +108,7 @@
       "initiative": 8,
       "engagement": 1,
       "limited": 1,
-      "cost": 8,
+      "cost": 19,
       "xws": "sorctormo-epicsl",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sorctormo-epicsl.png",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/sorctormo-epicsl.png",
@@ -142,7 +142,14 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["caijvanda-epicsl", "tractortentacles-epicsl", "drillbeak-epicsl", "nautolansrevenge-epicsl"]
+      "standardLoadout": [
+        "caijvanda-epicsl",
+        "tractortentacles-epicsl",
+        "drillbeak-epicsl",
+        "nautolansrevenge-epicsl"
+      ],
+      "loadout": 0,
+      "slots": []
     }
   ]
 }

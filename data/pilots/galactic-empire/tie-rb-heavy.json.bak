@@ -1,0 +1,217 @@
+{
+  "name": "TIE/rb Heavy",
+  "xws": "tierbheavy",
+  "size": "Medium",
+  "dial": [
+    "1TR",
+    "1BW",
+    "1FB",
+    "1NW",
+    "1YR",
+    "2TW",
+    "2BB",
+    "2FB",
+    "2NB",
+    "2YW",
+    "3ER",
+    "3TR",
+    "3BW",
+    "3FW",
+    "3NW",
+    "3YR",
+    "3RR",
+    "4FW"
+  ],
+  "dialCodes": [
+    "Trb"
+  ],
+  "faction": "galacticempire",
+  "stats": [
+    {
+      "arc": "Single Turret Arc",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "type": "agility",
+      "value": 1
+    },
+    {
+      "type": "hull",
+      "value": 8
+    }
+  ],
+  "actions": [
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Reinforce"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "Red",
+      "type": "Barrel Roll"
+    },
+    {
+      "difficulty": "White",
+      "linked": {
+        "difficulty": "Red",
+        "type": "Calculate"
+      },
+      "type": "Rotate Arc"
+    }
+  ],
+  "pilots": [
+    {
+      "name": "Carida Academy Cadet",
+      "cost": 5,
+      "loadout": 18,
+      "initiative": 1,
+      "slots": [
+        "Cannon",
+        "Cannon",
+        "Configuration"
+      ],
+      "xws": "caridaacademycadet",
+      "shipAbility": {
+        "name": "Rotating Cannons",
+        "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Cannon] upgrades as [Single Turret Arc]."
+      },
+      "standard": true,
+      "extended": true,
+      "text": "At Carida Academy, Imperial Navy cadets are taught to be ruthless and loyal, prioritizing victory over the lives of their comrades.",
+      "limited": 0,
+      "image": "https://infinitearenas.com/xw2/images/pilots/caridaacademycadet.png",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/caridaacademycadet.png",
+      "keywords": [
+        "TIE"
+      ],
+      "epic": true
+    },
+    {
+      "name": "Onyx Squadron Sentry",
+      "cost": 5,
+      "loadout": 17,
+      "initiative": 3,
+      "slots": [
+        "Cannon",
+        "Cannon",
+        "Modification",
+        "Configuration"
+      ],
+      "xws": "onyxsquadronsentry",
+      "shipAbility": {
+        "name": "Rotating Cannons",
+        "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Cannon] upgrades as [Single Turret Arc]."
+      },
+      "standard": true,
+      "extended": true,
+      "text": "The TIE/rb heavy, sometimes called the “brute”, is designed for operational flexibility. Its heavy armor and capacity to house an integrated MGK-300 droid co-pilot make it an excellent patrol craft.",
+      "limited": 0,
+      "image": "https://infinitearenas.com/xw2/images/pilots/onyxsquadronsentry.png",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/onyxsquadronsentry.png",
+      "keywords": [
+        "TIE"
+      ],
+      "epic": true
+    },
+    {
+      "name": "“Rampage”",
+      "caption": "Implacable Pursuer",
+      "cost": 4,
+      "loadout": 12,
+      "initiative": 4,
+      "limited": 1,
+      "slots": [
+        "Talent",
+        "Cannon",
+        "Cannon",
+        "Gunner",
+        "Modification",
+        "Configuration"
+      ],
+      "xws": "rampage",
+      "ability": "After you execute a speed 3-4 maneuver, you may choose a ship in your [Single Turret Arc] at range 0-1. That ship gains 1 strain token, or 2 strain tokens if you are damaged.",
+      "shipAbility": {
+        "name": "Rotating Cannons",
+        "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Cannon] upgrades as [Single Turret Arc]."
+      },
+      "standard": true,
+      "extended": true,
+      "image": "https://infinitearenas.com/xw2/images/pilots/rampage.png",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rampage.png",
+      "keywords": [
+        "TIE"
+      ],
+      "epic": true
+    },
+    {
+      "name": "Lyttan Dree",
+      "caption": "Onyx 2",
+      "cost": 4,
+      "loadout": 6,
+      "initiative": 3,
+      "limited": 1,
+      "slots": [
+        "Sensor",
+        "Cannon",
+        "Cannon",
+        "Gunner",
+        "Modification",
+        "Configuration"
+      ],
+      "xws": "lyttandree",
+      "ability": "While a friendly ship at range 0-2 performs an attack, if you are in the defender's [Left Arc] or [Right Arc], the attacker may reroll 1 attack die.",
+      "shipAbility": {
+        "name": "Rotating Cannons",
+        "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Cannon] upgrades as [Single Turret Arc]."
+      },
+      "standard": true,
+      "extended": true,
+      "image": "https://infinitearenas.com/xw2/images/pilots/lyttandree.png",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lyttandree.png",
+      "keywords": [
+        "TIE"
+      ],
+      "epic": true
+    },
+    {
+      "name": "Flight Leader Ubbel",
+      "caption": "Onyx Leader",
+      "cost": 4,
+      "loadout": 8,
+      "initiative": 5,
+      "limited": 1,
+      "slots": [
+        "Talent",
+        "Cannon",
+        "Cannon",
+        "Gunner",
+        "Modification",
+        "Modification",
+        "Configuration"
+      ],
+      "xws": "flightleaderubbel",
+      "ability": "After a friendly ship at range 0-2 defends, if it was dealt a damage card, you may perform a bonus attack against the attacker.",
+      "shipAbility": {
+        "name": "Rotating Cannons",
+        "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Cannon] upgrades as [Single Turret Arc]."
+      },
+      "standard": true,
+      "extended": true,
+      "image": "https://infinitearenas.com/xw2/images/pilots/flightleaderubbel.png",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/flightleaderubbel.png",
+      "keywords": [
+        "TIE"
+      ],
+      "epic": true
+    }
+  ],
+  "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIE_Brute.png"
+}

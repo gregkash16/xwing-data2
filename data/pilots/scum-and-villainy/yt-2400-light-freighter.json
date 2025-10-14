@@ -65,11 +65,11 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_YT-2400.png",
   "pilots": [
     {
-      "name": "\u201cLeebo\u201d",
+      "name": "“Leebo”",
       "caption": "He Thinks He's Funny",
       "initiative": 3,
       "limited": 1,
-      "cost": 6,
+      "cost": 16,
       "xws": "leebo-swz103-sl-scumandvillainy",
       "ability": "At the end of the Engagement Phase, you may spend a calculate token to acquire a lock on an enemy ship at range 2-3.",
       "shipActions": [
@@ -112,14 +112,15 @@
         "Freighter"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Dash Rendar",
       "caption": "In it for Himself",
       "initiative": 5,
       "limited": 1,
-      "cost": 7,
+      "cost": 17,
       "xws": "dashrendar-swz103-sl-scumandvillainy",
       "ability": "After you gain a red token as a result of moving through or overlapping an obstacle, you may transfer that red token to a friendly ship at range 0-1.",
       "shipAbility": {
@@ -141,7 +142,8 @@
         "Freighter"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     }
   ]
 }

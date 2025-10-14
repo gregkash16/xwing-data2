@@ -72,8 +72,8 @@
       "caption": "Hypercomms Specialist",
       "initiative": 2,
       "limited": 1,
-      "cost": 7,
-      "loadout": 18,
+      "cost": 18,
+      "loadout": 22,
       "xws": "lieutenantdormitz",
       "ability": "Setup: After you are placed, other friendly ships can be placed anywhere in the play area at range 0-2 of you.",
       "shipAbility": {
@@ -81,15 +81,14 @@
         "text": "While you perform a [Cannon] attack, roll 1 additional die."
       },
       "slots": [
-        "Sensor",
-        "Sensor",
         "Cannon",
-        "Crew",
-        "Crew",
-        "Crew",
-        "Modification",
+        "Sensor",
         "Tech",
-        "Tech"
+        "Tech",
+        "Crew",
+        "Crew",
+        "Crew",
+        "Modification"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantdormitz.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantdormitz.png",
@@ -102,8 +101,8 @@
       "caption": "Stentorian Commander",
       "initiative": 4,
       "limited": 1,
-      "cost": 6,
-      "loadout": 17,
+      "cost": 18,
+      "loadout": 25,
       "xws": "majorstridan",
       "ability": "While you coordinate or resolve the effect of one of your upgrades, you may treat friendly ships at range 2-3 as being at range 0 or range 1.",
       "shipAbility": {
@@ -111,14 +110,15 @@
         "text": "While you perform a [Cannon] attack, roll 1 additional die."
       },
       "slots": [
-        "Sensor",
         "Cannon",
+        "Sensor",
+        "Tech",
+        "Tech",
         "Crew",
         "Crew",
         "Crew",
         "Modification",
-        "Tech",
-        "Tech"
+        "Talent"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/majorstridan.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/majorstridan.png",
@@ -132,8 +132,8 @@
       "caption": "Alert Flight Controller",
       "initiative": 1,
       "limited": 1,
-      "cost": 6,
-      "loadout": 19,
+      "cost": 16,
+      "loadout": 15,
       "charges": {
         "value": 1,
         "recovers": 1
@@ -144,15 +144,14 @@
         "text": "While you perform a [Cannon] attack, roll 1 additional die."
       },
       "slots": [
+        "Cannon",
         "Sensor",
-        "Cannon",
-        "Cannon",
-        "Crew",
-        "Crew",
-        "Crew",
-        "Modification",
         "Tech",
-        "Tech"
+        "Tech",
+        "Crew",
+        "Crew",
+        "Crew",
+        "Modification"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/pettyofficerthanisson.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/pettyofficerthanisson.png",
@@ -165,21 +164,22 @@
       "xws": "starkillerbasepilot",
       "initiative": 2,
       "limited": 0,
-      "cost": 6,
-      "loadout": 17,
+      "cost": 15,
+      "loadout": 10,
       "text": "The Upsilon-class command shuttle serves as a base of operations for many of the First Order's senior officers and agents. Its powerful sensors and communications equipment allow them to orchestrate the spread of terror across the galaxy.",
       "shipAbility": {
         "name": "Linked Battery",
         "text": "While you perform a [Cannon] attack, roll 1 additional die."
       },
       "slots": [
-        "Sensor",
         "Cannon",
-        "Crew",
-        "Crew",
-        "Modification",
+        "Sensor",
         "Tech",
-        "Tech"
+        "Tech",
+        "Crew",
+        "Crew",
+        "Crew",
+        "Modification"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/starkillerbasepilot.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/starkillerbasepilot.png",
@@ -192,8 +192,8 @@
       "caption": "Obedient Shuttle Pilot",
       "initiative": 3,
       "limited": 1,
-      "cost": 7,
-      "loadout": 25,
+      "cost": 17,
+      "loadout": 17,
       "xws": "lieutenanttavson",
       "ability": "After you suffer damage, you may spend 1 [Charge] to perform an action.",
       "charges": {
@@ -205,13 +205,14 @@
         "text": "While you perform a [Cannon] attack, roll 1 additional die."
       },
       "slots": [
-        "Sensor",
         "Cannon",
-        "Crew",
-        "Crew",
-        "Modification",
+        "Sensor",
         "Tech",
-        "Tech"
+        "Tech",
+        "Crew",
+        "Crew",
+        "Crew",
+        "Modification"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenanttavson.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenanttavson.png",
@@ -224,8 +225,8 @@
       "caption": "Principled Instructor",
       "initiative": 4,
       "limited": 1,
-      "cost": 6,
-      "loadout": 16,
+      "cost": 17,
+      "loadout": 19,
       "xws": "captaincardinal",
       "ability": "While a friendly ship at range 1-2 with lower initiative than you defends or performs an attack, if you have at least 1 [Charge], that ship may reroll 1 [Focus] result. After an enemy ship at range 0-3 is destroyed, lose 1 [Charge].",
       "shipAbility": {
@@ -237,15 +238,15 @@
         "recovers": 0
       },
       "slots": [
-        "Sensor",
-        "Talent",
         "Cannon",
+        "Sensor",
+        "Tech",
+        "Tech",
         "Crew",
         "Crew",
         "Crew",
         "Modification",
-        "Tech",
-        "Tech"
+        "Talent"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/captaincardinal.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captaincardinal.png",
@@ -258,7 +259,7 @@
       "caption": "Evacuation of D'Qar",
       "initiative": 1,
       "limited": 1,
-      "cost": 6,
+      "cost": 16,
       "loadout": 0,
       "xws": "pettyofficerthanisson-evacuationofdqar",
       "charges": {
@@ -275,7 +276,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/pettyofficerthanisson-evacuationofdqar.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "slots": []
     }
   ]
 }

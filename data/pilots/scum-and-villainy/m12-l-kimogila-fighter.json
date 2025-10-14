@@ -67,8 +67,8 @@
       "name": "Cartel Executioner",
       "initiative": 3,
       "limited": 0,
-      "cost": 4,
-      "loadout": 5,
+      "cost": 10,
+      "loadout": 6,
       "xws": "cartelexecutioner",
       "text": "Many veteran pilots in the service of the Hutt kajidics and other criminal operations choose the M12-L Kimogila for its firepower and dreaded reputation alike.",
       "image": "https://infinitearenas.com/xw2/images/pilots/cartelexecutioner.png",
@@ -77,10 +77,10 @@
         "text": "While you perform an attack, if the defender is in your [Bullseye Arc], defense dice cannot be modified using green tokens."
       },
       "slots": [
-        "Illicit",
-        "Torpedo",
-        "Missile",
         "Astromech",
+        "Illicit",
+        "Missile",
+        "Torpedo",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cartelexecutioner.png",
@@ -93,8 +93,8 @@
       "caption": "Returned from the Grave",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
-      "loadout": 7,
+      "cost": 11,
+      "loadout": 10,
       "xws": "dalanoberos",
       "ability": "At the start of the Engagement Phase, you may choose 1 shielded ship in your [Bullseye Arc] and spend 1 [Charge]. If you do, that ship loses 1 shield and you recover 1 shield.",
       "image": "https://infinitearenas.com/xw2/images/pilots/dalanoberos.png",
@@ -107,12 +107,12 @@
         "text": "While you perform an attack, if the defender is in your [Bullseye Arc], defense dice cannot be modified using green tokens."
       },
       "slots": [
-        "Talent",
-        "Torpedo",
-        "Missile",
         "Astromech",
         "Illicit",
-        "Modification"
+        "Missile",
+        "Torpedo",
+        "Modification",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dalanoberos.png",
       "standard": false,
@@ -127,8 +127,8 @@
       "caption": "Rodian Freelancer",
       "initiative": 4,
       "limited": 1,
-      "cost": 5,
-      "loadout": 17,
+      "cost": 13,
+      "loadout": 16,
       "xws": "toranikulda",
       "ability": "After you perform an attack, each enemy ship in your [Bullseye Arc] suffers 1 [Hit] damage unless it removes 1 green token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/toranikulda.png",
@@ -137,12 +137,12 @@
         "text": "While you perform an attack, if the defender is in your [Bullseye Arc], defense dice cannot be modified using green tokens."
       },
       "slots": [
-        "Talent",
-        "Torpedo",
-        "Missile",
         "Astromech",
         "Illicit",
-        "Modification"
+        "Missile",
+        "Torpedo",
+        "Modification",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/toranikulda.png",
       "standard": false,

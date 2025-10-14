@@ -66,15 +66,16 @@
       "caption": "Brash Noble",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
-      "loadout": 9,
+      "cost": 10,
+      "loadout": 14,
       "xws": "lieutenantkarsabi",
       "ability": "After you gain a disarm token, if you are not stressed, you may gain 1 stress token to remove 1 disarm token.",
       "slots": [
-        "Talent",
-        "Sensor",
         "Modification",
-        "Configuration"
+        "Sensor",
+        "Missile",
+        "Configuration",
+        "Talent"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantkarsabi.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantkarsabi.png",
@@ -87,16 +88,16 @@
       "caption": "Pragmatic Survivor",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 11,
+      "loadout": 16,
       "xws": "majorvynder",
       "ability": "While you defend, if you are disarmed, roll 1 additional defense die.",
       "slots": [
-        "Talent",
-        "Sensor",
-        "Torpedo",
         "Modification",
-        "Configuration"
+        "Sensor",
+        "Missile",
+        "Configuration",
+        "Talent"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/majorvynder.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/majorvynder.png",
@@ -108,15 +109,15 @@
       "name": "Nu Squadron Pilot",
       "initiative": 2,
       "limited": 0,
-      "cost": 4,
-      "loadout": 20,
+      "cost": 9,
+      "loadout": 8,
       "xws": "nusquadronpilot",
       "text": "With a design inspired by other Cygnus Spaceworks vessels, the Alpha-class star wing is a versatile craft assigned to Imperial Navy specialist units that need a starfighter they can outfit for multiple roles.",
       "image": "https://infinitearenas.com/xw2/images/pilots/nusquadronpilot.png",
       "slots": [
-        "Sensor",
-        "Cannon",
         "Modification",
+        "Sensor",
+        "Missile",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/nusquadronpilot.png",
@@ -128,15 +129,16 @@
       "name": "Rho Squadron Pilot",
       "initiative": 3,
       "limited": 0,
-      "cost": 4,
-      "loadout": 15,
+      "cost": 11,
+      "loadout": 17,
       "xws": "rhosquadronpilot",
       "text": "The elite pilots of Rho Squadron instill terror in the Rebellion, using both the Xg-1 assault configuration and Os-1 arsenal loadout of the Alpha-class star wing to devastating effect.",
       "slots": [
-        "Talent",
-        "Sensor",
         "Modification",
-        "Configuration"
+        "Sensor",
+        "Missile",
+        "Configuration",
+        "Talent"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/rhosquadronpilot.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rhosquadronpilot.png",
@@ -149,7 +151,7 @@
       "caption": "Payload Courier",
       "initiative": 3,
       "limited": 1,
-      "cost": 5,
+      "cost": 13,
       "xws": "lieutenantkarsabi-ssl",
       "ability": "When you perform a [Reload] action, the chosen upgrade recovers 1 additional [Charge].",
       "shipAbility": {
@@ -196,14 +198,15 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Major Vynder",
       "caption": "Helping Hand",
       "initiative": 4,
       "limited": 1,
-      "cost": 6,
+      "cost": 14,
       "xws": "majorvynder-ssl",
       "ability": "After you perform a [Missile] attack, you may perform a bonus [Cannon] attack. While you perform this bonus attack, you may change 1 [Focus] result to a [Hit] result.",
       "shipAbility": {
@@ -250,7 +253,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     }
   ]
 }

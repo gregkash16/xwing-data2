@@ -23,8 +23,8 @@
       "name": "TransGalMeg Control Link",
       "xws": "transgalmegcontrollink",
       "initiative": 0,
-      "cost": 2,
-      "loadout": 0,
+      "cost": 1,
+      "loadout": 5,
       "slots": [
         "Hyperdrive"
       ],

@@ -87,17 +87,17 @@
       "caption": "Needs No Introduction",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
+      "cost": 11,
       "loadout": 11,
       "xws": "cadbane-separatistalliance",
       "slots": [
         "Cannon",
         "Cannon",
+        "Illicit",
         "Modification",
-        "Title",
-        "Illicit",
-        "Illicit",
+        "Modification",
         "Talent",
+        "Title",
         "Missile"
       ],
       "ability": "During the Engagement Phase, after another ship at range 0-3 is destroyed, you may spend 1 [Charge] to perform an action, even while stressed.",
@@ -123,14 +123,15 @@
       "caption": "Tenacious Bodyguard",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 16,
+      "cost": 10,
+      "loadout": 12,
       "xws": "ig101",
       "slots": [
         "Cannon",
         "Cannon",
         "Modification",
-        "Modification"
+        "Modification",
+        "Talent"
       ],
       "ability": "At the start of the System Phase, you may repair 1 faceup damage card.",
       "shipAbility": {
@@ -184,12 +185,13 @@
       "name": "MagnaGuard Executioner",
       "initiative": 3,
       "limited": 0,
-      "cost": 4,
-      "loadout": 16,
+      "cost": 9,
+      "loadout": 8,
       "xws": "magnaguardexecutioner",
       "slots": [
         "Cannon",
         "Cannon",
+        "Modification",
         "Modification"
       ],
       "text": "In addition to guarding Separatist leaders, MagneGuard droids are sometimes dispatched in swift Rogue-class Starfighters to eliminate their enemies.",
@@ -245,14 +247,15 @@
       "caption": "Implacable Escort",
       "initiative": 4,
       "limited": 2,
-      "cost": 4,
-      "loadout": 9,
+      "cost": 10,
+      "loadout": 10,
       "xws": "magnaguardprotector",
       "slots": [
         "Cannon",
         "Cannon",
         "Modification",
-        "Missile"
+        "Modification",
+        "Talent"
       ],
       "ability": "After placing forces, assign the Guarded condition to 1 friendly ship other than MagnaGuard Protector.",
       "shipAbility": {
@@ -307,14 +310,15 @@
       "caption": "Dueling Droid",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 13,
+      "cost": 10,
+      "loadout": 11,
       "xws": "ig102",
       "slots": [
         "Cannon",
         "Cannon",
         "Modification",
-        "Modification"
+        "Modification",
+        "Talent"
       ],
       "ability": "While you defend, if the attacker's initiative is equal to or greater than yours, you may change 1 blank result to a [Focus] result.",
       "shipAbility": {
@@ -369,8 +373,8 @@
       "caption": "One Eye",
       "initiative": 1,
       "limited": 1,
-      "cost": 4,
-      "loadout": 8,
+      "cost": 9,
+      "loadout": 7,
       "xws": "ig111",
       "slots": [
         "Cannon",
@@ -431,20 +435,21 @@
       "caption": "On His Own Time",
       "initiative": 5,
       "limited": 1,
-      "cost": 5,
-      "loadout": 16,
+      "cost": 12,
+      "loadout": 13,
       "charges": {
         "value": 1,
         "recovers": 0
       },
       "xws": "durge-separatistalliance",
       "slots": [
-        "Talent",
         "Cannon",
         "Cannon",
         "Illicit",
+        "Illicit",
         "Modification",
-        "Modification"
+        "Modification",
+        "Talent"
       ],
       "ability": "When you would be destroyed, you may spend 1 [Charge] to reveal all of your facedown damage cards. If you do, discard each Direct Hit! and each of your damage cards with the Pilot trait, then repair all of your faceup damage cards.",
       "shipAbility": {

@@ -73,8 +73,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/tradefederationdrone.png",
       "standard": true,
       "extended": true,
-      "cost": 2,
-      "loadout": 5,
+      "cost": 5,
+      "loadout": 2,
       "slots": [
         "Modification",
         "Missile",
@@ -100,11 +100,11 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/precisehunter.png",
       "standard": true,
       "extended": true,
-      "cost": 2,
-      "loadout": 4,
+      "cost": 6,
+      "loadout": 5,
       "slots": [
-        "Cannon",
         "Modification",
+        "Cannon",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/precisehunter.png",
@@ -127,12 +127,12 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/haorchallprototype.png",
       "standard": true,
       "extended": true,
-      "cost": 2,
-      "loadout": 2,
+      "cost": 6,
+      "loadout": 7,
       "slots": [
-        "Missile",
         "Modification",
-        "Configuration"
+        "Configuration",
+        "Missile"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/haorchallprototype.png",
       "keywords": [
@@ -154,12 +154,12 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/dfs081.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 16,
+      "cost": 6,
+      "loadout": 7,
       "slots": [
-        "Missile",
         "Modification",
-        "Configuration"
+        "Configuration",
+        "Missile"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dfs081.png",
       "keywords": [
@@ -180,12 +180,12 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/separatistdrone.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 14,
+      "cost": 6,
+      "loadout": 6,
       "slots": [
-        "Missile",
         "Modification",
-        "Configuration"
+        "Configuration",
+        "Missile"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/separatistdrone.png",
       "keywords": [
@@ -207,13 +207,12 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/dfs311.png",
       "standard": true,
       "extended": true,
-      "cost": 2,
-      "loadout": 2,
+      "cost": 6,
+      "loadout": 6,
       "slots": [
+        "Configuration",
         "Missile",
-        "Modification",
-        "Modification",
-        "Configuration"
+        "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dfs311.png",
       "keywords": [
@@ -226,7 +225,7 @@
       "caption": "Siege of Coruscant",
       "initiative": 3,
       "limited": 1,
-      "cost": 2,
+      "cost": 6,
       "charges": {
         "value": 2,
         "recovers": 0
@@ -250,14 +249,15 @@
         "Droid"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "DFS-311",
       "caption": "Siege of Coruscant",
       "initiative": 1,
       "limited": 1,
-      "cost": 2,
+      "cost": 6,
       "xws": "dfs311-siegeofcoruscant",
       "ability": "At the start of the Engagement Phase, you may transfer 1 of your calculate tokens to another friendly ship at range 0-3.",
       "shipAbility": {
@@ -277,14 +277,15 @@
         "Droid"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Haor Chall Prototype",
       "caption": "Siege of Coruscant",
       "initiative": 1,
       "limited": 1,
-      "cost": 2,
+      "cost": 6,
       "xws": "haorchallprototype-siegeofcoruscant",
       "ability": "After an enemy ship in your [Bullseye Arc] declares a scenario feature or another friendly ship as the defender, you may perform a [Calculate] or [Lock] action.",
       "shipAbility": {
@@ -304,7 +305,8 @@
         "Droid"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "The Iron Assembler",
@@ -321,17 +323,17 @@
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/theironassembler.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/theironassembler.png",
-      "cost": 3,
-      "loadout": 12,
+      "cost": 7,
+      "loadout": 10,
       "charges": {
         "value": 3,
         "recovers": 0
       },
       "slots": [
+        "Modification",
+        "Configuration",
         "Missile",
-        "Modification",
-        "Modification",
-        "Configuration"
+        "Modification"
       ],
       "keywords": [
         "Droid"
@@ -371,11 +373,10 @@
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/kelrodoaiholdout.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kelrodoaiholdout.png",
-      "cost": 3,
-      "loadout": 14,
+      "cost": 6,
+      "loadout": 10,
       "slots": [
-        "Talent",
-        "Missile",
+        "Modification",
         "Modification"
       ],
       "epic": true

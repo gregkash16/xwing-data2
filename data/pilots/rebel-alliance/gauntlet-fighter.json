@@ -68,9 +68,9 @@
   "pilots": [
     {
       "xws": "chopper-gauntletfighter",
-      "name": "\u201cChopper\u201d",
+      "name": "“Chopper”",
       "ability": "At the start of the Engagement Phase, each enemy ship at range 0 gains 2 jam tokens.",
-      "cost": 6,
+      "cost": 16,
       "loadout": 18,
       "initiative": 2,
       "limited": 1,
@@ -80,10 +80,10 @@
       "slots": [
         "Crew",
         "Gunner",
-        "Device",
         "Illicit",
         "Modification",
         "Modification",
+        "Payload",
         "Configuration",
         "Title"
       ],
@@ -98,7 +98,7 @@
     {
       "xws": "ezrabridger-gauntletfighter",
       "name": "Ezra Bridger",
-      "cost": 6,
+      "cost": 16,
       "loadout": 15,
       "initiative": 3,
       "limited": 1,
@@ -114,16 +114,16 @@
       "extended": true,
       "epic": true,
       "slots": [
-        "Force Power",
-        "Force Power",
         "Crew",
         "Gunner",
-        "Device",
         "Illicit",
         "Modification",
         "Modification",
+        "Payload",
         "Configuration",
-        "Title"
+        "Title",
+        "Force Power",
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ezrabridger-gauntletfighter.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/ezrabridger-gauntletfighter.png",
@@ -136,7 +136,7 @@
     {
       "xws": "mandalorianresistancepilot",
       "name": "Mandalorian Resistance Pilot",
-      "cost": 6,
+      "cost": 15,
       "loadout": 20,
       "initiative": 2,
       "limited": 0,
@@ -144,13 +144,15 @@
       "extended": true,
       "epic": true,
       "slots": [
-        "Talent",
         "Crew",
         "Gunner",
-        "Device",
         "Illicit",
         "Modification",
-        "Configuration"
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Title",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/mandalorianresistancepilot.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/mandalorianresistancepilot.png",

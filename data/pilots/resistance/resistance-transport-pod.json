@@ -68,13 +68,12 @@
       "limited": 1,
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 14,
+      "cost": 7,
+      "loadout": 9,
       "slots": [
-        "Tech",
-        "Tech",
         "Crew",
-        "Modification"
+        "Modification",
+        "Tech"
       ],
       "ability": "During the System Phase, you may perform a red [Barrel Roll] or [Boost] action.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bb8.png",
@@ -111,14 +110,13 @@
       "caption": "Earnest Engineer",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 11,
+      "cost": 8,
+      "loadout": 14,
       "slots": [
-        "Talent",
-        "Tech",
         "Crew",
         "Modification",
-        "Modification"
+        "Tech",
+        "Talent"
       ],
       "ability": "While you defend or perform an attack, you may reroll up to 1 of your results for each other friendly ship in the attack arc.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rosetico.png",
@@ -133,12 +131,12 @@
       "caption": "Starling",
       "standard": false,
       "extended": true,
-      "cost": 3,
-      "loadout": 12,
+      "cost": 6,
+      "loadout": 5,
       "slots": [
-        "Tech",
         "Crew",
-        "Modification"
+        "Modification",
+        "Tech"
       ],
       "ability": "Setup: After placing forces, assign the Compromising Intel condition to 1 enemy ship.",
       "conditions": [
@@ -156,14 +154,13 @@
       "caption": "Big Deal",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 7,
+      "cost": 10,
+      "loadout": 16,
       "slots": [
-        "Talent",
-        "Talent",
-        "Tech",
         "Crew",
-        "Modification"
+        "Modification",
+        "Tech",
+        "Talent"
       ],
       "ability": "While you defend or perform an attack, you may add 1 blank result, or you may gain 1 strain token to add 1 focus result instead.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/finn.png",

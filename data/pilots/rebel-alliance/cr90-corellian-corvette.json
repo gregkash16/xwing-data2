@@ -79,7 +79,7 @@
     {
       "name": "Alderaanian Guard",
       "initiative": 8,
-      "cost": 14,
+      "cost": 36,
       "loadout": 40,
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/alderaanianguard.png",
@@ -131,7 +131,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Focus"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -144,8 +144,7 @@
         {
           "difficulty": "White",
           "type": "Jam"
-        }
-        ,
+        },
         {
           "difficulty": "White",
           "type": "Rotate Arc"
@@ -155,7 +154,13 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["leiaorgana-epicsl", "c3po-epicsl", "r2d2-epicsl", "turbolaserbattery-epicsl", "tantiveiv-epicsl"]
+      "standardLoadout": [
+        "leiaorgana-epicsl",
+        "c3po-epicsl",
+        "r2d2-epicsl",
+        "turbolaserbattery-epicsl",
+        "tantiveiv-epicsl"
+      ]
     }
   ]
 }

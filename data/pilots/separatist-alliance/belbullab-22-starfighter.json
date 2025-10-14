@@ -83,13 +83,12 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/generalgrievous.png",
       "standard": true,
       "extended": true,
-      "cost": 5,
+      "cost": 12,
       "loadout": 20,
       "slots": [
+        "Modification",
+        "Modification",
         "Talent",
-        "Modification",
-        "Modification",
-        "Missile",
         "Title"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/generalgrievous.png",
@@ -105,14 +104,13 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/wattambor.png",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 15,
+      "cost": 10,
+      "loadout": 14,
       "slots": [
-        "Talent",
         "Modification",
         "Modification",
         "Tactical Relay",
-        "Title"
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wattambor.png",
       "epic": true
@@ -152,9 +150,10 @@
       ],
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 17,
+      "cost": 9,
+      "loadout": 10,
       "slots": [
+        "Modification",
         "Modification",
         "Tactical Relay"
       ],
@@ -174,8 +173,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/captainsear.png",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 7,
+      "cost": 10,
+      "loadout": 11,
       "slots": [
         "Modification",
         "Modification",
@@ -187,12 +186,12 @@
     {
       "name": "Skakoan Ace",
       "xws": "skakoanace",
-      "cost": 4,
+      "cost": 10,
       "loadout": 14,
       "slots": [
-        "Talent",
         "Modification",
-        "Modification"
+        "Modification",
+        "Talent"
       ],
       "initiative": 3,
       "limited": 0,

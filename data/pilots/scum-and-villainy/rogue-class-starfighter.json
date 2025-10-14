@@ -87,17 +87,17 @@
       "caption": "Infamous Bounty Hunter",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 11,
+      "cost": 12,
+      "loadout": 20,
       "xws": "cadbane",
       "slots": [
-        "Talent",
         "Cannon",
         "Cannon",
-        "Missile",
-        "Illicit",
         "Illicit",
         "Modification",
+        "Modification",
+        "Missile",
+        "Talent",
         "Title"
       ],
       "ability": "After you perform an attack that hits, you may spend 2 [Charge] to transfer 1 of your non-lock red or orange tokens to the defender.",
@@ -123,16 +123,16 @@
       "caption": "Storied Bounty Hunter",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
+      "cost": 10,
       "loadout": 11,
       "xws": "viktorhel-rogueclassstarfighter",
       "slots": [
-        "Talent",
         "Cannon",
         "Cannon",
-        "Missile",
         "Illicit",
-        "Modification"
+        "Modification",
+        "Modification",
+        "Talent"
       ],
       "ability": "After you defend, if you did not roll exactly 2 defense dice, the attacker gains 1 stress token.",
       "shipAbility": {
@@ -153,14 +153,12 @@
       "caption": "Laughing Bandit",
       "initiative": 1,
       "limited": 1,
-      "cost": 4,
-      "loadout": 11,
+      "cost": 10,
+      "loadout": 12,
       "xws": "nomlumb-rogueclassstarfighter",
       "slots": [
-        "Talent",
         "Cannon",
         "Cannon",
-        "Missile",
         "Illicit",
         "Modification",
         "Modification"
@@ -183,14 +181,15 @@
       "name": "Outer Rim Hunter",
       "initiative": 3,
       "limited": 0,
-      "cost": 4,
-      "loadout": 15,
+      "cost": 9,
+      "loadout": 7,
       "xws": "outerrimhunter",
       "slots": [
-        "Cannon",
-        "Cannon",
         "Illicit",
-        "Modification"
+        "Modification",
+        "Modification",
+        "Cannon",
+        "Cannon"
       ],
       "text": "Due to its association with Cad Bane, the Rogue-class Starfighterhas found its way into the hands of other bounty hunters, especially those who operate in the lawless Outer Rim.",
       "shipAbility": {
@@ -208,16 +207,17 @@
       "caption": "Hard to Kill",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
-      "loadout": 8,
+      "cost": 11,
+      "loadout": 13,
       "xws": "durge",
       "slots": [
-        "Talent",
-        "Talent",
         "Cannon",
         "Cannon",
         "Illicit",
-        "Modification"
+        "Illicit",
+        "Modification",
+        "Modification",
+        "Talent"
       ],
       "ability": "While you defend, after the Neutralize Results step, if there are more [Hit]/[Critical Hit] results than your active [Shield], you may change 1 [Hit] result to a [Critical Hit] and cancel 1 [Hit] result.",
       "shipAbility": {
@@ -238,7 +238,7 @@
       "caption": "Armed and Dangerous",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
+      "cost": 11,
       "loadout": 0,
       "xws": "cadbane-armedanddangerous",
       "ability": "After you perform an attack that hits, you may spend 2 [Charge] to transfer 1 of your non-lock red or orange tokens to the defender.",
@@ -296,7 +296,8 @@
           "difficulty": "Red",
           "type": "Cloak"
         }
-      ]
+      ],
+      "slots": []
     }
   ]
 }

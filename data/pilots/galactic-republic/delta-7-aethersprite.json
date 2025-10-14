@@ -89,11 +89,12 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 9,
+      "cost": 9,
+      "loadout": 6,
       "slots": [
         "Force Power",
         "Configuration",
+        "Modification",
         "Modification",
         "Astromech"
       ],
@@ -125,15 +126,15 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 5,
+      "cost": 13,
       "loadout": 10,
       "slots": [
-        "Force Power",
         "Force Power",
         "Configuration",
         "Modification",
         "Modification",
-        "Astromech"
+        "Astromech",
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/obiwankenobi.png",
       "keywords": [
@@ -163,14 +164,15 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 3,
+      "cost": 12,
+      "loadout": 8,
       "slots": [
-        "Force Power",
         "Force Power",
         "Configuration",
         "Modification",
-        "Astromech"
+        "Modification",
+        "Astromech",
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/plokoon.png",
       "keywords": [
@@ -200,13 +202,15 @@
       },
       "standard": false,
       "extended": true,
-      "cost": 4,
+      "cost": 10,
       "loadout": 7,
       "slots": [
         "Force Power",
         "Configuration",
         "Modification",
-        "Astromech"
+        "Modification",
+        "Astromech",
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/saeseetiin.png",
       "keywords": [
@@ -236,14 +240,15 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 3,
+      "cost": 11,
+      "loadout": 10,
       "slots": [
-        "Force Power",
         "Force Power",
         "Configuration",
         "Modification",
-        "Astromech"
+        "Modification",
+        "Astromech",
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/macewindu.png",
       "keywords": [
@@ -273,15 +278,15 @@
       "standard": true,
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/anakinskywalker.png",
-      "cost": 5,
-      "loadout": 5,
+      "cost": 14,
+      "loadout": 12,
       "slots": [
-        "Force Power",
         "Force Power",
         "Configuration",
         "Modification",
         "Modification",
-        "Astromech"
+        "Astromech",
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/anakinskywalker.png",
       "keywords": [
@@ -311,11 +316,12 @@
       "standard": true,
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/ahsokatano.png",
-      "cost": 4,
+      "cost": 10,
       "loadout": 8,
       "slots": [
         "Force Power",
         "Configuration",
+        "Modification",
         "Modification",
         "Astromech"
       ],
@@ -347,11 +353,12 @@
       "standard": true,
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/barrissoffee.png",
-      "cost": 4,
-      "loadout": 11,
+      "cost": 10,
+      "loadout": 10,
       "slots": [
         "Force Power",
         "Configuration",
+        "Modification",
         "Modification",
         "Astromech"
       ],
@@ -383,13 +390,15 @@
       "standard": true,
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/luminaraunduli.png",
-      "cost": 4,
+      "cost": 10,
       "loadout": 7,
       "slots": [
         "Force Power",
         "Configuration",
         "Modification",
-        "Astromech"
+        "Modification",
+        "Astromech",
+        "Force Power"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/luminaraunduli.png",
       "keywords": [
@@ -420,14 +429,15 @@
       "extended": true,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/adigallia.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/adigallia.png",
-      "cost": 5,
-      "loadout": 12,
+      "cost": 12,
+      "loadout": 6,
       "slots": [
-        "Force Power",
         "Force Power",
         "Configuration",
         "Modification",
-        "Astromech"
+        "Modification",
+        "Astromech",
+        "Force Power"
       ],
       "keywords": [
         "Jedi",

@@ -17,20 +17,55 @@
     "3FB",
     "4FR"
   ],
-  "dialCodes": ["GOZ-I"],
+  "dialCodes": [
+    "GOZ-I"
+  ],
   "stats": [
-    { "arc": "Front Arc", "type": "attack", "value": 3 },
-    { "type": "agility", "value": 0 },
-    { "type": "hull", "value": 11 },
-    { "type": "shields", "value": 5, "recovers": 1 },
-    { "type": "energy", "value": 3, "recovers": 1 }
+    {
+      "arc": "Front Arc",
+      "type": "attack",
+      "value": 3
+    },
+    {
+      "type": "agility",
+      "value": 0
+    },
+    {
+      "type": "hull",
+      "value": 11
+    },
+    {
+      "type": "shields",
+      "value": 5,
+      "recovers": 1
+    },
+    {
+      "type": "energy",
+      "value": 3,
+      "recovers": 1
+    }
   ],
   "actions": [
-    { "difficulty": "White", "type": "Focus" },
-    { "difficulty": "White", "type": "Lock" },
-    { "difficulty": "White", "type": "Coordinate" },
-    { "difficulty": "White", "type": "Reinforce" },
-    { "difficulty": "White", "type": "Jam" }
+    {
+      "difficulty": "White",
+      "type": "Focus"
+    },
+    {
+      "difficulty": "White",
+      "type": "Lock"
+    },
+    {
+      "difficulty": "White",
+      "type": "Coordinate"
+    },
+    {
+      "difficulty": "White",
+      "type": "Reinforce"
+    },
+    {
+      "difficulty": "White",
+      "type": "Jam"
+    }
   ],
   "pilots": [
     {
@@ -39,10 +74,8 @@
       "initiative": 7,
       "engagement": 1,
       "limited": 1,
-      "cost": 8,
+      "cost": 20,
       "xws": "aut0-epicsl",
-      
-      
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/auto-epicsl.png",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/auto-epicsl.png",
       "shipAbility": {
@@ -60,7 +93,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Coordinate"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -79,7 +112,13 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["tx25-epicsl", "endlesshordes-epicsl", "alpharevue-epicsl"]
+      "standardLoadout": [
+        "tx25-epicsl",
+        "endlesshordes-epicsl",
+        "alpharevue-epicsl"
+      ],
+      "loadout": 0,
+      "slots": []
     }
   ]
 }

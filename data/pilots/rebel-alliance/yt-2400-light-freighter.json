@@ -69,8 +69,8 @@
       "caption": "Dry-Witted Droid",
       "initiative": 3,
       "limited": 1,
-      "cost": 7,
-      "loadout": 22,
+      "cost": 20,
+      "loadout": 19,
       "xws": "leebo",
       "ability": "After you defend or perform an attack, if you spent a calculate token, gain 1 calculate token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/leebo.png",
@@ -117,10 +117,11 @@
       ],
       "slots": [
         "Talent",
-        "Missile",
+        "Crew",
         "Illicit",
         "Illicit",
-        "Modification"
+        "Modification",
+        "Missile"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/leebo.png",
       "standard": false,
@@ -136,7 +137,7 @@
       "caption": "Hotshot Mercenary",
       "initiative": 5,
       "limited": 1,
-      "cost": 8,
+      "cost": 20,
       "loadout": 20,
       "xws": "dashrendar",
       "ability": "While you move, you ignore obstacles.",
@@ -166,11 +167,11 @@
       ],
       "slots": [
         "Talent",
-        "Missile",
         "Crew",
         "Illicit",
         "Illicit",
-        "Modification"
+        "Modification",
+        "Missile"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dashrendar.png",
       "standard": false,
@@ -184,8 +185,8 @@
       "name": "Wild Space Fringer",
       "initiative": 1,
       "limited": 0,
-      "cost": 7,
-      "loadout": 19,
+      "cost": 17,
+      "loadout": 14,
       "xws": "wildspacefringer",
       "text": "Although stock YT-2400 light freighters have plenty of room for cargo, that space is often annexed to support modified weapon systems and oversized engines.",
       "image": "https://infinitearenas.com/xw2/images/pilots/wildspacefringer.png",
@@ -194,10 +195,11 @@
         "text": "While you perform a primary attack at attack range 0-1, do not apply the range 0-1 bonus and roll 1 fewer attack die."
       },
       "slots": [
-        "Missile",
-        "Gunner",
+        "Crew",
         "Illicit",
-        "Modification"
+        "Illicit",
+        "Modification",
+        "Missile"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wildspacefringer.png",
       "standard": false,
@@ -212,8 +214,8 @@
       "caption": "Wisdom of Ages",
       "initiative": 3,
       "limited": 1,
-      "cost": 6,
-      "loadout": 7,
+      "cost": 17,
+      "loadout": 10,
       "xws": "leebo-swz103-rebelalliance",
       "ability": "After you defend or perform an attack, if you spent a calculate token, gain 1 calculate token.",
       "shipActions": [
@@ -244,10 +246,11 @@
       },
       "slots": [
         "Talent",
-        "Missile",
-        "Illicit",
-        "Illicit",
         "Crew",
+        "Illicit",
+        "Illicit",
+        "Modification",
+        "Missile",
         "Title"
       ],
       "artwork": "",
@@ -265,7 +268,7 @@
       "caption": "Freighter for Hire",
       "initiative": 5,
       "limited": 1,
-      "cost": 7,
+      "cost": 19,
       "loadout": 20,
       "xws": "dashrendar-swz103-rebelalliance",
       "ability": "During the Engagement Phase, you ignore the effects of obstacles that you are overlapping.",
@@ -275,11 +278,11 @@
       },
       "slots": [
         "Talent",
-        "Missile",
         "Crew",
         "Illicit",
         "Illicit",
         "Modification",
+        "Missile",
         "Title"
       ],
       "artwork": "",
@@ -296,7 +299,7 @@
       "caption": "He Thinks He's Funny",
       "initiative": 3,
       "limited": 1,
-      "cost": 7,
+      "cost": 16,
       "xws": "leebo-swz103-sl-rebelalliance",
       "ability": "At the end of the Engagement Phase, you may spend a calculate token to acquire a lock on an enemy ship at range 2-3.",
       "shipActions": [
@@ -339,14 +342,15 @@
         "Freighter"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "Dash Rendar",
       "caption": "In it for Himself",
       "initiative": 5,
       "limited": 1,
-      "cost": 7,
+      "cost": 17,
       "xws": "dashrendar-swz103-sl-rebelalliance",
       "ability": "After you gain a red token as a result of moving through or overlapping an obstacle, you may transfer that red token to a friendly ship at range 0-1.",
       "shipAbility": {
@@ -368,7 +372,8 @@
         "Freighter"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     }
   ]
 }

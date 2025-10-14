@@ -74,7 +74,7 @@
     {
       "name": "Outer Rim Patrol",
       "initiative": 8,
-      "cost": 15,
+      "cost": 39,
       "loadout": 50,
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/outerrimpatrol.png",
@@ -108,7 +108,7 @@
       "initiative": 8,
       "engagement": 0,
       "limited": 1,
-      "cost": 13,
+      "cost": 33,
       "xws": "idenversio-epicsl",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/idenversio-epicsl.png",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/idenversio-epicsl.png",
@@ -127,7 +127,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Focus"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -150,7 +150,15 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["ruthless", "fanatical-epicsl", "infernosquad-epicsl", "twinmissilelauncher-epicsl", "corvus-epicsl"]
+      "standardLoadout": [
+        "ruthless",
+        "fanatical-epicsl",
+        "infernosquad-epicsl",
+        "twinmissilelauncher-epicsl",
+        "corvus-epicsl"
+      ],
+      "loadout": 0,
+      "slots": []
     }
   ]
 }

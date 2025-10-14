@@ -20,7 +20,9 @@
     "4FR",
     "5FR"
   ],
-  "dialCodes": ["CR90-REB"],
+  "dialCodes": [
+    "CR90-REB"
+  ],
   "stats": [
     {
       "arc": "Left Arc",
@@ -80,7 +82,7 @@
       "initiative": 8,
       "engagement": 0,
       "limited": 1,
-      "cost": 12,
+      "cost": 32,
       "xws": "leiaorgana-epicsl",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/leiaorgana-epicsl.png",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/leiaorgana-epicsl.png",
@@ -99,7 +101,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Focus"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -112,8 +114,7 @@
         {
           "difficulty": "White",
           "type": "Jam"
-        }
-        ,
+        },
         {
           "difficulty": "White",
           "type": "Rotate Arc"
@@ -123,7 +124,15 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["niennunb-epicsl", "urcosfurdam-epicsl", "tibannareserves", "turbolaserbattery-epicsl", "tantiveiv-epicsl-resistance"]
+      "standardLoadout": [
+        "niennunb-epicsl",
+        "urcosfurdam-epicsl",
+        "tibannareserves",
+        "turbolaserbattery-epicsl",
+        "tantiveiv-epicsl-resistance"
+      ],
+      "loadout": 0,
+      "slots": []
     }
   ]
 }

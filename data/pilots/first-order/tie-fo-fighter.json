@@ -69,20 +69,19 @@
       "caption": "Omega Leader",
       "initiative": 6,
       "limited": 1,
-      "cost": 4,
-      "loadout": 17,
+      "cost": 11,
+      "loadout": 19,
       "xws": "midnight",
       "ability": "While you defend or perform an attack, if you have a lock on the enemy ship, that ship's dice cannot be modified.",
       "image": "https://infinitearenas.com/xw2/images/pilots/midnight.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/midnight.png",
       "slots": [
-        "Talent",
-        "Talent",
         "Sensor",
-        "Modification",
-        "Modification",
         "Tech",
-        "Missile"
+        "Modification",
+        "Talent",
+        "Missile",
+        "Modification"
       ],
       "standard": true,
       "extended": true,
@@ -96,19 +95,19 @@
       "caption": "First Order Enforcer",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
-      "loadout": 19,
+      "cost": 10,
+      "loadout": 15,
       "xws": "commandermalarus",
       "ability": "At the start of the Engagement Phase, you may spend 1 [Charge] and gain 1 stress token. If you do, until the end of the round, while you defend or perform an attack, you may change all of your [Focus] results to [Evade] or [Hit] results.",
       "image": "https://infinitearenas.com/xw2/images/pilots/commandermalarus.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/commandermalarus.png",
       "slots": [
-        "Talent",
-        "Talent",
         "Sensor",
-        "Missile",
+        "Tech",
         "Modification",
-        "Tech"
+        "Talent",
+        "Missile",
+        "Modification"
       ],
       "charges": {
         "value": 2,
@@ -126,19 +125,18 @@
       "caption": "Zeta Leader",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
+      "cost": 10,
       "loadout": 14,
       "xws": "scorch",
       "ability": "While you perform a primary attack, if you are not stressed, you may gain 1 stress token to roll 1 additional attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/scorch.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/scorch.png",
       "slots": [
-        "Talent",
-        "Talent",
         "Sensor",
-        "Modification",
         "Tech",
-        "Missile"
+        "Modification",
+        "Talent",
+        "Modification"
       ],
       "standard": true,
       "extended": true,
@@ -152,18 +150,17 @@
       "caption": "Omega Ace",
       "initiative": 4,
       "limited": 1,
-      "cost": 3,
+      "cost": 8,
       "loadout": 8,
       "xws": "static",
       "ability": "While you perform a primary attack, you may spend your lock on the defender and a focus token to change all of your results to [Critical Hit] results.",
       "image": "https://infinitearenas.com/xw2/images/pilots/static.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/static.png",
       "slots": [
-        "Talent",
-        "Talent",
         "Sensor",
+        "Tech",
         "Modification",
-        "Tech"
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -177,18 +174,16 @@
       "caption": "Zeta Ace",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
-      "loadout": 9,
+      "cost": 7,
+      "loadout": 3,
       "xws": "longshot",
       "ability": "While you perform a primary attack at attack range 3, roll 1 additional attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/longshot.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/longshot.png",
       "slots": [
-        "Talent",
         "Sensor",
-        "Modification",
         "Tech",
-        "Tech"
+        "Modification"
       ],
       "standard": true,
       "extended": true,
@@ -201,18 +196,17 @@
       "name": "Omega Squadron Ace",
       "initiative": 3,
       "limited": 0,
-      "cost": 3,
-      "loadout": 10,
+      "cost": 8,
+      "loadout": 9,
       "xws": "omegasquadronace",
       "text": "Only pilots who have demonstrated both exceptional skill and unwavering dedication are rewarded with coveted positions in the First Order squadrons operating secretly against the New Republic during the Cold War.",
       "image": "https://infinitearenas.com/xw2/images/pilots/omegasquadronace.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/omegasquadronace.png",
       "slots": [
-        "Talent",
         "Sensor",
+        "Tech",
         "Modification",
-        "Modification",
-        "Tech"
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -226,17 +220,17 @@
       "caption": "Epsilon Leader",
       "initiative": 2,
       "limited": 1,
-      "cost": 3,
+      "cost": 8,
       "loadout": 9,
       "xws": "muse",
       "ability": "At the start of the Engagement Phase, you may choose a friendly ship at range 0-1. If you do, that ship removes 1 stress token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/muse.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/muse.png",
       "slots": [
-        "Talent",
         "Sensor",
+        "Tech",
         "Modification",
-        "Tech"
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -250,17 +244,16 @@
       "caption": "Loose End",
       "initiative": 2,
       "limited": 1,
-      "cost": 3,
-      "loadout": 11,
+      "cost": 7,
+      "loadout": 6,
       "xws": "tn3465",
       "ability": "While another friendly ship performs an attack, if you are at range 0-1 of the defender, you may suffer 1 [Critical Hit] damage to change 1 of the attacker's results to a [Critical Hit] result.",
       "image": "https://infinitearenas.com/xw2/images/pilots/tn3465.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tn3465.png",
       "slots": [
-        "Talent",
         "Sensor",
-        "Modification",
-        "Tech"
+        "Tech",
+        "Modification"
       ],
       "standard": true,
       "extended": true,
@@ -273,16 +266,16 @@
       "name": "Zeta Squadron Pilot",
       "initiative": 2,
       "limited": 0,
-      "cost": 3,
-      "loadout": 12,
+      "cost": 7,
+      "loadout": 6,
       "xws": "zetasquadronpilot",
       "text": "Unhampered by a cumbersome galactic bureaucracy, technologies originally researched by the Empire's TIE Advanced program are now mass-produced on First Order starfighters. As a result, TIE/fo pilots enjoy higher survival rates than their predecessors in the Galactic Empire.",
       "image": "https://infinitearenas.com/xw2/images/pilots/zetasquadronpilot.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zetasquadronpilot.png",
       "slots": [
         "Sensor",
-        "Modification",
-        "Tech"
+        "Tech",
+        "Modification"
       ],
       "standard": true,
       "extended": true,
@@ -295,18 +288,13 @@
       "name": "Epsilon Squadron Cadet",
       "initiative": 1,
       "limited": 0,
-      "cost": 3,
-      "loadout": 13,
+      "cost": 6,
+      "loadout": 0,
       "xws": "epsilonsquadroncadet",
       "text": "Trained from childhood aboard Resurgent-class Star Destroyers in deep space, many First Order TIE pilots have never even set foot on a planet's surface.",
       "image": "https://infinitearenas.com/xw2/images/pilots/epsilonsquadroncadet.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/epsilonsquadroncadet.png",
-      "slots": [
-        "Talent",
-        "Sensor",
-        "Modification",
-        "Tech"
-      ],
+      "slots": [],
       "standard": true,
       "extended": true,
       "keywords": [
@@ -319,14 +307,13 @@
       "caption": "Inconvenient Witness",
       "initiative": 1,
       "limited": 1,
-      "cost": 3,
-      "loadout": 11,
+      "cost": 7,
+      "loadout": 5,
       "xws": "lieutenantrivas",
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantrivas.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantrivas.png",
       "ability": "After a ship at range 1-2 gains a red or orange token, if you do not have that ship locked, you may acquire a lock on that ship.",
       "slots": [
-        "Talent",
         "Sensor",
         "Tech",
         "Modification"
@@ -343,19 +330,16 @@
       "caption": "Epsilon Ace",
       "initiative": 0,
       "limited": 1,
-      "cost": 3,
-      "loadout": 7,
+      "cost": 8,
+      "loadout": 8,
       "xws": "null",
       "ability": "While you are not damaged, treat your initiative value as 7.",
       "image": "https://infinitearenas.com/xw2/images/pilots/null.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/null.png",
       "slots": [
-        "Talent",
-        "Talent",
         "Sensor",
-        "Modification",
         "Tech",
-        "Tech"
+        "Modification"
       ],
       "standard": true,
       "extended": true,
@@ -369,19 +353,18 @@
       "caption": "Harsh Instructor",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
-      "loadout": 15,
+      "cost": 9,
+      "loadout": 10,
       "xws": "lieutenantgalek",
       "ability": "After another friendly ship at range 0-2 is destroyed, you may perform a [Coordinate] action, even while stressed. While you coordinate, the ship you choose can perform an action only if that action is also on your action bar.",
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantgalek.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantgalek.png",
       "slots": [
-        "Talent",
         "Sensor",
         "Tech",
-        "Tech",
-        "Missile",
-        "Modification"
+        "Modification",
+        "Talent",
+        "Tech"
       ],
       "standard": true,
       "extended": true,
@@ -395,17 +378,17 @@
       "caption": "Jace Rucklin",
       "initiative": 4,
       "limited": 1,
-      "cost": 3,
-      "loadout": 4,
+      "cost": 9,
+      "loadout": 9,
       "xws": "dt798",
       "ability": "While you perform a primary attack, if you are not strained, you may gain 1 strain token to roll 1 additional die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/dt798.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dt798.png",
       "slots": [
-        "Talent",
         "Sensor",
         "Tech",
-        "Modification"
+        "Modification",
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -419,7 +402,7 @@
       "caption": "Impetuous Mechanic",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
+      "cost": 8,
       "loadout": 9,
       "xws": "lingaava",
       "ability": "Setup: After placing forces, assign the Primed for Speed condition to yourself and up to 2 other friendly TIE/fo or TIE/sf Fighters that have no equipped [Modification] upgrades.",
@@ -429,11 +412,10 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/lingaava.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lingaava.png",
       "slots": [
-        "Talent",
-        "Talent",
         "Sensor",
         "Tech",
-        "Modification"
+        "Modification",
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -447,7 +429,7 @@
       "caption": "Evacuation of D'Qar",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
+      "cost": 8,
       "loadout": 0,
       "xws": "longshot-evacuationofdqar",
       "ability": "While you perform a primary attack at attack range 3, roll 1 additional attack die.",
@@ -467,14 +449,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "slots": []
     },
     {
       "name": "“Midnight”",
       "caption": "Evacuation of D'Qar",
       "initiative": 6,
       "limited": 1,
-      "cost": 4,
+      "cost": 9,
       "loadout": 0,
       "xws": "midnight-evacuationofdqar",
       "ability": "While you defend or perform an attack, if you have a lock on the enemy ship, that ship's dice cannot be modified.",
@@ -494,14 +477,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "slots": []
     },
     {
       "name": "Omega 2",
       "caption": "Evacuation of D'Qar",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
+      "cost": 7,
       "loadout": 0,
       "xws": "omega2-evacuationofdqar",
       "ability": "Friendly TIE ships can acquire locks onto objects at range 0-3 of you, ignoring range restrictions.",
@@ -542,14 +526,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "slots": []
     },
     {
       "name": "“Scorch”",
       "caption": "Evacuation of D'Qar",
       "initiative": 4,
       "limited": 1,
-      "cost": 3,
+      "cost": 9,
       "loadout": 0,
       "xws": "scorch-evacuationofdqar",
       "ability": "While you perform a primary attack, if you are not stressed, you may gain 1 stress token to roll 1 additional attack die.",
@@ -569,14 +554,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "slots": []
     },
     {
       "name": "Zeta 5",
       "caption": "Evacuation of D'Qar",
       "initiative": 2,
       "limited": 1,
-      "cost": 3,
+      "cost": 9,
       "loadout": 0,
       "xws": "zeta5-evacuationofdqar",
       "ability": "While you perform an attack, if you are not shielded and the defender's initiative is higher than yours, add 1 [Focus] result.",
@@ -596,7 +582,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "slots": []
     }
   ]
 }

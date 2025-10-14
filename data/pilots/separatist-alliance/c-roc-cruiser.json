@@ -74,7 +74,7 @@
     {
       "name": "Separatist Privateers",
       "initiative": 7,
-      "cost": 10,
+      "cost": 24,
       "loadout": 30,
       "limited": 0,
       "image": "https://infinitearenas.com/xw2/images/pilots/separatistprivateers.png",
@@ -97,7 +97,7 @@
         "Tactical Relay",
         "Team",
         "Cargo",
-        "Device",
+        "Payload",
         "Configuration"
       ]
     }

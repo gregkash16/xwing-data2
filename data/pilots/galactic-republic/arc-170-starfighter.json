@@ -72,18 +72,17 @@
       "ability": "While a friendly ship at range 1-2 in your [Left Arc] or [Right Arc] performs a primary attack, it may reroll 1 attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sinker.png",
       "slots": [
-        "Talent",
-        "Torpedo",
-        "Crew",
         "Astromech",
-        "Modification",
         "Gunner",
-        "Gunner"
+        "Crew",
+        "Modification",
+        "Torpedo",
+        "Talent"
       ],
       "standard": true,
       "extended": true,
-      "cost": 5,
-      "loadout": 12,
+      "cost": 11,
+      "loadout": 6,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sinker.png",
       "keywords": [
         "Clone"
@@ -93,16 +92,14 @@
     {
       "name": "“Jag”",
       "xws": "jag",
-      "cost": 4,
-      "loadout": 7,
+      "cost": 10,
+      "loadout": 4,
       "slots": [
-        "Torpedo",
         "Astromech",
-        "Modification",
-        "Modification",
         "Gunner",
-        "Gunner",
-        "Talent"
+        "Crew",
+        "Modification",
+        "Torpedo"
       ],
       "caption": "CT-55/11-9009",
       "initiative": 3,
@@ -120,17 +117,15 @@
     {
       "name": "“Odd Ball”",
       "xws": "oddball-arc170starfighter",
-      "cost": 5,
-      "loadout": 17,
+      "cost": 11,
+      "loadout": 8,
       "slots": [
-        "Talent",
-        "Sensor",
-        "Torpedo",
-        "Torpedo",
         "Astromech",
-        "Modification",
         "Gunner",
-        "Gunner"
+        "Crew",
+        "Modification",
+        "Torpedo",
+        "Talent"
       ],
       "caption": "CC-2237",
       "initiative": 5,
@@ -148,15 +143,15 @@
     {
       "name": "“Wolffe”",
       "xws": "wolffe",
-      "cost": 4,
-      "loadout": 6,
+      "cost": 12,
+      "loadout": 12,
       "slots": [
-        "Talent",
-        "Torpedo",
         "Astromech",
-        "Modification",
         "Gunner",
-        "Crew"
+        "Crew",
+        "Modification",
+        "Torpedo",
+        "Talent"
       ],
       "caption": "CC-3636",
       "initiative": 4,
@@ -178,14 +173,14 @@
     {
       "name": "104th Battalion Pilot",
       "xws": "104thbattalionpilot",
-      "cost": 5,
-      "loadout": 13,
+      "cost": 10,
+      "loadout": 3,
       "slots": [
-        "Torpedo",
         "Astromech",
-        "Modification",
         "Gunner",
-        "Gunner"
+        "Crew",
+        "Modification",
+        "Torpedo"
       ],
       "initiative": 2,
       "limited": 0,
@@ -202,13 +197,15 @@
     {
       "name": "Squad Seven Veteran",
       "xws": "squadsevenveteran",
-      "cost": 4,
-      "loadout": 5,
+      "cost": 12,
+      "loadout": 16,
       "slots": [
-        "Talent",
         "Astromech",
         "Gunner",
-        "Gunner"
+        "Crew",
+        "Modification",
+        "Torpedo",
+        "Talent"
       ],
       "initiative": 3,
       "limited": 0,
@@ -231,7 +228,7 @@
         "name": "Born for This",
         "text": "While another friendly ship at range 0-2 defends, if you are not strained, it may spend your focus and evade tokens as if that ship has them. If it does, you gain 1 strain token."
       },
-      "cost": 5,
+      "cost": 13,
       "xws": "oddball-siegeofcoruscant",
       "ability": "After you fully execute a red maneuver or perform a red action, you may choose a friendly ship at range 0-3 and an enemy at range 0-1. The chosen frendly ship gains a lock on the enemy ship.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/oddball-siegeofcoruscant.png",
@@ -271,7 +268,8 @@
         "Clone"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "“Wolffe”",
@@ -282,7 +280,7 @@
         "name": "Born for This",
         "text": "While another friendly ship at range 0-2 defends, if you are not strained, it may spend your focus and evade tokens as if that ship has them. If it does, you gain 1 strain token."
       },
-      "cost": 5,
+      "cost": 12,
       "xws": "wolffe-siegeofcoruscant",
       "ability": "While you perform a primary [Front Arc] attack, you may spend 1 [Charge] to reroll 1 attack die. While you perform a primary [Rear Arc] attack, you may recover 1 [Charge] to roll 1 additional attack die.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/wolffe-siegeofcoruscant.png",
@@ -302,7 +300,8 @@
         "Clone"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     },
     {
       "name": "“Jag”",
@@ -313,7 +312,7 @@
         "name": "Born for This",
         "text": "While another friendly ship at range 0-2 defends, if you are not strained, it may spend your focus and evade tokens as if that ship has them. If it does, you gain 1 strain token."
       },
-      "cost": 5,
+      "cost": 12,
       "xws": "jag-siegeofcoruscant",
       "ability": "After a friendly ship at range 0-2 in your [Left Arc] or [Right Arc] performs an attack, if you are not strained, you may acquire a lock on the defender.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/jag-siegeofcoruscant.png",
@@ -329,7 +328,8 @@
         "Clone"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": []
     }
   ]
 }

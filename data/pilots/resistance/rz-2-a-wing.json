@@ -73,8 +73,8 @@
       "caption": "Luminous Mentor",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
-      "loadout": 7,
+      "cost": 10,
+      "loadout": 8,
       "xws": "lulolampar",
       "ability": "While you defend or perform a primary attack, if you are stressed, you must roll 1 fewer defense die or 1 additional attack die.",
       "shipAbility": {
@@ -82,10 +82,11 @@
         "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. After you perform an action, you may perform a red [Boost] or red [Rotate Arc] action."
       },
       "slots": [
-        "Talent",
-        "Talent",
+        "Missile",
+        "Tech",
         "Modification",
-        "Tech"
+        "Talent",
+        "Talent"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/lulolampar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lulolampar.png",
@@ -101,8 +102,8 @@
       "caption": "Deadly Approach",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
-      "loadout": 15,
+      "cost": 10,
+      "loadout": 12,
       "xws": "tallissanlintra",
       "ability": "While an enemy ship in your [Bullseye Arc] performs an attack, you may spend 1 [Charge]. If you do, the defender rolls 1 additional die.",
       "shipAbility": {
@@ -116,12 +117,12 @@
         "recovers": 1
       },
       "slots": [
-        "Talent",
-        "Talent",
-        "Talent",
-        "Torpedo",
+        "Missile",
+        "Tech",
         "Modification",
-        "Tech"
+        "Talent",
+        "Talent",
+        "Sensor"
       ],
       "standard": true,
       "extended": true,
@@ -135,8 +136,8 @@
       "caption": "Aerial Exhibitionist",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
-      "loadout": 5,
+      "cost": 10,
+      "loadout": 15,
       "xws": "zaribangel",
       "ability": "You do not skip your Perform Action step after you partially execute a maneuver.",
       "shipAbility": {
@@ -146,13 +147,11 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/zaribangel.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zaribangel.png",
       "slots": [
-        "Talent",
-        "Talent",
         "Missile",
         "Tech",
-        "Tech",
         "Modification",
-        "Modification"
+        "Talent",
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -166,8 +165,8 @@
       "caption": "Kothan Si",
       "initiative": 4,
       "limited": 1,
-      "cost": 3,
-      "loadout": 3,
+      "cost": 9,
+      "loadout": 8,
       "xws": "greersonnel",
       "ability": "After you fully execute a maneuver, you may rotate your [Single Turret Arc].",
       "shipAbility": {
@@ -177,10 +176,10 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/greersonnel.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/greersonnel.png",
       "slots": [
-        "Talent",
-        "Modification",
         "Missile",
-        "Tech"
+        "Tech",
+        "Modification",
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -193,8 +192,8 @@
       "name": "Green Squadron Expert",
       "initiative": 3,
       "limited": 0,
-      "cost": 3,
-      "loadout": 5,
+      "cost": 9,
+      "loadout": 8,
       "xws": "greensquadronexpert",
       "text": "Years of field-expedient modifications were standardized in the RZ-2 design, but daring pilots see the ship's improved reliability as a challenge to further push the limits of its performance.",
       "shipAbility": {
@@ -202,9 +201,11 @@
         "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. After you perform an action, you may perform a red [Boost] or red [Rotate Arc] action."
       },
       "slots": [
+        "Missile",
+        "Tech",
+        "Modification",
         "Talent",
-        "Talent",
-        "Tech"
+        "Talent"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/greensquadronexpert.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/greensquadronexpert.png",
@@ -219,8 +220,8 @@
       "name": "Blue Squadron Recruit",
       "initiative": 1,
       "limited": 0,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 8,
+      "loadout": 3,
       "xws": "bluesquadronrecruit",
       "text": "Young beings across the galaxy have grown up on tales of heroism in the Galactic Civil War, and many learned to fly in the same cockpits from which their parents fought the Empire.",
       "shipAbility": {
@@ -228,9 +229,10 @@
         "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. After you perform an action, you may perform a red [Boost] or red [Rotate Arc] action."
       },
       "slots": [
-        "Talent",
+        "Missile",
         "Tech",
-        "Missile"
+        "Modification",
+        "Talent"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/bluesquadronrecruit.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronrecruit.png",
@@ -254,15 +256,16 @@
       "standard": true,
       "extended": true,
       "slots": [
-        "Talent",
-        "Talent",
-        "Tech",
         "Missile",
-        "Modification"
+        "Tech",
+        "Modification",
+        "Talent",
+        "Talent",
+        "Tech"
       ],
       "ability": "After you defend or perform an attack, you may spend 1 [Charge] to gain 1 focus or evade token.",
-      "cost": 4,
-      "loadout": 11,
+      "cost": 11,
+      "loadout": 14,
       "charges": {
         "value": 1,
         "recovers": 1
@@ -287,14 +290,14 @@
       "standard": true,
       "extended": true,
       "slots": [
-        "Talent",
-        "Tech",
         "Missile",
-        "Modification"
+        "Tech",
+        "Modification",
+        "Talent"
       ],
       "ability": "While you defend or perform an attack, if the enemy ship is in another friendly ship's [Single Turret Arc], you may spend 1 focus token from that friendly ship to change 1 of your [Focus] results to an [Evade] or [Hit] result.",
-      "cost": 3,
-      "loadout": 5,
+      "cost": 9,
+      "loadout": 9,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ronithblario.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/ronithblario.png",
       "keywords": [
@@ -307,8 +310,8 @@
       "caption": "Distracting Daredevil",
       "initiative": 1,
       "limited": 1,
-      "cost": 3,
-      "loadout": 5,
+      "cost": 8,
+      "loadout": 4,
       "xws": "merlcobben",
       "ability": "While a friendly ship at range 0-2 performs a primary attack, if you are in the defender's [Bullseye Arc], the defender rolls 1 fewer defense die.",
       "shipAbility": {
@@ -316,10 +319,10 @@
         "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. After you perform an action, you may perform a red [Boost] or red [Rotate Arc] action."
       },
       "slots": [
-        "Talent",
         "Missile",
         "Tech",
-        "Modification"
+        "Modification",
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -335,8 +338,8 @@
       "caption": "Inquisitive Journalist",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
-      "loadout": 4,
+      "cost": 9,
+      "loadout": 8,
       "xws": "suralindajavos",
       "ability": "After you partially execute a maneuver, you may gain 1 strain token to rotate 90° or 180°.",
       "shipAbility": {
@@ -344,11 +347,10 @@
         "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. After you perform an action, you may perform a red [Boost] or red [Rotate Arc] action."
       },
       "slots": [
-        "Talent",
-        "Talent",
+        "Missile",
+        "Tech",
         "Modification",
-        "Cannon",
-        "Tech"
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -364,8 +366,8 @@
       "caption": "Dynamic Aerialist",
       "initiative": 4,
       "limited": 1,
-      "cost": 3,
-      "loadout": 4,
+      "cost": 8,
+      "loadout": 3,
       "xws": "wrobietyce",
       "ability": "After you defend at attack range 1, if the attacker modified its dice, the attacker gains 1 deplete token.",
       "shipAbility": {
@@ -373,10 +375,10 @@
         "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. After you perform an action, you may perform a red [Boost] or red [Rotate Arc] action."
       },
       "slots": [
-        "Talent",
-        "Modification",
         "Missile",
-        "Tech"
+        "Tech",
+        "Modification",
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -392,8 +394,8 @@
       "caption": "Skillful Wingmate",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 10,
+      "loadout": 11,
       "xws": "seftinvanik",
       "ability": "After you perform a [Boost] action, you may transfer 1 evade token to a friendly ship at range 1.",
       "shipAbility": {
@@ -401,11 +403,11 @@
         "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. After you perform an action, you may perform a red [Boost] or red [Rotate Arc] action."
       },
       "slots": [
-        "Talent",
-        "Talent",
         "Missile",
         "Tech",
-        "Modification"
+        "Modification",
+        "Talent",
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -421,7 +423,7 @@
       "caption": "Evacuation of D'Qar",
       "initiative": 2,
       "limited": 1,
-      "cost": 3,
+      "cost": 9,
       "loadout": 0,
       "xws": "ronithblario-evacuationofdqar",
       "ability": "While you defend or perform an attack, if the enemy ship is in another friendly ship's [Single Turret Arc], you may spend 1 focus token from that friendly ship to change 1 of your [Focus] results to an [Evade] or [Hit] result.",
@@ -441,14 +443,15 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "slots": []
     },
     {
       "name": "Tallissan Lintra",
       "caption": "Evacuation of D'Qar",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
+      "cost": 11,
       "loadout": 0,
       "xws": "tallissanlintra-evacuationofdqar",
       "ability": "While an enemy in your [Bullseye Arc] performs an attack, you may spend 1[Charge]. If you do, the defender rolls 1 additional die.",
@@ -499,14 +502,15 @@
           "difficulty": "White",
           "type": "Boost"
         }
-      ]
+      ],
+      "slots": []
     },
     {
       "name": "Zizi Tlo",
       "caption": "Evacuation of D'Qar",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
+      "cost": 11,
       "loadout": 0,
       "xws": "zizitlo-evacuationofdqar",
       "ability": "After you defend or perform an attack, you may spend 1[Charge] to gain 1 focus or evade token.",
@@ -530,7 +534,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "slots": []
     }
   ]
 }

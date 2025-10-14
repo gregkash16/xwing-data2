@@ -75,8 +75,8 @@
       "caption": "Red Baron",
       "initiative": 6,
       "limited": 1,
-      "cost": 5,
-      "loadout": 11,
+      "cost": 14,
+      "loadout": 17,
       "xws": "majorvonreg",
       "ability": "During the System Phase, you may choose 1 enemy ship in your [Bullseye Arc]. That ship gains 1 deplete or strain token of your choice.",
       "shipAbility": {
@@ -84,11 +84,11 @@
         "text": "After you fully execute a maneuver, if you are not depleted or strained, you may gain 1 deplete or strain token to perform a [Lock] or [Barrel Roll] action."
       },
       "slots": [
-        "Talent",
-        "Talent",
-        "Tech",
         "Missile",
+        "Tech",
         "Modification",
+        "Talent",
+        "Talent",
         "Modification"
       ],
       "standard": true,
@@ -105,7 +105,7 @@
       "caption": "Trick of the Light",
       "initiative": 5,
       "limited": 1,
-      "cost": 5,
+      "cost": 13,
       "loadout": 15,
       "xws": "holo",
       "ability": "At the start of the Engagement Phase, you must transfer 1 of your tokens to another friendly ship at range 0-2.",
@@ -114,10 +114,11 @@
         "text": "After you fully execute a maneuver, if you are not depleted or strained, you may gain 1 deplete or strain token to perform a [Lock] or [Barrel Roll] action."
       },
       "slots": [
-        "Talent",
-        "Tech",
         "Missile",
+        "Tech",
         "Modification",
+        "Talent",
+        "Talent",
         "Modification"
       ],
       "standard": true,
@@ -134,8 +135,8 @@
       "caption": "Dying Flame",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 10,
+      "cost": 10,
+      "loadout": 8,
       "xws": "ember",
       "ability": "While you perform an attack, if there is a damaged ship friendly to the defender at range 0-1 of the defender, the defender cannot spend focus or calculate tokens.",
       "shipAbility": {
@@ -143,10 +144,10 @@
         "text": "After you fully execute a maneuver, if you are not depleted or strained, you may gain 1 deplete or strain token to perform a [Lock] or [Barrel Roll] action."
       },
       "slots": [
-        "Talent",
-        "Talent",
-        "Tech",
         "Missile",
+        "Tech",
+        "Modification",
+        "Talent",
         "Modification"
       ],
       "standard": true,
@@ -162,8 +163,8 @@
       "name": "First Order Provocateur",
       "initiative": 3,
       "limited": 0,
-      "cost": 4,
-      "loadout": 11,
+      "cost": 9,
+      "loadout": 5,
       "xws": "firstorderprovocateur",
       "text": "Major Vonreg's vision guided the enhancement of proven designs while engineering this one-of-a-kind precise and lethal craft from Sienar-Jaemus Fleet Systems.",
       "shipAbility": {
@@ -171,9 +172,9 @@
         "text": "After you fully execute a maneuver, if you are not depleted or strained, you may gain 1 deplete or strain token to perform a [Lock] or [Barrel Roll] action."
       },
       "slots": [
-        "Talent",
         "Tech",
-        "Modification"
+        "Modification",
+        "Talent"
       ],
       "standard": true,
       "extended": true,

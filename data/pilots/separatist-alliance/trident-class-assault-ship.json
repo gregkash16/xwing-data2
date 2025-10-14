@@ -74,7 +74,7 @@
     {
       "name": "Colicoid Destroyer",
       "initiative": 8,
-      "cost": 11,
+      "cost": 26,
       "loadout": 45,
       "limited": 0,
       "image": "https://infinitearenas.com/xw2/images/pilots/colicoiddestroyer.png",
@@ -108,7 +108,7 @@
       "initiative": 8,
       "engagement": 1,
       "limited": 1,
-      "cost": 8,
+      "cost": 19,
       "xws": "asajjventress-epicsl",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/asajjventress-epicsl.png",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/asajjventress-epicsl.png",
@@ -149,7 +149,14 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["aqseriesbattledroids-epicsl", "tractortentacles-epicsl", "drillbeak-epicsl", "trident-epicsl"]
+      "standardLoadout": [
+        "aqseriesbattledroids-epicsl",
+        "tractortentacles-epicsl",
+        "drillbeak-epicsl",
+        "trident-epicsl"
+      ],
+      "loadout": 0,
+      "slots": []
     }
   ]
 }
