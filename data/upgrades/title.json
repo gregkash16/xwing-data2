@@ -490,7 +490,7 @@
       {
         "title": "Moldy Crow",
         "type": "Title",
-        "ability": "Gain a [Front Arc] primary weapon with a value of \u201c3.\u201d During the End Phase, do not remove up to 2 focus tokens.",
+        "ability": "Gain a [Front Arc] primary weapon with a value of “3.” During the End Phase, do not remove up to 2 focus tokens.",
         "slots": [
           "Title"
         ],

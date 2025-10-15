@@ -39,7 +39,7 @@
       }
     ],
     "cost": {
-      "value": 2
+      "value": 1
     },
     "restrictions": [
       {
@@ -72,7 +72,7 @@
       }
     ],
     "cost": {
-      "value": 12
+      "value": 16
     },
     "restrictions": [
       {
@@ -238,7 +238,7 @@
       }
     ],
     "cost": {
-      "value": 1
+      "value": 2
     },
     "restrictions": [
       {
@@ -328,7 +328,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 7
     },
     "standard": true,
     "extended": true,
@@ -408,7 +408,7 @@
       }
     ],
     "cost": {
-      "value": 0
+      "value": 9
     },
     "restrictions": [
       {
@@ -443,7 +443,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 5
     },
     "restrictions": [
       {
@@ -473,7 +473,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 6
     },
     "restrictions": [
       {
@@ -693,7 +693,7 @@
     ],
     "name": "Clone Captain Rex",
     "cost": {
-      "value": 2
+      "value": 1
     },
     "restrictions": [
       {
@@ -723,7 +723,7 @@
     ],
     "name": "Suppressive Gunner",
     "cost": {
-      "value": 7
+      "value": 6
     },
     "limited": 0,
     "xws": "suppressivegunner",
@@ -809,7 +809,7 @@
       }
     ],
     "cost": {
-      "value": 2
+      "value": 1
     },
     "standard": true,
     "extended": true,
@@ -875,7 +875,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 2
     },
     "restrictions": [
       {
@@ -975,7 +975,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 3
     },
     "restrictions": [
       {
@@ -1006,7 +1006,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 3
     },
     "restrictions": [
       {

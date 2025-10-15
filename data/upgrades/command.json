@@ -863,7 +863,10 @@
         "ability": "Setup: Before placing forces, assign the <span class='keyword'>Trials of the Darksaber</span> condition to yourself.<br>While you perform a [Coordinate] action, you may coordinate 1 additional friendly ship.",
         "title": "Sabine Wren",
         "type": "Command",
-        "slots": ["Command", "Crew"],
+        "slots": [
+          "Command",
+          "Crew"
+        ],
         "grants": [
           {
             "type": "action",
@@ -882,10 +885,16 @@
     },
     "restrictions": [
       {
-        "factions": ["rebelalliance"]
+        "factions": [
+          "rebelalliance"
+        ]
       },
       {
-        "sizes": ["Small", "Medium", "Large"]
+        "sizes": [
+          "Small",
+          "Medium",
+          "Large"
+        ]
       }
     ]
   }

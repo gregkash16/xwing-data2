@@ -1,11 +1,11 @@
 [
   {
-    "name": "\u201cChopper\u201d",
+    "name": "“Chopper”",
     "limited": 1,
     "xws": "chopper",
     "sides": [
       {
-        "title": "\u201cChopper\u201d",
+        "title": "“Chopper”",
         "type": "Astromech",
         "ability": "Action: Spend 1 non-recurring [Charge] from another equipped upgrade to recover 1 shield. Action: Spend 2 shields to recover 1 non-recurring [Charge] on an equipped upgrade.",
         "slots": [
@@ -30,12 +30,12 @@
     "epic": true
   },
   {
-    "name": "\u201cGenius\u201d",
+    "name": "“Genius”",
     "limited": 1,
     "xws": "genius",
     "sides": [
       {
-        "title": "\u201cGenius\u201d",
+        "title": "“Genius”",
         "type": "Astromech",
         "ability": "After you fully execute a maneuver, if you have not dropped or launched a device this round, you may drop 1 bomb.",
         "image": "https://infinitearenas.com/xw2/images/upgrades/genius.png",
@@ -80,7 +80,7 @@
       }
     ],
     "cost": {
-      "value": 8
+      "value": 7
     },
     "standard": false,
     "extended": true,
@@ -194,7 +194,7 @@
       }
     ],
     "cost": {
-      "value": 7
+      "value": 6
     },
     "standard": false,
     "extended": true,
@@ -221,7 +221,7 @@
       }
     ],
     "cost": {
-      "value": 9
+      "value": 7
     },
     "restrictions": [
       {
@@ -319,7 +319,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 4
     },
     "restrictions": [
       {
@@ -349,7 +349,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 2
     },
     "restrictions": [
       {
@@ -417,7 +417,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 3
     },
     "restrictions": [
       {
@@ -612,7 +612,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 5
     },
     "standard": false,
     "extended": true,
@@ -811,7 +811,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 5
     },
     "restrictions": [
       {
@@ -941,7 +941,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 4
     },
     "restrictions": [
       {

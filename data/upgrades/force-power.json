@@ -62,7 +62,7 @@
       }
     ],
     "cost": {
-      "value": 10
+      "value": 7
     },
     "standard": false,
     "extended": true,
@@ -85,7 +85,7 @@
       }
     ],
     "cost": {
-      "value": 24
+      "value": 50
     },
     "restrictions": [
       {
@@ -138,7 +138,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 4
     },
     "restrictions": [
       {
@@ -259,7 +259,7 @@
       }
     ],
     "cost": {
-      "value": 15
+      "value": 8
     },
     "restrictions": [
       {
@@ -290,7 +290,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 3
     },
     "restrictions": [
       {
@@ -355,7 +355,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 5
     },
     "restrictions": [
       {

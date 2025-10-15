@@ -476,7 +476,7 @@
       }
     ],
     "cost": {
-      "value": 1
+      "value": 2
     },
     "restrictions": [
       {
@@ -506,7 +506,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 6
     },
     "restrictions": [
       {
@@ -536,7 +536,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 3
     },
     "restrictions": [
       {
@@ -581,7 +581,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 5
     },
     "standard": true,
     "extended": true,
@@ -627,7 +627,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 5
     },
     "standard": true,
     "extended": true,
@@ -696,7 +696,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 2
     },
     "standard": true,
     "extended": true,
@@ -869,7 +869,7 @@
     "xws": "backwardstailslide",
     "sides": [
       {
-        "ability": "While you boost or barrel roll, if your equipped [Configuration] upgrade has the \u201c(Closed)\u201d side faceup, you can move through and overlap obstacles. After you boost or barrel roll through an obstacle, if you are not at range 0 of it, gain 1 evade token.",
+        "ability": "While you boost or barrel roll, if your equipped [Configuration] upgrade has the “(Closed)” side faceup, you can move through and overlap obstacles. After you boost or barrel roll through an obstacle, if you are not at range 0 of it, gain 1 evade token.",
         "title": "Backwards Tailslide",
         "type": "Talent",
         "slots": [
@@ -1259,7 +1259,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 3
     },
     "standard": true,
     "extended": true,
@@ -1719,9 +1719,9 @@
         "title": "Persistent Tracker",
         "type": "Talent",
         "charges": {
-      "value": 3,
-      "recovers": 1
-    },
+          "value": 3,
+          "recovers": 1
+        },
         "ability": "During the System Phase, you may spend 3 [Charge].\n\nDuring the Activation Phase, if this upgrade has 0 active [Charge], you can perform actions and execute red maneuvers, even while stressed.",
         "slots": [
           "Talent"

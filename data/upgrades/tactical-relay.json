@@ -35,7 +35,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 7
     },
     "standard": true,
     "extended": true,
@@ -134,7 +134,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 5
     },
     "standard": true,
     "extended": true,
@@ -199,7 +199,9 @@
         "ability": "After a friendly ship at range 0-3 is destroyed, you may equip a Tactical Relay upgrade attached to that ship to this one.",
         "title": "TX-25",
         "type": "Tactical Relay",
-        "slots": ["Tactical Relay"]
+        "slots": [
+          "Tactical Relay"
+        ]
       }
     ]
   }

@@ -395,7 +395,7 @@
       }
     ],
     "cost": {
-      "value": 1
+      "value": 2
     },
     "standard": true,
     "extended": true,
@@ -473,7 +473,9 @@
         ]
       },
       {
-        "shields": ["1 OR MORE"]
+        "shields": [
+          "1 OR MORE"
+        ]
       }
     ],
     "sides": [
@@ -565,7 +567,7 @@
       }
     ],
     "cost": {
-      "value": 0
+      "value": 1
     },
     "standard": true,
     "extended": true,
@@ -781,7 +783,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 5
     },
     "standard": true,
     "extended": true,

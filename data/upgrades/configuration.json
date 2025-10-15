@@ -109,7 +109,7 @@
       {
         "title": "Pivot Wing (Closed)",
         "type": "Configuration",
-        "ability": "While you defend, roll 1 fewer defense die. After you execute a [0 [Stationary]] maneuver, you may rotate your ship 90\u00b0 or 180\u00b0. Before you activate, you may flip this card.",
+        "ability": "While you defend, roll 1 fewer defense die. After you execute a [0 [Stationary]] maneuver, you may rotate your ship 90° or 180°. Before you activate, you may flip this card.",
         "slots": [
           "Configuration"
         ],
@@ -149,7 +149,7 @@
       {
         "title": "Swivel Wing (Down)",
         "type": "Configuration",
-        "ability": "After you execute a [0 [Stationary]] maneuver, you may rotate your ship 90\u00b0 or 180\u00b0. If you do, you must flip this card.",
+        "ability": "After you execute a [0 [Stationary]] maneuver, you may rotate your ship 90° or 180°. If you do, you must flip this card.",
         "slots": [
           "Configuration"
         ],
@@ -310,7 +310,7 @@
       {
         "title": "Grappling Struts (Open)",
         "type": "Configuration",
-        "ability": "You ignore obstacles at range 0. You cannot perform [Barrel Roll] actions. After you reveal your dial, if you reveal a maneuver other than a [2 [Straight]] and are at range 0 of an asteroid or debris cloud, skip your Execute Maneuver step and remove 1 stress token; if you revealed a right or left maneuver, rotate your ship 90\u00b0 in that direction. After you execute a maneuver, flip this card.",
+        "ability": "You ignore obstacles at range 0. You cannot perform [Barrel Roll] actions. After you reveal your dial, if you reveal a maneuver other than a [2 [Straight]] and are at range 0 of an asteroid or debris cloud, skip your Execute Maneuver step and remove 1 stress token; if you revealed a right or left maneuver, rotate your ship 90° in that direction. After you execute a maneuver, flip this card.",
         "slots": [
           "Configuration"
         ],
@@ -381,7 +381,7 @@
       {
         "title": "Landing Struts (Open)",
         "type": "Configuration",
-        "ability": "You ignore obstacles at range 0. You cannot perform [Barrel Roll] actions. After you reveal your dial, if you reveal a maneuver other than a [2 [Straight]] and are at range 0 of an asteroid or debris cloud, skip your Execute Maneuver step and remove 1 stress token; if you revealed a right or left maneuver, rotate your ship 90\u00b0 in that direction. After you execute a maneuver, flip this card.",
+        "ability": "You ignore obstacles at range 0. You cannot perform [Barrel Roll] actions. After you reveal your dial, if you reveal a maneuver other than a [2 [Straight]] and are at range 0 of an asteroid or debris cloud, skip your Execute Maneuver step and remove 1 stress token; if you revealed a right or left maneuver, rotate your ship 90° in that direction. After you execute a maneuver, flip this card.",
         "slots": [
           "Configuration"
         ],
@@ -579,13 +579,13 @@
     "epic": true
   },
   {
-    "name": "Alpha-3B \u201cBesh\u201d",
+    "name": "Alpha-3B “Besh”",
     "limited": 0,
     "xws": "alpha3bbesh",
     "sides": [
       {
         "ability": "While you perform a primary attack, you may spend your lock on the defender to change 1 of your blank or [Focus] results to a [Hit] result. Add [Device] slot.",
-        "title": "Alpha-3B \u201cBesh\u201d",
+        "title": "Alpha-3B “Besh”",
         "type": "Configuration",
         "slots": [
           "Configuration"
@@ -609,13 +609,13 @@
     "epic": true
   },
   {
-    "name": "Alpha-3E \u201cEsk\u201d",
+    "name": "Alpha-3E “Esk”",
     "limited": 0,
     "xws": "alpha3eesk",
     "sides": [
       {
         "ability": "While you perform a primary attack, before rolling attack dice, you may spend 2 [Charge]. If you do, your [Critical Hit] results inflict ion tokens instead of damage.",
-        "title": "Alpha-3E \u201cEsk\u201d",
+        "title": "Alpha-3E “Esk”",
         "type": "Configuration",
         "slots": [
           "Configuration"

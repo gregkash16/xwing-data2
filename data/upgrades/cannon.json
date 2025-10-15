@@ -113,7 +113,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 4
     },
     "standard": true,
     "extended": true,
@@ -172,7 +172,7 @@
     ],
     "name": "Synced Laser Cannons",
     "cost": {
-      "value": 6
+      "value": 8
     },
     "limited": 0,
     "xws": "syncedlasercannons",
