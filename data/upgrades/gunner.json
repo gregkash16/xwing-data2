@@ -262,7 +262,7 @@
   {
     "name": "Han Solo",
     "limited": 1,
-    "xws": "hansolo",
+    "xws": "hansolo-rebel",
     "sides": [
       {
         "title": "Han Solo",
@@ -276,7 +276,7 @@
       }
     ],
     "cost": {
-      "value": 10
+      "value": 7
     },
     "restrictions": [
       {
@@ -691,7 +691,7 @@
       }
     ],
     "cost": {
-      "value": 12
+      "value": 11
     },
     "limited": 1,
     "xws": "ahsokatano",

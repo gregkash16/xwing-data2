@@ -239,7 +239,7 @@
       }
     ],
     "cost": {
-      "value": 7
+      "value": 4
     },
     "restrictions": [
       {
@@ -413,7 +413,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 2
     },
     "restrictions": [
       {
@@ -475,7 +475,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 2
     },
     "restrictions": [
       {
@@ -786,7 +786,7 @@
       }
     ],
     "cost": {
-      "value": 12
+      "value": 10
     },
     "restrictions": [
       {
@@ -857,7 +857,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 3
     },
     "restrictions": [
       {
@@ -1063,7 +1063,7 @@
       }
     ],
     "cost": {
-      "value": 12
+      "value": 10
     },
     "restrictions": [
       {
@@ -1094,7 +1094,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 3
     },
     "restrictions": [
       {
@@ -1132,7 +1132,7 @@
       }
     ],
     "cost": {
-      "value": 9
+      "value": 7
     },
     "restrictions": [
       {
@@ -1173,7 +1173,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 5
     },
     "restrictions": [
       {
@@ -1221,7 +1221,7 @@
   {
     "name": "Lando Calrissian",
     "limited": 1,
-    "xws": "landocalrissian",
+    "xws": "landocalrissian-rebel",
     "sides": [
       {
         "title": "Lando Calrissian",
@@ -1235,7 +1235,7 @@
       }
     ],
     "cost": {
-      "value": 2
+      "value": 7
     },
     "restrictions": [
       {
@@ -1266,7 +1266,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 4
     },
     "restrictions": [
       {
@@ -1378,7 +1378,7 @@
       }
     ],
     "cost": {
-      "value": 12
+      "value": 10
     },
     "restrictions": [
       {
@@ -1483,7 +1483,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 4
     },
     "restrictions": [
       {
@@ -1562,7 +1562,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 4
     },
     "restrictions": [
       {
@@ -1655,7 +1655,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 1
     },
     "restrictions": [
       {
@@ -1890,7 +1890,7 @@
       }
     ],
     "cost": {
-      "value": 2
+      "value": 1
     },
     "restrictions": [
       {
@@ -1921,7 +1921,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 5
     },
     "restrictions": [
       {
@@ -2212,7 +2212,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 5
     },
     "restrictions": [
       {
@@ -2779,7 +2779,7 @@
     ],
     "name": "Kit Fisto",
     "cost": {
-      "value": 8
+      "value": 9
     },
     "restrictions": [
       {
@@ -3041,7 +3041,7 @@
       }
     ],
     "cost": {
-      "value": 8
+      "value": 7
     },
     "standard": true,
     "extended": true,
@@ -3141,7 +3141,7 @@
       }
     ],
     "cost": {
-      "value": 7
+      "value": 5
     },
     "restrictions": [
       {
@@ -3223,7 +3223,7 @@
       }
     ],
     "cost": {
-      "value": 2
+      "value": 3
     },
     "restrictions": [
       {
@@ -3835,7 +3835,7 @@
       }
     ],
     "cost": {
-      "value": 8
+      "value": 7
     },
     "restrictions": [
       {
@@ -3905,7 +3905,7 @@
       }
     ],
     "cost": {
-      "value": 7
+      "value": 3
     },
     "restrictions": [
       {

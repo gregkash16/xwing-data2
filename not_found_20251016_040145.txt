@@ -1,0 +1,31 @@
+=== NOT FOUND REPORT ===
+
+[PILOTS] first-order (count=2)
+  - cerrafellian-sl
+  - gideonhask-sl
+
+[PILOTS] rebel-alliance (count=1)
+  - raymustantilles-epicsl-rebelalliance
+
+[PILOTS] resistance (count=10)
+  - aftabackbar-wartime
+  - caithrenalli-wartime
+  - coruskapellim-wartime
+  - kijimispicerunner-wartime
+  - legafossang-wartime
+  - newrepublicpatrol-wartime
+  - shasazaro-wartime
+  - tezanasz-wartime
+  - wilsateshlo-wartime
+  - zoriibliss-wartime
+
+[UPGRADES] (count=9)
+  - chewbacca-rebel
+  - chewbacca-swz19
+  - darthvader-empire
+  - hansolo-rebel
+  - landocalrissian-rebel
+  - leiaorgana-rebel
+  - maul-scum
+  - r2d2-rebel
+  - rey
