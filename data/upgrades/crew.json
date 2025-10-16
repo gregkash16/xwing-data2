@@ -413,7 +413,7 @@
       }
     ],
     "cost": {
-      "value": 2
+      "value": 3
     },
     "restrictions": [
       {
@@ -1378,7 +1378,7 @@
       }
     ],
     "cost": {
-      "value": 10
+      "value": 12
     },
     "restrictions": [
       {
@@ -1624,7 +1624,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 8
     },
     "restrictions": [
       {
