@@ -100,7 +100,8 @@
         "Team",
         "Team",
         "Cargo"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Gideon Hask",
@@ -155,7 +156,8 @@
         "jinatasecurityforces-epicsl",
         "twinmissilelauncher-epicsl",
         "precursor-epicsl"
-      ]
+      ],
+      "restricted": 0
     }
   ]
 }

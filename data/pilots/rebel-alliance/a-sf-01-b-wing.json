@@ -89,7 +89,8 @@
       "keywords": [
         "B-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Blue Squadron Pilot",
@@ -115,7 +116,8 @@
       "keywords": [
         "B-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Braylen Stramm",
@@ -143,7 +145,8 @@
       "keywords": [
         "B-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ten Numb",
@@ -171,7 +174,8 @@
       "keywords": [
         "B-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Gina Moonsong",
@@ -199,7 +203,8 @@
       "keywords": [
         "B-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Hera Syndulla",
@@ -230,7 +235,8 @@
       "ability": "While another friendly ship at range 1-2 defends or performs an attack, during a Modify Dice step, you may transfer 1 of your focus tokens, evade tokens, or locks to that ship.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/herasyndulla-asf01bwing.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/herasyndulla-asf01bwing.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Netrem Pollard",
@@ -257,7 +263,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/netrempollard.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/netrempollard.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Adon Fox",
@@ -316,7 +323,8 @@
       "extended": true,
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Gina Moonsong",
@@ -394,7 +402,8 @@
       "extended": true,
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Braylen Stramm",
@@ -472,7 +481,8 @@
       "extended": true,
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

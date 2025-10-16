@@ -100,7 +100,8 @@
         "Bounty Hunter",
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Gand Findsman",
@@ -124,7 +125,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Zuckuss",
@@ -151,7 +153,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Zuckuss",
@@ -225,7 +228,8 @@
           }
         }
       ],
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

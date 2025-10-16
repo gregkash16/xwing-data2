@@ -46,7 +46,8 @@
     ],
     "cost": {
       "value": 5
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Ordnance Tubes",
@@ -79,7 +80,8 @@
     ],
     "cost": {
       "value": 1
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Point-Defense Battery",
@@ -128,7 +130,8 @@
     ],
     "cost": {
       "value": 9
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Targeting Battery",
@@ -177,7 +180,8 @@
     ],
     "cost": {
       "value": 5
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Turbolaser Battery",
@@ -233,7 +237,8 @@
     ],
     "cost": {
       "value": 10
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Tractor Tentacles",
@@ -280,7 +285,8 @@
     ],
     "cost": {
       "value": 0
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Proton Cannon Battery",
@@ -329,7 +335,8 @@
     ],
     "cost": {
       "value": 10
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Enhanced Propulsion",
@@ -371,7 +378,8 @@
           "tridentclassassaultship"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Drill Beak",
@@ -420,7 +428,8 @@
           "tridentclassassaultship"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Turbolaser Battery",
@@ -446,7 +455,8 @@
           "ordnance": false
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Planetary Ion Bombardment",
@@ -472,7 +482,8 @@
           "ordnance": true
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Twin Missile Launcher",
@@ -499,7 +510,8 @@
           "ordnance": true
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Heavy Laser Cannon Turret",
@@ -525,7 +537,8 @@
           "ordnance": false
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Tractor Tentacles",
@@ -551,7 +564,8 @@
           "ordnance": true
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Drill Beak",
@@ -578,7 +592,8 @@
           "ordnance": true
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Modified Dorsal Turret",
@@ -604,7 +619,8 @@
           "ordnance": false
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Ion Cannon Battery",
@@ -630,7 +646,8 @@
           "ordnance": false
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Point-Defense Battery",
@@ -656,6 +673,7 @@
           "ordnance": false
         }
       }
-    ]
+    ],
+    "restricted": 0
   }
 ]

@@ -97,7 +97,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Kyle Katarn",
@@ -122,7 +123,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Rebel Scout",
@@ -145,7 +147,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Roark Garnet",
@@ -170,7 +173,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

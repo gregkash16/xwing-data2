@@ -20,7 +20,8 @@
     ],
     "cost": {
       "value": 5
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Boosted Scanners",
@@ -43,7 +44,8 @@
     ],
     "cost": {
       "value": 7
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Optimized Power Core",
@@ -66,7 +68,8 @@
     ],
     "cost": {
       "value": 6
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Tibanna Reserves",
@@ -93,7 +96,8 @@
     ],
     "cost": {
       "value": 3
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Illegal Countermeasures",
@@ -112,7 +116,8 @@
           "Cargo"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Secret Provisions",
@@ -135,7 +140,8 @@
           "recovers": 0
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Endless Hordes",
@@ -158,6 +164,7 @@
           "recovers": 1
         }
       }
-    ]
+    ],
+    "restricted": 0
   }
 ]

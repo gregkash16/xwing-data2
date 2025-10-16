@@ -92,7 +92,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Kylo Ren",
@@ -133,7 +134,8 @@
         "Dark Side",
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "First Order Test Pilot",
@@ -162,7 +164,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Recoil”",
@@ -192,7 +195,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Avenger”",
@@ -221,7 +225,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Sienar-Jaemus Engineer",
@@ -248,7 +253,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Rush”",
@@ -277,7 +283,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Kylo Ren",
@@ -313,7 +320,8 @@
         ]
       },
       "epic": true,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

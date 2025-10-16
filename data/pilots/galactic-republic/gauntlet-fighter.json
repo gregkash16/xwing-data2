@@ -93,7 +93,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bokatankryze-galactic-republic.png",
       "keywords": [
         "Mandalorian"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "xws": "niteowlliberator",
@@ -119,7 +120,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "caption": "Resolute Warrior"
+      "caption": "Resolute Warrior",
+      "restricted": 0
     }
   ]
 }

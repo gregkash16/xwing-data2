@@ -99,7 +99,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Grand Inquisitor",
@@ -132,7 +133,8 @@
         "Dark Side",
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Inquisitor",
@@ -163,7 +165,8 @@
         "Dark Side",
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Seventh Sister",
@@ -195,7 +198,8 @@
         "Dark Side",
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Fifth Brother",
@@ -227,7 +231,8 @@
         "Dark Side",
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

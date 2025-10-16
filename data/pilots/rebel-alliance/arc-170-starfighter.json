@@ -84,7 +84,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/garvendreis.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ibtisam",
@@ -107,7 +108,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ibtisam.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Norra Wexley",
@@ -130,7 +132,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/norrawexley.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Shara Bey",
@@ -153,7 +156,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sharabey.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

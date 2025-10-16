@@ -88,7 +88,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Commander Malarus",
@@ -118,7 +119,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Scorch”",
@@ -143,7 +145,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Static”",
@@ -167,7 +170,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Longshot”",
@@ -190,7 +194,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Omega Squadron Ace",
@@ -213,7 +218,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Muse”",
@@ -237,7 +243,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "TN-3465",
@@ -260,7 +267,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Zeta Squadron Pilot",
@@ -282,7 +290,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Epsilon Squadron Cadet",
@@ -300,7 +309,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lieutenant Rivas",
@@ -323,7 +333,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Null”",
@@ -346,7 +357,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lieutenant Galek",
@@ -371,7 +383,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "DT-798",
@@ -395,7 +408,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lin Gaava",
@@ -422,7 +436,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Longshot”",
@@ -450,7 +465,8 @@
         "TIE"
       ],
       "epic": true,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "“Midnight”",
@@ -478,7 +494,8 @@
         "TIE"
       ],
       "epic": true,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Omega 2",
@@ -527,7 +544,8 @@
         "TIE"
       ],
       "epic": true,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "“Scorch”",
@@ -555,7 +573,8 @@
         "TIE"
       ],
       "epic": true,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Zeta 5",
@@ -583,7 +602,8 @@
         "TIE"
       ],
       "epic": true,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

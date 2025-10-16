@@ -87,7 +87,8 @@
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Jag”",
@@ -112,7 +113,8 @@
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Odd Ball”",
@@ -138,7 +140,8 @@
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Wolffe”",
@@ -168,7 +171,8 @@
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "104th Battalion Pilot",
@@ -192,7 +196,8 @@
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Squad Seven Veteran",
@@ -217,7 +222,8 @@
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Odd Ball”",
@@ -269,7 +275,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "“Wolffe”",
@@ -301,7 +308,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "“Jag”",
@@ -329,7 +337,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

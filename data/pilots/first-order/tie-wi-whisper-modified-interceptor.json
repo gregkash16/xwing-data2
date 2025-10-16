@@ -124,7 +124,8 @@
           "light"
         ]
       },
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Wrath”",
@@ -155,7 +156,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Nightfall”",
@@ -186,7 +188,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Whirlwind”",
@@ -217,7 +220,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "709th Legion Ace",
@@ -247,7 +251,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Red Fury Zealot",
@@ -275,7 +280,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_TIEWhisper.png"

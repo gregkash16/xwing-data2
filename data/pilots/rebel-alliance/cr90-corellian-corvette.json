@@ -105,7 +105,8 @@
         "Team",
         "Cargo",
         "Title"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Raymus Antilles",
@@ -160,7 +161,8 @@
         "r2d2-epicsl",
         "turbolaserbattery-epicsl",
         "tantiveiv-epicsl"
-      ]
+      ],
+      "restricted": 0
     }
   ]
 }

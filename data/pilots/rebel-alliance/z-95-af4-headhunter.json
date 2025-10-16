@@ -77,7 +77,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/airencracken.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Bandit Squadron Pilot",
@@ -95,7 +96,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/banditsquadronpilot.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lieutenant Blount",
@@ -115,7 +117,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantblount.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Tala Squadron Pilot",
@@ -134,7 +137,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/talasquadronpilot.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

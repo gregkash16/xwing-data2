@@ -96,7 +96,8 @@
         "Cargo",
         "Cargo",
         "Title"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Trebor Zednem",
@@ -151,7 +152,8 @@
         "brighthope"
       ],
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

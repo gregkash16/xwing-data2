@@ -104,7 +104,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/corranhorn.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Gavin Darklighter",
@@ -130,7 +131,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gavindarklighter.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Knave Squadron Escort",
@@ -154,7 +156,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/knavesquadronescort.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Rogue Squadron Escort",
@@ -179,7 +182,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/roguesquadronescort.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

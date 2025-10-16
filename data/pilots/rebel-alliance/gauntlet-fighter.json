@@ -93,7 +93,8 @@
         "Droid",
         "Spectre"
       ],
-      "caption": "Spectre-3"
+      "caption": "Spectre-3",
+      "restricted": 0
     },
     {
       "xws": "ezrabridger-gauntletfighter",
@@ -131,7 +132,8 @@
         "Light Side",
         "Spectre"
       ],
-      "caption": "Spectre-6"
+      "caption": "Spectre-6",
+      "restricted": 0
     },
     {
       "xws": "mandalorianresistancepilot",
@@ -159,7 +161,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "caption": "Clan Loyalist"
+      "caption": "Clan Loyalist",
+      "restricted": 0
     }
   ]
 }

@@ -85,7 +85,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/esegetuketu.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Miranda Doni",
@@ -111,7 +112,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/mirandadoni.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Warden Squadron Pilot",
@@ -135,7 +137,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wardensquadronpilot.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

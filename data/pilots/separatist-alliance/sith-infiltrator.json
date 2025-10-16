@@ -97,7 +97,8 @@
         "Dark Side",
         "Sith"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Count Dooku",
@@ -133,7 +134,8 @@
         "Dark Side",
         "Sith"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Dark Courier",
@@ -154,7 +156,8 @@
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/darkcourier.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "0-66",
@@ -196,7 +199,8 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Count Dooku",
@@ -250,7 +254,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

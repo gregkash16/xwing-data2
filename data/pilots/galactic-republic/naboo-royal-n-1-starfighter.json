@@ -98,7 +98,8 @@
       "keywords": [
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ric Olié",
@@ -125,7 +126,8 @@
       "ability": "While you defend or perform a primary attack, if the speed of your revealed maneuver is higher than the enemy ship's, roll 1 additional die.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ricolie.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/ricolie.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Padmé Amidala",
@@ -151,7 +153,8 @@
       "ability": "While an enemy ship in your [Front Arc] defends or performs an attack, that ship can modify only 1 [Focus] result (other results can still be modified).",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/padmeamidala.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/padmeamidala.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Dineé Ellberger",
@@ -177,7 +180,8 @@
       "ability": "While you defend or perform an attack, if the speed of your revealed maneuver is the same as the enemy ship's, that ship's dice cannot be modified.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dineeellberger.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/dineeellberger.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Bravo Flight Officer",
@@ -202,7 +206,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bravoflightofficer.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/bravoflightofficer.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Naboo Handmaiden",
@@ -231,7 +236,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/naboohandmaiden.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/naboohandmaiden.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Gavyn Sykes",
@@ -257,7 +263,8 @@
       "ability": "While you defend or perform an attack, if the speed of your revealed maneuver is greater than the enemy ship's, you may reroll your blank results.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gavynsykes.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/gavynsykes.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_Royal_Naboo_N-1_Starfighter.png"

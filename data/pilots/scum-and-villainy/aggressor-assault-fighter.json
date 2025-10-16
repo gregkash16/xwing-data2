@@ -95,7 +95,8 @@
         "Bounty Hunter",
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "IG-88B",
@@ -128,7 +129,8 @@
         "Bounty Hunter",
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "IG-88C",
@@ -161,7 +163,8 @@
         "Bounty Hunter",
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "IG-88D",
@@ -194,7 +197,8 @@
         "Bounty Hunter",
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

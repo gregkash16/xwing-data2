@@ -99,7 +99,8 @@
         "Cargo",
         "Payload",
         "Configuration"
-      ]
+      ],
+      "restricted": 0
     }
   ]
 }

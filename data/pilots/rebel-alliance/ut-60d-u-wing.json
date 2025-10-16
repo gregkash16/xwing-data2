@@ -81,7 +81,8 @@
       "keywords": [
         "Partisan"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Blue Squadron Scout",
@@ -103,7 +104,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronscout.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Bodhi Rook",
@@ -125,7 +127,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bodhirook.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Cassian Andor",
@@ -148,7 +151,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cassianandor.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Heff Tobber",
@@ -171,7 +175,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/hefftobber.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Magva Yarro",
@@ -198,7 +203,8 @@
       "keywords": [
         "Partisan"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Partisan Renegade",
@@ -223,7 +229,8 @@
       "keywords": [
         "Partisan"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Saw Gerrera",
@@ -250,7 +257,8 @@
       "keywords": [
         "Partisan"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "K-2SO",
@@ -289,7 +297,8 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

@@ -90,7 +90,8 @@
       "keywords": [
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ezra Bridger",
@@ -127,7 +128,8 @@
         "Light Side",
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Hera Syndulla",
@@ -157,7 +159,8 @@
       "keywords": [
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Sabine Wren",
@@ -187,7 +190,8 @@
         "Mandalorian",
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

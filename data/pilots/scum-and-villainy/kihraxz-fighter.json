@@ -79,7 +79,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunace.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Captain Jostero",
@@ -101,7 +102,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captainjostero.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Cartel Marauder",
@@ -122,7 +124,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cartelmarauder.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Graz",
@@ -148,7 +151,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Talonbane Cobra",
@@ -171,7 +175,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/talonbanecobra.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Viktor Hel",
@@ -197,7 +202,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

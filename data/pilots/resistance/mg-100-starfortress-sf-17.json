@@ -87,7 +87,8 @@
       ],
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Cat",
@@ -111,7 +112,8 @@
       ],
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Vennie",
@@ -135,7 +137,8 @@
       ],
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ben Teene",
@@ -162,7 +165,8 @@
       ],
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Edon Kappehl",
@@ -187,7 +191,8 @@
       ],
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Finch Dallow",
@@ -213,7 +218,8 @@
       ],
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Paige Tico",
@@ -244,7 +250,8 @@
       "loadout": 21,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/paigetico.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/paigetico.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Finch Dallow",
@@ -292,7 +299,8 @@
           }
         }
       ],
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Vennie",
@@ -340,7 +348,8 @@
           "type": "Reload"
         }
       ],
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

@@ -95,7 +95,8 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "L3-37",
@@ -136,7 +137,8 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lando Calrissian",
@@ -161,7 +163,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/landocalrissian-escapecraft.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Outer Rim Pioneer",
@@ -185,7 +188,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/outerrimpioneer.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

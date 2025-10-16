@@ -85,7 +85,8 @@
       "keywords": [
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Drea Renthal",
@@ -112,7 +113,8 @@
       "keywords": [
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Hired Gun",
@@ -137,7 +139,8 @@
       "keywords": [
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Kavil",
@@ -164,7 +167,8 @@
       "keywords": [
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Leema Kai",
@@ -190,7 +194,8 @@
       "caption": "Opportunity Knocks",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/leemakai.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/leemakai.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Arliz Hadrassian",
@@ -216,7 +221,8 @@
       "caption": "Crimson Blade",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/arlizhadrassian.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/arlizhadrassian.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Amaxine Warrior",
@@ -241,7 +247,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/amaxinewarrior.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/amaxinewarrior.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Padric",
@@ -267,7 +274,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/padric.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/padric.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Jinata Security Officer",
@@ -291,7 +299,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jinatasecurityofficer.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/jinatasecurityofficer.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

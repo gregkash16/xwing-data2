@@ -83,7 +83,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cartelspacer.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Genesis Red",
@@ -107,7 +108,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/genesisred.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Inaldra",
@@ -130,7 +132,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/inaldra.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Laetin A’shera",
@@ -154,7 +157,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/laetinashera.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Quinn Jast",
@@ -181,7 +185,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Serissu",
@@ -204,7 +209,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/serissu.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Sunny Bounder",
@@ -226,7 +232,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sunnybounder.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Tansarii Point Veteran",
@@ -249,7 +256,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tansariipointveteran.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "G4R-G0R V/M",
@@ -292,7 +300,8 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

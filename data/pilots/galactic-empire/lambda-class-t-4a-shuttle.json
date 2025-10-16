@@ -85,7 +85,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captainkagi.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Colonel Jendon",
@@ -113,7 +114,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/coloneljendon.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lieutenant Sai",
@@ -135,7 +137,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantsai.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Omicron Group Pilot",
@@ -156,7 +159,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/omicrongrouppilot.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

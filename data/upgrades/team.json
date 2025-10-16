@@ -33,7 +33,8 @@
     ],
     "cost": {
       "value": 6
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Comms Team",
@@ -80,7 +81,8 @@
     ],
     "cost": {
       "value": 7
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Damage Control Team",
@@ -116,7 +118,8 @@
     ],
     "cost": {
       "value": 3
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Gunnery Specialists",
@@ -152,7 +155,8 @@
     ],
     "cost": {
       "value": 5
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "IG-RM Droids",
@@ -191,7 +195,8 @@
     ],
     "cost": {
       "value": 2
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Ordnance Team",
@@ -227,7 +232,8 @@
     ],
     "cost": {
       "value": 2
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Sensor Experts",
@@ -263,7 +269,8 @@
     ],
     "cost": {
       "value": 6
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Tractor Technicians",
@@ -286,7 +293,8 @@
     ],
     "cost": {
       "value": 2
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Corsair Crew",
@@ -317,7 +325,8 @@
     ],
     "standard": true,
     "extended": false,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Droid Crew",
@@ -360,7 +369,8 @@
           "separatistalliance"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Inferno Squad",
@@ -379,7 +389,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Jinata Security Forces",
@@ -398,6 +409,7 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   }
 ]

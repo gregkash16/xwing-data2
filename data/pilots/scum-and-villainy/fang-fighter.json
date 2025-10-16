@@ -95,7 +95,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Joy Rekkoff",
@@ -123,7 +124,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Kad Solus",
@@ -151,7 +153,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Old Teroch",
@@ -179,7 +182,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Skull Squadron Pilot",
@@ -206,7 +210,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Zealous Recruit",
@@ -232,7 +237,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Mandalorian Royal Guard",
@@ -260,7 +266,8 @@
         "Mandalorian"
       ],
       "caption": "Selfless Protector",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Tor Phun",
@@ -288,7 +295,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Fenn Rau",
@@ -331,7 +339,8 @@
         "Mandalorian"
       ],
       "epic": true,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

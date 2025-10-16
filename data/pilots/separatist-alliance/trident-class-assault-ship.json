@@ -100,7 +100,8 @@
         "Team",
         "Cargo",
         "Title"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Asajj Ventress",
@@ -156,7 +157,8 @@
         "trident-epicsl"
       ],
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

@@ -86,7 +86,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captainnym.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lok Revenant",
@@ -108,7 +109,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lokrevenant.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Sol Sixxa",
@@ -133,7 +135,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/solsixxa.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

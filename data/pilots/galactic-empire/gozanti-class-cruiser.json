@@ -96,7 +96,8 @@
         "Crew",
         "Team",
         "Cargo"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Rik Virgilio",
@@ -151,7 +152,8 @@
         "bloodcrow-epicsl"
       ],
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

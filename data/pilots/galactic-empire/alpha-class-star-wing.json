@@ -81,7 +81,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantkarsabi.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Major Vynder",
@@ -103,7 +104,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/majorvynder.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Nu Squadron Pilot",
@@ -123,7 +125,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/nusquadronpilot.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Rho Squadron Pilot",
@@ -144,7 +147,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rhosquadronpilot.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lieutenant Karsabi",
@@ -199,7 +203,8 @@
       "extended": true,
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Major Vynder",
@@ -254,7 +259,8 @@
       "extended": true,
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

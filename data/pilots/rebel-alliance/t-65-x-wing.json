@@ -83,7 +83,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Blue Squadron Escort",
@@ -106,7 +107,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Cavern Angels Zealot",
@@ -131,7 +133,8 @@
         "Partisan",
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Edrio Two Tubes",
@@ -157,7 +160,8 @@
         "Partisan",
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Garven Dreis",
@@ -182,7 +186,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Jek Porkins",
@@ -207,7 +212,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Kullbee Sperado",
@@ -234,7 +240,8 @@
         "Partisan",
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Leevan Tenza",
@@ -261,7 +268,8 @@
         "Partisan",
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Luke Skywalker",
@@ -295,7 +303,8 @@
         "Light Side",
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Red Squadron Veteran",
@@ -319,7 +328,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Thane Kyrell",
@@ -344,7 +354,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Wedge Antilles",
@@ -369,7 +380,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Biggs Darklighter",
@@ -398,7 +410,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Garven Dreis",
@@ -425,7 +438,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Jek Porkins",
@@ -453,7 +467,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Luke Skywalker",
@@ -489,7 +504,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Wedge Antilles",
@@ -518,7 +534,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Corran Horn",
@@ -543,7 +560,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Wes Janson",
@@ -572,7 +590,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Luke Skywalker",
@@ -603,7 +622,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Jek Porkins",
@@ -627,7 +647,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Wedge Antilles",
@@ -701,7 +722,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Yendor",
@@ -755,7 +777,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Kendy Idele",
@@ -810,7 +833,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

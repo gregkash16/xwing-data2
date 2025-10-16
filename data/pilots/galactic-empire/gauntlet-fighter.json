@@ -92,7 +92,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "caption": "Obedient Underling"
+      "caption": "Obedient Underling",
+      "restricted": 0
     },
     {
       "xws": "garsaxon",
@@ -124,7 +125,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "caption": "Treacherous Viceroy"
+      "caption": "Treacherous Viceroy",
+      "restricted": 0
     },
     {
       "xws": "imperialsupercommando",
@@ -149,7 +151,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/imperialsupercommando.png",
       "keywords": [
         "Mandalorian"
-      ]
+      ],
+      "restricted": 0
     }
   ]
 }

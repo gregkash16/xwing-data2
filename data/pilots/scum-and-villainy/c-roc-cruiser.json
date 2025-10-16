@@ -100,7 +100,8 @@
         "Illicit",
         "Title",
         "Configuration"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Cikatro Vizago",
@@ -157,7 +158,8 @@
         "brokenhorn-epicsl"
       ],
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

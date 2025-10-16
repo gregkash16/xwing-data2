@@ -94,7 +94,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunassassin.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Black Sun Enforcer",
@@ -118,7 +119,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunenforcer.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Dalan Oberos",
@@ -147,7 +149,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Guri",
@@ -203,7 +206,8 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Prince Xizor",
@@ -230,7 +234,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/princexizor.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Prince Xizor",
@@ -278,7 +283,8 @@
       "extended": true,
       "epic": true,
       "caption": "Armed and Dangerous",
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

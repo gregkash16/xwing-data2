@@ -103,7 +103,8 @@
         "Jedi",
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Obi-Wan Kenobi",
@@ -141,7 +142,8 @@
         "Jedi",
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Plo Koon",
@@ -179,7 +181,8 @@
         "Jedi",
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Saesee Tiin",
@@ -217,7 +220,8 @@
         "Jedi",
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Mace Windu",
@@ -255,7 +259,8 @@
         "Jedi",
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Anakin Skywalker",
@@ -293,7 +298,8 @@
         "Jedi",
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ahsoka Tano",
@@ -330,7 +336,8 @@
         "Jedi",
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Barriss Offee",
@@ -367,7 +374,8 @@
         "Jedi",
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Luminara Unduli",
@@ -405,7 +413,8 @@
         "Jedi",
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Adi Gallia",
@@ -443,7 +452,8 @@
         "Jedi",
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

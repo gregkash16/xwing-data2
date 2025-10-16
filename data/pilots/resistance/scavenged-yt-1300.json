@@ -84,7 +84,8 @@
         "Freighter",
         "YT-1300"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Chewbacca",
@@ -115,7 +116,8 @@
         "Freighter",
         "YT-1300"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Han Solo",
@@ -146,7 +148,8 @@
         "Freighter",
         "YT-1300"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Rey",
@@ -186,7 +189,8 @@
         "Light Side",
         "YT-1300"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Poe Dameron",
@@ -222,7 +226,8 @@
         "Freighter",
         "YT-1300"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lando Calrissian",
@@ -257,7 +262,8 @@
         "Freighter",
         "YT-1300"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

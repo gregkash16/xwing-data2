@@ -93,7 +93,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Poe Dameron",
@@ -128,7 +129,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Blue Squadron Rookie",
@@ -155,7 +157,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Red Squadron Expert",
@@ -183,7 +186,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Black Squadron Ace",
@@ -212,7 +216,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ello Asty",
@@ -241,7 +246,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Joph Seastriker",
@@ -269,7 +275,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Karé Kun",
@@ -298,7 +305,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lieutenant Bastian",
@@ -326,7 +334,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Nien Nunb",
@@ -356,7 +365,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Jaycris Tubbs",
@@ -384,7 +394,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Jessika Pava",
@@ -416,7 +427,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Temmin Wexley",
@@ -445,7 +457,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Temmin Wexley",
@@ -474,7 +487,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "C’ai Threnalli",
@@ -503,7 +517,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Nimi Chireen",
@@ -531,7 +546,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Venisa Doza",
@@ -561,7 +577,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Zay Versio",
@@ -590,7 +607,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "C’ai Threnalli",
@@ -645,7 +663,8 @@
           }
         }
       ],
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Jaycris Tubbs",
@@ -698,7 +717,8 @@
           }
         }
       ],
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Poe Dameron",
@@ -757,7 +777,8 @@
           "type": "SLAM"
         }
       ],
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Stomeroni Starck",
@@ -811,7 +832,8 @@
           }
         }
       ],
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

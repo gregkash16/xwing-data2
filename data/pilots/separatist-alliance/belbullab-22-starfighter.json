@@ -92,7 +92,8 @@
         "Title"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/generalgrievous.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Wat Tambor",
@@ -113,7 +114,8 @@
         "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wattambor.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Feethan Ottraw Autopilot",
@@ -161,7 +163,8 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Captain Sear",
@@ -181,7 +184,8 @@
         "Tactical Relay"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captainsear.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Skakoan Ace",
@@ -200,7 +204,8 @@
       "text": "With its powerful engines, devastating triple laser cannons, and high customizability, the Belbullab-22 is the chosen craft of several elite Separatist Alliance pilots, including the infamous General Grievous.",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

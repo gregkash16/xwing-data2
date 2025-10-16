@@ -83,7 +83,8 @@
       "text": "Some ambitious and talented pilots begin their racing careers as ground crew, working around the clock to keep cobbled-together ships in the sky on far-flung worlds like Castilon.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/colossusstationmechanic.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/colossusstationmechanic.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Jarek Yeager",
@@ -111,7 +112,8 @@
       "caption": "Too Old for This",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jarekyeager.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/jarekyeager.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Kazuda Xiono",
@@ -139,7 +141,8 @@
       "loadout": 15,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kazudaxiono.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/kazudaxiono.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "R1-J5",
@@ -186,7 +189,8 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

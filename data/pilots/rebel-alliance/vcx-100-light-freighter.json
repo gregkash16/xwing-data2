@@ -106,7 +106,8 @@
         "Freighter",
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Hera Syndulla",
@@ -141,7 +142,8 @@
         "Freighter",
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Kanan Jarrus",
@@ -184,7 +186,8 @@
         "Light Side",
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lothal Rebel",
@@ -214,7 +217,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Alexsandr Kallus",
@@ -248,7 +252,8 @@
         "Freighter",
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

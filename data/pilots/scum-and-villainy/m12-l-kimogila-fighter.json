@@ -86,7 +86,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cartelexecutioner.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Dalan Oberos",
@@ -120,7 +121,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Torani Kulda",
@@ -150,7 +152,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

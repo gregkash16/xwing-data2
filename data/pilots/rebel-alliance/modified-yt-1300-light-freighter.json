@@ -97,7 +97,8 @@
         "Freighter",
         "YT-1300"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Han Solo",
@@ -129,7 +130,8 @@
         "Freighter",
         "YT-1300"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lando Calrissian",
@@ -160,7 +162,8 @@
         "Freighter",
         "YT-1300"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Outer Rim Smuggler",
@@ -186,7 +189,8 @@
         "Freighter",
         "YT-1300"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Leia Organa",
@@ -225,7 +229,8 @@
         "YT-1300",
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Han Solo",
@@ -255,7 +260,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Lando Calrissian",
@@ -320,7 +326,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

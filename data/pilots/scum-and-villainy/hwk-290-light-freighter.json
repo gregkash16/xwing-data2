@@ -102,7 +102,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Palob Godalhi",
@@ -128,7 +129,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Spice Runner",
@@ -151,7 +153,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Torkil Mux",
@@ -175,7 +178,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Gamut Key",
@@ -204,7 +208,8 @@
       "caption": "Collaborationist Gover- nor",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gamutkey.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/gamutkey.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Kanan Jarrus",
@@ -235,7 +240,8 @@
       "ability": "While you or a ship in your [Single Turret Arc] defends, you may spend 1 [Force]. If you do, the attacker rolls 1 fewer attack die.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kananjarrus-hwk290lightfreighter.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/kananjarrus-hwk290lightfreighter.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Tápusk",
@@ -260,7 +266,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

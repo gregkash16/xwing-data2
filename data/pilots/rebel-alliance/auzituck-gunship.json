@@ -75,7 +75,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kashyyykdefender.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lowhhrick",
@@ -96,7 +97,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lowhhrick.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Wullffwarro",
@@ -117,7 +119,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wullffwarro.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

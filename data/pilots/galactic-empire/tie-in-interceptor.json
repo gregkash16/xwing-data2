@@ -83,7 +83,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Saber Squadron Ace",
@@ -109,7 +110,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Soontir Fel",
@@ -137,7 +139,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Turr Phennir",
@@ -164,7 +167,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ciena Ree",
@@ -190,7 +194,8 @@
       "ability": "After you perform an attack, if the defender was destroyed, gain 1 stress token. After a friendly ship at range 0-3 is destroyed, remove 1 stress token.",
       "caption": "Look Through My Eyes",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cienaree.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Gideon Hask",
@@ -217,7 +222,8 @@
       ],
       "ability": "While you perform an attack against a damaged defender, roll 1 additional attack die.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cienaree.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Vult Skerris",
@@ -249,7 +255,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vultskerris-tieininterceptor.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/vultskerris-tieininterceptor.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Commandant Goran",
@@ -276,7 +283,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/commandantgoran.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/commandantgoran.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lieutenant Lorrir",
@@ -303,7 +311,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantlorrir.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantlorrir.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Nash Windrider",
@@ -334,7 +343,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/nashwindrider.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/nashwindrider.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Iden Versio",
@@ -384,7 +394,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/idenversio-battleofyavin.png",
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Sigma 4",
@@ -430,7 +441,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma4.png",
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Sigma 5",
@@ -476,7 +488,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma5.png",
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Sigma 6",
@@ -522,7 +535,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma6.png",
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Sigma 7",
@@ -590,7 +604,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma7.png",
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Second Sister",
@@ -623,7 +638,8 @@
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/secondsister.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/secondsister.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Sapphire 2",
@@ -652,7 +668,8 @@
       "extended": true,
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Soontir Fel",
@@ -685,7 +702,8 @@
       "extended": true,
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Maus Monare",
@@ -713,7 +731,8 @@
       "extended": true,
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

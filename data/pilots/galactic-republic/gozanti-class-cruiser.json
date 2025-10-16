@@ -122,7 +122,8 @@
         "spectreofnayr-epicsl"
       ],
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

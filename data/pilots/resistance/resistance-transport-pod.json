@@ -100,7 +100,8 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Rose Tico",
@@ -121,7 +122,8 @@
       "ability": "While you defend or perform an attack, you may reroll up to 1 of your results for each other friendly ship in the attack arc.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rosetico.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/rosetico.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Vi Moradi",
@@ -144,7 +146,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vimoradi.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/vimoradi.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Finn",
@@ -165,7 +168,8 @@
       "ability": "While you defend or perform an attack, you may add 1 blank result, or you may gain 1 strain token to add 1 focus result instead.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/finn.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/finn.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/resistance/I_Resistance_Transport_Cockpit_Pod.png"

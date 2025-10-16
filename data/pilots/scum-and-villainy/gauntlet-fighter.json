@@ -101,7 +101,8 @@
       "keywords": [
         "Dark Side"
       ],
-      "caption": "Lord of the Shadow Collective"
+      "caption": "Lord of the Shadow Collective",
+      "restricted": 0
     },
     {
       "xws": "rookkast",
@@ -129,7 +130,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "caption": "Stoic Super Commando"
+      "caption": "Stoic Super Commando",
+      "restricted": 0
     },
     {
       "xws": "shadowcollectiveoperator",
@@ -154,7 +156,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/shadowcollectiveoperator.png",
       "keywords": [
         "Mandalorian"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "xws": "bokatankryze-armedanddangerous",
@@ -186,7 +189,8 @@
         "Mandalorian"
       ],
       "caption": "Armed and Dangerous",
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

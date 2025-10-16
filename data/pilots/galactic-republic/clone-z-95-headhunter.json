@@ -83,7 +83,8 @@
       "epic": true,
       "keywords": [
         "Clone"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "“Drift”",
@@ -110,7 +111,8 @@
       "epic": true,
       "keywords": [
         "Clone"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "“Boost”",
@@ -137,7 +139,8 @@
       "epic": true,
       "keywords": [
         "Clone"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "“Stub”",
@@ -164,7 +167,8 @@
       "epic": true,
       "keywords": [
         "Clone"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "“Knack”",
@@ -192,7 +196,8 @@
       "epic": true,
       "keywords": [
         "Clone"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "“Hawk”",
@@ -219,7 +224,8 @@
       "epic": true,
       "keywords": [
         "Clone"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "7th Sky Corps Pilot",
@@ -244,7 +250,8 @@
       "epic": true,
       "keywords": [
         "Clone"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Reaper Squadron Scout",
@@ -270,7 +277,8 @@
       "epic": true,
       "keywords": [
         "Clone"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "“Slider”",
@@ -301,7 +309,8 @@
       "epic": true,
       "keywords": [
         "Clone"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "“Warthog”",
@@ -328,7 +337,8 @@
       "epic": true,
       "keywords": [
         "Clone"
-      ]
+      ],
+      "restricted": 0
     }
   ]
 }

@@ -86,7 +86,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/contractedscout.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Dengar",
@@ -118,7 +119,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Manaroo",
@@ -146,7 +148,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Tel Trevura",
@@ -174,7 +177,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/teltrevura.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Nom Lumb",
@@ -200,7 +204,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Dengar",
@@ -226,7 +231,8 @@
       "extended": true,
       "epic": true,
       "caption": "Armed and Dangerous",
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

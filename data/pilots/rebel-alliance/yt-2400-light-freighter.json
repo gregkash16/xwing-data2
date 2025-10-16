@@ -130,7 +130,8 @@
         "Droid",
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Dash Rendar",
@@ -179,7 +180,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Wild Space Fringer",
@@ -207,7 +209,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Leebo”",
@@ -261,7 +264,8 @@
         "Droid",
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Dash Rendar",
@@ -292,7 +296,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Leebo”",
@@ -343,7 +348,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Dash Rendar",
@@ -373,7 +379,8 @@
       ],
       "epic": true,
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

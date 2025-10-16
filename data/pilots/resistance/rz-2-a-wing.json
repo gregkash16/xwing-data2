@@ -95,7 +95,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Tallissan Lintra",
@@ -129,7 +130,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Zari Bangel",
@@ -158,7 +160,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Greer Sonnel",
@@ -186,7 +189,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Green Squadron Expert",
@@ -214,7 +218,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Blue Squadron Recruit",
@@ -241,7 +246,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Zizi Tlo",
@@ -275,7 +281,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ronith Blario",
@@ -303,7 +310,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Merl Cobben",
@@ -331,7 +339,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Suralinda Javos",
@@ -359,7 +368,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Wrobie Tyce",
@@ -387,7 +397,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Seftin Vanik",
@@ -416,7 +427,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ronith Blario",
@@ -444,7 +456,8 @@
         "A-wing"
       ],
       "epic": true,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Tallissan Lintra",
@@ -503,7 +516,8 @@
           "type": "Boost"
         }
       ],
-      "slots": []
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Zizi Tlo",
@@ -535,7 +549,8 @@
         "A-wing"
       ],
       "epic": true,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

@@ -94,7 +94,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantdormitz.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Major Stridan",
@@ -124,7 +125,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/majorstridan.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Petty Officer Thanisson",
@@ -157,7 +159,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/pettyofficerthanisson.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Starkiller Base Pilot",
@@ -185,7 +188,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/starkillerbasepilot.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lieutenant Tavson",
@@ -218,7 +222,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenanttavson.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Captain Cardinal",
@@ -252,7 +257,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captaincardinal.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Petty Officer Thanisson",
@@ -277,7 +283,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

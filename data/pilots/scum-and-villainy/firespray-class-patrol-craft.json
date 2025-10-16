@@ -96,7 +96,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Bounty Hunter",
@@ -121,7 +122,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Emon Azzameen",
@@ -146,7 +148,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/emonazzameen.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Kath Scarlet",
@@ -171,7 +174,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kathscarlet.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Koshka Frost",
@@ -198,7 +202,8 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Krassis Trelix",
@@ -222,7 +227,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/krassistrelix.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Hondo Ohnaka",
@@ -246,7 +252,8 @@
       ],
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Boba Fett",
@@ -289,7 +296,8 @@
         }
       ],
       "epic": true,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

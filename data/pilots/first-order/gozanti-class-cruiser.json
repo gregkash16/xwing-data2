@@ -95,7 +95,8 @@
         "Team",
         "Cargo",
         "Cargo"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Cerra Fellian",
@@ -149,7 +150,8 @@
         "pettyofficerthanisson",
         "ioncannonbattery-epicsl",
         "malefactor-epicsl"
-      ]
+      ],
+      "restricted": 0
     }
   ]
 }

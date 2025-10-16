@@ -90,7 +90,8 @@
         "Clone",
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Anakin Skywalker",
@@ -131,7 +132,8 @@
         "Light Side",
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "R2-D2",
@@ -180,7 +182,8 @@
         "Droid",
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Odd Ball”",
@@ -212,7 +215,8 @@
         "Clone",
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Matchstick”",
@@ -244,7 +248,8 @@
         "Clone",
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Broadside”",
@@ -275,7 +280,8 @@
         "Clone",
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Goji”",
@@ -306,7 +312,8 @@
         "Clone",
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Red Squadron Bomber",
@@ -336,7 +343,8 @@
         "Clone",
         "Y-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_BTL-B_Ywing.png"

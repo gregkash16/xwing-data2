@@ -95,7 +95,8 @@
       "epic": true,
       "keywords": [
         "Mandalorian"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Bodica Venj",
@@ -124,7 +125,8 @@
       "epic": true,
       "keywords": [
         "Mandalorian"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Dirk Ullodin",
@@ -152,7 +154,8 @@
       "epic": true,
       "keywords": [
         "Mandalorian"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Clan Wren Volunteer",
@@ -180,7 +183,8 @@
       "epic": true,
       "keywords": [
         "Mandalorian"
-      ]
+      ],
+      "restricted": 0
     }
   ]
 }

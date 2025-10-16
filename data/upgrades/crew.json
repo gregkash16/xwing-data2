@@ -27,7 +27,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "“Zeb” Orrelios",
@@ -57,7 +58,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "0-0-0",
@@ -90,7 +92,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "4-LOM",
@@ -120,7 +123,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Admiral Sloane",
@@ -150,7 +154,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Agent Kallus",
@@ -183,7 +188,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Baze Malbus",
@@ -213,7 +219,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Boba Fett",
@@ -243,7 +250,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "C-3PO",
@@ -288,7 +296,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Cad Bane",
@@ -318,7 +327,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Captain Phasma",
@@ -348,7 +358,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Cassian Andor",
@@ -378,7 +389,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Chewbacca",
@@ -412,7 +424,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Chewbacca",
@@ -442,7 +455,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Ciena Ree",
@@ -477,7 +491,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Cikatro Vizago",
@@ -507,7 +522,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Darth Vader",
@@ -541,7 +557,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Death Troopers",
@@ -572,7 +589,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Director Krennic",
@@ -620,7 +638,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Emperor Palpatine",
@@ -655,7 +674,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Freelance Slicer",
@@ -678,7 +698,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "General Hux",
@@ -713,7 +734,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "GNK “Gonk” Droid",
@@ -740,7 +762,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Grand Inquisitor",
@@ -774,7 +797,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Grand Moff Tarkin",
@@ -813,7 +837,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Hera Syndulla",
@@ -843,7 +868,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "IG-88D",
@@ -888,7 +914,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "ISB Slicer",
@@ -918,7 +945,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Informant",
@@ -944,7 +972,8 @@
     },
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Jabba the Hutt",
@@ -979,7 +1008,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Jyn Erso",
@@ -1009,7 +1039,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Kanan Jarrus",
@@ -1043,7 +1074,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Ketsu Onyo",
@@ -1073,7 +1105,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Kylo Ren",
@@ -1110,7 +1143,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "L3-37",
@@ -1150,7 +1184,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Lando Calrissian",
@@ -1180,7 +1215,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Lando Calrissian",
@@ -1210,7 +1246,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Latts Razzi",
@@ -1240,7 +1277,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Leia Organa",
@@ -1274,7 +1312,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Magva Yarro",
@@ -1304,7 +1343,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Maul",
@@ -1352,7 +1392,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Minister Tua",
@@ -1382,7 +1423,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Moff Jerjerrod",
@@ -1421,7 +1463,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Nien Nunb",
@@ -1451,7 +1494,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Novice Technician",
@@ -1474,7 +1518,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Perceptive Copilot",
@@ -1497,7 +1542,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Petty Officer Thanisson",
@@ -1527,7 +1573,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Qi'ra",
@@ -1557,7 +1604,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R2-D2",
@@ -1587,7 +1635,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Sabine Wren",
@@ -1617,7 +1666,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Saw Gerrera",
@@ -1647,7 +1697,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Seasoned Navigator",
@@ -1670,7 +1721,8 @@
     },
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Seventh Sister",
@@ -1704,7 +1756,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Supreme Leader Snoke",
@@ -1739,7 +1792,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Tactical Officer",
@@ -1785,7 +1839,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Tobias Beckett",
@@ -1815,7 +1870,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Unkar Plutt",
@@ -1845,7 +1901,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Zuckuss",
@@ -1875,7 +1932,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "C-3PO",
@@ -1921,7 +1979,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Han Solo",
@@ -1960,7 +2019,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Chewbacca",
@@ -1994,7 +2054,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Rose Tico",
@@ -2024,7 +2085,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Palpatine/Sidious",
@@ -2091,7 +2153,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Count Dooku",
@@ -2125,7 +2188,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "General Grievous",
@@ -2159,7 +2223,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Amilyn Holdo",
@@ -2189,7 +2254,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "GA-97",
@@ -2235,7 +2301,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Kaydel Connix",
@@ -2265,7 +2332,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Korr Sella",
@@ -2295,7 +2363,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Larma D'Acy",
@@ -2325,7 +2394,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Leia Organa",
@@ -2369,7 +2439,8 @@
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/leiaorgana-resistance.png",
         "image": "https://infinitearenas.com/xw2/images/upgrades/leiaorgana-resistance.png"
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "PZ-4CO",
@@ -2408,7 +2479,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "C-3PO",
@@ -2447,7 +2519,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "xws": "c3po-republic"
+    "xws": "c3po-republic",
+    "restricted": 0
   },
   {
     "name": "Aayla Secura",
@@ -2494,7 +2567,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Agent Terex",
@@ -2534,7 +2608,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "K-2SO",
@@ -2580,7 +2655,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Plo Koon",
@@ -2623,7 +2699,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Toryn Farr",
@@ -2671,7 +2748,8 @@
     ],
     "cost": {
       "value": 4
-    }
+    },
+    "restricted": 0
   },
   {
     "sides": [
@@ -2714,7 +2792,8 @@
     "xws": "kitfisto",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "sides": [
@@ -2757,7 +2836,8 @@
     "xws": "yoda",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "sides": [
@@ -2787,7 +2867,8 @@
     "xws": "fives",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "sides": [
@@ -2818,7 +2899,8 @@
     "xws": "wolfpack",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "sides": [
@@ -2858,7 +2940,8 @@
     "xws": "commandermalarus",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "sides": [
@@ -2907,7 +2990,8 @@
     "xws": "ghostcompany",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "sides": [
@@ -2937,7 +3021,8 @@
     "xws": "commanderpyre",
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Hondo Ohnaka",
@@ -2960,7 +3045,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Jango Fett",
@@ -2991,7 +3077,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Zam Wesell",
@@ -3030,7 +3117,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Gamut Key",
@@ -3064,7 +3152,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Protectorate Gleb",
@@ -3105,7 +3194,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "The Mandalorian",
@@ -3144,7 +3234,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "The Child",
@@ -3180,7 +3271,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "IG-11",
@@ -3229,7 +3321,8 @@
           "scumandvillainy"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Greef Karga",
@@ -3268,7 +3361,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Kuiil",
@@ -3298,7 +3392,8 @@
           "scumandvillainy"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Peli Motto",
@@ -3334,7 +3429,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Prime Minister Almec",
@@ -3375,7 +3471,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Rook Kast",
@@ -3414,7 +3511,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Obi-Wan Kenobi",
@@ -3448,7 +3546,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Bo-Katan Kryze",
@@ -3479,7 +3578,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Bo-Katan Kryze",
@@ -3510,7 +3610,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Korkie Kryze",
@@ -3540,7 +3641,8 @@
         ]
       }
     ],
-    "extended": true
+    "extended": true,
+    "restricted": 0
   },
   {
     "name": "Satine Kryze",
@@ -3574,7 +3676,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Tal Merrik",
@@ -3604,7 +3707,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Savage Opress",
@@ -3639,7 +3743,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Fenn Rau",
@@ -3670,7 +3775,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Gar Saxon",
@@ -3700,7 +3806,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Pre Vizsla",
@@ -3740,7 +3847,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Tristan Wren",
@@ -3777,7 +3885,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Ursa Wren",
@@ -3807,7 +3916,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Captain Hark",
@@ -3841,7 +3951,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Ahsoka Tano",
@@ -3876,7 +3987,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Maul",
@@ -3925,7 +4037,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Clan Wren Commandos",
@@ -3996,7 +4109,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Imperial Super Commandos",
@@ -4067,7 +4181,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Mandalorian Super Commandos",
@@ -4138,7 +4253,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Nite Owl Commandos",
@@ -4209,7 +4325,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Death Watch Commandos",
@@ -4280,7 +4397,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Chewbacca",
@@ -4299,7 +4417,8 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Wolfpack",
@@ -4319,7 +4438,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "“Leebo”",
@@ -4338,7 +4458,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "General Hux",
@@ -4357,7 +4478,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "The Child",
@@ -4380,7 +4502,8 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Chewbacca",
@@ -4403,7 +4526,8 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "L3-37",
@@ -4426,7 +4550,8 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Nite Owl Sentries",
@@ -4449,7 +4574,8 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Embo",
@@ -4468,7 +4594,8 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Todo 360",
@@ -4491,7 +4618,8 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "4-LOM",
@@ -4510,7 +4638,8 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R0-GR",
@@ -4529,7 +4658,8 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Nix Jerd",
@@ -4552,7 +4682,8 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Leia Organa",
@@ -4569,7 +4700,8 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "C-3PO",
@@ -4586,7 +4718,8 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R2-D2",
@@ -4603,7 +4736,8 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Thrawn",
@@ -4624,7 +4758,8 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Caij Vanda",
@@ -4641,7 +4776,8 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Azmorigan",
@@ -4658,7 +4794,8 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Nien Nunb",
@@ -4679,7 +4816,8 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Urcos Furdam",
@@ -4696,7 +4834,8 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "GA-75",
@@ -4717,7 +4856,8 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Agent Terex",
@@ -4734,7 +4874,8 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Protectorate Gleb",
@@ -4751,7 +4892,8 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Bail Organa",
@@ -4768,7 +4910,8 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Clone Commander Cody",
@@ -4785,7 +4928,8 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "AQ-Series Battle Droids",
@@ -4802,6 +4946,7 @@
       }
     ],
     "standardLoadoutOnly": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   }
 ]

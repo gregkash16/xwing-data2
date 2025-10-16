@@ -20,7 +20,8 @@
     ],
     "cost": {
       "value": 4
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Dreadnought Hunter",
@@ -43,7 +44,8 @@
     ],
     "cost": {
       "value": 3
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "First Order Elite",
@@ -66,7 +68,8 @@
     ],
     "cost": {
       "value": 4
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Veteran Wing Leader",
@@ -89,7 +92,8 @@
     ],
     "cost": {
       "value": 2
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Admiral Ozzel",
@@ -113,7 +117,8 @@
     ],
     "cost": {
       "value": 6
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Azmorigan",
@@ -137,7 +142,8 @@
     ],
     "cost": {
       "value": 4
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Captain Needa",
@@ -165,7 +171,8 @@
     ],
     "cost": {
       "value": 8
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Carlist Rieekan",
@@ -198,7 +205,8 @@
     ],
     "cost": {
       "value": 4
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Jan Dodonna",
@@ -222,7 +230,8 @@
     ],
     "cost": {
       "value": 3
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Raymus Antilles",
@@ -246,7 +255,8 @@
     ],
     "cost": {
       "value": 8
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Stalwart Captain",
@@ -277,7 +287,8 @@
           "Huge"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Strategic Commander",
@@ -312,7 +323,8 @@
           "Huge"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Jedi Commander",
@@ -358,7 +370,8 @@
           "eta2actis"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "B6 Blade Wing Prototype",
@@ -394,7 +407,8 @@
           "asf01bwing"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Bounty",
@@ -427,7 +441,8 @@
     ],
     "cost": {
       "value": 1
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Phoenix Squadron",
@@ -460,7 +475,8 @@
     ],
     "cost": {
       "value": 4
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Shadow Wing",
@@ -493,7 +509,8 @@
     ],
     "cost": {
       "value": 4
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Skystrike Academy Class",
@@ -526,7 +543,8 @@
     ],
     "cost": {
       "value": 3
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "In It For The Money/Rebellion",
@@ -572,7 +590,8 @@
       {
         "non-limited": false
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Mar Tuuk",
@@ -608,7 +627,8 @@
           "Huge"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Riff Tamson",
@@ -644,7 +664,8 @@
           "Huge"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Asajj Ventress",
@@ -703,7 +724,8 @@
           "Huge"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Zealous Captain",
@@ -734,7 +756,8 @@
           "Huge"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Hondo Ohnaka",
@@ -782,7 +805,8 @@
           "Huge"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "General Grievous",
@@ -818,7 +842,8 @@
           "Huge"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Combat Boarding Tube",
@@ -849,7 +874,8 @@
           "gauntletfighter"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Sabine Wren",
@@ -896,6 +922,7 @@
           "Large"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   }
 ]

@@ -76,7 +76,8 @@
         "TIE",
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Captain Rex",
@@ -103,7 +104,8 @@
         "Clone",
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ezra Bridger",
@@ -135,7 +137,8 @@
         "Spectre",
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Sabine Wren",
@@ -160,7 +163,8 @@
         "TIE",
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

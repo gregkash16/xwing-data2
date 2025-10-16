@@ -97,7 +97,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bokatankryze-separatist-alliance.png",
       "keywords": [
         "Mandalorian"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "xws": "previzsla",
@@ -129,7 +130,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "caption": "Leader of Death Watch"
+      "caption": "Leader of Death Watch",
+      "restricted": 0
     },
     {
       "xws": "deathwatchwarrior",
@@ -155,7 +157,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "caption": "Fanatical Adherent"
+      "caption": "Fanatical Adherent",
+      "restricted": 0
     }
   ]
 }

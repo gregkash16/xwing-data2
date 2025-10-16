@@ -95,7 +95,8 @@
         "Team",
         "Cargo",
         "Cargo"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Oraf Desyk",
@@ -147,7 +148,8 @@
         "hosnianlament-epicsl"
       ],
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

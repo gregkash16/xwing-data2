@@ -104,7 +104,8 @@
         "Team",
         "Team",
         "Cargo"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Raymus Antilles",
@@ -162,7 +163,8 @@
         "tantiveiv-epicsl-galacticrepublic"
       ],
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

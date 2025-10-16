@@ -86,7 +86,8 @@
         "Bounty Hunter",
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Latts Razzi",
@@ -116,7 +117,8 @@
         "Bounty Hunter",
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Moralo Eval",
@@ -146,7 +148,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Trandoshan Slaver",
@@ -170,7 +173,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Doctor Aphra",
@@ -200,7 +204,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Bossk",
@@ -229,7 +234,8 @@
         "houndstooth-armedanddangerous"
       ],
       "epic": true,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

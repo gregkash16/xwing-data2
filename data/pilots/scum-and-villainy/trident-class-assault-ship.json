@@ -100,7 +100,8 @@
         "Team",
         "Cargo",
         "Title"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Sorc Tormo",
@@ -149,7 +150,8 @@
         "nautolansrevenge-epicsl"
       ],
       "loadout": 0,
-      "slots": []
+      "slots": [],
+      "restricted": 0
     }
   ]
 }
