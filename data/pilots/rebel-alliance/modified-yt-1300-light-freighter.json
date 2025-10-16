@@ -237,6 +237,10 @@
         "millenniumfalcon",
         "l337sprogramming-battleofyavin"
       ],
+      "charges": {
+        "value": 4,
+        "recovers": 0
+      },
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/hansolo-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/hansolo-battleofyavin.png",
       "standard": true,
