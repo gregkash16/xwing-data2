@@ -343,7 +343,7 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "restricted": 0
+    "restricted": 2
   },
   {
     "name": "Luke Skywalker",
@@ -500,7 +500,7 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "restricted": 0
+    "restricted": 3
   },
   {
     "name": "Finn",
@@ -753,7 +753,7 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "restricted": 0
+    "restricted": 2
   },
   {
     "name": "Boba Fett",

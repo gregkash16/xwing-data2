@@ -1221,7 +1221,7 @@
   {
     "name": "Lando Calrissian",
     "limited": 1,
-    "xws": "landocalrissian-crew",
+    "xws": "landocalrissian-crew-rebel",
     "sides": [
       {
         "title": "Lando Calrissian",
@@ -1235,7 +1235,7 @@
       }
     ],
     "cost": {
-      "value": 7
+      "value": 2
     },
     "restrictions": [
       {

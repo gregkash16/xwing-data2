@@ -24,11 +24,11 @@ FACTION_SOURCES = {
     "separatistalliance.json": "separatist-alliance",
 }
 
-# 8th source file for upgrades (flat dict: xws -> { "cost": int, ... })
+# 8th source file for upgrades (flat dict: xws -> { "cost": int|{value:int}, "restricted": int?, ... })
 UPGRADES_SOURCE_NAME = "upgrades.json"
 
 # Pilot fields we copy from sources into ship files
-PILOT_FIELDS_TO_COPY = ["cost", "loadout", "slots"]
+PILOT_FIELDS_TO_COPY = ["cost", "loadout", "slots", "restricted"]  # NEW (restricted)
 # ==================================================
 
 
@@ -85,8 +85,8 @@ def parse_pilot_source_any_shape(source_data: dict, allowed_fields=None) -> dict
     """
     Returns dict: xws -> payload
     Supports:
-      1) GROUPED: { "Ship Name": { "pilotxws": { cost, loadout, slots, ... }, ... }, ... }
-      2) FLAT:    { "pilotxws": { cost, loadout, slots, ... }, ... }
+      1) GROUPED: { "Ship Name": { "pilotxws": { cost, loadout, slots, restricted?, ... }, ... }, ... }
+      2) FLAT:    { "pilotxws": { cost, loadout, slots, restricted?, ... }, ... }
     """
     out = {}
 
@@ -100,7 +100,7 @@ def parse_pilot_source_any_shape(source_data: dict, allowed_fields=None) -> dict
             if payload:
                 out[key] = payload
 
-    keys_of_interest = allowed_fields or ["cost", "loadout", "slots"]
+    keys_of_interest = allowed_fields or ["cost", "loadout", "slots", "restricted"]  # NEW (restricted in interest)
 
     # Detect if flat: any top-level value contains any keys of interest
     is_flat = any(
@@ -119,10 +119,9 @@ def parse_pilot_source_any_shape(source_data: dict, allowed_fields=None) -> dict
 
     return out
 
-
 def update_pilots_in_faction(faction_folder: Path, updates_by_xws: dict):
     """
-    For each ship JSON in faction_folder, match pilot 'xws' and update cost/loadout/slots.
+    For each ship JSON in faction_folder, match pilot 'xws' and update cost/loadout/slots/restricted.
     Returns (updated_count, touched_files_set, missing_xws_set)
     """
     updated = 0
@@ -145,20 +144,34 @@ def update_pilots_in_faction(faction_folder: Path, updates_by_xws: dict):
             xws = p.get("xws")
             if not xws:
                 continue
-            payload = updates_by_xws.get(xws)
-            if not payload:
+            src = updates_by_xws.get(xws)
+            if not src:
                 continue
 
-            if "cost" in payload:
-                p["cost"] = payload["cost"]
-            if "loadout" in payload:
-                p["loadout"] = payload["loadout"]
-            if "slots" in payload:
-                p["slots"] = payload["slots"]
+            changed_local = False
 
-            updated += 1
+            # cost, loadout, slots (overwrite if present in source)
+            for key in ("cost", "loadout", "slots"):
+                if key in src and src[key] is not None and p.get(key) != src[key]:
+                    p[key] = src[key]
+                    changed_local = True
+
+            # restricted (coerce to int when possible)
+            if "restricted" in src and src["restricted"] is not None:
+                try:
+                    new_res = int(src["restricted"])
+                except (TypeError, ValueError):
+                    new_res = src["restricted"]
+                if p.get("restricted") != new_res:
+                    p["restricted"] = new_res
+                    changed_local = True
+
+            if changed_local:
+                updated += 1
+                file_changed = True
+
+            # mark seen even if nothing changed (so it won’t be flagged “missing”)
             found_xws.add(xws)
-            file_changed = True
 
         if file_changed:
             save_json(ship_json, data)
@@ -167,23 +180,21 @@ def update_pilots_in_faction(faction_folder: Path, updates_by_xws: dict):
     missing = set(updates_by_xws.keys()) - found_xws
     return updated, touched_files, missing
 
-
-def update_upgrades_folder(upgrades_dir: Path, upgrades_by_xws_value: dict):
+def update_upgrades_folder(upgrades_dir: Path, upgrades_by_xws_changes: dict):
     """
-    Update upgrades' cost.value by matching 'xws'.
-    upgrades_by_xws_value is dict: xws -> {"value": int}
-    Handles files shaped as:
-      - dict (single upgrade)
-      - list[dict] (multiple upgrades in one file)
+    Update upgrades using provided changes by matching 'xws'.
+    upgrades_by_xws_changes: xws -> {"value": int?, "restricted": int?}
+    Counts a match as FOUND even if no change was needed (prevents false 'missing').
     Returns (updated_file_count, touched_files_set, missing_xws_set)
     """
     updated_files = 0
     touched_files = set()
-    found_xws = set()
+    seen_xws = set()   # track matches regardless of change
 
-    if not upgrades_by_xws_value:
+    if not upgrades_by_xws_changes:
         return 0, set(), set()
 
+    # flat folder is fine; use glob here if you want
     for upg_json in upgrades_dir.glob("*.json"):
         try:
             data = load_json(upg_json)
@@ -193,42 +204,59 @@ def update_upgrades_folder(upgrades_dir: Path, upgrades_by_xws_value: dict):
 
         file_changed = False
 
-        def apply_cost(obj: dict) -> bool:
+        def apply_changes(obj: dict) -> bool:
             """
-            Apply cost.value to a single upgrade object if its xws is in the map.
+            Apply cost.value and/or restricted to a single upgrade object if its xws is in the map.
             Returns True if changed.
             """
             xws = obj.get("xws")
             if not xws:
                 return False
-            src = upgrades_by_xws_value.get(xws)
-            if not src or "value" not in src:
+            src = upgrades_by_xws_changes.get(xws)
+            if not src:
                 return False
 
-            new_val = src["value"]
-            if "cost" not in obj or not isinstance(obj["cost"], dict):
-                obj["cost"] = {"value": int(new_val)}
-            else:
-                obj["cost"]["value"] = int(new_val)
-            found_xws.add(xws)
-            return True
+            # mark seen even if nothing changes
+            seen_xws.add(xws)
+
+            changed_local = False
+
+            # cost.value
+            if "value" in src and src["value"] is not None:
+                new_val = int(src["value"])
+                if "cost" not in obj or not isinstance(obj["cost"], dict):
+                    obj["cost"] = {"value": new_val}
+                    changed_local = True
+                elif obj["cost"].get("value") != new_val:
+                    obj["cost"]["value"] = new_val
+                    changed_local = True
+
+            # restricted
+            if "restricted" in src and src["restricted"] is not None:
+                try:
+                    new_res = int(src["restricted"])
+                except (TypeError, ValueError):
+                    new_res = src["restricted"]
+                if obj.get("restricted") != new_res:
+                    obj["restricted"] = new_res
+                    changed_local = True
+
+            return changed_local
 
         if isinstance(data, dict):
-            if apply_cost(data):
+            if apply_changes(data):
                 file_changed = True
-
         elif isinstance(data, list):
             for item in data:
-                if isinstance(item, dict) and apply_cost(item):
+                if isinstance(item, dict) and apply_changes(item):
                     file_changed = True
-        # else unknown shape -> skip
 
         if file_changed:
             save_json(upg_json, data)
             updated_files += 1
             touched_files.add(upg_json.name)
 
-    missing = set(upgrades_by_xws_value.keys()) - found_xws
+    missing = set(upgrades_by_xws_changes.keys()) - seen_xws
     return updated_files, touched_files, missing
 
 
@@ -302,8 +330,8 @@ def main():
         total_touched_files |= touched
         missing_report["pilots"][faction_folder] = missing
 
-    # 2) Upgrades: parse flat source (xws -> {cost:int,...})
-    upgrades_by_xws_value = {}
+    # 2) Upgrades: parse flat source (xws -> {cost:int|{value:int}, restricted:int?, ...})
+    upgrades_by_xws_changes = {}
     upg_path = find_source_file(UPGRADES_SOURCE_NAME, REV_DIR, SCRIPT_DIR)
     if upg_path:
         try:
@@ -316,20 +344,30 @@ def main():
             for xws_key, obj in upg_src.items():
                 if not isinstance(obj, dict):
                     continue
+                # cost may be int, float, or dict {"value": n}
                 cost_val = obj.get("cost")
                 if isinstance(cost_val, dict):
-                    # tolerate {'cost': {'value': N}}
                     cost_val = cost_val.get("value")
+                # NEW (restricted)
+                restricted_val = obj.get("restricted")
+                entry = {}
                 if isinstance(cost_val, (int, float)):
-                    upgrades_by_xws_value[xws_key] = {"value": int(cost_val)}
+                    entry["value"] = int(cost_val)
+                if isinstance(restricted_val, (int, float)):
+                    entry["restricted"] = int(restricted_val)
+                elif restricted_val is not None:
+                    # tolerate but don't coerce non-numeric
+                    entry["restricted"] = restricted_val
+                if entry:
+                    upgrades_by_xws_changes[xws_key] = entry
         else:
             print(f"[WARN] {UPGRADES_SOURCE_NAME} is not a dict at {upg_path}; skipping upgrades.")
     else:
         print(f"[WARN] Could not find {UPGRADES_SOURCE_NAME} under {REV_DIR} (or {SCRIPT_DIR})")
 
-    print(f"[INFO] Updating upgrades ({len(upgrades_by_xws_value)} entries)...")
-    if upgrades_by_xws_value:
-        upg_files_updated, upg_touched, upg_missing = update_upgrades_folder(UPGRADES_DIR, upgrades_by_xws_value)
+    print(f"[INFO] Updating upgrades ({len(upgrades_by_xws_changes)} entries)...")
+    if upgrades_by_xws_changes:
+        upg_files_updated, upg_touched, upg_missing = update_upgrades_folder(UPGRADES_DIR, upgrades_by_xws_changes)
         print(f"  Updated upgrade files: {upg_files_updated}, Missing: {len(upg_missing)}")
         total_upgrade_files_updated += upg_files_updated
         total_touched_files |= upg_touched

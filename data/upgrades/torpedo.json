@@ -32,7 +32,7 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "restricted": 0
+    "restricted": 2
   },
   {
     "name": "Adv. Proton Torpedoes",
@@ -137,7 +137,7 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "restricted": 0
+    "restricted": 3
   },
   {
     "name": "Plasma Torpedoes",
