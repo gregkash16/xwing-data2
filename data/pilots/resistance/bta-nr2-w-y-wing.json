@@ -71,8 +71,8 @@
       "initiative": 5,
       "limited": 1,
       "shipAbility": {
-        "name": "Intuitive Interface",
-        "text": "After you perform an action added to your action bar by a [Talent], [Illicit], or [Modification] upgrade, you may perform a [Calculate] action."
+        "name": "Devastating Barrage",
+        "text": "While you perform a [Torpedo] or [Missile] attack, if the defender is in your [Bullseye Arc], your [Critical Hit] results cannot be cancelled by [Evade] results."
       },
       "standard": true,
       "extended": true,
@@ -109,8 +109,8 @@
       "initiative": 4,
       "limited": 1,
       "shipAbility": {
-        "name": "Intuitive Interface",
-        "text": "After you perform an action added to your action bar by a [Talent], [Illicit], or [Modification] upgrade, you may perform a [Calculate] action."
+        "name": "Devastating Barrage",
+        "text": "While you perform a [Torpedo] or [Missile] attack, if the defender is in your [Bullseye Arc], your [Critical Hit] results cannot be cancelled by [Evade] results."
       },
       "standard": true,
       "extended": true,
@@ -142,8 +142,8 @@
       "initiative": 4,
       "limited": 1,
       "shipAbility": {
-        "name": "Intuitive Interface",
-        "text": "After you perform an action added to your action bar by a [Talent], [Illicit], or [Modification] upgrade, you may perform a [Calculate] action."
+        "name": "Devastating Barrage",
+        "text": "While you perform a [Torpedo] or [Missile] attack, if the defender is in your [Bullseye Arc], your [Critical Hit] results cannot be cancelled by [Evade] results."
       },
       "standard": true,
       "extended": true,
@@ -175,8 +175,8 @@
       "initiative": 3,
       "limited": 1,
       "shipAbility": {
-        "name": "Intuitive Interface",
-        "text": "After you perform an action added to your action bar by a [Talent], [Illicit], or [Modification] upgrade, you may perform a [Calculate] action."
+        "name": "Devastating Barrage",
+        "text": "While you perform a [Torpedo] or [Missile] attack, if the defender is in your [Bullseye Arc], your [Critical Hit] results cannot be cancelled by [Evade] results."
       },
       "standard": true,
       "extended": true,
@@ -208,8 +208,8 @@
       "initiative": 3,
       "limited": 1,
       "shipAbility": {
-        "name": "Intuitive Interface",
-        "text": "After you perform an action added to your action bar by a [Talent], [Illicit], or [Modification] upgrade, you may perform a [Calculate] action."
+        "name": "Devastating Barrage",
+        "text": "While you perform a [Torpedo] or [Missile] attack, if the defender is in your [Bullseye Arc], your [Critical Hit] results cannot be cancelled by [Evade] results."
       },
       "standard": true,
       "extended": true,
@@ -240,8 +240,8 @@
       "initiative": 2,
       "limited": 1,
       "shipAbility": {
-        "name": "Intuitive Interface",
-        "text": "After you perform an action added to your action bar by a [Talent], [Illicit], or [Modification] upgrade, you may perform a [Calculate] action."
+        "name": "Devastating Barrage",
+        "text": "While you perform a [Torpedo] or [Missile] attack, if the defender is in your [Bullseye Arc], your [Critical Hit] results cannot be cancelled by [Evade] results."
       },
       "standard": true,
       "extended": true,
@@ -272,8 +272,8 @@
       "initiative": 1,
       "limited": 1,
       "shipAbility": {
-        "name": "Intuitive Interface",
-        "text": "After you perform an action added to your action bar by a [Talent], [Illicit], or [Modification] upgrade, you may perform a [Calculate] action."
+        "name": "Devastating Barrage",
+        "text": "While you perform a [Torpedo] or [Missile] attack, if the defender is in your [Bullseye Arc], your [Critical Hit] results cannot be cancelled by [Evade] results."
       },
       "standard": true,
       "extended": true,
@@ -305,8 +305,8 @@
       "initiative": 2,
       "limited": 1,
       "shipAbility": {
-        "name": "Intuitive Interface",
-        "text": "After you perform an action added to your action bar by a [Talent], [Illicit], or [Modification] upgrade, you may perform a [Calculate] action."
+        "name": "Devastating Barrage",
+        "text": "While you perform a [Torpedo] or [Missile] attack, if the defender is in your [Bullseye Arc], your [Critical Hit] results cannot be cancelled by [Evade] results."
       },
       "standard": true,
       "extended": true,
@@ -338,8 +338,8 @@
       "initiative": 3,
       "limited": 0,
       "shipAbility": {
-        "name": "Intuitive Interface",
-        "text": "After you perform an action added to your action bar by a [Talent], [Illicit], or [Modification] upgrade, you may perform a [Calculate] action."
+        "name": "Devastating Barrage",
+        "text": "While you perform a [Torpedo] or [Missile] attack, if the defender is in your [Bullseye Arc], your [Critical Hit] results cannot be cancelled by [Evade] results."
       },
       "standard": true,
       "extended": true,
@@ -369,8 +369,8 @@
       "initiative": 2,
       "limited": 0,
       "shipAbility": {
-        "name": "Intuitive Interface",
-        "text": "After you perform an action added to your action bar by a [Talent], [Illicit], or [Modification] upgrade, you may perform a [Calculate] action."
+        "name": "Devastating Barrage",
+        "text": "While you perform a [Torpedo] or [Missile] attack, if the defender is in your [Bullseye Arc], your [Critical Hit] results cannot be cancelled by [Evade] results."
       },
       "standard": true,
       "extended": true,
