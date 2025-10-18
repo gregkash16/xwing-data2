@@ -7,7 +7,7 @@ from datetime import datetime
 SCRIPT_DIR = Path(__file__).parent  # where this .py lives
 
 # Where your source 50P2 JSONs live (we'll also try SCRIPT_DIR as fallback):
-REV_DIR = Path(r"C:\Users\gregk\Documents\GitHub\xwa-points\revisions\50P2")
+REV_DIR = Path(r"C:\Users\gregk\Documents\GitHub\xwa-points\revisions\50P10")
 
 # XWD2 repo locations to modify:
 PILOTS_DIR = Path(r"C:\Users\gregk\Documents\GitHub\xwing-data2\data\pilots")
