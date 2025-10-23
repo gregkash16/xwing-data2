@@ -1641,7 +1641,7 @@
   {
     "name": "Sabine Wren",
     "limited": 1,
-    "xws": "sabinewren",
+    "xws": "sabinewren-crew",
     "sides": [
       {
         "title": "Sabine Wren",
@@ -1655,7 +1655,7 @@
       }
     ],
     "cost": {
-      "value": 1
+      "value": 6
     },
     "restrictions": [
       {
