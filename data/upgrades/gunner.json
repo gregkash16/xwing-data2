@@ -20,7 +20,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "BT-1",
@@ -39,7 +40,7 @@
       }
     ],
     "cost": {
-      "value": 2
+      "value": 1
     },
     "restrictions": [
       {
@@ -53,7 +54,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Bistan",
@@ -72,7 +74,7 @@
       }
     ],
     "cost": {
-      "value": 12
+      "value": 16
     },
     "restrictions": [
       {
@@ -83,7 +85,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Bossk",
@@ -113,7 +116,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Dengar",
@@ -147,7 +151,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Ezra Bridger",
@@ -181,7 +186,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Fifth Brother",
@@ -215,7 +221,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Greedo",
@@ -238,7 +245,7 @@
       }
     ],
     "cost": {
-      "value": 1
+      "value": 2
     },
     "restrictions": [
       {
@@ -249,12 +256,13 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Han Solo",
     "limited": 1,
-    "xws": "hansolo",
+    "xws": "hansolo-rebel",
     "sides": [
       {
         "title": "Han Solo",
@@ -279,7 +287,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Han Solo",
@@ -309,7 +318,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Hotshot Gunner",
@@ -328,11 +338,12 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 7
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 2
   },
   {
     "name": "Luke Skywalker",
@@ -366,7 +377,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Skilled Bombardier",
@@ -389,7 +401,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Special Forces Gunner",
@@ -408,7 +421,7 @@
       }
     ],
     "cost": {
-      "value": 0
+      "value": 9
     },
     "restrictions": [
       {
@@ -424,7 +437,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Veteran Tail Gunner",
@@ -443,7 +457,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 5
     },
     "restrictions": [
       {
@@ -454,7 +468,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Veteran Turret Gunner",
@@ -473,7 +488,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 6
     },
     "restrictions": [
       {
@@ -484,7 +499,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 3
   },
   {
     "name": "Finn",
@@ -514,7 +530,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Paige Tico",
@@ -544,7 +561,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Rey",
@@ -578,7 +596,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Seventh Fleet Gunner",
@@ -612,7 +631,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Clone Commander Cody",
@@ -642,7 +662,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Ahsoka Tano",
@@ -670,13 +691,14 @@
       }
     ],
     "cost": {
-      "value": 12
+      "value": 11
     },
     "limited": 1,
     "xws": "ahsokatano",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "sides": [
@@ -693,7 +715,7 @@
     ],
     "name": "Clone Captain Rex",
     "cost": {
-      "value": 2
+      "value": 1
     },
     "restrictions": [
       {
@@ -706,7 +728,8 @@
     "xws": "clonecaptainrex",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "sides": [
@@ -723,13 +746,14 @@
     ],
     "name": "Suppressive Gunner",
     "cost": {
-      "value": 7
+      "value": 6
     },
     "limited": 0,
     "xws": "suppressivegunner",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 2
   },
   {
     "name": "Boba Fett",
@@ -760,7 +784,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Weapons Systems Officer",
@@ -783,7 +808,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Sabine Wren",
@@ -809,11 +835,12 @@
       }
     ],
     "cost": {
-      "value": 2
+      "value": 1
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "DT-798",
@@ -843,7 +870,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "First Order Ordnance Tech",
@@ -875,7 +903,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 2
     },
     "restrictions": [
       {
@@ -886,7 +914,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Gar Saxon",
@@ -922,7 +951,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Tiber Saxon",
@@ -956,7 +986,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Ursa Wren",
@@ -975,7 +1006,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 3
     },
     "restrictions": [
       {
@@ -987,7 +1018,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Migs Mayfeld",
@@ -1006,7 +1038,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 3
     },
     "restrictions": [
       {
@@ -1018,7 +1050,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Airen Cracken",
@@ -1037,7 +1070,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "First Order Ordnance Tech",
@@ -1056,7 +1090,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Fennec Shand",
@@ -1075,7 +1110,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Tobias Beckett",
@@ -1094,7 +1130,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "R2-G8",
@@ -1117,7 +1154,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Paige Tico",
@@ -1136,7 +1174,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Dedicated Gunners",
@@ -1156,6 +1195,7 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   }
 ]

@@ -69,8 +69,8 @@
       "caption": "Slippery Trickster",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 10,
+      "cost": 13,
+      "loadout": 15,
       "xws": "echo",
       "ability": "While you decloak, you must use the [2 [Bank Left]] or [2 [Bank Right]] template instead of the [2 [Straight]] template.",
       "image": "https://infinitearenas.com/xw2/images/pilots/echo.png",
@@ -79,11 +79,10 @@
         "text": "After you decloak, you may perform an [Evade] action. At the start of the End Phase, you may spend 1 evade token to gain 1 cloak token."
       },
       "slots": [
-        "Talent",
-        "Talent",
-        "Sensor",
+        "Gunner",
         "Modification",
-        "Gunner"
+        "Sensor",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/echo.png",
       "standard": true,
@@ -91,15 +90,16 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Whisper”",
       "caption": "Soft-Spoken Slayer",
       "initiative": 5,
       "limited": 1,
-      "cost": 5,
-      "loadout": 13,
+      "cost": 14,
+      "loadout": 15,
       "xws": "whisper",
       "ability": "After you perform an attack that hits, gain 1 evade token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/whisper.png",
@@ -108,11 +108,10 @@
         "text": "After you decloak, you may perform an [Evade] action. At the start of the End Phase, you may spend 1 evade token to gain 1 cloak token."
       },
       "slots": [
-        "Talent",
+        "Gunner",
+        "Modification",
         "Sensor",
-        "Modification",
-        "Modification",
-        "Gunner"
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/whisper.png",
       "standard": true,
@@ -120,14 +119,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Imdaar Test Pilot",
       "initiative": 3,
       "limited": 0,
-      "cost": 4,
-      "loadout": 9,
+      "cost": 11,
+      "loadout": 10,
       "xws": "imdaartestpilot",
       "text": "The primary result of a hidden research facility on Imdaar Alpha, the TIE phantom achieves what many thought was impossible: a small starfighter equipped with an advanced cloaking device.",
       "image": "https://infinitearenas.com/xw2/images/pilots/imdaartestpilot.png",
@@ -136,9 +136,9 @@
         "text": "After you decloak, you may perform an [Evade] action. At the start of the End Phase, you may spend 1 evade token to gain 1 cloak token."
       },
       "slots": [
-        "Sensor",
+        "Gunner",
         "Modification",
-        "Gunner"
+        "Sensor"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/imdaartestpilot.png",
       "standard": true,
@@ -146,14 +146,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Sigma Squadron Ace",
       "initiative": 4,
       "limited": 0,
-      "cost": 4,
-      "loadout": 3,
+      "cost": 12,
+      "loadout": 11,
       "xws": "sigmasquadronace",
       "text": "Featuring a hyperdrive and shields, the TIE phantom is also equipped with five laser cannons, giving it substantial firepower for an Imperial fighter.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sigmasquadronace.png",
@@ -163,9 +164,9 @@
       },
       "slots": [
         "Talent",
-        "Sensor",
+        "Gunner",
         "Modification",
-        "Gunner"
+        "Sensor"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigmasquadronace.png",
       "standard": true,
@@ -173,14 +174,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Whisper”",
       "caption": "Unseen Assailant",
       "initiative": 5,
       "limited": 1,
-      "cost": 6,
+      "cost": 15,
       "charges": {
         "value": 2,
         "recovers": 0
@@ -201,14 +203,16 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "“Echo”",
       "caption": "Copycat",
       "initiative": 4,
       "limited": 1,
-      "cost": 6,
+      "cost": 14,
       "charges": {
         "value": 1,
         "recovers": 1
@@ -229,7 +233,9 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

@@ -79,7 +79,7 @@
     {
       "name": "Republic Judiciary",
       "initiative": 8,
-      "cost": 14,
+      "cost": 36,
       "loadout": 40,
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/republicjudiciary.png",
@@ -104,7 +104,8 @@
         "Team",
         "Team",
         "Cargo"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Raymus Antilles",
@@ -112,7 +113,7 @@
       "initiative": 8,
       "engagement": 0,
       "limited": 1,
-      "cost": 12,
+      "cost": 35,
       "xws": "raymusantilles-epicsl-galacticrepublic",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/raymusantilles-epicsl-galacticrepublic.png",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/raymusantilles-epicsl-galacticrepublic.png",
@@ -131,7 +132,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Focus"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -144,8 +145,7 @@
         {
           "difficulty": "White",
           "type": "Jam"
-        }
-        ,
+        },
         {
           "difficulty": "White",
           "type": "Rotate Arc"
@@ -155,7 +155,16 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["bornforthis-epicsl", "bailorgana-epicsl", "secretprovisions-epicsl", "turbolaserbattery-epicsl", "tantiveiv-epicsl-galacticrepublic"]
+      "standardLoadout": [
+        "bornforthis-epicsl",
+        "bailorgana-epicsl",
+        "secretprovisions-epicsl",
+        "turbolaserbattery-epicsl",
+        "tantiveiv-epicsl-galacticrepublic"
+      ],
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

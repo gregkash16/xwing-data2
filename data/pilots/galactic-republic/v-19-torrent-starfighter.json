@@ -74,18 +74,20 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/kickback.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 10,
+      "cost": 8,
+      "loadout": 11,
       "slots": [
-        "Talent",
         "Missile",
-        "Modification"
+        "Modification",
+        "Modification",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kickback.png",
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Odd Ball”",
@@ -97,19 +99,20 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/oddball.png",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 23,
+      "cost": 9,
+      "loadout": 16,
       "slots": [
-        "Talent",
-        "Torpedo",
         "Missile",
-        "Modification"
+        "Modification",
+        "Modification",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/oddball.png",
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Swoop”",
@@ -121,19 +124,20 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/swoop.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 7,
+      "cost": 8,
+      "loadout": 12,
       "slots": [
-        "Talent",
         "Missile",
-        "Missile",
-        "Modification"
+        "Modification",
+        "Modification",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/swoop.png",
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Axe”",
@@ -145,18 +149,20 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/axe.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 11,
+      "cost": 7,
+      "loadout": 7,
       "slots": [
-        "Talent",
         "Missile",
-        "Modification"
+        "Modification",
+        "Modification",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/axe.png",
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Tucker”",
@@ -168,19 +174,19 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/tucker.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
+      "cost": 8,
       "loadout": 13,
       "slots": [
-        "Talent",
         "Missile",
-        "Missile",
+        "Modification",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tucker.png",
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Blue Squadron Protector",
@@ -191,17 +197,21 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/bluesquadronprotector.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 8,
+      "cost": 9,
+      "loadout": 12,
       "slots": [
-        "Talent",
-        "Modification"
+        "Missile",
+        "Missile",
+        "Modification",
+        "Modification",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronprotector.png",
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Gold Squadron Trooper",
@@ -212,18 +222,19 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/goldsquadrontrooper.png",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 8,
+      "cost": 6,
+      "loadout": 2,
       "slots": [
         "Missile",
-        "Talent",
+        "Modification",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/goldsquadrontrooper.png",
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Kickback”",
@@ -234,7 +245,7 @@
         "name": "Born for This",
         "text": "While another friendly ship at range 0-2 defends, if you are not strained, it may spend your focus and evade tokens as if that ship has them. If it does, you gain 1 strain token."
       },
-      "cost": 4,
+      "cost": 9,
       "xws": "kickback-siegeofcoruscant",
       "ability": "After you perform a [Barrel Roll] action, you may perform a red [Lock] action. If you do, before you perfrom the [Lock] action, you may gain 1 strain to treat it as white.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/kickback-siegeofcoruscant.png",
@@ -264,7 +275,9 @@
         "Clone"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "“Axe”",
@@ -275,7 +288,7 @@
         "name": "Born for This",
         "text": "While another friendly ship at range 0-2 defends, if you are not strained, it may spend your focus and evade tokens as if that ship has them. If it does, you gain 1 strain token."
       },
-      "cost": 3,
+      "cost": 9,
       "xws": "axe-siegeofcoruscant",
       "ability": "After you perform an attack, you may choose another friendly ship with the Born for This ability at range 0-2 in your [Left Arc] or [Right Arc]. The chosen ship gains a lock on the defender.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/axe-siegeofcoruscant.png",
@@ -305,7 +318,9 @@
         "Clone"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "“Slammer”",
@@ -320,12 +335,11 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 6,
+      "cost": 7,
+      "loadout": 7,
       "slots": [
-        "Talent",
         "Missile",
-        "Missile",
+        "Modification",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/slammer.png",
@@ -333,7 +347,8 @@
       "keywords": [
         "Clone"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

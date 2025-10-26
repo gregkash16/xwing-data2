@@ -74,8 +74,8 @@
       "caption": "Contemplative Commander",
       "initiative": 4,
       "limited": 1,
-      "cost": 8,
-      "loadout": 23,
+      "cost": 17,
+      "loadout": 12,
       "xws": "colonelvessery",
       "ability": "While you perform an attack against a locked ship, after you roll attack dice, you may acquire a lock on the defender.",
       "image": "https://infinitearenas.com/xw2/images/pilots/colonelvessery.png",
@@ -85,10 +85,12 @@
       },
       "slots": [
         "Talent",
-        "Sensor",
         "Cannon",
         "Missile",
-        "Configuration"
+        "Modification",
+        "Sensor",
+        "Configuration",
+        "Cannon"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/colonelvessery.png",
       "standard": true,
@@ -96,15 +98,16 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Countess Ryad",
       "caption": "Cutthroat Politico",
       "initiative": 4,
       "limited": 1,
-      "cost": 7,
-      "loadout": 12,
+      "cost": 16,
+      "loadout": 9,
       "xws": "countessryad",
       "ability": "While you would execute a [Straight] maneuver, you may increase the difficulty of the maneuver. If you do, execute it as a [Koiogran Turn] maneuver instead.",
       "image": "https://infinitearenas.com/xw2/images/pilots/countessryad.png",
@@ -114,11 +117,12 @@
       },
       "slots": [
         "Talent",
-        "Sensor",
-        "Sensor",
         "Cannon",
         "Missile",
-        "Configuration"
+        "Modification",
+        "Sensor",
+        "Configuration",
+        "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/countessryad.png",
       "standard": true,
@@ -126,14 +130,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Delta Squadron Pilot",
       "initiative": 1,
       "limited": 0,
-      "cost": 6,
-      "loadout": 11,
+      "cost": 15,
+      "loadout": 9,
       "xws": "deltasquadronpilot",
       "text": "In addition to its missile launchers and six wingtip laser cannons, the formidable TIE defender is equipped with deflector shields and a hyperdrive.",
       "image": "https://infinitearenas.com/xw2/images/pilots/deltasquadronpilot.png",
@@ -142,8 +147,10 @@
         "text": "After you fully execute a speed 3-5 maneuver, you may perform an [Evade] action."
       },
       "slots": [
-        "Sensor",
         "Cannon",
+        "Missile",
+        "Modification",
+        "Sensor",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/deltasquadronpilot.png",
@@ -152,14 +159,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Onyx Squadron Ace",
       "initiative": 4,
       "limited": 0,
-      "cost": 7,
-      "loadout": 18,
+      "cost": 16,
+      "loadout": 10,
       "xws": "onyxsquadronace",
       "text": "The experimental TIE defender outclasses all other contemporary starfighters, though its size, speed, and array of weapons come at a tremendous cost in credits.",
       "image": "https://infinitearenas.com/xw2/images/pilots/onyxsquadronace.png",
@@ -169,9 +177,10 @@
       },
       "slots": [
         "Talent",
-        "Sensor",
         "Cannon",
         "Missile",
+        "Modification",
+        "Sensor",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/onyxsquadronace.png",
@@ -180,14 +189,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Rexler Brath",
       "caption": "Onyx Leader",
       "initiative": 5,
       "limited": 1,
-      "cost": 7,
+      "cost": 18,
       "loadout": 13,
       "xws": "rexlerbrath",
       "ability": "After you perform an attack that hits, if you are evading, expose 1 of the defender's damage cards.",
@@ -198,10 +208,10 @@
       },
       "slots": [
         "Talent",
-        "Sensor",
         "Cannon",
         "Missile",
-        "Missile",
+        "Modification",
+        "Sensor",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rexlerbrath.png",
@@ -210,7 +220,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Vult Skerris",
@@ -224,15 +235,16 @@
       "caption": "Arrogant Ace",
       "standard": true,
       "extended": true,
-      "cost": 7,
-      "loadout": 18,
+      "cost": 17,
+      "loadout": 11,
       "slots": [
         "Talent",
-        "Talent",
-        "Sensor",
         "Cannon",
         "Missile",
-        "Configuration"
+        "Modification",
+        "Sensor",
+        "Configuration",
+        "Talent"
       ],
       "ability": "Action: Gain 1 strain token to recover 1 [Charge]. Before you engage, you may spend 1 [Charge] to perform an action.",
       "charges": {
@@ -244,7 +256,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vultskerris.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/vultskerris.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Darth Vader",
@@ -262,14 +275,15 @@
         "value": 3,
         "recovers": 1
       },
-      "cost": 9,
-      "loadout": 8,
+      "cost": 21,
+      "loadout": 14,
       "slots": [
-        "Force Power",
-        "Tech",
         "Cannon",
         "Missile",
-        "Configuration"
+        "Modification",
+        "Configuration",
+        "Force Power",
+        "Force Power"
       ],
       "ability": "You cannot spend [Force] except while attacking. While you perform an attack, you may spend 1 [Force] to change 1 blank result to a [Hit] result.",
       "keywords": [
@@ -279,7 +293,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/darthvader-tieddefender.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/darthvader-tieddefender.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Captain Dobbs",
@@ -293,13 +308,14 @@
       "caption": "Reliable Replacement",
       "standard": true,
       "extended": true,
-      "cost": 7,
-      "loadout": 18,
+      "cost": 16,
+      "loadout": 10,
       "slots": [
         "Talent",
-        "Sensor",
         "Cannon",
         "Missile",
+        "Modification",
+        "Sensor",
         "Configuration"
       ],
       "ability": "While another friendly ship at range 0-1 defends, before the Neutralize Results step, if you are in the attack arc and are not ionized, you may gain 1 ion token to cancel 1 [Hit] result.",
@@ -308,14 +324,15 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captaindobbs.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/captaindobbs.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Captain Yorr",
       "caption": "Battle Over Endor",
       "initiative": 4,
       "limited": 1,
-      "cost": 7,
+      "cost": 17,
       "xws": "captainyorr-battleoverendor",
       "ability": "After you perform a primary attack that hits, you may spend 1 [Charge] to perform a bonus [Cannon] attack.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/captainyorr-battleoverendor.png",
@@ -363,14 +380,16 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Colonel Jendon",
       "caption": "Battle Over Endor",
       "initiative": 6,
       "limited": 1,
-      "cost": 8,
+      "cost": 20,
       "xws": "coloneljendon-battleoverendor",
       "ability": "While you defend, if you are not shielded, you may change 1 of your blank results to a [Focus] result.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/coloneljendon-battleoverendor.png",
@@ -414,7 +433,9 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

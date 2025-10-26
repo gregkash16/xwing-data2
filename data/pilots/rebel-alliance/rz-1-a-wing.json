@@ -73,7 +73,7 @@
       "caption": "Green Leader",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
+      "cost": 9,
       "loadout": 7,
       "xws": "arvelcrynyd",
       "ability": "If you would fail a [Boost] action by overlapping another ship, you may resolve it as though you were partially executing a maneuver instead. While you perform an attack at attack range 0, treat it as an attack at attack range 1.",
@@ -84,7 +84,8 @@
       },
       "slots": [
         "Talent",
-        "Talent",
+        "Modification",
+        "Missile",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/arvelcrynyd.png",
@@ -93,14 +94,15 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Green Squadron Pilot",
       "initiative": 3,
       "limited": 0,
-      "cost": 4,
-      "loadout": 13,
+      "cost": 9,
+      "loadout": 9,
       "xws": "greensquadronpilot",
       "text": "Due to its sensitive controls and high maneuverability, only the most talented pilots belong in an A-wing cockpit.",
       "image": "https://infinitearenas.com/xw2/images/pilots/greensquadronpilot.png",
@@ -110,7 +112,7 @@
       },
       "slots": [
         "Talent",
-        "Talent",
+        "Modification",
         "Missile",
         "Configuration"
       ],
@@ -120,15 +122,16 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Jake Farrell",
       "caption": "Sage Instructor",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 11,
+      "loadout": 16,
       "xws": "jakefarrell",
       "ability": "After you perform a [Barrel Roll] or [Boost] action, you may choose a friendly ship at range 0-1. That ship may perform a [Focus] action.",
       "image": "https://infinitearenas.com/xw2/images/pilots/jakefarrell.png",
@@ -138,10 +141,10 @@
       },
       "slots": [
         "Talent",
-        "Talent",
-        "Missile",
         "Modification",
-        "Configuration"
+        "Missile",
+        "Configuration",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jakefarrell.png",
       "standard": true,
@@ -149,14 +152,15 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Phoenix Squadron Pilot",
       "initiative": 1,
       "limited": 0,
-      "cost": 3,
-      "loadout": 6,
+      "cost": 7,
+      "loadout": 1,
       "xws": "phoenixsquadronpilot",
       "text": "Led by Commander Jun Sato, the brave but inexperienced pilots of Phoenix Squadron face staggering odds in their battle against the Galactic Empire.",
       "image": "https://infinitearenas.com/xw2/images/pilots/phoenixsquadronpilot.png",
@@ -166,6 +170,8 @@
       },
       "slots": [
         "Talent",
+        "Modification",
+        "Missile",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/phoenixsquadronpilot.png",
@@ -174,7 +180,8 @@
       "keywords": [
         "A-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Wedge Antilles",
@@ -190,19 +197,21 @@
       "keywords": [
         "A-wing"
       ],
-      "cost": 3,
-      "loadout": 4,
+      "cost": 11,
+      "loadout": 16,
       "slots": [
         "Talent",
-        "Talent",
         "Modification",
-        "Configuration"
+        "Missile",
+        "Configuration",
+        "Talent"
       ],
       "ability": "While you perform a primary attack, if the defender is in your [Front Arc], the defender rolls 1 fewer defense die.",
       "caption": "Promising Pilot",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wedgeantilles-rz1awing.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/wedgeantilles-rz1awing.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Sabine Wren",
@@ -219,19 +228,20 @@
         "A-wing",
         "Mandalorian"
       ],
-      "cost": 3,
+      "cost": 8,
       "loadout": 4,
       "slots": [
         "Talent",
         "Modification",
-        "Modification",
+        "Missile",
         "Configuration"
       ],
       "ability": "While you defend or perform an attack, if the attack range is 1 and you are in the enemy ship's [Front Arc], you may change 1 of your results to an [Evade] or [Hit] result.",
       "caption": "Daughter of Mandalore",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sabinewren-rz1awing.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/sabinewren-rz1awing.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Hera Syndulla",
@@ -245,15 +255,14 @@
       "caption": "Phoenix Leader",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 4,
+      "cost": 12,
+      "loadout": 15,
       "slots": [
         "Talent",
-        "Talent",
-        "Missile",
-        "Sensor",
         "Modification",
-        "Configuration"
+        "Missile",
+        "Configuration",
+        "Talent"
       ],
       "ability": "While another friendly ship at range 1-2 defends or performs an attack, during a Modify Dice step, you may transfer 1 of your focus tokens, evade tokens, or locks to that ship.",
       "keywords": [
@@ -262,7 +271,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/herasyndulla-rz1awing.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/herasyndulla-rz1awing.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ahsoka Tano",
@@ -280,15 +290,14 @@
         "value": 3,
         "recovers": 1
       },
-      "cost": 4,
-      "loadout": 5,
+      "cost": 12,
+      "loadout": 12,
       "slots": [
-        "Force Power",
-        "Force Power",
+        "Modification",
         "Missile",
-        "Modification",
-        "Modification",
-        "Configuration"
+        "Configuration",
+        "Force Power",
+        "Force Power"
       ],
       "ability": "After you fully execute a maneuver, you may choose a friendly ship at range 1-2 and spend 2 [Force]. That ship may perform an action, even while stressed.",
       "keywords": [
@@ -297,7 +306,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ahsokatano-rz1awing.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/ahsokatano-rz1awing.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Shara Bey",
@@ -311,13 +321,14 @@
       "caption": "Green Four",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 17,
+      "cost": 9,
+      "loadout": 10,
       "slots": [
         "Talent",
-        "Missile",
         "Modification",
-        "Configuration"
+        "Missile",
+        "Configuration",
+        "Talent"
       ],
       "ability": "While you defend or perform a primary attack, you may spend 1 lock you have on the enemy ship to add 1 [Focus] result to your dice results.",
       "keywords": [
@@ -325,7 +336,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sharabey-rz1awing.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/sharabey-rz1awing.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Derek Klivian",
@@ -339,10 +351,11 @@
       "caption": "Hobbie",
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 9,
+      "cost": 9,
+      "loadout": 12,
       "slots": [
         "Talent",
+        "Modification",
         "Missile",
         "Configuration"
       ],
@@ -352,7 +365,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/derekklivian.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/derekklivian.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Keo Venzee",
@@ -366,16 +380,17 @@
       "caption": "Auspicious Ace",
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 10,
       "loadout": 12,
       "force": {
         "value": 1,
         "recovers": 0
       },
       "slots": [
-        "Talent",
+        "Modification",
         "Missile",
-        "Configuration"
+        "Configuration",
+        "Force Power"
       ],
       "ability": "If you have no active [Force], after you reveal a bank [[Bank Left] or [Bank Right]] or turn [[Turn Left] or [Turn Right]] maneuver, you may increase the difficulty of the maneuver. If you do, perform that maneuver as a sideslip and recover 1 [Force].",
       "keywords": [
@@ -383,7 +398,8 @@
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/keovenzee.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/keovenzee.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Tycho Celchu",
@@ -397,14 +413,14 @@
       "caption": "Son of Alderaan",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 10,
+      "cost": 11,
+      "loadout": 15,
       "slots": [
         "Talent",
-        "Talent",
-        "Cannon",
+        "Modification",
         "Missile",
-        "Configuration"
+        "Configuration",
+        "Talent"
       ],
       "ability": "While you have 2 or fewer stress tokens, you may perform actions, even while stressed.",
       "keywords": [
@@ -412,14 +428,15 @@
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/tychocelchu.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/tychocelchu.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Arvel Crynyd",
       "caption": "Green Leader",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
+      "cost": 8,
       "xws": "arvelcrynyd-swz106",
       "ability": "If you would fail a [Boost] action by overlapping another ship, you may resolve it as though you were partially executing a maneuver instead. While you perform an attack at attack range 0, treat it as an attack at attack range 1.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/arvelcrynyd-swz106.png",
@@ -438,14 +455,16 @@
         "A-wing"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Jake Farrell",
       "caption": "Sage Instructor",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
+      "cost": 10,
       "xws": "jakefarrell-swz106",
       "ability": "After you perform a [Barrel Roll] or [Boost] action, you may choose a friendly ship at range 0-1. That ship may perform a [Focus] action.",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/jakefarrell-swz106.png",
@@ -465,7 +484,9 @@
         "A-wing"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Shara Bey",
@@ -479,7 +500,7 @@
       "caption": "Green Four",
       "standard": true,
       "extended": true,
-      "cost": 3,
+      "cost": 8,
       "standardLoadout": [
         "hopeful",
         "concussionmissiles"
@@ -491,7 +512,9 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sharabey-rz1awing.png",
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sharabey-swz106.png",
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Arvel Crynyd",
@@ -499,7 +522,7 @@
       "xws": "arvelcrynyd-battleoverendor",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
+      "cost": 10,
       "shipAbility": {
         "name": "Vectored Cannons",
         "text": "During the System Phase, you may perform a red [Boost] or [Rotate Arc] action. You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]."
@@ -567,7 +590,9 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Tycho Celchu",
@@ -575,7 +600,7 @@
       "xws": "tychocelchu-battleoverendor",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
+      "cost": 11,
       "shipAbility": {
         "name": "Vectored Cannons",
         "text": "During the System Phase, you may perform a red [Boost] or [Rotate Arc] action. You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]."
@@ -644,7 +669,9 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Gemmer Sojan",
@@ -652,7 +679,7 @@
       "xws": "gemmersojan-battleoverendor",
       "initiative": 2,
       "limited": 1,
-      "cost": 4,
+      "cost": 9,
       "shipAbility": {
         "name": "Vectored Cannons",
         "text": "During the System Phase, you may perform a red [Boost] or [Rotate Arc] action. You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]."
@@ -691,7 +718,9 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

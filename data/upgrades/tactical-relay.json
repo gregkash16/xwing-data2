@@ -35,11 +35,12 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 7
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "TV-94",
@@ -72,7 +73,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "K2-B4",
@@ -105,7 +107,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "TA-175",
@@ -134,11 +137,12 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 5
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "sides": [
@@ -184,7 +188,8 @@
     "xws": "kalani",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "TX-25",
@@ -199,8 +204,11 @@
         "ability": "After a friendly ship at range 0-3 is destroyed, you may equip a Tactical Relay upgrade attached to that ship to this one.",
         "title": "TX-25",
         "type": "Tactical Relay",
-        "slots": ["Tactical Relay"]
+        "slots": [
+          "Tactical Relay"
+        ]
       }
-    ]
+    ],
+    "restricted": 0
   }
 ]

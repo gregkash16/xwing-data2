@@ -20,7 +20,8 @@
     },
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Collision Detector",
@@ -47,7 +48,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Fire-Control System",
@@ -70,7 +72,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Trajectory Simulator",
@@ -93,7 +96,8 @@
     },
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 2
   },
   {
     "name": "Passive Sensors",
@@ -120,7 +124,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Blank Signature",
@@ -143,7 +148,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Long-Range Scanners",
@@ -166,7 +172,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Relay System",
@@ -185,7 +192,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Homing Beacon",
@@ -208,6 +216,7 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   }
 ]

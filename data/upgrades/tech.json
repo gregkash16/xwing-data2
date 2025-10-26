@@ -20,7 +20,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Ferrosphere Paint",
@@ -50,7 +51,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Hyperspace Tracking Data",
@@ -85,7 +87,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Primed Thrusters",
@@ -104,7 +107,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 5
     },
     "restrictions": [
       {
@@ -115,7 +118,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Targeting Synchronizer",
@@ -145,7 +149,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Pattern Analyzer",
@@ -168,7 +173,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Biohexacrypt Codes",
@@ -203,7 +209,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Deuterium Power Cells",
@@ -234,11 +241,12 @@
       }
     ],
     "cost": {
-      "value": 8
+      "value": 7
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "sides": [
@@ -256,7 +264,9 @@
     "name": "Automated Target Priority",
     "restrictions": [
       {
-        "initiative": ["3 OR LOWER"]
+        "initiative": [
+          "3 OR LOWER"
+        ]
       }
     ],
     "cost": {
@@ -266,7 +276,8 @@
     "xws": "automatedtargetpriority",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "sides": [
@@ -319,7 +330,8 @@
     "xws": "sensorbuoysuite",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Sensor Scramblers",
@@ -350,7 +362,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Threat Sensors",
@@ -369,7 +382,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Experimental Scanners",
@@ -388,7 +402,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Targeting Relay",
@@ -411,7 +426,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Interference Array",
@@ -434,7 +450,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Synchronized Handling",
@@ -457,7 +474,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Primed Overdrive Thrusters",
@@ -476,7 +494,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Accelerated Sensor Array",
@@ -495,7 +514,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Precision Holo-Targeter",
@@ -514,6 +534,7 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   }
 ]

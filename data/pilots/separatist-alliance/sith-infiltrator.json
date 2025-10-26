@@ -79,26 +79,26 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/darthmaul.png",
       "standard": true,
       "extended": true,
-      "cost": 7,
+      "cost": 17,
       "loadout": 20,
       "slots": [
-        "Cannon",
-        "Torpedo",
         "Crew",
         "Crew",
-        "Device",
+        "Sensor",
         "Modification",
-        "Title",
         "Force Power",
         "Force Power",
-        "Tactical Relay"
+        "Torpedo",
+        "Payload",
+        "Title"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/darthmaul.png",
       "keywords": [
         "Dark Side",
         "Sith"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Count Dooku",
@@ -117,25 +117,25 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/countdooku.png",
       "standard": true,
       "extended": true,
-      "cost": 6,
-      "loadout": 13,
+      "cost": 15,
+      "loadout": 10,
       "slots": [
-        "Cannon",
-        "Torpedo",
         "Crew",
         "Crew",
-        "Device",
+        "Sensor",
         "Modification",
-        "Title",
         "Force Power",
-        "Tactical Relay"
+        "Force Power",
+        "Payload",
+        "Title"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/countdooku.png",
       "keywords": [
         "Dark Side",
         "Sith"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Dark Courier",
@@ -146,28 +146,32 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/darkcourier.png",
       "standard": true,
       "extended": true,
-      "cost": 6,
-      "loadout": 15,
+      "cost": 12,
+      "loadout": 6,
       "slots": [
-        "Cannon",
-        "Torpedo",
-        "Device",
+        "Crew",
+        "Crew",
+        "Sensor",
+        "Payload",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/darkcourier.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "0-66",
       "xws": "066",
-      "cost": 5,
-      "loadout": 12,
+      "cost": 13,
+      "loadout": 13,
       "slots": [
-        "Talent",
-        "Torpedo",
-        "Cannon",
-        "Device",
+        "Crew",
+        "Crew",
+        "Sensor",
         "Modification",
+        "Torpedo",
+        "Tactical Relay",
+        "Payload",
         "Title"
       ],
       "caption": "Sinister Automaton",
@@ -195,14 +199,15 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Count Dooku",
       "caption": "Siege of Coruscant",
       "initiative": 5,
       "limited": 1,
-      "cost": 6,
+      "cost": 16,
       "xws": "countdooku-siegeofcoruscant",
       "ability": "During an attack, before a ship at range 0-2 rolls attack or defense dice, if all of your [Force] are active, you may spend 1 [Force] and name a result. If the roll does not contain the named result, the ship must change 1 die to that result.",
       "shipActions": [
@@ -248,7 +253,9 @@
         "Sith"
       ],
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

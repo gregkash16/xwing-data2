@@ -73,28 +73,28 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/poedameron.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/poedameron.png",
-      "cost": 7,
-      "loadout": 26,
+      "cost": 18,
+      "loadout": 24,
       "charges": {
         "value": 1,
         "recovers": 1
       },
       "slots": [
-        "Talent",
         "Astromech",
         "Modification",
-        "Modification",
-        "Torpedo",
-        "Title",
+        "Tech",
         "Configuration",
-        "Tech"
+        "Talent",
+        "Talent",
+        "Title"
       ],
       "standard": true,
       "extended": true,
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Poe Dameron",
@@ -107,20 +107,20 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 5,
-      "loadout": 7,
+      "cost": 14,
+      "loadout": 11,
       "charges": {
         "value": 2,
         "recovers": 1
       },
       "slots": [
-        "Talent",
-        "Talent",
         "Astromech",
         "Modification",
-        "Configuration",
         "Tech",
-        "Tech"
+        "Configuration",
+        "Talent",
+        "Talent",
+        "Sensor"
       ],
       "standard": true,
       "extended": true,
@@ -129,7 +129,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Blue Squadron Rookie",
@@ -143,20 +144,21 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/bluesquadronrookie.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronrookie.png",
-      "cost": 4,
-      "loadout": 7,
+      "cost": 10,
+      "loadout": 4,
       "slots": [
         "Astromech",
         "Modification",
-        "Configuration",
-        "Tech"
+        "Tech",
+        "Configuration"
       ],
       "standard": true,
       "extended": true,
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Red Squadron Expert",
@@ -170,21 +172,22 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/redsquadronexpert.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/redsquadronexpert.png",
-      "cost": 4,
-      "loadout": 5,
+      "cost": 11,
+      "loadout": 9,
       "slots": [
-        "Talent",
         "Astromech",
         "Modification",
+        "Tech",
         "Configuration",
-        "Tech"
+        "Talent"
       ],
       "standard": true,
       "extended": true,
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Black Squadron Ace",
@@ -198,21 +201,23 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/blacksquadronace-t70xwing.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksquadronace-t70xwing.png",
-      "cost": 5,
-      "loadout": 15,
+      "cost": 13,
+      "loadout": 17,
       "slots": [
-        "Talent",
         "Astromech",
         "Modification",
+        "Tech",
         "Configuration",
-        "Tech"
+        "Talent",
+        "Torpedo"
       ],
       "standard": true,
       "extended": true,
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ello Asty",
@@ -225,15 +230,14 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 5,
-      "loadout": 15,
+      "cost": 14,
+      "loadout": 16,
       "slots": [
-        "Talent",
-        "Talent",
         "Astromech",
         "Modification",
+        "Tech",
         "Configuration",
-        "Tech"
+        "Talent"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/elloasty.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/elloasty.png",
@@ -242,7 +246,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Joph Seastriker",
@@ -255,14 +260,13 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 4,
-      "loadout": 6,
+      "cost": 11,
+      "loadout": 10,
       "slots": [
-        "Talent",
         "Astromech",
         "Modification",
-        "Configuration",
-        "Tech"
+        "Tech",
+        "Configuration"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/jophseastriker.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jophseastriker.png",
@@ -271,7 +275,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Karé Kun",
@@ -284,15 +289,14 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 4,
-      "loadout": 5,
+      "cost": 12,
+      "loadout": 13,
       "slots": [
-        "Talent",
         "Astromech",
         "Modification",
+        "Tech",
         "Configuration",
-        "Cannon",
-        "Tech"
+        "Talent"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/karekun.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/karekun.png",
@@ -301,7 +305,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lieutenant Bastian",
@@ -316,20 +321,21 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantbastian.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantbastian.png",
-      "cost": 4,
-      "loadout": 5,
+      "cost": 10,
+      "loadout": 4,
       "slots": [
         "Astromech",
         "Modification",
-        "Configuration",
-        "Tech"
+        "Tech",
+        "Configuration"
       ],
       "standard": true,
       "extended": true,
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Nien Nunb",
@@ -342,14 +348,14 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 5,
-      "loadout": 11,
+      "cost": 14,
+      "loadout": 16,
       "slots": [
-        "Talent",
         "Astromech",
-        "Missile",
         "Modification",
+        "Tech",
         "Configuration",
+        "Talent",
         "Tech"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/niennunb.png",
@@ -359,7 +365,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Jaycris Tubbs",
@@ -374,20 +381,21 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/jaycristubbs.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jaycristubbs.png",
-      "cost": 4,
+      "cost": 10,
       "loadout": 7,
       "slots": [
         "Astromech",
         "Modification",
-        "Configuration",
-        "Tech"
+        "Tech",
+        "Configuration"
       ],
       "standard": true,
       "extended": true,
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Jessika Pava",
@@ -402,8 +410,8 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/jessikapava.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jessikapava.png",
-      "cost": 5,
-      "loadout": 14,
+      "cost": 12,
+      "loadout": 10,
       "charges": {
         "value": 1,
         "recovers": 1
@@ -411,15 +419,16 @@
       "slots": [
         "Astromech",
         "Modification",
-        "Configuration",
-        "Tech"
+        "Tech",
+        "Configuration"
       ],
       "standard": true,
       "extended": true,
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Temmin Wexley",
@@ -434,22 +443,22 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/temminwexley.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/temminwexley.png",
-      "cost": 5,
-      "loadout": 16,
+      "cost": 12,
+      "loadout": 11,
       "slots": [
-        "Talent",
         "Astromech",
         "Modification",
-        "Modification",
+        "Tech",
         "Configuration",
-        "Tech"
+        "Talent"
       ],
       "standard": true,
       "extended": true,
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Temmin Wexley",
@@ -462,15 +471,14 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 4,
-      "loadout": 7,
+      "cost": 11,
+      "loadout": 5,
       "slots": [
-        "Talent",
         "Astromech",
         "Modification",
-        "Configuration",
         "Tech",
-        "Tech"
+        "Configuration",
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -479,7 +487,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "C’ai Threnalli",
@@ -492,14 +501,14 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 4,
-      "loadout": 6,
+      "cost": 12,
+      "loadout": 14,
       "slots": [
-        "Talent",
         "Astromech",
         "Modification",
+        "Tech",
         "Configuration",
-        "Tech"
+        "Talent"
       ],
       "standard": true,
       "extended": true,
@@ -508,7 +517,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Nimi Chireen",
@@ -522,12 +532,12 @@
       "caption": "Hopeful Hero",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 5,
+      "cost": 11,
+      "loadout": 10,
       "slots": [
-        "Tech",
         "Astromech",
         "Modification",
+        "Tech",
         "Configuration"
       ],
       "ability": "While you perform an attack, if the defender's initiative is higher than yours, you may change 1 blank result to a [Focus] result.",
@@ -536,7 +546,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Venisa Doza",
@@ -550,17 +561,15 @@
       "caption": "Jade Leader",
       "standard": true,
       "extended": true,
-      "cost": 5,
-      "loadout": 13,
+      "cost": 13,
+      "loadout": 15,
       "slots": [
-        "Talent",
-        "Tech",
-        "Missile",
-        "Missile",
         "Astromech",
         "Modification",
-        "Modification",
-        "Configuration"
+        "Tech",
+        "Configuration",
+        "Talent",
+        "Missile"
       ],
       "ability": "While you perform a [Torpedo] or [Missile] attack, you may treat the [Front Arc] requirement as [Rear Arc] for that attack. If you do, treat the range requirement as 1-2.",
       "image": "https://infinitearenas.com/xw2/images/pilots/venisadoza.png",
@@ -568,7 +577,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Zay Versio",
@@ -582,15 +592,14 @@
       "caption": "Her Father's Daughter",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 6,
+      "cost": 11,
+      "loadout": 10,
       "slots": [
-        "Talent",
-        "Talent",
-        "Tech",
         "Astromech",
         "Modification",
-        "Configuration"
+        "Tech",
+        "Configuration",
+        "Talent"
       ],
       "ability": "While you defend, if the attacker is damaged, you may reroll 1 defense die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/zayversio.png",
@@ -598,7 +607,8 @@
       "keywords": [
         "X-wing"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "C’ai Threnalli",
@@ -613,7 +623,7 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/caithrenalli-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/caithrenalli-evacuationofdqar.png",
-      "cost": 4,
+      "cost": 11,
       "loadout": 0,
       "standardLoadout": [
         "forthecause-evacuationofdqar",
@@ -652,7 +662,9 @@
             "type": "Focus"
           }
         }
-      ]
+      ],
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Jaycris Tubbs",
@@ -667,7 +679,7 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/jaycristubbs-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jaycristubbs-evacuationofdqar.png",
-      "cost": 4,
+      "cost": 10,
       "loadout": 0,
       "standardLoadout": [
         "forthecause-evacuationofdqar",
@@ -704,7 +716,9 @@
             "type": "Focus"
           }
         }
-      ]
+      ],
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Poe Dameron",
@@ -719,7 +733,7 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/poedameron-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/poedameron-evacuationofdqar.png",
-      "cost": 6,
+      "cost": 16,
       "loadout": 0,
       "charges": {
         "value": 1,
@@ -762,7 +776,9 @@
           "difficulty": "White",
           "type": "SLAM"
         }
-      ]
+      ],
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Stomeroni Starck",
@@ -777,7 +793,7 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/stomeronistarck-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/stomeronistarck-evacuationofdqar.png",
-      "cost": 5,
+      "cost": 13,
       "loadout": 0,
       "standardLoadout": [
         "forthecause-evacuationofdqar",
@@ -815,7 +831,9 @@
             "type": "Focus"
           }
         }
-      ]
+      ],
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

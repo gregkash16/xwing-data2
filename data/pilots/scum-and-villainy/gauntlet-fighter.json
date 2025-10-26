@@ -65,7 +65,6 @@
       "type": "Coordinate"
     }
   ],
-  "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_GauntletFighter.png",
   "pilots": [
     {
       "xws": "maul",
@@ -79,7 +78,7 @@
         "value": 3,
         "recovers": 1
       },
-      "cost": 7,
+      "cost": 18,
       "loadout": 18,
       "initiative": 5,
       "limited": 1,
@@ -87,29 +86,30 @@
       "extended": true,
       "epic": true,
       "slots": [
-        "Force Power",
-        "Force Power",
         "Crew",
         "Gunner",
-        "Device",
         "Illicit",
         "Modification",
         "Modification",
+        "Payload",
         "Configuration",
+        "Force Power",
+        "Force Power",
         "Title"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/maul.png",
       "keywords": [
         "Dark Side"
       ],
-      "caption": "Lord of the Shadow Collective"
+      "caption": "Lord of the Shadow Collective",
+      "restricted": 0
     },
     {
       "xws": "rookkast",
       "name": "Rook Kast",
       "image": "https://infinitearenas.com/xw2/images/pilots/rookkast.png",
-      "cost": 6,
-      "loadout": 12,
+      "cost": 17,
+      "loadout": 17,
       "initiative": 3,
       "limited": 1,
       "ability": "Before you engage, you may gain 1 strain token. While you perform a primary attack, if you are strained, you may change 1 of your blank or [Focus] results to a [Hit] result.",
@@ -117,25 +117,27 @@
       "extended": true,
       "epic": true,
       "slots": [
-        "Talent",
         "Crew",
         "Gunner",
-        "Device",
         "Illicit",
         "Modification",
-        "Configuration"
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rookkast.png",
       "keywords": [
         "Mandalorian"
       ],
-      "caption": "Stoic Super Commando"
+      "caption": "Stoic Super Commando",
+      "restricted": 0
     },
     {
       "xws": "shadowcollectiveoperator",
       "name": "Shadow Collective Operator",
       "image": "https://infinitearenas.com/xw2/images/pilots/shadowcollectiveoperator.png",
-      "cost": 6,
+      "cost": 15,
       "loadout": 20,
       "initiative": 1,
       "limited": 0,
@@ -145,16 +147,17 @@
       "slots": [
         "Crew",
         "Gunner",
-        "Device",
-        "Device",
         "Illicit",
         "Modification",
+        "Modification",
+        "Payload",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/shadowcollectiveoperator.png",
       "keywords": [
         "Mandalorian"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "xws": "bokatankryze-armedanddangerous",
@@ -169,7 +172,7 @@
         "value": 2,
         "recovers": 0
       },
-      "cost": 6,
+      "cost": 16,
       "loadout": 0,
       "initiative": 4,
       "limited": 1,
@@ -185,7 +188,9 @@
       "keywords": [
         "Mandalorian"
       ],
-      "caption": "Armed and Dangerous"
+      "caption": "Armed and Dangerous",
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

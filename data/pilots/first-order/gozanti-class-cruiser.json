@@ -71,7 +71,7 @@
     {
       "name": "First Order Sympathizers",
       "initiative": 7,
-      "cost": 11,
+      "cost": 26,
       "loadout": 40,
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/firstordersympathizers.png",
@@ -95,7 +95,8 @@
         "Team",
         "Cargo",
         "Cargo"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Cerra Fellian",
@@ -122,7 +123,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Coordinate"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -145,7 +146,12 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["pettyofficerthanisson", "ioncannonbattery-epicsl", "malefactor-epicsl"]
+      "standardLoadout": [
+        "pettyofficerthanisson",
+        "ioncannonbattery-epicsl",
+        "malefactor-epicsl"
+      ],
+      "restricted": 0
     }
   ]
 }

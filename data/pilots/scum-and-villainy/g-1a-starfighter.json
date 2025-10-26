@@ -65,18 +65,19 @@
       "caption": "Reprogrammed Protocol Droid",
       "initiative": 3,
       "limited": 1,
-      "cost": 5,
-      "loadout": 15,
+      "cost": 12,
+      "loadout": 13,
       "xws": "4lom",
       "ability": "After you fully execute a red maneuver, gain 1 calculate token. At the start of the End Phase, you may choose 1 ship at range 0-1. If you do, transfer 1 of your stress tokens to that ship.",
       "image": "https://infinitearenas.com/xw2/images/pilots/4lom.png",
       "slots": [
-        "Talent",
-        "Sensor",
         "Crew",
         "Illicit",
+        "Missile",
+        "Sensor",
         "Modification",
-        "Title"
+        "Title",
+        "Talent"
       ],
       "shipActions": [
         {
@@ -99,21 +100,23 @@
         "Bounty Hunter",
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Gand Findsman",
       "initiative": 1,
       "limited": 0,
-      "cost": 4,
-      "loadout": 6,
+      "cost": 10,
+      "loadout": 8,
       "xws": "gandfindsman",
       "text": "The legendary Findsmen of Gand worship the enshrouding mists of their home planet, using signs, augurs, and mystical rituals to track their quarry.",
       "image": "https://infinitearenas.com/xw2/images/pilots/gandfindsman.png",
       "slots": [
-        "Sensor",
         "Crew",
         "Illicit",
+        "Missile",
+        "Sensor",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gandfindsman.png",
@@ -122,25 +125,27 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Zuckuss",
       "caption": "Meditative Gand",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
-      "loadout": 6,
+      "cost": 11,
+      "loadout": 11,
       "xws": "zuckuss",
       "ability": "While you perform a primary attack, you may roll 1 additional attack die. If you do, the defender rolls 1 additional defense die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/zuckuss.png",
       "slots": [
-        "Talent",
-        "Sensor",
         "Crew",
         "Illicit",
+        "Missile",
+        "Sensor",
         "Modification",
-        "Title"
+        "Title",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zuckuss.png",
       "standard": false,
@@ -148,14 +153,15 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Zuckuss",
       "caption": "Armed and Dangerous",
       "initiative": 3,
       "limited": 1,
-      "cost": 5,
+      "cost": 12,
       "loadout": 0,
       "xws": "zuckuss-armedanddangerous",
       "ability": "While you perform a primary attack, you may roll 1 additional attack die. If you do, the defender rolls 1 additional defense die.",
@@ -221,7 +227,9 @@
             "type": "Calculate"
           }
         }
-      ]
+      ],
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

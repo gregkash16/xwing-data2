@@ -92,8 +92,8 @@
       "caption": "Defiant Duelist",
       "initiative": 6,
       "limited": 1,
-      "cost": 5,
-      "loadout": 12,
+      "cost": 14,
+      "loadout": 24,
       "xws": "quickdraw",
       "ability": "After you lose a shield, you may spend 1 [Charge]. If you do, you may perform a bonus primary attack.",
       "shipAbility": {
@@ -101,12 +101,14 @@
         "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Missile] upgrades as [Single Turret Arc]."
       },
       "slots": [
-        "Talent",
-        "Talent",
         "Sensor",
-        "Modification",
         "Gunner",
-        "Tech"
+        "Modification",
+        "Tech",
+        "Missile",
+        "Talent",
+        "Talent",
+        "Modification"
       ],
       "charges": {
         "value": 1,
@@ -119,15 +121,16 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "“Backdraft”",
       "caption": "Fiery Fanatic",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 8,
+      "cost": 12,
+      "loadout": 19,
       "xws": "backdraft",
       "ability": "While you perform a [Single Turret Arc] primary attack, if the defender is in your [Rear Arc], roll 1 additional die.",
       "shipAbility": {
@@ -135,12 +138,13 @@
         "text": "You can rotate your [Single Turret Arc] indicator only to your [Front Arc] or [Rear Arc]. You must treat the [Front Arc] requirement of your equipped [Missile] upgrades as [Single Turret Arc]."
       },
       "slots": [
-        "Talent",
         "Sensor",
-        "Missile",
-        "Modification",
         "Gunner",
-        "Tech"
+        "Modification",
+        "Tech",
+        "Missile",
+        "Talent",
+        "Modification"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/backdraft.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/backdraft.png",
@@ -149,14 +153,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Omega Squadron Expert",
       "initiative": 3,
       "limited": 0,
-      "cost": 4,
-      "loadout": 9,
+      "cost": 11,
+      "loadout": 19,
       "xws": "omegasquadronexpert",
       "text": "The TIE/sf is a versatile starfighter that carries specialized armament and experimental systems for long-range operations by First Order Special Forces.",
       "shipAbility": {
@@ -165,10 +170,11 @@
       },
       "slots": [
         "Sensor",
-        "Missile",
-        "Modification",
         "Gunner",
-        "Tech"
+        "Modification",
+        "Tech",
+        "Missile",
+        "Talent"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/omegasquadronexpert.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/omegasquadronexpert.png",
@@ -177,14 +183,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Zeta Squadron Survivor",
       "initiative": 2,
       "limited": 0,
-      "cost": 4,
-      "loadout": 11,
+      "cost": 10,
+      "loadout": 16,
       "xws": "zetasquadronsurvivor",
       "text": "Humiliated by their failure, the remaining pilots from Starkiller Base are eager to prove their worth in pursuit of the Resistance.",
       "shipAbility": {
@@ -193,9 +200,10 @@
       },
       "slots": [
         "Sensor",
-        "Talent",
         "Gunner",
-        "Tech"
+        "Modification",
+        "Tech",
+        "Missile"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/zetasquadronsurvivor.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zetasquadronsurvivor.png",
@@ -204,7 +212,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lieutenant LeHuse",
@@ -219,23 +228,24 @@
       "standard": true,
       "extended": true,
       "slots": [
-        "Talent",
         "Sensor",
+        "Gunner",
+        "Modification",
         "Tech",
         "Missile",
-        "Missile",
-        "Gunner",
+        "Talent",
         "Modification"
       ],
       "ability": "While you perform an attack, you may spend another friendly ship's lock on the defender to reroll any number of your results.",
-      "cost": 4,
-      "loadout": 6,
+      "cost": 13,
+      "loadout": 25,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantlehuse.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantlehuse.png",
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Captain Phasma",
@@ -250,30 +260,30 @@
       "standard": true,
       "extended": true,
       "slots": [
-        "Talent",
         "Sensor",
-        "Tech",
-        "Missile",
         "Gunner",
         "Modification",
-        "Modification"
+        "Tech",
+        "Missile",
+        "Talent"
       ],
       "ability": "While you defend, after the Neutralize Results step, another friendly ship at range 0-1 must suffer 1 [Hit]/[Critical Hit] damage to cancel 1 matching result.",
-      "cost": 4,
-      "loadout": 9,
+      "cost": 10,
+      "loadout": 15,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captainphasma.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/captainphasma.png",
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lieutenant LeHuse",
       "caption": "Evacuation of D'Qar",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
+      "cost": 11,
       "loadout": 0,
       "xws": "lieutenantlehuse-evacuationofdqar",
       "ability": "At the start of the Engagement Phase, you may acquire a lock on an object at range 1-3 that has a friendly lock. If you do, break a friendly lock on that object.",
@@ -319,14 +329,16 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Theta 3",
       "caption": "Evacuation of D'Qar",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
+      "cost": 11,
       "loadout": 0,
       "xws": "theta3-evacuationofdqar",
       "ability": "At the start of the Engagement Phase, if you have no green tokens, you may spend 1 [Charge] to gain an evade token.",
@@ -376,14 +388,16 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Theta 4",
       "caption": "Evacuation of D'Qar",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
+      "cost": 11,
       "loadout": 0,
       "xws": "theta4-evacuationofdqar",
       "ability": "While an enemy ship in your [Single Turret Arc] performs an attack, you may spend 1 [Charge]. If you do, spend 1 [Charge] from your [Missile] upgrade to choose two attack dice. The attacker must reroll those dice.",
@@ -425,7 +439,9 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

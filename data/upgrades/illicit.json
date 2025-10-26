@@ -32,7 +32,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Contraband Cybernetics",
@@ -55,11 +56,12 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 4
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Deadman's Switch",
@@ -82,7 +84,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Feedback Array",
@@ -105,7 +108,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Inertial Dampeners",
@@ -128,7 +132,8 @@
     },
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Rigged Cargo Chute",
@@ -156,7 +161,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 2
     },
     "restrictions": [
       {
@@ -168,7 +173,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Coaxium Hyperfuel",
@@ -187,7 +193,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 2
     },
     "restrictions": [
       {
@@ -198,7 +204,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Quick-Release Locks",
@@ -232,7 +239,8 @@
     ],
     "cost": {
       "value": 5
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Saboteur's Map",
@@ -262,7 +270,8 @@
     ],
     "cost": {
       "value": 3
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Scanner Baffler",
@@ -292,7 +301,8 @@
     ],
     "cost": {
       "value": 8
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "False Transponder Codes",
@@ -319,7 +329,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 3
   },
   {
     "name": "Babu Frik",
@@ -354,7 +365,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Overtuned Modulators",
@@ -381,7 +393,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Tracking Fob",
@@ -414,7 +427,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Hotshot Tail Blaster",
@@ -452,11 +466,12 @@
       }
     ],
     "cost": {
-      "value": 2
+      "value": 1
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Feedback Emitter",
@@ -479,7 +494,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Kineso-Switch",
@@ -502,6 +518,7 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   }
 ]

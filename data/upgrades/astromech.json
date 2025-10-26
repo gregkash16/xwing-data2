@@ -1,11 +1,11 @@
 [
   {
-    "name": "\u201cChopper\u201d",
+    "name": "“Chopper”",
     "limited": 1,
     "xws": "chopper",
     "sides": [
       {
-        "title": "\u201cChopper\u201d",
+        "title": "“Chopper”",
         "type": "Astromech",
         "ability": "Action: Spend 1 non-recurring [Charge] from another equipped upgrade to recover 1 shield. Action: Spend 2 shields to recover 1 non-recurring [Charge] on an equipped upgrade.",
         "slots": [
@@ -27,15 +27,16 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
-    "name": "\u201cGenius\u201d",
+    "name": "“Genius”",
     "limited": 1,
     "xws": "genius",
     "sides": [
       {
-        "title": "\u201cGenius\u201d",
+        "title": "“Genius”",
         "type": "Astromech",
         "ability": "After you fully execute a maneuver, if you have not dropped or launched a device this round, you may drop 1 bomb.",
         "image": "https://infinitearenas.com/xw2/images/upgrades/genius.png",
@@ -57,7 +58,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R2 Astromech",
@@ -80,11 +82,12 @@
       }
     ],
     "cost": {
-      "value": 8
+      "value": 7
     },
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R2-D2",
@@ -107,7 +110,7 @@
       }
     ],
     "cost": {
-      "value": 10
+      "value": 6
     },
     "restrictions": [
       {
@@ -118,7 +121,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R3 Astromech",
@@ -141,7 +145,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R4 Astromech",
@@ -171,7 +176,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R5 Astromech",
@@ -194,11 +200,12 @@
       }
     ],
     "cost": {
-      "value": 7
+      "value": 6
     },
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R5-D8",
@@ -221,7 +228,7 @@
       }
     ],
     "cost": {
-      "value": 9
+      "value": 7
     },
     "restrictions": [
       {
@@ -232,7 +239,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R5-P8",
@@ -266,7 +274,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R5-TK",
@@ -296,7 +305,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R5-X3",
@@ -319,7 +329,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 4
     },
     "restrictions": [
       {
@@ -330,7 +340,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R2-HA",
@@ -349,7 +360,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 2
     },
     "restrictions": [
       {
@@ -360,7 +371,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "BB-8",
@@ -394,7 +406,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "BB Astromech",
@@ -417,7 +430,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 3
     },
     "restrictions": [
       {
@@ -428,7 +441,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "M9-G8",
@@ -458,7 +472,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R2-C4",
@@ -488,7 +503,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R4-P Astromech",
@@ -522,7 +538,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R4-P17",
@@ -556,7 +573,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R4-P44",
@@ -586,7 +604,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R2-A6",
@@ -612,11 +631,12 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 5
     },
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "C1-10P",
@@ -660,7 +680,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R1-J5",
@@ -694,7 +715,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Q7 Astromech",
@@ -724,7 +746,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R2-D2",
@@ -758,7 +781,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R2-D2",
@@ -792,7 +816,8 @@
           "resistance"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "R6-D8",
@@ -811,7 +836,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 5
     },
     "restrictions": [
       {
@@ -822,7 +847,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R7-A7",
@@ -856,7 +882,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R4-B11",
@@ -886,7 +913,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Watchful Astromech",
@@ -909,7 +937,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "L4E-R5",
@@ -941,7 +970,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 4
     },
     "restrictions": [
       {
@@ -955,7 +984,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "R2-A3",
@@ -978,7 +1008,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "R2-D2",
@@ -1001,7 +1032,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "R2-F2",
@@ -1024,7 +1056,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "R5-D8",
@@ -1047,7 +1080,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "R5-K6",
@@ -1070,7 +1104,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Precise Astromech",
@@ -1093,7 +1128,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Targeting Astromech",
@@ -1112,7 +1148,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "R4-P17",
@@ -1135,7 +1172,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "R2-A3",
@@ -1158,7 +1196,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Stabilizing Astromech",
@@ -1181,7 +1220,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Modified R4-P Unit",
@@ -1204,7 +1244,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "BB-8",
@@ -1227,7 +1268,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "R0 Astromech",
@@ -1246,7 +1288,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "R5-X3",
@@ -1269,7 +1312,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Black Squadron R4",
@@ -1292,6 +1336,7 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   }
 ]

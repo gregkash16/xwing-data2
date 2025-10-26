@@ -71,7 +71,7 @@
       "name": "Captain Hark",
       "image": "https://infinitearenas.com/xw2/images/pilots/captainhark.png",
       "ability": "After you reveal a [0 [Stationary]] maneuver, if you are equipped with Swivel Wings (Down), you must execute a [1 [Bank Left]] or [1 [Bank Right]] sideslip maneuver of the same difficulty instead. After you execute that maneuver, you must flip Swivel Wings (Down).",
-      "cost": 6,
+      "cost": 16,
       "loadout": 20,
       "initiative": 3,
       "limited": 1,
@@ -79,19 +79,21 @@
       "extended": true,
       "epic": true,
       "slots": [
-        "Talent",
         "Crew",
         "Gunner",
-        "Device",
         "Illicit",
         "Modification",
-        "Configuration"
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captainhark.png",
       "keywords": [
         "Mandalorian"
       ],
-      "caption": "Obedient Underling"
+      "caption": "Obedient Underling",
+      "restricted": 0
     },
     {
       "xws": "garsaxon",
@@ -102,33 +104,35 @@
         "value": 2,
         "recovers": 1
       },
-      "cost": 7,
-      "loadout": 24,
+      "cost": 17,
+      "loadout": 20,
       "initiative": 3,
       "limited": 1,
       "standard": true,
       "extended": true,
       "epic": true,
       "slots": [
-        "Talent",
         "Crew",
         "Gunner",
-        "Device",
         "Illicit",
         "Modification",
-        "Configuration"
+        "Modification",
+        "Payload",
+        "Configuration",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/garsaxon.png",
       "keywords": [
         "Mandalorian"
       ],
-      "caption": "Treacherous Viceroy"
+      "caption": "Treacherous Viceroy",
+      "restricted": 0
     },
     {
       "xws": "imperialsupercommando",
       "name": "Imperial Super Commando",
       "image": "https://infinitearenas.com/xw2/images/pilots/imperialsupercommando.png",
-      "cost": 6,
+      "cost": 15,
       "loadout": 20,
       "initiative": 2,
       "limited": 0,
@@ -136,19 +140,19 @@
       "extended": true,
       "epic": true,
       "slots": [
-        "Talent",
         "Crew",
         "Gunner",
-        "Device",
-        "Device",
         "Illicit",
         "Modification",
+        "Modification",
+        "Payload",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/imperialsupercommando.png",
       "keywords": [
         "Mandalorian"
-      ]
+      ],
+      "restricted": 0
     }
   ]
 }

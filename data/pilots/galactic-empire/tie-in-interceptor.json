@@ -64,8 +64,8 @@
       "name": "Alpha Squadron Pilot",
       "initiative": 1,
       "limited": 0,
-      "cost": 3,
-      "loadout": 0,
+      "cost": 8,
+      "loadout": 1,
       "xws": "alphasquadronpilot",
       "text": "Sienar Fleet Systems designed the TIE interceptor with four wing-mounted laser cannons, a dramatic increase in firepower over its predecessors.",
       "image": "https://infinitearenas.com/xw2/images/pilots/alphasquadronpilot.png",
@@ -74,7 +74,7 @@
         "text": "After you perform an action, you may perform a red [Barrel Roll] or red [Boost] action."
       },
       "slots": [
-        "Talent",
+        "Modification",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/alphasquadronpilot.png",
@@ -83,14 +83,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Saber Squadron Ace",
       "initiative": 4,
       "limited": 0,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 10,
+      "loadout": 10,
       "xws": "sabersquadronace",
       "text": "Led by Baron Soontir Fel, the pilots of Saber Squadron are among the Empire's best. Their TIE interceptors are marked with red stripes to designate pilots with at least ten confirmed kills.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sabersquadronace.png",
@@ -100,8 +101,8 @@
       },
       "slots": [
         "Talent",
-        "Configuration",
-        "Modification"
+        "Modification",
+        "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sabersquadronace.png",
       "standard": true,
@@ -109,15 +110,16 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Soontir Fel",
       "caption": "Ace of Legend",
       "initiative": 6,
       "limited": 1,
-      "cost": 4,
-      "loadout": 0,
+      "cost": 12,
+      "loadout": 8,
       "xws": "soontirfel",
       "ability": "At the start of the Engagement Phase, if there is an enemy ship in your [Bullseye Arc], gain 1 focus token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/soontirfel.png",
@@ -128,7 +130,8 @@
       "slots": [
         "Talent",
         "Modification",
-        "Configuration"
+        "Configuration",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/soontirfel.png",
       "standard": true,
@@ -136,15 +139,16 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Turr Phennir",
       "caption": "Ambitious Ace",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 10,
+      "cost": 10,
+      "loadout": 9,
       "xws": "turrphennir",
       "ability": "After you perform an attack, you may perform a [Barrel Roll] or [Boost] action, even if you are stressed.",
       "image": "https://infinitearenas.com/xw2/images/pilots/turrphennir.png",
@@ -153,7 +157,6 @@
         "text": "After you perform an action, you may perform a red [Barrel Roll] or red [Boost] action."
       },
       "slots": [
-        "Talent",
         "Talent",
         "Modification",
         "Configuration"
@@ -164,7 +167,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ciena Ree",
@@ -180,10 +184,9 @@
       "keywords": [
         "TIE"
       ],
-      "cost": 4,
-      "loadout": 4,
+      "cost": 11,
+      "loadout": 9,
       "slots": [
-        "Talent",
         "Talent",
         "Modification",
         "Configuration"
@@ -191,7 +194,8 @@
       "ability": "After you perform an attack, if the defender was destroyed, gain 1 stress token. After a friendly ship at range 0-3 is destroyed, remove 1 stress token.",
       "caption": "Look Through My Eyes",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cienaree.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Gideon Hask",
@@ -208,18 +212,18 @@
       "keywords": [
         "TIE"
       ],
-      "cost": 4,
-      "loadout": 4,
+      "cost": 11,
+      "loadout": 10,
       "slots": [
         "Talent",
-        "Talent",
-        "Missile",
         "Modification",
-        "Configuration"
+        "Configuration",
+        "Modification"
       ],
       "ability": "While you perform an attack against a damaged defender, roll 1 additional attack die.",
-      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gideonhask-tieininterceptor.png",
-      "epic": true
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gideonhask-tieinterceptor.png",
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Vult Skerris",
@@ -233,12 +237,13 @@
       "caption": "Arrogant Ace",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 9,
+      "cost": 10,
+      "loadout": 8,
       "slots": [
         "Talent",
         "Modification",
-        "Configuration"
+        "Configuration",
+        "Talent"
       ],
       "ability": "Action: Gain 1 strain token to recover 1 [Charge]. Before you engage, you may spend 1 [Charge] to perform an action.",
       "charges": {
@@ -250,7 +255,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vultskerris-tieininterceptor.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/vultskerris-tieininterceptor.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Commandant Goran",
@@ -264,8 +270,8 @@
       "caption": "Skystrike Superintendent",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 5,
+      "cost": 10,
+      "loadout": 4,
       "slots": [
         "Talent",
         "Modification",
@@ -277,7 +283,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/commandantgoran.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/commandantgoran.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lieutenant Lorrir",
@@ -291,8 +298,8 @@
       "caption": "Requiem for Brentaal",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 13,
+      "cost": 9,
+      "loadout": 7,
       "slots": [
         "Talent",
         "Modification",
@@ -304,7 +311,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantlorrir.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantlorrir.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Nash Windrider",
@@ -318,14 +326,14 @@
       "caption": "Alderaanian Zealot",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 11,
+      "cost": 9,
+      "loadout": 6,
       "charges": {
         "value": 1,
         "recovers": 1
       },
       "slots": [
-        "Missile",
+        "Talent",
         "Modification",
         "Configuration"
       ],
@@ -335,7 +343,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/nashwindrider.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/nashwindrider.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Iden Versio",
@@ -349,7 +358,7 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 5,
+      "cost": 11,
       "charges": {
         "value": 2,
         "recovers": 1
@@ -384,7 +393,9 @@
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/idenversio-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/idenversio-battleofyavin.png",
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Sigma 4",
@@ -398,7 +409,7 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 10,
       "charges": {
         "value": 2,
         "recovers": 0
@@ -429,7 +440,9 @@
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sigma4-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma4.png",
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Sigma 5",
@@ -443,7 +456,7 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 10,
       "charges": {
         "value": 2,
         "recovers": 0
@@ -474,7 +487,9 @@
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sigma5-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma5.png",
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Sigma 6",
@@ -488,7 +503,7 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 11,
       "charges": {
         "value": 2,
         "recovers": 0
@@ -519,7 +534,9 @@
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sigma6-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma6.png",
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Sigma 7",
@@ -533,7 +550,7 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 10,
       "charges": {
         "value": 2,
         "recovers": 0
@@ -586,7 +603,9 @@
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/sigma7-battleofyavin.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigma7.png",
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Second Sister",
@@ -600,14 +619,13 @@
       "caption": "Manipulative Monster",
       "standard": true,
       "extended": true,
-      "cost": 5,
-      "loadout": 15,
+      "cost": 13,
+      "loadout": 14,
       "slots": [
-        "Force Power",
-        "Force Power",
-        "Missile",
         "Modification",
-        "Configuration"
+        "Configuration",
+        "Force Power",
+        "Sensor"
       ],
       "ability": "While you perform an attack, after the Neutralize Results step, if the attack hit, you may spend 2 [Force]. If you do, change all of your [Hit] results to [Critical Hit] results.",
       "force": {
@@ -620,7 +638,8 @@
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/secondsister.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/secondsister.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Sapphire 2",
@@ -632,7 +651,7 @@
         "name": "Sensitive Controls",
         "text": "During the System Phase, you may perform a red [Barrel Roll] or red [Boost] action."
       },
-      "cost": 4,
+      "cost": 10,
       "standardLoadout": [
         "noescape-battleoverendor",
         "reckless-battleoverendor",
@@ -648,7 +667,9 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Soontir Fel",
@@ -664,7 +685,7 @@
         "value": 2,
         "recovers": 0
       },
-      "cost": 5,
+      "cost": 14,
       "standardLoadout": [
         "apexpredator-battleoverendor",
         "noescape-battleoverendor",
@@ -680,7 +701,9 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     },
     {
       "name": "Maus Monare",
@@ -692,7 +715,7 @@
         "name": "Sensitive Controls",
         "text": "During the System Phase, you may perform a red [Barrel Roll] or red [Boost] action."
       },
-      "cost": 4,
+      "cost": 11,
       "standardLoadout": [
         "noescape-battleoverendor",
         "outmaneuver",
@@ -707,7 +730,9 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "loadout": 0
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

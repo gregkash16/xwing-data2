@@ -63,54 +63,58 @@
       "name": "Binayre Pirate",
       "initiative": 1,
       "limited": 0,
-      "cost": 3,
-      "loadout": 11,
+      "cost": 6,
+      "loadout": 5,
       "xws": "binayrepirate",
       "text": "Operating from the Double Worlds, Talus and Tralus, Kath Scarlet's gang of smugglers and pirates would never be described as reputable or dependable—even by other criminals.",
       "image": "https://infinitearenas.com/xw2/images/pilots/binayrepirate.png",
       "slots": [
         "Illicit",
-        "Modification"
+        "Modification",
+        "Missile"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/binayrepirate.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Black Sun Soldier",
       "initiative": 3,
       "limited": 0,
-      "cost": 3,
-      "loadout": 9,
+      "cost": 7,
+      "loadout": 10,
       "xws": "blacksunsoldier",
       "text": "The vast and influential Black Sun crime syndicate can always find a use for talented pilots, provided they aren't particular about how they earn their credits.",
       "image": "https://infinitearenas.com/xw2/images/pilots/blacksunsoldier.png",
       "slots": [
         "Talent",
         "Illicit",
-        "Modification"
+        "Modification",
+        "Missile"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunsoldier.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Kaa’to Leeachos",
       "caption": "Imposing Marauder",
       "initiative": 3,
       "limited": 1,
-      "cost": 3,
-      "loadout": 15,
+      "cost": 7,
+      "loadout": 13,
       "xws": "kaatoleeachos",
       "ability": "At the start of the Engagement Phase, you may choose 1 friendly ship at range 0-2. If you do, transfer 1 focus or evade token from that ship to yourself.",
       "image": "https://infinitearenas.com/xw2/images/pilots/kaatoleeachos.png",
       "slots": [
         "Talent",
-        "Missile",
         "Illicit",
-        "Modification"
+        "Modification",
+        "Missile"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kaatoleeachos.png",
       "standard": true,
@@ -118,28 +122,30 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "N’dru Suhlak",
       "caption": "Hunt Saboteur",
       "initiative": 4,
       "limited": 1,
-      "cost": 3,
-      "loadout": 11,
+      "cost": 8,
+      "loadout": 14,
       "xws": "ndrusuhlak",
       "ability": "While you perform a primary attack, if there are no other friendly ships at range 0-2, roll 1 additional attack die.",
       "slots": [
         "Talent",
-        "Missile",
-        "Missile",
-        "Illicit"
+        "Illicit",
+        "Modification",
+        "Missile"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/ndrusuhlak.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ndrusuhlak.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Nashtah Pup",
@@ -159,7 +165,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/nashtahpup.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Bossk",
@@ -174,21 +181,21 @@
       },
       "slots": [
         "Talent",
-        "Talent",
-        "Missile",
         "Illicit",
-        "Modification"
+        "Modification",
+        "Missile"
       ],
       "standard": true,
       "extended": true,
-      "cost": 3,
-      "loadout": 8,
+      "cost": 8,
+      "loadout": 11,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bossk-z95af4headhunter.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/bossk-z95af4headhunter.png",
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

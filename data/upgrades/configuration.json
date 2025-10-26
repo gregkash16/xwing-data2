@@ -57,7 +57,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Os-1 Arsenal Loadout",
@@ -99,7 +100,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Pivot Wing",
@@ -109,7 +111,7 @@
       {
         "title": "Pivot Wing (Closed)",
         "type": "Configuration",
-        "ability": "While you defend, roll 1 fewer defense die. After you execute a [0 [Stationary]] maneuver, you may rotate your ship 90\u00b0 or 180\u00b0. Before you activate, you may flip this card.",
+        "ability": "While you defend, roll 1 fewer defense die. After you execute a [0 [Stationary]] maneuver, you may rotate your ship 90° or 180°. Before you activate, you may flip this card.",
         "slots": [
           "Configuration"
         ],
@@ -139,7 +141,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Swivel Wing",
@@ -149,7 +152,7 @@
       {
         "title": "Swivel Wing (Down)",
         "type": "Configuration",
-        "ability": "After you execute a [0 [Stationary]] maneuver, you may rotate your ship 90\u00b0 or 180\u00b0. If you do, you must flip this card.",
+        "ability": "After you execute a [0 [Stationary]] maneuver, you may rotate your ship 90° or 180°. If you do, you must flip this card.",
         "slots": [
           "Configuration"
         ],
@@ -179,7 +182,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Servomotor S-foils",
@@ -253,7 +257,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Xg-1 Assault Configuration",
@@ -290,7 +295,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Grappling Struts",
@@ -310,7 +316,7 @@
       {
         "title": "Grappling Struts (Open)",
         "type": "Configuration",
-        "ability": "You ignore obstacles at range 0. You cannot perform [Barrel Roll] actions. After you reveal your dial, if you reveal a maneuver other than a [2 [Straight]] and are at range 0 of an asteroid or debris cloud, skip your Execute Maneuver step and remove 1 stress token; if you revealed a right or left maneuver, rotate your ship 90\u00b0 in that direction. After you execute a maneuver, flip this card.",
+        "ability": "You ignore obstacles at range 0. You cannot perform [Barrel Roll] actions. After you reveal your dial, if you reveal a maneuver other than a [2 [Straight]] and are at range 0 of an asteroid or debris cloud, skip your Execute Maneuver step and remove 1 stress token; if you revealed a right or left maneuver, rotate your ship 90° in that direction. After you execute a maneuver, flip this card.",
         "slots": [
           "Configuration"
         ],
@@ -330,7 +336,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Calibrated Laser Targeting",
@@ -361,7 +368,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Landing Struts",
@@ -381,7 +389,7 @@
       {
         "title": "Landing Struts (Open)",
         "type": "Configuration",
-        "ability": "You ignore obstacles at range 0. You cannot perform [Barrel Roll] actions. After you reveal your dial, if you reveal a maneuver other than a [2 [Straight]] and are at range 0 of an asteroid or debris cloud, skip your Execute Maneuver step and remove 1 stress token; if you revealed a right or left maneuver, rotate your ship 90\u00b0 in that direction. After you execute a maneuver, flip this card.",
+        "ability": "You ignore obstacles at range 0. You cannot perform [Barrel Roll] actions. After you reveal your dial, if you reveal a maneuver other than a [2 [Straight]] and are at range 0 of an asteroid or debris cloud, skip your Execute Maneuver step and remove 1 stress token; if you revealed a right or left maneuver, rotate your ship 90° in that direction. After you execute a maneuver, flip this card.",
         "slots": [
           "Configuration"
         ],
@@ -401,7 +409,8 @@
     "epic": true,
     "cost": {
       "value": 0
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Corsair Refit",
@@ -463,7 +472,8 @@
     ],
     "cost": {
       "value": 6
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Stabilized S-foils",
@@ -536,7 +546,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "sides": [
@@ -576,16 +587,17 @@
     "xws": "repulsorliftstabilizers",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
-    "name": "Alpha-3B \u201cBesh\u201d",
+    "name": "Alpha-3B “Besh”",
     "limited": 0,
     "xws": "alpha3bbesh",
     "sides": [
       {
         "ability": "While you perform a primary attack, you may spend your lock on the defender to change 1 of your blank or [Focus] results to a [Hit] result. Add [Device] slot.",
-        "title": "Alpha-3B \u201cBesh\u201d",
+        "title": "Alpha-3B “Besh”",
         "type": "Configuration",
         "slots": [
           "Configuration"
@@ -606,16 +618,17 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
-    "name": "Alpha-3E \u201cEsk\u201d",
+    "name": "Alpha-3E “Esk”",
     "limited": 0,
     "xws": "alpha3eesk",
     "sides": [
       {
         "ability": "While you perform a primary attack, before rolling attack dice, you may spend 2 [Charge]. If you do, your [Critical Hit] results inflict ion tokens instead of damage.",
-        "title": "Alpha-3E \u201cEsk\u201d",
+        "title": "Alpha-3E “Esk”",
         "type": "Configuration",
         "slots": [
           "Configuration"
@@ -640,7 +653,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Intercept Booster",
@@ -697,7 +711,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Maneuver-Assist MGK-300",
@@ -747,7 +762,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Target-Assist MGK-300",
@@ -797,7 +813,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Sensitive Controls",
@@ -834,7 +851,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "TIE Defender Elite",
@@ -876,7 +894,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Vectored Cannons (RZ-1)",
@@ -926,7 +945,8 @@
     ],
     "cost": {
       "value": 0
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Wartime Loadout",
@@ -985,7 +1005,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Enhanced Jamming Suite",
@@ -1058,7 +1079,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "L3-37's Programming",
@@ -1077,7 +1099,8 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Strut-Lock Override",
@@ -1100,6 +1123,7 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   }
 ]

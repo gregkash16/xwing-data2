@@ -61,19 +61,19 @@
       "caption": "Cavern Angels Marksman",
       "initiative": 2,
       "limited": 1,
-      "cost": 5,
-      "loadout": 17,
+      "cost": 12,
+      "loadout": 14,
       "xws": "benthictwotubes",
       "ability": "After you perform a [Focus] action, you may transfer 1 of your focus tokens to a friendly ship at range 1-2.",
       "image": "https://infinitearenas.com/xw2/images/pilots/benthictwotubes.png",
       "slots": [
-        "Talent",
+        "Crew",
+        "Crew",
         "Sensor",
-        "Crew",
-        "Crew",
-        "Illicit",
         "Modification",
-        "Configuration"
+        "Configuration",
+        "Talent",
+        "Illicit"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/benthictwotubes.png",
       "standard": true,
@@ -81,114 +81,121 @@
       "keywords": [
         "Partisan"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Blue Squadron Scout",
       "initiative": 2,
       "limited": 0,
-      "cost": 5,
-      "loadout": 22,
+      "cost": 12,
+      "loadout": 17,
       "xws": "bluesquadronscout",
       "text": "Used for deploying troops under the cover of darkness or into the heat of battle, the UT-60D U-wing fulfills the Rebellion's need for a swift and hardy troop transport.",
       "image": "https://infinitearenas.com/xw2/images/pilots/bluesquadronscout.png",
       "slots": [
+        "Crew",
+        "Crew",
         "Sensor",
-        "Crew",
-        "Crew",
         "Modification",
-        "Configuration"
+        "Configuration",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bluesquadronscout.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Bodhi Rook",
       "caption": "Imperial Defector",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 6,
+      "cost": 11,
+      "loadout": 10,
       "xws": "bodhirook",
       "ability": "Friendly ships can acquire locks onto objects at range 0-3 of any friendly ship.",
       "image": "https://infinitearenas.com/xw2/images/pilots/bodhirook.png",
       "slots": [
+        "Crew",
+        "Crew",
         "Sensor",
-        "Crew",
-        "Crew",
         "Modification",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bodhirook.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Cassian Andor",
       "caption": "Raised by the Rebellion",
       "initiative": 3,
       "limited": 1,
-      "cost": 5,
-      "loadout": 14,
+      "cost": 12,
+      "loadout": 12,
       "xws": "cassianandor",
       "ability": "At the start of the Activation Phase, you may choose 1 friendly ship at range 1-3. If you do, that ship removes 1 stress token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/cassianandor.png",
       "slots": [
-        "Talent",
-        "Sensor",
         "Crew",
+        "Crew",
+        "Sensor",
         "Modification",
-        "Configuration"
+        "Configuration",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cassianandor.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Heff Tobber",
       "caption": "Blue Eight",
       "initiative": 2,
       "limited": 1,
-      "cost": 5,
-      "loadout": 21,
+      "cost": 12,
+      "loadout": 16,
       "xws": "hefftobber",
       "ability": "After an enemy ship executes a maneuver, if it is at range 0, you may perform an action.",
       "image": "https://infinitearenas.com/xw2/images/pilots/hefftobber.png",
       "slots": [
-        "Talent",
+        "Crew",
+        "Crew",
         "Sensor",
-        "Crew",
-        "Crew",
         "Modification",
-        "Configuration"
+        "Configuration",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/hefftobber.png",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Magva Yarro",
       "caption": "Cavern Angels Spotter",
       "initiative": 3,
       "limited": 1,
-      "cost": 5,
-      "loadout": 15,
+      "cost": 13,
+      "loadout": 17,
       "xws": "magvayarro",
       "ability": "While a friendly ship at range 0-2 defends, the attacker cannot reroll more than 1 attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/magvayarro.png",
       "slots": [
-        "Talent",
+        "Crew",
+        "Crew",
         "Sensor",
-        "Crew",
-        "Crew",
-        "Illicit",
         "Modification",
-        "Configuration"
+        "Configuration",
+        "Talent",
+        "Illicit"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/magvayarro.png",
       "standard": true,
@@ -196,22 +203,24 @@
       "keywords": [
         "Partisan"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Partisan Renegade",
       "initiative": 1,
       "limited": 0,
-      "cost": 5,
-      "loadout": 22,
+      "cost": 11,
+      "loadout": 12,
       "xws": "partisanrenegade",
       "text": "Saw Gerrera's partisans were first established to oppose Separatist forces on Onderon during the Clone Wars and continued to wage war against galactic tyranny as the Empire rose to power.",
       "slots": [
         "Crew",
         "Crew",
-        "Illicit",
+        "Sensor",
+        "Modification",
         "Configuration",
-        "Modification"
+        "Illicit"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/partisanrenegade.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/partisanrenegade.png",
@@ -220,26 +229,27 @@
       "keywords": [
         "Partisan"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Saw Gerrera",
       "caption": "Obsessive Outlaw",
       "initiative": 4,
       "limited": 1,
-      "cost": 5,
-      "loadout": 13,
+      "cost": 13,
+      "loadout": 16,
       "xws": "sawgerrera",
       "ability": "While a damaged friendly ship at range 0-3 performs an attack, it may reroll 1 attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sawgerrera.png",
       "slots": [
-        "Talent",
+        "Crew",
+        "Crew",
         "Sensor",
-        "Crew",
-        "Crew",
-        "Illicit",
         "Modification",
-        "Configuration"
+        "Configuration",
+        "Talent",
+        "Illicit"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sawgerrera.png",
       "standard": true,
@@ -247,7 +257,8 @@
       "keywords": [
         "Partisan"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "K-2SO",
@@ -257,9 +268,9 @@
       "xws": "k2so",
       "ability": "After you gain a stress token, gain 1 calculate token.",
       "slots": [
+        "Crew",
+        "Crew",
         "Sensor",
-        "Crew",
-        "Crew",
         "Modification",
         "Configuration"
       ],
@@ -279,14 +290,15 @@
       ],
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 6,
+      "cost": 11,
+      "loadout": 11,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/k2so.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/k2so.png",
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

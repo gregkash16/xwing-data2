@@ -75,8 +75,8 @@
       "name": "Black Sun Assassin",
       "initiative": 3,
       "limited": 0,
-      "cost": 5,
-      "loadout": 12,
+      "cost": 11,
+      "loadout": 9,
       "xws": "blacksunassassin",
       "text": "Although assassinations can be handled with a shot in the dark or a dire substance added to a drink, a flaming shuttle tumbling from the sky sends a special kind of message.",
       "image": "https://infinitearenas.com/xw2/images/pilots/blacksunassassin.png",
@@ -85,21 +85,23 @@
         "text": "While you perform a barrel roll, you must use the [Bank Left] or [Bank Right] template instead of the [Straight] template."
       },
       "slots": [
-        "Tech",
         "Illicit",
-        "Talent",
-        "Sensor"
+        "Modification",
+        "Sensor",
+        "Torpedo",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunassassin.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Black Sun Enforcer",
       "initiative": 2,
       "limited": 0,
-      "cost": 4,
+      "cost": 10,
       "loadout": 7,
       "xws": "blacksunenforcer",
       "text": "Prince Xizor himself collaborated with MandalMotors to design the StarViper-class attack platform, one of the most formidable starfighters in the galaxy.",
@@ -110,20 +112,23 @@
       },
       "slots": [
         "Illicit",
-        "Tech"
+        "Modification",
+        "Sensor",
+        "Torpedo"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunenforcer.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Dalan Oberos",
       "caption": "Elite Bounty Hunter",
       "initiative": 4,
       "limited": 1,
-      "cost": 4,
-      "loadout": 3,
+      "cost": 10,
+      "loadout": 6,
       "xws": "dalanoberos-starviperclassattackplatform",
       "ability": "After you fully execute a maneuver, you may gain 1 stress token to rotate your ship 90°.",
       "image": "https://infinitearenas.com/xw2/images/pilots/dalanoberos-starviperclassattackplatform.png",
@@ -132,10 +137,11 @@
         "text": "While you perform a barrel roll, you must use the [Bank Left] or [Bank Right] template instead of the [Straight] template."
       },
       "slots": [
-        "Talent",
-        "Tech",
+        "Illicit",
+        "Modification",
+        "Sensor",
         "Torpedo",
-        "Modification"
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dalanoberos-starviperclassattackplatform.png",
       "standard": false,
@@ -143,15 +149,16 @@
       "keywords": [
         "Bounty Hunter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Guri",
       "caption": "Prince Xizor’s Bodyguard",
       "initiative": 5,
       "limited": 1,
-      "cost": 5,
-      "loadout": 8,
+      "cost": 13,
+      "loadout": 11,
       "xws": "guri",
       "ability": "At the start of the Engagement Phase, if there is at least 1 enemy ship at range 0-1, you may gain 1 focus token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/guri.png",
@@ -186,11 +193,11 @@
         "text": "While you perform a barrel roll, you must use the [Bank Left] or [Bank Right] template instead of the [Straight] template."
       },
       "slots": [
-        "Talent",
-        "Sensor",
-        "Tech",
-        "Torpedo",
+        "Illicit",
         "Modification",
+        "Sensor",
+        "Torpedo",
+        "Talent",
         "Title"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/guri.png",
@@ -199,15 +206,16 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Prince Xizor",
       "caption": "Black Sun Kingpin",
       "initiative": 4,
       "limited": 1,
-      "cost": 5,
-      "loadout": 14,
+      "cost": 12,
+      "loadout": 12,
       "xws": "princexizor",
       "ability": "While you defend, after the Neutralize Results step, another friendly ship at range 0-1 and in the attack arc may suffer 1 [Hit] or [Critical Hit] damage. If it does, cancel 1 matching result.",
       "image": "https://infinitearenas.com/xw2/images/pilots/princexizor.png",
@@ -216,22 +224,24 @@
         "text": "While you perform a barrel roll, you must use the [Bank Left] or [Bank Right] template instead of the [Straight] template."
       },
       "slots": [
-        "Talent",
-        "Tech",
-        "Torpedo",
+        "Illicit",
         "Modification",
+        "Sensor",
+        "Torpedo",
+        "Talent",
         "Title"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/princexizor.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Prince Xizor",
       "initiative": 4,
       "limited": 1,
-      "cost": 5,
+      "cost": 13,
       "loadout": 0,
       "xws": "princexizor-armedanddangerous",
       "ability": "When you perform an attack against a strained ship, you may remove 1 stress token.",
@@ -272,7 +282,9 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "caption": "Armed and Dangerous"
+      "caption": "Armed and Dangerous",
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

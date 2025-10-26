@@ -68,8 +68,8 @@
       "caption": "Ruthless Tactician",
       "initiative": 2,
       "limited": 1,
-      "cost": 4,
-      "loadout": 10,
+      "cost": 10,
+      "loadout": 9,
       "xws": "vizier",
       "ability": "After you move using your Controlled Ailerons ship ability, you may perform a [Coordinate] action. If you do, skip your Perform Action step.",
       "image": "https://infinitearenas.com/xw2/images/pilots/vizier.png",
@@ -88,15 +88,16 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Captain Feroph",
       "caption": "Imperial Courier",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
-      "loadout": 5,
+      "cost": 11,
+      "loadout": 13,
       "xws": "captainferoph",
       "ability": "While you defend, if the attacker does not have any green tokens, you may change 1 of your blank or [Focus] results to an [Evade] result.",
       "image": "https://infinitearenas.com/xw2/images/pilots/captainferoph.png",
@@ -105,9 +106,8 @@
         "text": "Before you reveal your dial, if you are not stressed, you may boost."
       },
       "slots": [
-        "Talent",
         "Crew",
-        "Modification",
+        "Crew",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captainferoph.png",
@@ -116,15 +116,16 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Major Vermeil",
       "caption": "Veteran of Scarif",
       "initiative": 4,
       "limited": 1,
-      "cost": 5,
-      "loadout": 16,
+      "cost": 13,
+      "loadout": 19,
       "xws": "majorvermeil",
       "ability": "While you perform an attack, if the defender does not have any green tokens, you may change 1 of your blank or [Focus] results to a [Hit] result.",
       "image": "https://infinitearenas.com/xw2/images/pilots/majorvermeil.png",
@@ -133,10 +134,10 @@
         "text": "Before you reveal your dial, if you are not stressed, you may boost."
       },
       "slots": [
-        "Talent",
         "Crew",
         "Crew",
-        "Modification"
+        "Modification",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/majorvermeil.png",
       "standard": true,
@@ -144,14 +145,15 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Scarif Base Pilot",
       "initiative": 1,
       "limited": 0,
-      "cost": 5,
-      "loadout": 19,
+      "cost": 11,
+      "loadout": 14,
       "xws": "scarifbasepilot",
       "text": "The TIE reaper was designed to ferry elite troops to flashpoints on the battlefield, notably carrying Director Krennic's dreaded death troopers at the Battle of Scarif.",
       "image": "https://infinitearenas.com/xw2/images/pilots/scarifbasepilot.png",
@@ -161,6 +163,7 @@
       },
       "slots": [
         "Crew",
+        "Crew",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/scarifbasepilot.png",
@@ -169,7 +172,8 @@
       "keywords": [
         "TIE"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

@@ -70,14 +70,15 @@
       "xws": "anakinskywalker-nabooroyaln1starfighter",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 9,
+      "loadout": 7,
       "slots": [
-        "Force Power",
-        "Sensor",
-        "Torpedo",
+        "Talent",
+        "Astromech",
         "Modification",
-        "Astromech"
+        "Torpedo",
+        "Sensor",
+        "Force Power"
       ],
       "ability": "Before you reveal your maneuver, you may spend 1 [Force] to barrel roll (this is not an action).",
       "force": {
@@ -97,7 +98,8 @@
       "keywords": [
         "Light Side"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ric Olié",
@@ -111,19 +113,21 @@
       "caption": "Bravo Leader",
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 10,
       "loadout": 12,
       "slots": [
         "Talent",
-        "Talent",
-        "Sensor",
+        "Astromech",
+        "Modification",
         "Torpedo",
-        "Astromech"
+        "Sensor",
+        "Talent"
       ],
       "ability": "While you defend or perform a primary attack, if the speed of your revealed maneuver is higher than the enemy ship's, roll 1 additional die.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ricolie.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/ricolie.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Padmé Amidala",
@@ -137,18 +141,20 @@
       "caption": "Aggressive Negotiator",
       "standard": true,
       "extended": true,
-      "cost": 5,
-      "loadout": 22,
+      "cost": 11,
+      "loadout": 15,
       "slots": [
         "Talent",
-        "Sensor",
+        "Astromech",
+        "Modification",
         "Torpedo",
-        "Astromech"
+        "Sensor"
       ],
       "ability": "While an enemy ship in your [Front Arc] defends or performs an attack, that ship can modify only 1 [Focus] result (other results can still be modified).",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/padmeamidala.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/padmeamidala.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Dineé Ellberger",
@@ -162,18 +168,20 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
+      "cost": 10,
       "loadout": 14,
       "slots": [
         "Talent",
-        "Sensor",
+        "Astromech",
+        "Modification",
         "Torpedo",
-        "Astromech"
+        "Sensor"
       ],
       "ability": "While you defend or perform an attack, if the speed of your revealed maneuver is the same as the enemy ship's, that ship's dice cannot be modified.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dineeellberger.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/dineeellberger.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Bravo Flight Officer",
@@ -187,16 +195,19 @@
       "text": "The volunteer pilots of the Royal Naboo Security Force are dedicated to protecting the people and ideals of their homeworld, and trust their Queen to send them into battle only when all other options have failed.",
       "standard": true,
       "extended": true,
-      "cost": 3,
+      "cost": 8,
       "loadout": 6,
       "slots": [
-        "Sensor",
+        "Talent",
+        "Astromech",
+        "Modification",
         "Torpedo",
-        "Astromech"
+        "Sensor"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bravoflightofficer.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/bravoflightofficer.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Naboo Handmaiden",
@@ -214,16 +225,19 @@
         "decoyed"
       ],
       "ability": "Setup: After placing forces, assign the Decoyed condition to 1 friendly ship other than Naboo Handmaiden.",
-      "cost": 4,
-      "loadout": 11,
+      "cost": 9,
+      "loadout": 9,
       "slots": [
-        "Sensor",
+        "Talent",
+        "Astromech",
         "Modification",
-        "Astromech"
+        "Torpedo",
+        "Sensor"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/naboohandmaiden.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/naboohandmaiden.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Gavyn Sykes",
@@ -237,19 +251,20 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 16,
+      "cost": 9,
+      "loadout": 11,
       "slots": [
         "Talent",
-        "Sensor",
-        "Torpedo",
         "Astromech",
-        "Modification"
+        "Modification",
+        "Torpedo",
+        "Sensor"
       ],
       "ability": "While you defend or perform an attack, if the speed of your revealed maneuver is greater than the enemy ship's, you may reroll your blank results.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gavynsykes.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/gavynsykes.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_Royal_Naboo_N-1_Starfighter.png"

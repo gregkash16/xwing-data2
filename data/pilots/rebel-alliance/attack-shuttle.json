@@ -65,11 +65,11 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_AttackShuttle.png",
   "pilots": [
     {
-      "name": "\u201cZeb\u201d Orrelios",
+      "name": "“Zeb” Orrelios",
       "caption": "Spectre-4",
       "initiative": 2,
       "limited": 1,
-      "cost": 3,
+      "cost": 8,
       "loadout": 6,
       "xws": "zeborrelios",
       "ability": "While you defend, [Critical Hit] results are neutralized before [Hit] results.",
@@ -79,10 +79,9 @@
         "text": "While you are docked, after your carrier ship performs a primary [Front Arc] or [Turret] attack, it may perform a bonus primary [Rear Arc] attack."
       },
       "slots": [
-        "Talent",
-        "Turret",
         "Crew",
         "Modification",
+        "Turret",
         "Title"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/zeborrelios.png",
@@ -91,15 +90,16 @@
       "keywords": [
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Ezra Bridger",
       "caption": "Spectre-6",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 9,
+      "loadout": 6,
       "xws": "ezrabridger",
       "ability": "While you defend or perform an attack, if you are stressed, you may spend 1 [Force] to change up to 2 of your [Focus] results to [Evade] or [Hit] results.",
       "image": "https://infinitearenas.com/xw2/images/pilots/ezrabridger.png",
@@ -115,9 +115,9 @@
         "text": "While you are docked, after your carrier ship performs a primary [Front Arc] or [Turret] attack, it may perform a bonus primary [Rear Arc] attack."
       },
       "slots": [
-        "Turret",
         "Crew",
         "Modification",
+        "Turret",
         "Title",
         "Force Power"
       ],
@@ -128,15 +128,16 @@
         "Light Side",
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Hera Syndulla",
       "caption": "Spectre-2",
       "initiative": 5,
       "limited": 1,
-      "cost": 4,
-      "loadout": 14,
+      "cost": 10,
+      "loadout": 12,
       "xws": "herasyndulla",
       "ability": "After you reveal a red or blue maneuver, you may set your dial to another maneuver of the same difficulty.",
       "image": "https://infinitearenas.com/xw2/images/pilots/herasyndulla.png",
@@ -145,11 +146,12 @@
         "text": "While you are docked, after your carrier ship performs a primary [Front Arc] or [Turret] attack, it may perform a bonus primary [Rear Arc] attack."
       },
       "slots": [
-        "Talent",
-        "Turret",
         "Crew",
         "Modification",
-        "Title"
+        "Turret",
+        "Title",
+        "Talent",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/herasyndulla.png",
       "standard": false,
@@ -157,15 +159,16 @@
       "keywords": [
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Sabine Wren",
       "caption": "Spectre-5",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
-      "loadout": 11,
+      "cost": 10,
+      "loadout": 13,
       "xws": "sabinewren",
       "ability": "Before you activate, you may perform a [Barrel Roll] or [Boost] action.",
       "image": "https://infinitearenas.com/xw2/images/pilots/sabinewren.png",
@@ -174,11 +177,11 @@
         "text": "While you are docked, after your carrier ship performs a primary [Front Arc] or [Turret] attack, it may perform a bonus primary [Rear Arc] attack."
       },
       "slots": [
-        "Talent",
-        "Turret",
         "Crew",
         "Modification",
-        "Title"
+        "Turret",
+        "Title",
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sabinewren.png",
       "standard": false,
@@ -187,7 +190,8 @@
         "Mandalorian",
         "Spectre"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

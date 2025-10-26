@@ -69,31 +69,32 @@
       "caption": "The Emperor’s Shuttle Pilot",
       "initiative": 4,
       "limited": 1,
-      "cost": 5,
-      "loadout": 15,
+      "cost": 13,
+      "loadout": 17,
       "xws": "captainkagi",
       "ability": "At the start of the Engagement Phase, you may choose 1 or more friendly ships at range 0-3. If you do, transfer all enemy lock tokens from the chosen ships to you.",
       "image": "https://infinitearenas.com/xw2/images/pilots/captainkagi.png",
       "slots": [
-        "Sensor",
+        "Crew",
+        "Crew",
         "Cannon",
-        "Crew",
-        "Crew",
+        "Sensor",
         "Modification",
-        "Title"
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captainkagi.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Colonel Jendon",
       "caption": "Darth Vader’s Shuttle Pilot",
       "initiative": 3,
       "limited": 1,
-      "cost": 5,
-      "loadout": 13,
+      "cost": 13,
+      "loadout": 18,
       "xws": "coloneljendon",
       "ability": "At the start of the Activation Phase, you may spend 1 [Charge]. If you do, while friendly ships acquire locks this round, they must acquire locks beyond range 3 instead of at range 0-3.",
       "image": "https://infinitearenas.com/xw2/images/pilots/coloneljendon.png",
@@ -102,61 +103,64 @@
         "recovers": 0
       },
       "slots": [
+        "Crew",
+        "Crew",
+        "Cannon",
         "Sensor",
-        "Cannon",
-        "Cannon",
-        "Crew",
-        "Crew",
         "Modification",
+        "Talent",
         "Title"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/coloneljendon.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Lieutenant Sai",
       "caption": "Death Squadron Veteran",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
-      "loadout": 3,
+      "cost": 10,
+      "loadout": 5,
       "xws": "lieutenantsai",
       "ability": "After you a perform a [Coordinate] action, if the ship you chose performed an action on your action bar, you may perform that action.",
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantsai.png",
       "slots": [
-        "Sensor",
+        "Crew",
+        "Crew",
         "Cannon",
-        "Crew",
-        "Crew",
+        "Sensor",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantsai.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Omicron Group Pilot",
       "initiative": 1,
       "limited": 0,
-      "cost": 5,
-      "loadout": 24,
+      "cost": 11,
+      "loadout": 15,
       "xws": "omicrongrouppilot",
       "text": "Noted for its tri-wing design and advanced sensor suite, the Lambda-class shuttle serves a critical role as a light utility craft in the Imperial Navy.",
       "image": "https://infinitearenas.com/xw2/images/pilots/omicrongrouppilot.png",
       "slots": [
-        "Sensor",
+        "Crew",
+        "Crew",
         "Cannon",
-        "Crew",
-        "Crew",
+        "Sensor",
         "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/omicrongrouppilot.png",
       "standard": false,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

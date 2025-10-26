@@ -71,7 +71,7 @@
     {
       "name": "New Republic Volunteers",
       "initiative": 7,
-      "cost": 10,
+      "cost": 23,
       "loadout": 25,
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/newrepublicvolunteers.png",
@@ -95,7 +95,8 @@
         "Team",
         "Cargo",
         "Cargo"
-      ]
+      ],
+      "restricted": 0
     },
     {
       "name": "Oraf Desyk",
@@ -103,7 +104,7 @@
       "initiative": 7,
       "engagement": 1,
       "limited": 1,
-      "cost": 8,
+      "cost": 18,
       "xws": "orafdesyk-epicsl",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/orafdesyk-epicsl.png",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/orafdesyk-epicsl.png",
@@ -122,7 +123,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Coordinate"
-          }   
+          }
         },
         {
           "difficulty": "Red",
@@ -141,7 +142,14 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["ga75-epicsl", "adaptiveshields", "hosnianlament-epicsl"]
+      "standardLoadout": [
+        "ga75-epicsl",
+        "adaptiveshields",
+        "hosnianlament-epicsl"
+      ],
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

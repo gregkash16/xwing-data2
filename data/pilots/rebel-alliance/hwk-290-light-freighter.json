@@ -79,18 +79,16 @@
       "caption": "Espionage Expert",
       "initiative": 5,
       "limited": 1,
-      "cost": 5,
-      "loadout": 0,
+      "cost": 15,
+      "loadout": 15,
       "xws": "janors",
       "ability": "While a friendly ship in your firing arc performs a primary attack, if you are not stressed, you may gain 1 stress token. If you do, that ship may roll 1 additional attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/janors.png",
       "slots": [
         "Talent",
         "Crew",
-        "Device",
-        "Device",
         "Modification",
-        "Modification",
+        "Payload",
         "Title"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/janors.png",
@@ -99,24 +97,24 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Kyle Katarn",
       "caption": "Relentless Operative",
       "initiative": 3,
       "limited": 1,
-      "cost": 4,
-      "loadout": 5,
+      "cost": 11,
+      "loadout": 10,
       "xws": "kylekatarn",
       "ability": "At the start of the Engagement Phase, you may transfer 1 of your focus tokens to a friendly ship in your firing arc.",
       "image": "https://infinitearenas.com/xw2/images/pilots/kylekatarn.png",
       "slots": [
         "Talent",
-        "Talent",
         "Crew",
-        "Device",
         "Modification",
+        "Payload",
         "Title"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kylekatarn.png",
@@ -125,20 +123,23 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Rebel Scout",
       "initiative": 2,
       "limited": 0,
-      "cost": 3,
-      "loadout": 7,
+      "cost": 7,
+      "loadout": 5,
       "xws": "rebelscout",
       "text": "Designed to look like a bird in flight by the Corellian Engineering Corporation, “hawk” series ships are exemplary transport craft. Swift and rugged, the HWK-290 is often employed by Rebel agents as a mobile base of operations.",
       "image": "https://infinitearenas.com/xw2/images/pilots/rebelscout.png",
       "slots": [
-        "Device",
-        "Modification"
+        "Crew",
+        "Modification",
+        "Payload",
+        "Payload"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rebelscout.png",
       "standard": true,
@@ -146,24 +147,24 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Roark Garnet",
       "caption": "Good-Hearted Smuggler",
       "initiative": 4,
       "limited": 1,
-      "cost": 5,
-      "loadout": 11,
+      "cost": 13,
+      "loadout": 12,
       "xws": "roarkgarnet",
       "ability": "At the start of the Engagement Phase, you may choose 1 ship in your firing arc. If you do, it engages at initiative 7 instead of its standard initiative value this phase.",
       "image": "https://infinitearenas.com/xw2/images/pilots/roarkgarnet.png",
       "slots": [
         "Talent",
         "Crew",
-        "Device",
         "Modification",
-        "Modification",
+        "Payload",
         "Title"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/roarkgarnet.png",
@@ -172,7 +173,8 @@
       "keywords": [
         "Freighter"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ]
 }

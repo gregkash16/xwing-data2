@@ -17,7 +17,9 @@
     "3FB",
     "4FR"
   ],
-  "dialCodes": ["GOZ-I"],
+  "dialCodes": [
+    "GOZ-I"
+  ],
   "stats": [
     {
       "arc": "Front Arc",
@@ -72,7 +74,7 @@
       "initiative": 7,
       "engagement": 1,
       "limited": 1,
-      "cost": 8,
+      "cost": 20,
       "xws": "wezsynat-epicsl",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wezsynat-epicsl.png",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/wezsynat-epicsl.png",
@@ -91,7 +93,7 @@
           "linked": {
             "difficulty": "Red",
             "type": "Coordinate"
-          }    
+          }
         },
         {
           "difficulty": "White",
@@ -114,7 +116,14 @@
       "standard": false,
       "extended": false,
       "epic": true,
-      "standardLoadout": ["clonecommandercody-epicsl", "pointdefensebattery-epicsl", "spectreofnayr-epicsl"]
+      "standardLoadout": [
+        "clonecommandercody-epicsl",
+        "pointdefensebattery-epicsl",
+        "spectreofnayr-epicsl"
+      ],
+      "loadout": 0,
+      "slots": [],
+      "restricted": 0
     }
   ]
 }

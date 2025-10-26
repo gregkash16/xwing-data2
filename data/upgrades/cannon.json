@@ -27,7 +27,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Ion Cannon",
@@ -57,7 +58,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Jamming Beam",
@@ -87,7 +89,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Tractor Beam",
@@ -113,11 +116,12 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 4
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Autoblasters",
@@ -147,7 +151,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 2
   },
   {
     "sides": [
@@ -172,13 +177,14 @@
     ],
     "name": "Synced Laser Cannons",
     "cost": {
-      "value": 6
+      "value": 8
     },
     "limited": 0,
     "xws": "syncedlasercannons",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Proton Cannons",
@@ -213,7 +219,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Underslung Blaster Cannon",
@@ -264,7 +271,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Ancillary Ion Weapons",
@@ -287,7 +295,8 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Precision-Tuned Cannons",
@@ -313,7 +322,8 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Flechette Cannons",
@@ -340,6 +350,7 @@
     "standardLoadoutOnly": true,
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   }
 ]

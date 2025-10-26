@@ -66,17 +66,17 @@
       "caption": "Devious Provocateur",
       "xws": "agentterex",
       "initiative": 3,
-      "cost": 3,
-      "loadout": 8,
+      "cost": 9,
+      "loadout": 12,
       "slots": [
-        "Talent",
-        "Crew",
-        "Illicit",
-        "Illicit",
-        "Illicit",
-        "Modification",
         "Tech",
-        "Tech"
+        "Tech",
+        "Crew",
+        "Crew",
+        "Modification",
+        "Illicit",
+        "Illicit",
+        "Illicit"
       ],
       "limited": 1,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/agentterex.png",
@@ -84,23 +84,23 @@
       "ability": "Setup: After placing forces, choose any number of your equipped [Illicit] upgrades and equip them to friendly TIE/fo or TIE/sf fighters. Each ship can be assigned only 1 [Illicit] this way. End of Game: Return all [Illicit] upgrades to their original ships.",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Commander Malarus",
       "caption": "Vindictive Taskmaster",
       "xws": "commandermalarus-xiclasslightshuttle",
       "initiative": 5,
-      "cost": 4,
-      "loadout": 14,
+      "cost": 10,
+      "loadout": 10,
       "slots": [
-        "Talent",
-        "Crew",
-        "Crew",
-        "Modification",
-        "Modification",
         "Tech",
-        "Tech"
+        "Tech",
+        "Crew",
+        "Crew",
+        "Modification",
+        "Talent"
       ],
       "limited": 1,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/commandermalarus-xiclasslightshuttle.png",
@@ -108,19 +108,21 @@
       "ability": "While a friendly ship at range 0-2 performs a primary attack, before the Modify Dice step, if it has 1 or more blank results, that ship must gain 1 strain token to reroll 1 blank result, if able.",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "First Order Courier",
       "xws": "firstordercourier",
       "initiative": 2,
-      "cost": 4,
-      "loadout": 14,
+      "cost": 9,
+      "loadout": 13,
       "slots": [
-        "Crew",
-        "Modification",
         "Tech",
-        "Tech"
+        "Tech",
+        "Crew",
+        "Crew",
+        "Modification"
       ],
       "limited": 0,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/firstordercourier.png",
@@ -128,7 +130,8 @@
       "text": "The First Order lurks in many bases hidden in shadowy corners of the galaxy, slowly spreading its insidious influence.",
       "standard": true,
       "extended": true,
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Gideon Hask",
@@ -139,20 +142,19 @@
       "ability": "While you or a friendly small ship at range 0-2 performs a primary attack against a damaged defender, if the attacker rolled 2 or fewer attack dice, it may gain 1 strain token to roll 1 additional attack die.",
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 9,
+      "loadout": 8,
       "slots": [
-        "Talent",
-        "Talent",
-        "Crew",
-        "Crew",
-        "Modification",
         "Tech",
-        "Tech"
+        "Tech",
+        "Crew",
+        "Crew",
+        "Modification"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gideonhask-xiclasslightshuttle.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/gideonhask-xiclasslightshuttle.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Agent Tierny",
@@ -184,20 +186,20 @@
           "type": "Jam"
         }
       ],
-      "cost": 5,
-      "loadout": 20,
+      "cost": 12,
+      "loadout": 18,
       "slots": [
-        "Talent",
-        "Talent",
+        "Tech",
         "Tech",
         "Crew",
         "Crew",
         "Modification",
-        "Modification"
+        "Talent"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/agenttierny.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/agenttierny.png",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_Xi-class_Shuttle.png"

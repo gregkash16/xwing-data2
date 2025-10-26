@@ -11,7 +11,9 @@
         "ability": "Setup: Equip this side faceup. Bonus Attack: Spend 1 [Energy]. If this attack hits, the defender suffers 1 [Critical Hit] damage, and all [Hit]/[Critical Hit] results inflict ion tokens instead of damage.",
         "title": "Ion Cannon Battery",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "attack": {
           "arc": "Single Turret Arc",
           "value": 4,
@@ -22,7 +24,10 @@
         "grants": [
           {
             "type": "action",
-            "value": { "type": "Rotate Arc", "difficulty": "White" }
+            "value": {
+              "type": "Rotate Arc",
+              "difficulty": "White"
+            }
           }
         ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/ioncannonbattery.png",
@@ -32,12 +37,17 @@
         "ability": "Offline: After you engage, you may spend 2 [Energy] to flip this card.",
         "title": "Ion Cannon Battery (Offline)",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/ioncannonbattery-sideb.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/ioncannonbattery-sideb.png"
-          }
-        ],
-    "cost": { "value": 5 }
+      }
+    ],
+    "cost": {
+      "value": 5
+    },
+    "restricted": 0
   },
   {
     "name": "Ordnance Tubes",
@@ -51,7 +61,9 @@
         "ability": "Setup: Equip this side faceup. You can perform [Torpedo] and [Missile] attacks only as bonus attacks. You must treat the [Front Arc] requirement of your equipped [Torpedo] and [Missile] upgrades as [Full Front Arc]. Bonus Attack: Perform a [Torpedo] attack. Bonus Attack: Perform a [Missile] attack.",
         "title": "Ordnance Tubes",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/ordnancetubes.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/ordnancetubes.png"
       },
@@ -59,12 +71,17 @@
         "ability": "Offline: You must treat the [Front Arc] requirement of your equipped [Torpedo] and [Missile] upgrades as [Bullseye Arc]. Action: Spend 2 [Energy] to flip this card.",
         "title": "Ordnance Tubes (Offline)",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/ordnancetubes-sideb.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/ordnancetubes-sideb.png"
       }
     ],
-    "cost": { "value": 1 }
+    "cost": {
+      "value": 1
+    },
+    "restricted": 0
   },
   {
     "name": "Point-Defense Battery",
@@ -78,11 +95,16 @@
         "ability": "Setup: Equip this side faceup. Bonus Attack: Spend 1 [Energy]. Bonus Attack: Spend 1 [Energy]. Bonus Attack: Spend 1 [Energy]. Bonus Attack: Spend 1 [Energy].",
         "title": "Point-Defense Battery",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "grants": [
           {
             "type": "action",
-            "value": { "type": "Rotate Arc", "difficulty": "White" }
+            "value": {
+              "type": "Rotate Arc",
+              "difficulty": "White"
+            }
           }
         ],
         "attack": {
@@ -99,12 +121,17 @@
         "ability": "Offline: After you engage, you may spend 2 [Energy] to flip this card.",
         "title": "Point-Defense Battery (Offline)",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/pointdefensebattery-sideb.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/pointdefensebattery-sideb.png"
       }
     ],
-    "cost": { "value": 9 }
+    "cost": {
+      "value": 9
+    },
+    "restricted": 0
   },
   {
     "name": "Targeting Battery",
@@ -118,11 +145,16 @@
         "ability": "Setup: Equip this side faceup. Bonus Attack: Spend 1 [Energy]. After you perform this attack, you may acquire a lock on the defender.",
         "title": "Targeting Battery",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "grants": [
           {
             "type": "action",
-            "value": { "type": "Rotate Arc", "difficulty": "White" }
+            "value": {
+              "type": "Rotate Arc",
+              "difficulty": "White"
+            }
           }
         ],
         "attack": {
@@ -139,12 +171,17 @@
         "ability": "Offline: After you engage, you may spend 2 [Energy] to flip this card.",
         "title": "Targeting Battery (Offline)",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/targetingbattery-sideb.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/targetingbattery-sideb.png"
       }
     ],
-    "cost": { "value": 5 }
+    "cost": {
+      "value": 5
+    },
+    "restricted": 0
   },
   {
     "name": "Turbolaser Battery",
@@ -158,11 +195,16 @@
         "ability": "Setup: Equip this side faceup. Bonus Attack ([Lock]): Spend 3 [Energy]. If this attack hits, add 3 [Hit] results.",
         "title": "Turbolaser Battery",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "grants": [
           {
             "type": "action",
-            "value": { "type": "Rotate Arc", "difficulty": "White" }
+            "value": {
+              "type": "Rotate Arc",
+              "difficulty": "White"
+            }
           }
         ],
         "attack": {
@@ -179,17 +221,24 @@
         "ability": "Offline: After you engage, you may spend 2 [Energy] to flip this card.",
         "title": "Turbolaser Battery (Offline)",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/turbolaserbattery-sideb.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/turbolaserbattery-sideb.png"
       }
     ],
     "restrictions": [
       {
-        "energy": ["5 OR HIGHER"]
+        "energy": [
+          "5 OR HIGHER"
+        ]
       }
     ],
-    "cost": { "value": 10 }
+    "cost": {
+      "value": 10
+    },
+    "restricted": 0
   },
   {
     "name": "Tractor Tentacles",
@@ -199,14 +248,20 @@
     "extended": false,
     "epic": true,
     "restrictions": [
-      { "ships": ["tridentclassassaultship"] }
+      {
+        "ships": [
+          "tridentclassassaultship"
+        ]
+      }
     ],
     "sides": [
       {
         "ability": "Setup: Equip this side faceup. Bonus Attack. Bonus Attack: Spend 1 [Energy]. Bonus Attack: Spend 1 [Energy]. Bonus Attack: Spend 1 [Energy]. Bonus Attack: Spend 1 [Energy].",
         "title": "Tractor Tentacles",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "attack": {
           "arc": "Rear Arc",
           "value": 2,
@@ -221,12 +276,17 @@
         "ability": "Offline: Action: Spend 1 [Energy] to repair this card.",
         "title": "Tractor Tentacles (Offline)",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/tractortentacles-sideb.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/tractortentacles-sideb.png"
       }
     ],
-    "cost": { "value": 0 }
+    "cost": {
+      "value": 0
+    },
+    "restricted": 0
   },
   {
     "name": "Proton Cannon Battery",
@@ -240,7 +300,10 @@
         "ability": "Setup: Equip this side faceup. Bonus Attack: Change 1 [Hit] result to a [Critical Hit] result. Bonus Attack: Spend 1 [Energy]. Change 1 [Hit] result to a [Critical Hit] result.",
         "title": "Proton Cannon Battery",
         "type": "Hardpoint",
-        "slots": ["Hardpoint", "Cargo"],
+        "slots": [
+          "Hardpoint",
+          "Cargo"
+        ],
         "attack": {
           "arc": "Bullseye Arc",
           "value": 4,
@@ -255,7 +318,10 @@
         "ability": "Offline: Action: Spend 1 [Energy] to repair this card.",
         "title": "Proton Cannon Battery (Offline)",
         "type": "Hardpoint",
-        "slots": ["Hardpoint", "Cargo"],
+        "slots": [
+          "Hardpoint",
+          "Cargo"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/protoncannonbattery-sideb.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/protoncannonbattery-sideb.png"
       }
@@ -267,7 +333,10 @@
         ]
       }
     ],
-    "cost": { "value": 10 }
+    "cost": {
+      "value": 10
+    },
+    "restricted": 0
   },
   {
     "name": "Enhanced Propulsion",
@@ -281,7 +350,10 @@
         "ability": "Setup: Equip this side faceup. At the start of the End Phase, you may spend 2 [Energy] to execute a white [2 [Straight]], [1 [Bank Left]], or [1 [Bank Right]] maneuver.",
         "title": "Enhanced Propulsion",
         "type": "Hardpoint",
-        "slots": ["Hardpoint", "Cargo"],
+        "slots": [
+          "Hardpoint",
+          "Cargo"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/enhancedpropulsion.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/enhancedpropulsion.png"
       },
@@ -289,15 +361,25 @@
         "ability": "Offline: Action: Spend 1 [Energy] to repair this card.",
         "title": "Enhanced Propulsion (Offline)",
         "type": "Hardpoint",
-        "slots": ["Hardpoint", "Cargo"],
+        "slots": [
+          "Hardpoint",
+          "Cargo"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/enhancedpropulsion-sideb.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/enhancedpropulsion-sideb.png"
       }
     ],
-    "cost": { "value": 6 },
+    "cost": {
+      "value": 6
+    },
     "restrictions": [
-      { "ships": ["tridentclassassaultship"] }
-    ]
+      {
+        "ships": [
+          "tridentclassassaultship"
+        ]
+      }
+    ],
+    "restricted": 0
   },
   {
     "name": "Drill Beak",
@@ -311,7 +393,10 @@
         "ability": "Setup: Equip this side faceup. You can perform this attack at range 0. Bonus Attack: Spend 1 [Energy]. If the attack range is 0, change all [Hit] results to [Critical Hit] results.",
         "title": "Drill Beak",
         "type": "Hardpoint",
-        "slots": ["Hardpoint", "Cargo"],
+        "slots": [
+          "Hardpoint",
+          "Cargo"
+        ],
         "attack": {
           "arc": "Rear Arc",
           "value": 3,
@@ -326,15 +411,25 @@
         "ability": "Offline: Action: Spend 1 [Energy] to repair this card.",
         "title": "Drill Beak (Offline)",
         "type": "Hardpoint",
-        "slots": ["Hardpoint", "Cargo"],
+        "slots": [
+          "Hardpoint",
+          "Cargo"
+        ],
         "image": "https://infinitearenas.com/xw2/images/upgrades/drillbeak-sideb.png",
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/drillbeak-sideb.png"
       }
     ],
-    "cost": { "value": 4 },
+    "cost": {
+      "value": 4
+    },
     "restrictions": [
-      { "ships": ["tridentclassassaultship"] }
-    ]
+      {
+        "ships": [
+          "tridentclassassaultship"
+        ]
+      }
+    ],
+    "restricted": 0
   },
   {
     "name": "Turbolaser Battery",
@@ -349,7 +444,9 @@
         "ability": "Bonus Attack ([Lock]): Spend 3 [Energy]. If this attack hits, add 3 [Hit] results.",
         "title": "Turbolaser Battery",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "attack": {
           "arc": "Single Turret Arc",
           "value": 3,
@@ -358,7 +455,8 @@
           "ordnance": false
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Planetary Ion Bombardment",
@@ -373,7 +471,9 @@
         "ability": "Setup: Equip this side faceup. You can perform this attack at range 0. Bonus Attack: Spend 1 [Energy]. If the attack range is 0, change all [Hit] results to [Critical Hit] results.",
         "title": "Planetary Ion Bombardment",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "attack": {
           "arc": "Full Front Arc",
           "value": 5,
@@ -382,7 +482,8 @@
           "ordnance": true
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Twin Missile Launcher",
@@ -397,7 +498,10 @@
         "ability": "Bonus attack: Spend 1 [Energy].<br>Bonus attack: Spend 1 [Energy].",
         "title": "Twin Missile Launcher",
         "type": "Hardpoint",
-        "slots": ["Hardpoint", "Missile"],
+        "slots": [
+          "Hardpoint",
+          "Missile"
+        ],
         "attack": {
           "arc": "Single Turret Arc",
           "value": 3,
@@ -406,7 +510,8 @@
           "ordnance": true
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Heavy Laser Cannon Turret",
@@ -421,7 +526,9 @@
         "ability": "Bonus attack: If the attack range is 3, roll 1 additional attack die.",
         "title": "Heavy Laser Cannon Turret",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "attack": {
           "arc": "Single Turret Arc",
           "value": 3,
@@ -430,7 +537,8 @@
           "ordnance": false
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Tractor Tentacles",
@@ -445,7 +553,9 @@
         "ability": "Bonus Attack<br>Bonus Attack: Spend 1 [Energy].<br>Bonus Attack: Spend 1 [Energy].<br>Bonus Attack: Spend 1 [Energy].",
         "title": "Tractor Tentacles",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "attack": {
           "arc": "Rear Arc",
           "value": 2,
@@ -454,7 +564,8 @@
           "ordnance": true
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Drill Beak",
@@ -469,7 +580,10 @@
         "ability": "Bonus Attack: If the attack range is 0, change all [Hit] results to [Critical Hit] results.",
         "title": "Drill Beak",
         "type": "Hardpoint",
-        "slots": ["Hardpoint", "Cargo"],
+        "slots": [
+          "Hardpoint",
+          "Cargo"
+        ],
         "attack": {
           "arc": "Rear Arc",
           "value": 3,
@@ -478,7 +592,8 @@
           "ordnance": true
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Modified Dorsal Turret",
@@ -493,7 +608,9 @@
         "ability": "Bonus Attack",
         "title": "Modified Dorsal Turret",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "attack": {
           "arc": "Single Turret Arc",
           "value": 2,
@@ -502,7 +619,8 @@
           "ordnance": false
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Ion Cannon Battery",
@@ -517,7 +635,9 @@
         "ability": "Bonus Attack: Spend 1 [Energy]. If this attack hits, the defender suffers 1 [Critical Hit] damage, and all [Hit]/[Critical Hit] results inflict ion tokens instead of damage.",
         "title": "Ion Cannon Battery",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "attack": {
           "arc": "Single Turret Arc",
           "value": 4,
@@ -526,7 +646,8 @@
           "ordnance": false
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Point-Defense Battery",
@@ -541,7 +662,9 @@
         "ability": "Bonus Attack: Spend 1 [Energy].<br>Bonus Attack: Spend 1 [Energy].<br>Bonus Attack: Spend 1 [Energy].<br>Bonus Attack: Spend 1 [Energy].",
         "title": "Point-Defense Battery",
         "type": "Hardpoint",
-        "slots": ["Hardpoint"],
+        "slots": [
+          "Hardpoint"
+        ],
         "attack": {
           "arc": "Double Turret Arc",
           "value": 2,
@@ -550,6 +673,7 @@
           "ordnance": false
         }
       }
-    ]
+    ],
+    "restricted": 0
   }
 ]

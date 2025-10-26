@@ -30,7 +30,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Blazer Bomb",
@@ -58,11 +59,12 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 4
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Conner Nets",
@@ -94,7 +96,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Proton Bombs",
@@ -126,7 +129,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Proximity Mines",
@@ -158,7 +162,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 3
   },
   {
     "name": "Seismic Charges",
@@ -190,7 +195,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "DRK-1 Probe Droids",
@@ -230,7 +236,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 2
     },
     "restrictions": [
       {
@@ -241,7 +247,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Electro-Proton Bomb",
@@ -282,7 +289,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Cluster Mines",
@@ -310,11 +318,12 @@
       }
     ],
     "cost": {
-      "value": 7
+      "value": 6
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Ion Bombs",
@@ -346,7 +355,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "sides": [
@@ -366,7 +376,7 @@
         "device": {
           "name": "Concussion Bomb",
           "type": "Bomb",
-          "effect": "At the end of the Activation Phase, this device detonates.  When this device detonates, each ship and remote at range 0\u20131 is dealt 1 facedown damage card. Then, each ship at range 0\u20131 must expose 1 damage card unless it chooses to gain 1 strain token."
+          "effect": "At the end of the Activation Phase, this device detonates.  When this device detonates, each ship and remote at range 0–1 is dealt 1 facedown damage card. Then, each ship at range 0–1 must expose 1 damage card unless it chooses to gain 1 strain token."
         }
       }
     ],
@@ -378,7 +388,8 @@
     "xws": "concussionbombs",
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Thermal Detonators",
@@ -401,15 +412,16 @@
         "device": {
           "name": "Thermal Detonators",
           "type": "Bomb",
-          "effect": "At the end of the Activation Phase, this device detonates. When this device detonates, each ship and remote at range 0\u20131 rolls 1 attack die. Each ship gains 1 strain token for each [Focus] result, and each ship and remote suffers 1 [Hit]/[Crit] damage for each matching result."
+          "effect": "At the end of the Activation Phase, this device detonates. When this device detonates, each ship and remote at range 0–1 rolls 1 attack die. Each ship gains 1 strain token for each [Focus] result, and each ship and remote suffers 1 [Hit]/[Crit] damage for each matching result."
         }
       }
     ],
     "cost": {
-      "value": 5
+      "value": 6
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   }
 ]

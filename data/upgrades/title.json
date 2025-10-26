@@ -52,7 +52,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Black One",
@@ -106,7 +107,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Dauntless",
@@ -141,7 +143,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Ghost",
@@ -176,7 +179,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Havoc",
@@ -228,7 +232,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Hound's Tooth",
@@ -263,7 +268,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "IG-2000",
@@ -298,7 +304,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Lando's Millennium Falcon",
@@ -333,7 +340,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Marauder",
@@ -375,7 +383,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Millennium Falcon",
@@ -425,7 +434,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Mist Hunter",
@@ -480,7 +490,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Moldy Crow",
@@ -490,7 +501,7 @@
       {
         "title": "Moldy Crow",
         "type": "Title",
-        "ability": "Gain a [Front Arc] primary weapon with a value of \u201c3.\u201d During the End Phase, do not remove up to 2 focus tokens.",
+        "ability": "Gain a [Front Arc] primary weapon with a value of “3.” During the End Phase, do not remove up to 2 focus tokens.",
         "slots": [
           "Title"
         ],
@@ -524,7 +535,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Outrider",
@@ -559,7 +571,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Phantom",
@@ -595,7 +608,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Punishing One",
@@ -642,7 +656,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "ST-321",
@@ -677,7 +692,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Shadow Caster",
@@ -712,7 +728,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Slave I",
@@ -754,7 +771,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Virago",
@@ -800,7 +818,8 @@
     ],
     "standard": false,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Rey's Millennium Falcon",
@@ -835,7 +854,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Soulless One",
@@ -877,7 +897,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Scimitar",
@@ -928,7 +949,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Assailer",
@@ -980,7 +1002,8 @@
     ],
     "cost": {
       "value": 5
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Blood Crow",
@@ -1032,7 +1055,8 @@
     ],
     "cost": {
       "value": 8
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Bright Hope",
@@ -1067,7 +1091,8 @@
     ],
     "cost": {
       "value": 5
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Broken Horn",
@@ -1114,7 +1139,8 @@
     ],
     "cost": {
       "value": 4
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Corvus",
@@ -1158,7 +1184,8 @@
     ],
     "cost": {
       "value": 3
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Dodonna's Pride",
@@ -1232,7 +1259,8 @@
     ],
     "cost": {
       "value": 4
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Impetuous",
@@ -1284,7 +1312,8 @@
     ],
     "cost": {
       "value": 4
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Insatiable Worrt",
@@ -1341,7 +1370,8 @@
     ],
     "cost": {
       "value": 7
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Instigator",
@@ -1383,7 +1413,8 @@
     ],
     "cost": {
       "value": 6
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Jaina's Light",
@@ -1430,7 +1461,8 @@
     ],
     "cost": {
       "value": 4
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Kaz's Fireball",
@@ -1465,7 +1497,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Liberator",
@@ -1507,7 +1540,8 @@
     ],
     "cost": {
       "value": 5
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Luminous",
@@ -1554,7 +1588,8 @@
     ],
     "cost": {
       "value": 12
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Merchant One",
@@ -1620,7 +1655,8 @@
     ],
     "cost": {
       "value": 8
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Quantum Storm",
@@ -1672,7 +1708,8 @@
     ],
     "cost": {
       "value": 3
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Requiem",
@@ -1707,7 +1744,8 @@
     ],
     "cost": {
       "value": 7
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Suppressor",
@@ -1759,7 +1797,8 @@
     ],
     "cost": {
       "value": 6
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Tantive IV",
@@ -1801,7 +1840,8 @@
     ],
     "cost": {
       "value": 5
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Thunderstrike",
@@ -1853,7 +1893,8 @@
     ],
     "cost": {
       "value": 4
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Vector",
@@ -1900,7 +1941,8 @@
     ],
     "cost": {
       "value": 7
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "Slave I",
@@ -1943,7 +1985,8 @@
     ],
     "cost": {
       "value": 0
-    }
+    },
+    "restricted": 0
   },
   {
     "name": "B6 Blade Wing Prototype",
@@ -1985,7 +2028,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Nautolan's Revenge",
@@ -2037,7 +2081,8 @@
           "tridentclassassaultship"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Grappler",
@@ -2079,7 +2124,8 @@
           "tridentclassassaultship"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Neimoidian Grasp",
@@ -2121,7 +2167,8 @@
           "tridentclassassaultship"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Trident",
@@ -2163,7 +2210,8 @@
           "tridentclassassaultship"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Nightbrother",
@@ -2211,7 +2259,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Gauntlet",
@@ -2259,7 +2308,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Razor Crest",
@@ -2302,7 +2352,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Xanadu Blood",
@@ -2351,7 +2402,8 @@
     ],
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Millennium Falcon",
@@ -2370,7 +2422,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Lando's Millennium Falcon",
@@ -2389,7 +2442,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Hound's Tooth",
@@ -2408,7 +2462,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Xanadu Blood",
@@ -2427,7 +2482,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Virago",
@@ -2446,7 +2502,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Mist Hunter",
@@ -2465,7 +2522,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Black One",
@@ -2488,7 +2546,8 @@
     "standard": true,
     "extended": true,
     "epic": true,
-    "standardLoadoutOnly": true
+    "standardLoadoutOnly": true,
+    "restricted": 0
   },
   {
     "name": "Corvus",
@@ -2507,7 +2566,8 @@
           "Title"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Blood Crow",
@@ -2526,7 +2586,8 @@
           "Title"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Nautolan's Revenge",
@@ -2549,7 +2610,8 @@
           "recovers": 1
         }
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Broken Horn",
@@ -2568,7 +2630,8 @@
           "Title"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Tantive IV",
@@ -2587,7 +2650,8 @@
           "Title"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Tantive IV",
@@ -2606,7 +2670,8 @@
           "Title"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Hosnian Lament",
@@ -2625,7 +2690,8 @@
           "Title"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Precursor",
@@ -2644,7 +2710,8 @@
           "Title"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Malefactor",
@@ -2663,7 +2730,8 @@
           "Title"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Tantive IV",
@@ -2682,7 +2750,8 @@
           "Title"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Spectre of Nayr",
@@ -2701,7 +2770,8 @@
           "Title"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Trident",
@@ -2720,7 +2790,8 @@
           "Title"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   },
   {
     "name": "Alpha Revue",
@@ -2739,6 +2810,7 @@
           "Title"
         ]
       }
-    ]
+    ],
+    "restricted": 0
   }
 ]

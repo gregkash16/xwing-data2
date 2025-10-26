@@ -71,14 +71,13 @@
       "xws": "dgs047",
       "caption": "Adaptive Intelligence",
       "initiative": 1,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 9,
+      "loadout": 8,
       "slots": [
         "Missile",
         "Missile",
-        "Crew",
-        "Device",
         "Modification",
+        "Payload",
         "Configuration",
         "Tactical Relay"
       ],
@@ -95,18 +94,20 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Baktoid Drone",
       "xws": "baktoiddrone",
       "initiative": 1,
-      "cost": 4,
-      "loadout": 8,
+      "cost": 10,
+      "loadout": 13,
       "slots": [
         "Missile",
-        "Device",
+        "Missile",
         "Modification",
+        "Payload",
         "Configuration"
       ],
       "limited": 0,
@@ -122,23 +123,22 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Geonosian Prototype",
       "xws": "geonosianprototype",
       "caption": "Devastation Protocols",
       "initiative": 2,
-      "cost": 4,
+      "cost": 10,
       "loadout": 12,
       "slots": [
-        "Cannon",
-        "Cannon",
-        "Missile",
-        "Missile",
         "Modification",
+        "Payload",
         "Configuration",
-        "Tactical Relay"
+        "Cannon",
+        "Cannon"
       ],
       "limited": 2,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/geonosianprototype.png",
@@ -153,21 +153,24 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "DGS-286",
       "xws": "dgs286",
       "caption": "Ambush Protocols",
       "initiative": 3,
-      "cost": 4,
-      "loadout": 12,
+      "cost": 11,
+      "loadout": 17,
       "slots": [
         "Missile",
         "Missile",
         "Modification",
+        "Payload",
         "Configuration",
-        "Tactical Relay"
+        "Tactical Relay",
+        "Torpedo"
       ],
       "limited": 1,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dgs286.png",
@@ -182,21 +185,21 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Onderon Oppressor",
       "xws": "onderonoppressor",
       "caption": "Atmospheric Attack Module",
       "initiative": 3,
-      "cost": 4,
-      "loadout": 14,
+      "cost": 10,
+      "loadout": 12,
       "slots": [
         "Missile",
         "Missile",
-        "Crew",
-        "Device",
         "Modification",
+        "Payload",
         "Configuration"
       ],
       "limited": 2,
@@ -212,7 +215,8 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Separatist Predator",
@@ -226,13 +230,13 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 4,
-      "loadout": 9,
+      "cost": 11,
+      "loadout": 15,
       "slots": [
         "Missile",
         "Missile",
-        "Device",
         "Modification",
+        "Payload",
         "Configuration"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/separatistpredator.png",
@@ -240,7 +244,8 @@
       "keywords": [
         "Droid"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/separatist-alliance/I_HMP_Droid_Gunship.png"

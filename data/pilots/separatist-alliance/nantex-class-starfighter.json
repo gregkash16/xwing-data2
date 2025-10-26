@@ -72,12 +72,15 @@
       "text": "Designed for the unique physiology of Geonosian pilots, Nantex-class starfighters are capable of maneuvers that would rip most ships—and pilots—apart.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/stalgasinhiveguard.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/stalgasinhiveguard.png",
-      "cost": 4,
-      "loadout": 7,
+      "cost": 9,
+      "loadout": 5,
       "slots": [
-        "Talent"
+        "Talent",
+        "Modification",
+        "Modification"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Sun Fac",
@@ -94,15 +97,17 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sunfac.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/sunfac.png",
       "ability": "While you perform a primary attack, if the defender is tractored, roll 1 additional attack die.",
-      "cost": 5,
+      "cost": 13,
       "loadout": 17,
       "slots": [
         "Talent",
+        "Modification",
+        "Modification",
         "Talent",
-        "Talent",
-        "Modification"
+        "Talent"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Berwer Kret",
@@ -119,13 +124,16 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/berwerkret.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/berwerkret.png",
       "ability": "After you perform an attack that hits, each friendly ship with [Calculate] on its action bar and a lock on the defender may perform a red [Calculate] action.",
-      "cost": 3,
-      "loadout": 3,
+      "cost": 9,
+      "loadout": 9,
       "slots": [
         "Talent",
+        "Modification",
+        "Modification",
         "Talent"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Chertek",
@@ -142,19 +150,22 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/chertek.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/chertek.png",
       "ability": "While you perform a primary attack, if the defender is tractored, you may reroll up to 2 attack dice.",
-      "cost": 4,
-      "loadout": 16,
+      "cost": 10,
+      "loadout": 14,
       "slots": [
         "Talent",
+        "Modification",
+        "Modification",
         "Talent"
       ],
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Gorgol",
       "caption": "Handy Engineer",
-      "cost": 3,
-      "loadout": 7,
+      "cost": 8,
+      "loadout": 5,
       "limited": 1,
       "initiative": 2,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gorgol.png",
@@ -168,15 +179,17 @@
       "extended": true,
       "slots": [
         "Talent",
+        "Modification",
         "Modification"
       ],
       "xws": "gorgol",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     },
     {
       "name": "Petranaki Arena Ace",
-      "cost": 5,
-      "loadout": 9,
+      "cost": 10,
+      "loadout": 8,
       "initiative": 4,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/petranakiarenaace.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/petranakiarenaace.png",
@@ -190,10 +203,12 @@
       "limited": 0,
       "slots": [
         "Talent",
-        "Talent"
+        "Modification",
+        "Modification"
       ],
       "xws": "petranakiarenaace",
-      "epic": true
+      "epic": true,
+      "restricted": 0
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/separatist-alliance/I_Nantex_Class_Starfighter.png"

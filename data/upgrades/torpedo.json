@@ -31,7 +31,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 2
   },
   {
     "name": "Adv. Proton Torpedoes",
@@ -61,11 +62,12 @@
       }
     ],
     "cost": {
-      "value": 9
+      "value": 7
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Ion Torpedoes",
@@ -99,7 +101,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Proton Torpedoes",
@@ -133,7 +136,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 3
   },
   {
     "name": "Plasma Torpedoes",
@@ -167,7 +171,8 @@
     },
     "standard": true,
     "extended": true,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   },
   {
     "name": "Tracking Torpedoes",
@@ -201,6 +206,7 @@
     ],
     "standard": false,
     "extended": false,
-    "epic": true
+    "epic": true,
+    "restricted": 0
   }
 ]
