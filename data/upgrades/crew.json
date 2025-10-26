@@ -225,7 +225,7 @@
   {
     "name": "Boba Fett",
     "limited": 1,
-    "xws": "bobafett",
+    "xws": "bobafett-crew",
     "sides": [
       {
         "title": "Boba Fett",
@@ -3891,7 +3891,7 @@
   {
     "name": "Ursa Wren",
     "limited": 1,
-    "xws": "ursawren",
+    "xws": "ursawren-crew-rebel",
     "sides": [
       {
         "ability": "You can maintain up to 2 locks. Each lock must be on a different object. After a friendly ship at range 0-3 is locked by an enemy ship, you may perform a [Lock] action.",
