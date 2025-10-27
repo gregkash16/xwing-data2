@@ -3781,7 +3781,7 @@
   {
     "name": "Gar Saxon",
     "limited": 1,
-    "xws": "garsaxon",
+    "xws": "garsaxon-crew",
     "sides": [
       {
         "ability": "While a friendly ship at range 1-3 with an initiative of 4 or lower performs an attack against a defender you have locked, the attacker may change 1 [Focus] result to a [Hit] result.",
