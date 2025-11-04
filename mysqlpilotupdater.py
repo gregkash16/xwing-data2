@@ -1,158 +1,197 @@
 import os
 import json
-import mysql.connector
 import traceback
 from datetime import datetime
+import mysql.connector
 
-# === CONFIGURATION ===
+# ================= CONFIG =================
 DB_CONFIG = {
     "host": "metro.proxy.rlwy.net",
     "user": "root",
     "password": "mChKvvEQzxWOKOBhPcYHltMyADqwhpWz",
-    "database": "railway",  # Used for initial connection; we'll create others
-    "port": 47124
+    "database": "railway",   # just for initial connection; we'll USE schema per faction
+    "port": 47124,
 }
 
-PILOT_DIR = r"C:\Users\gregk\Documents\GitHub\xwa-points\xwing-data2\data\pilots"
-LOG_FILE = "upload_errors.txt"
+# Change if your local path differs
+PILOT_DIR = r"C:\Users\gregk\Documents\GitHub\xwing-data2\data\pilots"
 
-DESIRED_HEADER_ORDER = [
-    "xws", "limited", "name", "caption", "initiative", "text", "ability",
-    "charges", "force", "shipAbility", "cost", "loadout", "standardLoadout",
-    "slots", "shipActions", "shipStats", "keywords",
-    "standard", "extended", "epic", "image", "artwork"
+FACTIONS = [
+    #"first-order",
+    #"galactic-republic",
+    #"galactic-empire",
+    #"rebel-alliance",
+    #"resistance",
+    #"scum-and-villainy",
+    "separatist-alliance",   # keeping your spelling as provided
 ]
 
-# === LOGGING ===
-def log_error(context, error):
+LOG_FILE = "upload_errors.txt"
+DRY_RUN = False  # set True to see actions without writing DB
+# ==========================================
+
+def log_error(context: str, exc: BaseException):
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(f"[{datetime.now()}] ERROR in {context}:\n")
         f.write(f"{traceback.format_exc()}\n")
         f.write("-" * 80 + "\n")
 
-# === HELPERS ===
-def normalize_list(lst):
-    if isinstance(lst, list):
-        return ', '.join(str(item) for item in lst)
-    return lst
+def log_info(line: str):
+    print(line)
+    # optional: also append to the same log file for traceability
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
+        f.write(f"[{datetime.now()}] {line}\n")
 
-def normalize_ship_actions(actions):
-    if not isinstance(actions, list):
+def hyphen_to_underscore(s: str) -> str:
+    return s.replace("-", "_")
+
+def titleize_slot(slot: str) -> str:
+    # "force-power" -> "Force Power", "tech" -> "Tech"
+    return slot.replace("-", " ").title()
+
+def normalize_slots(slots):
+    if not slots:
         return None
-    result = []
-    for action in actions:
-        base = f"{action.get('difficulty', '')} {action.get('type', '')}".strip()
-        if "linked" in action:
-            linked = action["linked"]
-            base += f" > {linked.get('difficulty', '')} {linked.get('type', '')}".strip()
-        result.append(base)
-    return ', '.join(result)
+    if isinstance(slots, list):
+        return ", ".join(titleize_slot(s) for s in slots)
+    # if string already, try to be graceful
+    return ", ".join(titleize_slot(x.strip()) for x in str(slots).split(",") if x.strip())
 
-def normalize_ship_ability(ability):
-    if not isinstance(ability, dict):
-        return None
-    return f"{ability.get('name', '')}: {ability.get('text', '')}"
+def get_cost(pilot: dict):
+    # Handle both "cost" and "points"
+    for key in ("cost", "points"):
+        if key in pilot:
+            try:
+                return int(pilot[key])
+            except Exception:
+                return None
+    return None
 
-def gather_all_headers(file_path):
+def get_loadout(pilot: dict):
+    # Handle "loadout" or "loadoutValue"
+    for key in ("loadout", "loadoutValue"):
+        if key in pilot:
+            try:
+                return int(pilot[key])
+            except Exception:
+                return None
+    return None
+
+def get_slots(pilot: dict, ship_root: dict):
+    # Prefer pilot-level; if absent, you can optionally fall back to file-level if your data has it
+    slots = pilot.get("slots")
+    if not slots:
+        slots = ship_root.get("slots")  # optional, many datasets don’t have this at file level
+    return normalize_slots(slots)
+
+def update_row(conn, schema: str, table: str, xws: str, cost, loadout, slots_norm):
+    cur = conn.cursor()
     try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-        found_headers = set()
-        for pilot in data.get('pilots', []):
-            found_headers.update(pilot.keys())
-        found_headers.update(["shipActions", "shipAbility", "shipStats"])  # Ensure these are always present
-        ordered_headers = [h for h in DESIRED_HEADER_ORDER if h in found_headers]
-        remaining = [h for h in found_headers if h not in ordered_headers]
-        return ordered_headers + sorted(remaining)
+        cur.execute(f"USE `{schema}`")
+        # Ensure the needed columns exist; if not, we log and skip that column
+        cur.execute(f"SHOW COLUMNS FROM `{table}`")
+        cols = {row[0].lower() for row in cur.fetchall()}
+        missing = [c for c in ("xws", "cost", "loadout", "slots") if c not in cols]
+        if "xws" in missing:
+            log_info(f"[{schema}.{table}] missing required column 'xws'; skipping table.")
+            return
+
+        sets = []
+        vals = []
+
+        if "cost" not in missing and cost is not None:
+            sets.append("`cost` = %s")
+            vals.append(cost)
+        if "loadout" not in missing and loadout is not None:
+            sets.append("`loadout` = %s")
+            vals.append(loadout)
+        if "slots" not in missing and slots_norm is not None:
+            sets.append("`slots` = %s")
+            vals.append(slots_norm)
+
+        if not sets:
+            # nothing to update for this pilot
+            return
+
+        vals.append(xws)
+        sql = f"UPDATE `{table}` SET {', '.join(sets)} WHERE `xws` = %s"
+
+        if DRY_RUN:
+            log_info(f"DRY_RUN UPDATE {schema}.{table} SET {sets} WHERE xws={xws}")
+            return
+
+        cur.execute(sql, vals)
+        if cur.rowcount == 0:
+            log_info(f"[{schema}.{table}] No row found for xws='{xws}'")
+        else:
+            log_info(f"[{schema}.{table}] Updated xws='{xws}' ({', '.join([s.split('=')[0].strip('` ') for s in sets])})")
+        conn.commit()
     except Exception as e:
-        log_error(f"gather_all_headers({file_path})", e)
-        return []
+        log_error(f"update_row({schema}.{table}, xws={xws})", e)
+    finally:
+        cur.close()
 
-def create_schema_and_table(cursor, schema_name, table_name, headers):
-    try:
-        cursor.execute(f"CREATE DATABASE IF NOT EXISTS `{schema_name}`")
-        cursor.execute(f"USE `{schema_name}`")
-        safe_headers = [f"`{h}` TEXT" for h in headers]
-        cursor.execute(f"DROP TABLE IF EXISTS `{table_name}`")
-        cursor.execute(f"CREATE TABLE `{table_name}` ({', '.join(safe_headers)})")
-    except Exception as e:
-        log_error(f"create_schema_and_table({schema_name}.{table_name})", e)
-
-def insert_pilots(cursor, schema_name, table_name, headers, file_path):
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-    except Exception as e:
-        log_error(f"open_json({file_path})", e)
-        return
-
-    for pilot in data.get('pilots', []):
-        try:
-            row = {}
-            for key in headers:
-                val = pilot.get(key)
-                if key == "shipActions":
-                    val = normalize_ship_actions(pilot.get("shipActions", None))
-                elif key == "shipAbility":
-                    val = normalize_ship_ability(pilot.get("shipAbility", None))
-                elif isinstance(val, list):
-                    val = normalize_list(val)
-                elif isinstance(val, dict):
-                    val = json.dumps(val)
-                row[key] = val
-
-            columns = ', '.join(f"`{k}`" for k in headers)
-            placeholders = ', '.join(['%s'] * len(headers))
-            values = [row.get(k) for k in headers]
-
-            cursor.execute(f"INSERT INTO `{schema_name}`.`{table_name}` ({columns}) VALUES ({placeholders})", values)
-        except Exception as e:
-            log_error(f"insert_pilot({schema_name}.{table_name} - {pilot.get('name', 'unknown')})", e)
-
-# === MAIN PROCESSING FUNCTION ===
-
-def process_all():
+def process():
+    # Connect once; reuse
     try:
         conn = mysql.connector.connect(**DB_CONFIG)
-        cursor = conn.cursor()
     except Exception as e:
         log_error("MySQL connection", e)
         return
 
-    for faction in os.listdir(PILOT_DIR):
+    for faction in FACTIONS:
         faction_path = os.path.join(PILOT_DIR, faction)
         if not os.path.isdir(faction_path):
+            log_info(f"Skipping faction (no folder): {faction_path}")
             continue
 
-        schema_name = faction.replace("-", "_")
+        schema = hyphen_to_underscore(faction)
 
         for file_name in os.listdir(faction_path):
-            if not file_name.endswith('.json'):
+            if not file_name.endswith(".json"):
                 continue
 
             file_path = os.path.join(faction_path, file_name)
-            table_name = os.path.splitext(file_name)[0].replace('-', '_')
+            table = hyphen_to_underscore(os.path.splitext(file_name)[0])
 
-            print(f"Processing: {file_path} → {schema_name}.{table_name}")
+            log_info(f"Processing {file_path} -> {schema}.{table}")
 
             try:
-                headers = gather_all_headers(file_path)
-                if not headers:
-                    continue
-                create_schema_and_table(cursor, schema_name, table_name, headers)
-                insert_pilots(cursor, schema_name, table_name, headers, file_path)
-                conn.commit()
+                with open(file_path, "r", encoding="utf-8") as f:
+                    ship_json = json.load(f)
             except Exception as e:
-                log_error(f"process_file({file_path})", e)
+                log_error(f"open_json({file_path})", e)
+                continue
+
+            pilots = ship_json.get("pilots", [])
+            if not isinstance(pilots, list):
+                log_info(f"[{file_path}] 'pilots' is missing or not a list; skipping file.")
+                continue
+
+            for p in pilots:
+                try:
+                    xws = p.get("xws")
+                    if not xws:
+                        log_info(f"[{schema}.{table}] pilot missing 'xws'; skipping: {p.get('name','<no name>')}")
+                        continue
+
+                    cost = get_cost(p)
+                    loadout = get_loadout(p)
+                    slots_norm = get_slots(p, ship_json)
+
+                    if cost is None and loadout is None and slots_norm is None:
+                        # nothing to update
+                        continue
+
+                    update_row(conn, schema, table, xws, cost, loadout, slots_norm)
+
+                except Exception as e:
+                    log_error(f"pilot_update({schema}.{table}, xws={p.get('xws')})", e)
 
     try:
-        cursor.close()
         conn.close()
     except Exception as e:
         log_error("closing connection", e)
 
-    print("Done!")
-
-# === ENTRY POINT ===
 if __name__ == "__main__":
-    process_all()
+    process()
