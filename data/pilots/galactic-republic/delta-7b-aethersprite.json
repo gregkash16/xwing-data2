@@ -125,7 +125,7 @@
       },
       "standard": true,
       "epic": true,
-      "cost": 15,
+      "cost": 14,
       "slots": [
         "Force Power",
         "Modification",
@@ -137,7 +137,7 @@
         "Jedi",
         "Light Side"
       ],
-      "loadout": 11,
+      "loadout": 8,
       "extended": true,
       "restricted": 0
     },
