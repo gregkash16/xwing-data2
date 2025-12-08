@@ -3993,7 +3993,7 @@
   {
     "name": "Maul",
     "limited": 1,
-    "xws": "maul-doublecrew",
+    "xws": "maul-crew",
     "sides": [
       {
         "title": "Maul",
@@ -4021,8 +4021,8 @@
             "amount": 1
           }
         ],
-        "image": "https://infinitearenas.com/xw2/images/upgrades/maul-doublecrew.png",
-        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/maul-doublecrew.png"
+        "image": "https://infinitearenas.com/xw2/images/upgrades/maul-crew.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/maul-crew.png"
       }
     ],
     "cost": {
