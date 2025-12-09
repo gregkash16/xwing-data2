@@ -113,8 +113,8 @@
       "caption": "Bravo Leader",
       "standard": true,
       "extended": true,
-      "cost": 10,
-      "loadout": 12,
+      "cost": 11,
+      "loadout": 16,
       "slots": [
         "Talent",
         "Astromech",
@@ -141,8 +141,8 @@
       "caption": "Aggressive Negotiator",
       "standard": true,
       "extended": true,
-      "cost": 11,
-      "loadout": 15,
+      "cost": 10,
+      "loadout": 12,
       "slots": [
         "Talent",
         "Astromech",

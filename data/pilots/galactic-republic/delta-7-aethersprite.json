@@ -127,8 +127,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 13,
-      "loadout": 10,
+      "cost": 12,
+      "loadout": 8,
       "slots": [
         "Force Power",
         "Configuration",
