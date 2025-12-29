@@ -1696,7 +1696,7 @@
     "xws": "stealthgambit-tiephphantom",
     "sides": [
       {
-        "title": "Silent Hunter",
+        "title": "Stealth Gambit",
         "type": "Talent",
         "ability": "After a friendly ship performs an attack that hits an enemy ship in your [Front Arc], if you are cloaked, you may gain a strain token to remove your cloak token and perform a bonus primary attack targeting the defender. At the end of the Engagement Phase, if you are strained, gain an evade token.",
         "slots": [
