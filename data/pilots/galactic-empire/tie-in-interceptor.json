@@ -715,6 +715,25 @@
         "name": "Sensitive Controls",
         "text": "During the System Phase, you may perform a red [Barrel Roll] or red [Boost] action."
       },
+      "shipStats": [
+        {
+          "arc": "Front Arc",
+          "type": "attack",
+          "value": 3
+        },
+        {
+          "type": "agility",
+          "value": 3
+        },
+        {
+          "type": "hull",
+          "value": 3
+        },
+        {
+          "type": "shields",
+          "value": 1
+        }
+      ],
       "cost": 11,
       "standardLoadout": [
         "noescape-battleoverendor",
