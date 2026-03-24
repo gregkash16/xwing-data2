@@ -105,7 +105,8 @@
         "Team",
         "Cargo"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 367
     },
     {
       "name": "Raymus Antilles",
@@ -164,7 +165,8 @@
       ],
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 679
     }
   ]
 }

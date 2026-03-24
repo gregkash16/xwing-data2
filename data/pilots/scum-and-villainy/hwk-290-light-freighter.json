@@ -103,7 +103,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 113
     },
     {
       "name": "Palob Godalhi",
@@ -130,7 +131,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 112
     },
     {
       "name": "Spice Runner",
@@ -154,7 +156,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 230
     },
     {
       "name": "Torkil Mux",
@@ -179,7 +182,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 114
     },
     {
       "name": "Gamut Key",
@@ -209,7 +213,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gamutkey.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/gamutkey.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 473
     },
     {
       "name": "Kanan Jarrus",
@@ -241,7 +246,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kananjarrus-hwk290lightfreighter.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/kananjarrus-hwk290lightfreighter.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 457
     },
     {
       "name": "Tápusk",
@@ -267,7 +273,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 474
     }
   ]
 }

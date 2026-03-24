@@ -96,7 +96,8 @@
         "Mandalorian"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 97
     },
     {
       "name": "Joy Rekkoff",
@@ -125,7 +126,8 @@
         "Mandalorian"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 100
     },
     {
       "name": "Kad Solus",
@@ -154,7 +156,8 @@
         "Mandalorian"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 99
     },
     {
       "name": "Old Teroch",
@@ -183,7 +186,8 @@
         "Mandalorian"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 98
     },
     {
       "name": "Skull Squadron Pilot",
@@ -211,7 +215,8 @@
         "Mandalorian"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 101
     },
     {
       "name": "Zealous Recruit",
@@ -238,7 +243,8 @@
         "Mandalorian"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 102
     },
     {
       "name": "Mandalorian Royal Guard",
@@ -267,7 +273,8 @@
       ],
       "caption": "Selfless Protector",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 505
     },
     {
       "name": "Tor Phun",
@@ -296,7 +303,8 @@
         "Mandalorian"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 610
     },
     {
       "name": "Fenn Rau",
@@ -340,7 +348,8 @@
       ],
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 719
     }
   ]
 }

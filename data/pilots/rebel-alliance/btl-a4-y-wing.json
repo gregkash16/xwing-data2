@@ -87,7 +87,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 27
     },
     {
       "name": "Evaan Verlaine",
@@ -113,7 +114,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 28
     },
     {
       "name": "Gold Squadron Veteran",
@@ -139,7 +141,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 29
     },
     {
       "name": "Gray Squadron Bomber",
@@ -164,7 +167,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 30
     },
     {
       "name": "Horton Salm",
@@ -191,7 +195,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 26
     },
     {
       "name": "Norra Wexley",
@@ -218,7 +223,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 25
     },
     {
       "name": "Dex Tiree",
@@ -247,7 +253,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 561
     },
     {
       "name": "“Dutch” Vander",
@@ -276,7 +283,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 560
     },
     {
       "name": "Hol Okand",
@@ -305,7 +313,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 563
     },
     {
       "name": "“Pops” Krail",
@@ -334,7 +343,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 562
     },
     {
       "name": "“Pops” Krail",
@@ -360,7 +370,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 598
     },
     {
       "name": "“Dutch” Vander",
@@ -384,7 +395,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 637
     },
     {
       "name": "Horton Salm",
@@ -408,7 +420,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 638
     }
   ]
 }

@@ -102,7 +102,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 173
     },
     {
       "name": "Maarek Stele",
@@ -132,7 +133,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 174
     },
     {
       "name": "Storm Squadron Ace",
@@ -160,7 +162,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 177
     },
     {
       "name": "Tempest Squadron Pilot",
@@ -187,7 +190,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 178
     },
     {
       "name": "Ved Foslo",
@@ -216,7 +220,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 175
     },
     {
       "name": "Zertik Strom",
@@ -244,7 +249,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 176
     },
     {
       "name": "Darth Vader",
@@ -301,7 +307,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 564
     },
     {
       "name": "Juno Eclipse",
@@ -331,7 +338,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 600
     },
     {
       "name": "Darth Vader",
@@ -388,7 +396,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 630
     },
     {
       "name": "Maarek Stele",
@@ -417,7 +426,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 631
     }
   ]
 }

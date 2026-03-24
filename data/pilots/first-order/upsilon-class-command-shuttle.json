@@ -95,7 +95,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 238
     },
     {
       "name": "Major Stridan",
@@ -126,7 +127,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 251
     },
     {
       "name": "Petty Officer Thanisson",
@@ -160,7 +162,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 281
     },
     {
       "name": "Starkiller Base Pilot",
@@ -189,7 +192,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 288
     },
     {
       "name": "Lieutenant Tavson",
@@ -223,7 +227,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 289
     },
     {
       "name": "Captain Cardinal",
@@ -258,7 +263,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 282
     },
     {
       "name": "Petty Officer Thanisson",
@@ -284,7 +290,8 @@
       "extended": true,
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 701
     }
   ]
 }

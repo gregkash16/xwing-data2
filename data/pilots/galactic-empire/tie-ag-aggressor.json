@@ -87,7 +87,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 188
     },
     {
       "name": "Lieutenant Kestal",
@@ -115,7 +116,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 187
     },
     {
       "name": "Onyx Squadron Scout",
@@ -142,7 +144,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 189
     },
     {
       "name": "Sienar Specialist",
@@ -168,7 +171,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 190
     }
   ]
 }

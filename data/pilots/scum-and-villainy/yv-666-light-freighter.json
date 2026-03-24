@@ -87,7 +87,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 153
     },
     {
       "name": "Latts Razzi",
@@ -118,7 +119,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 154
     },
     {
       "name": "Moralo Eval",
@@ -149,7 +151,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 152
     },
     {
       "name": "Trandoshan Slaver",
@@ -174,7 +177,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 155
     },
     {
       "name": "Doctor Aphra",
@@ -205,7 +209,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 612
     },
     {
       "name": "Bossk",
@@ -235,7 +240,8 @@
       ],
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 717
     }
   ]
 }

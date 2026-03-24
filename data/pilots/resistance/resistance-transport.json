@@ -88,7 +88,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/covanell.png",
       "caption": "Evacuation Escort",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 351
     },
     {
       "name": "Pammich Nerro Goode",
@@ -114,7 +115,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/pammichnerrogoode.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/pammichnerrogoode.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 347
     },
     {
       "name": "Nodin Chavdri",
@@ -139,7 +141,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/nodinchavdri.png",
       "caption": "Insubordinate Insurgent",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 352
     },
     {
       "name": "Logistics Division Pilot",
@@ -164,7 +167,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/logisticsdivisionpilot.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/logisticsdivisionpilot.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 346
     },
     {
       "name": "Taka Jamoreesa",
@@ -188,7 +192,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/takajamoreesa.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/takajamoreesa.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 608
     },
     {
       "name": "Pammich Nerro Goode",
@@ -214,7 +219,8 @@
       "caption": "Evacuation of D'Qar",
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 709
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/resistance/I_Resistance_Transport.png"

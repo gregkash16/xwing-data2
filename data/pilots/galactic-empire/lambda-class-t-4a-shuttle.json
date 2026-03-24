@@ -86,7 +86,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 165
     },
     {
       "name": "Colonel Jendon",
@@ -115,7 +116,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 167
     },
     {
       "name": "Lieutenant Sai",
@@ -138,7 +140,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 166
     },
     {
       "name": "Omicron Group Pilot",
@@ -160,7 +163,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 168
     }
   ]
 }

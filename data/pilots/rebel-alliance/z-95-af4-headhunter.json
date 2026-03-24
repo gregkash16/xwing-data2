@@ -78,7 +78,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 54
     },
     {
       "name": "Bandit Squadron Pilot",
@@ -97,7 +98,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 57
     },
     {
       "name": "Lieutenant Blount",
@@ -118,7 +120,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 55
     },
     {
       "name": "Tala Squadron Pilot",
@@ -138,7 +141,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 56
     }
   ]
 }

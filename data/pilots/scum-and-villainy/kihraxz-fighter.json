@@ -80,7 +80,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 123
     },
     {
       "name": "Captain Jostero",
@@ -103,7 +104,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 122
     },
     {
       "name": "Cartel Marauder",
@@ -125,7 +127,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 124
     },
     {
       "name": "Graz",
@@ -152,7 +155,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 120
     },
     {
       "name": "Talonbane Cobra",
@@ -176,7 +180,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 119
     },
     {
       "name": "Viktor Hel",
@@ -203,7 +208,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 121
     }
   ]
 }

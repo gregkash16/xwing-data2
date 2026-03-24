@@ -93,7 +93,8 @@
         "Mandalorian"
       ],
       "caption": "Obedient Underling",
-      "restricted": 0
+      "restricted": 0,
+      "id": 515
     },
     {
       "xws": "garsaxon",
@@ -126,7 +127,8 @@
         "Mandalorian"
       ],
       "caption": "Treacherous Viceroy",
-      "restricted": 0
+      "restricted": 0,
+      "id": 517
     },
     {
       "xws": "imperialsupercommando",
@@ -152,7 +154,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 516
     }
   ]
 }

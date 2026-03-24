@@ -90,7 +90,8 @@
         "B-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 75
     },
     {
       "name": "Blue Squadron Pilot",
@@ -117,7 +118,8 @@
         "B-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 76
     },
     {
       "name": "Braylen Stramm",
@@ -146,7 +148,8 @@
         "B-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 73
     },
     {
       "name": "Ten Numb",
@@ -175,7 +178,8 @@
         "B-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 74
     },
     {
       "name": "Gina Moonsong",
@@ -204,7 +208,8 @@
         "B-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 391
     },
     {
       "name": "Hera Syndulla",
@@ -236,7 +241,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/herasyndulla-asf01bwing.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/herasyndulla-asf01bwing.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 450
     },
     {
       "name": "Netrem Pollard",
@@ -264,7 +270,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/netrempollard.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/netrempollard.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 464
     },
     {
       "name": "Adon Fox",
@@ -324,7 +331,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 657
     },
     {
       "name": "Gina Moonsong",
@@ -403,7 +411,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 659
     },
     {
       "name": "Braylen Stramm",
@@ -482,7 +491,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 658
     }
   ]
 }

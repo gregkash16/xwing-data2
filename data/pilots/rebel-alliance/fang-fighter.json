@@ -96,7 +96,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 501
     },
     {
       "name": "Bodica Venj",
@@ -126,7 +127,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 499
     },
     {
       "name": "Dirk Ullodin",
@@ -155,7 +157,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 500
     },
     {
       "name": "Clan Wren Volunteer",
@@ -184,7 +187,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 502
     }
   ]
 }

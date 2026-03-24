@@ -117,7 +117,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 534
     },
     {
       "name": "Viktor Hel",
@@ -148,7 +149,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 535
     },
     {
       "name": "Nom Lumb",
@@ -178,7 +180,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 536
     },
     {
       "name": "Outer Rim Hunter",
@@ -204,7 +207,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 537
     },
     {
       "name": "Durge",
@@ -236,7 +240,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 611
     },
     {
       "name": "Cad Bane",
@@ -303,7 +308,8 @@
         }
       ],
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 718
     }
   ]
 }

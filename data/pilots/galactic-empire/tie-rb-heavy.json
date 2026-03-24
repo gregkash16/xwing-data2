@@ -95,7 +95,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 416
     },
     {
       "name": "Onyx Squadron Sentry",
@@ -125,7 +126,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 417
     },
     {
       "name": "“Rampage”",
@@ -156,7 +158,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 419
     },
     {
       "name": "Lyttan Dree",
@@ -186,7 +189,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 418
     },
     {
       "name": "Flight Leader Ubbel",
@@ -217,7 +221,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 599
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIE_Brute.png"

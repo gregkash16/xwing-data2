@@ -96,7 +96,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 429
     },
     {
       "name": "Zam Wesell",
@@ -133,7 +134,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 428
     },
     {
       "name": "Boba Fett",
@@ -161,7 +163,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 427
     },
     {
       "name": "Separatist Racketeer",
@@ -184,7 +187,8 @@
         "Payload"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 426
     },
     {
       "name": "Aurra Sing",
@@ -218,7 +222,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 615
     }
   ]
 }

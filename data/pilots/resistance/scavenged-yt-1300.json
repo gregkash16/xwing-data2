@@ -85,7 +85,8 @@
         "YT-1300"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 295
     },
     {
       "name": "Chewbacca",
@@ -117,7 +118,8 @@
         "YT-1300"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 246
     },
     {
       "name": "Han Solo",
@@ -149,7 +151,8 @@
         "YT-1300"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 245
     },
     {
       "name": "Rey",
@@ -190,7 +193,8 @@
         "YT-1300"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 244
     },
     {
       "name": "Poe Dameron",
@@ -227,7 +231,8 @@
         "YT-1300"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 604
     },
     {
       "name": "Lando Calrissian",
@@ -263,7 +268,8 @@
         "YT-1300"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 605
     }
   ]
 }

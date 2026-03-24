@@ -107,7 +107,8 @@
         "Spectre"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 63
     },
     {
       "name": "Hera Syndulla",
@@ -143,7 +144,8 @@
         "Spectre"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 61
     },
     {
       "name": "Kanan Jarrus",
@@ -187,7 +189,8 @@
         "Spectre"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 62
     },
     {
       "name": "Lothal Rebel",
@@ -218,7 +221,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 64
     },
     {
       "name": "Alexsandr Kallus",
@@ -253,7 +257,8 @@
         "Spectre"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 392
     }
   ]
 }

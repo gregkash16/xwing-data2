@@ -97,7 +97,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 103
     },
     {
       "name": "Bounty Hunter",
@@ -123,7 +124,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 108
     },
     {
       "name": "Emon Azzameen",
@@ -149,7 +151,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 104
     },
     {
       "name": "Kath Scarlet",
@@ -175,7 +178,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 105
     },
     {
       "name": "Koshka Frost",
@@ -203,7 +207,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 106
     },
     {
       "name": "Krassis Trelix",
@@ -228,7 +233,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 107
     },
     {
       "name": "Hondo Ohnaka",
@@ -253,7 +259,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 609
     },
     {
       "name": "Boba Fett",
@@ -297,7 +304,8 @@
       ],
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 712
     }
   ]
 }

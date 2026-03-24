@@ -96,7 +96,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 477
     },
     {
       "name": "Teza Nasz",
@@ -128,7 +129,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 478
     },
     {
       "name": "Wilsa Teshlo",
@@ -160,7 +162,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 479
     },
     {
       "name": "Shasa Zaro",
@@ -192,7 +195,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 480
     },
     {
       "name": "Lega Fossang",
@@ -223,7 +227,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 481
     },
     {
       "name": "Aftab Ackbar",
@@ -254,7 +259,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 482
     },
     {
       "name": "Corus Kapellim",
@@ -286,7 +292,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 483
     },
     {
       "name": "C’ai Threnalli",
@@ -318,7 +325,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 484
     },
     {
       "name": "New Republic Patrol",
@@ -348,7 +356,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 485
     },
     {
       "name": "Kijimi Spice Runner",
@@ -379,7 +388,8 @@
         "Y-wing"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 486
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/resistance/I_Y-wing-bta-nr2.png"

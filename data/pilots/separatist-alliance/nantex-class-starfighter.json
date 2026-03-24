@@ -80,7 +80,8 @@
         "Modification"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 353
     },
     {
       "name": "Sun Fac",
@@ -107,7 +108,8 @@
         "Talent"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 357
     },
     {
       "name": "Berwer Kret",
@@ -133,7 +135,8 @@
         "Talent"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 358
     },
     {
       "name": "Chertek",
@@ -159,7 +162,8 @@
         "Talent"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 356
     },
     {
       "name": "Gorgol",
@@ -184,7 +188,8 @@
       ],
       "xws": "gorgol",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 355
     },
     {
       "name": "Petranaki Arena Ace",
@@ -208,7 +213,8 @@
       ],
       "xws": "petranakiarenaace",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 354
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/separatist-alliance/I_Nantex_Class_Starfighter.png"

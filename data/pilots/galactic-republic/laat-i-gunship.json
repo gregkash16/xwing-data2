@@ -101,7 +101,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 415
     },
     {
       "name": "“Hound”",
@@ -138,7 +139,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 413
     },
     {
       "name": "“Warthog”",
@@ -176,7 +178,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 414
     },
     {
       "name": "212th Battalion Pilot",
@@ -212,7 +215,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 412
     },
     {
       "name": "“Sicko”",
@@ -252,7 +256,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 621
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_LAAT_Republic_Gunship.png"

@@ -114,7 +114,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 653
     },
     {
       "name": "Dash Rendar",
@@ -145,7 +146,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 650
     }
   ]
 }

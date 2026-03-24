@@ -91,7 +91,8 @@
         "Spectre"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 68
     },
     {
       "name": "Ezra Bridger",
@@ -129,7 +130,8 @@
         "Spectre"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 67
     },
     {
       "name": "Hera Syndulla",
@@ -160,7 +162,8 @@
         "Spectre"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 65
     },
     {
       "name": "Sabine Wren",
@@ -191,7 +194,8 @@
         "Spectre"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 66
     }
   ]
 }

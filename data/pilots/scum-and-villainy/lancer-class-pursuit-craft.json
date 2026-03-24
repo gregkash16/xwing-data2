@@ -100,7 +100,8 @@
         "Dark Side"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 125
     },
     {
       "name": "Ketsu Onyo",
@@ -128,7 +129,8 @@
         "Mandalorian"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 126
     },
     {
       "name": "Sabine Wren",
@@ -156,7 +158,8 @@
         "Mandalorian"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 127
     },
     {
       "name": "Shadowport Hunter",
@@ -180,7 +183,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 128
     }
   ]
 }

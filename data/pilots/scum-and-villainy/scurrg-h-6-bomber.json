@@ -87,7 +87,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 144
     },
     {
       "name": "Lok Revenant",
@@ -110,7 +111,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 146
     },
     {
       "name": "Sol Sixxa",
@@ -136,7 +138,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 145
     }
   ]
 }

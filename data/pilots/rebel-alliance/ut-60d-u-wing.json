@@ -82,7 +82,8 @@
         "Partisan"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 36
     },
     {
       "name": "Blue Squadron Scout",
@@ -105,7 +106,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 37
     },
     {
       "name": "Bodhi Rook",
@@ -128,7 +130,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 31
     },
     {
       "name": "Cassian Andor",
@@ -152,7 +155,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 32
     },
     {
       "name": "Heff Tobber",
@@ -176,7 +180,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 33
     },
     {
       "name": "Magva Yarro",
@@ -204,7 +209,8 @@
         "Partisan"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 34
     },
     {
       "name": "Partisan Renegade",
@@ -230,7 +236,8 @@
         "Partisan"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 38
     },
     {
       "name": "Saw Gerrera",
@@ -258,7 +265,8 @@
         "Partisan"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 35
     },
     {
       "name": "K-2SO",
@@ -298,7 +306,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 390
     }
   ]
 }

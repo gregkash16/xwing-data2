@@ -95,7 +95,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 409
     },
     {
       "name": "Baktoid Drone",
@@ -124,7 +125,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 405
     },
     {
       "name": "Geonosian Prototype",
@@ -154,7 +156,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 408
     },
     {
       "name": "DGS-286",
@@ -186,7 +189,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 410
     },
     {
       "name": "Onderon Oppressor",
@@ -216,7 +220,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 411
     },
     {
       "name": "Separatist Predator",
@@ -245,7 +250,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 407
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/separatist-alliance/I_HMP_Droid_Gunship.png"

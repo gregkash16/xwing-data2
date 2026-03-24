@@ -84,7 +84,8 @@
       "keywords": [
         "Clone"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 551
     },
     {
       "name": "“Drift”",
@@ -112,7 +113,8 @@
       "keywords": [
         "Clone"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 549
     },
     {
       "name": "“Boost”",
@@ -140,7 +142,8 @@
       "keywords": [
         "Clone"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 548
     },
     {
       "name": "“Stub”",
@@ -168,7 +171,8 @@
       "keywords": [
         "Clone"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 550
     },
     {
       "name": "“Knack”",
@@ -197,7 +201,8 @@
       "keywords": [
         "Clone"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 544
     },
     {
       "name": "“Hawk”",
@@ -225,7 +230,8 @@
       "keywords": [
         "Clone"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 546
     },
     {
       "name": "7th Sky Corps Pilot",
@@ -251,7 +257,8 @@
       "keywords": [
         "Clone"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 553
     },
     {
       "name": "Reaper Squadron Scout",
@@ -278,7 +285,8 @@
       "keywords": [
         "Clone"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 552
     },
     {
       "name": "“Slider”",
@@ -310,7 +318,8 @@
       "keywords": [
         "Clone"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 545
     },
     {
       "name": "“Warthog”",
@@ -338,7 +347,8 @@
       "keywords": [
         "Clone"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 547
     }
   ]
 }

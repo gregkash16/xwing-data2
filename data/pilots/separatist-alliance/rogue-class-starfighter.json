@@ -117,7 +117,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 538
     },
     {
       "name": "IG-101",
@@ -181,7 +182,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 539
     },
     {
       "name": "MagnaGuard Executioner",
@@ -243,7 +245,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 543
     },
     {
       "name": "MagnaGuard Protector",
@@ -307,7 +310,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 542
     },
     {
       "name": "IG-102",
@@ -371,7 +375,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 540
     },
     {
       "name": "IG-111",
@@ -434,7 +439,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 541
     },
     {
       "name": "Durge",
@@ -470,7 +476,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 616
     }
   ]
 }

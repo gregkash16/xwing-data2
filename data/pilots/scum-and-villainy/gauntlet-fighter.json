@@ -102,7 +102,8 @@
         "Dark Side"
       ],
       "caption": "Lord of the Shadow Collective",
-      "restricted": 0
+      "restricted": 0,
+      "id": 512
     },
     {
       "xws": "rookkast",
@@ -131,7 +132,8 @@
         "Mandalorian"
       ],
       "caption": "Stoic Super Commando",
-      "restricted": 0
+      "restricted": 0,
+      "id": 514
     },
     {
       "xws": "shadowcollectiveoperator",
@@ -157,7 +159,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 513
     },
     {
       "xws": "bokatankryze-armedanddangerous",
@@ -190,7 +193,8 @@
       ],
       "caption": "Armed and Dangerous",
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 715
     }
   ]
 }

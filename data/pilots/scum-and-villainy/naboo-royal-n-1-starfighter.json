@@ -117,7 +117,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/themandalorian-armedanddangerous.png",
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 713
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_Royal_Naboo_N-1_Starfighter.png"

@@ -95,7 +95,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 150
     },
     {
       "name": "Black Sun Enforcer",
@@ -120,7 +121,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 151
     },
     {
       "name": "Dalan Oberos",
@@ -150,7 +152,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 149
     },
     {
       "name": "Guri",
@@ -207,7 +210,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 147
     },
     {
       "name": "Prince Xizor",
@@ -235,7 +239,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 148
     },
     {
       "name": "Prince Xizor",
@@ -284,7 +289,8 @@
       "epic": true,
       "caption": "Armed and Dangerous",
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 720
     }
   ]
 }

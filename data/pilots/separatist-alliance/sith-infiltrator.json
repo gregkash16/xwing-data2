@@ -98,7 +98,8 @@
         "Sith"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 272
     },
     {
       "name": "Count Dooku",
@@ -135,7 +136,8 @@
         "Sith"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 334
     },
     {
       "name": "Dark Courier",
@@ -157,7 +159,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/darkcourier.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 336
     },
     {
       "name": "0-66",
@@ -200,7 +203,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 335
     },
     {
       "name": "Count Dooku",
@@ -255,7 +259,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 584
     }
   ]
 }

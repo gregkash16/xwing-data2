@@ -77,7 +77,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 159
     },
     {
       "name": "Black Sun Soldier",
@@ -98,7 +99,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 158
     },
     {
       "name": "Kaa’to Leeachos",
@@ -123,7 +125,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 157
     },
     {
       "name": "N’dru Suhlak",
@@ -145,7 +148,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 156
     },
     {
       "name": "Nashtah Pup",
@@ -166,7 +170,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 160
     },
     {
       "name": "Bossk",
@@ -195,7 +200,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 398
     }
   ]
 }

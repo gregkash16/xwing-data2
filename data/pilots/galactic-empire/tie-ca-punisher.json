@@ -97,7 +97,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 192
     },
     {
       "name": "“Redline”",
@@ -126,7 +127,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 191
     },
     {
       "name": "Cutlass Squadron Pilot",
@@ -153,7 +155,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 193
     }
   ]
 }

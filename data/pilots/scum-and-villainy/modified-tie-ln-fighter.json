@@ -80,7 +80,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 249
     },
     {
       "name": "Captain Seevor",
@@ -112,7 +113,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 247
     },
     {
       "name": "Foreman Proach",
@@ -141,7 +143,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 302
     },
     {
       "name": "Mining Guild Surveyor",
@@ -167,7 +170,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 248
     },
     {
       "name": "Overseer Yushyn",
@@ -199,7 +203,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 303
     },
     {
       "name": "Mining Guild Sentry",
@@ -225,7 +230,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 304
     },
     {
       "name": "Lapin",
@@ -253,7 +259,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 613
     }
   ]
 }

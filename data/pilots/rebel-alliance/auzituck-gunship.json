@@ -76,7 +76,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 60
     },
     {
       "name": "Lowhhrick",
@@ -98,7 +99,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 59
     },
     {
       "name": "Wullffwarro",
@@ -120,7 +122,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 58
     }
   ]
 }

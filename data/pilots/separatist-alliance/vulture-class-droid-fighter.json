@@ -85,7 +85,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 279
     },
     {
       "name": "Precise Hunter",
@@ -113,7 +114,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 309
     },
     {
       "name": "Haor Chall Prototype",
@@ -141,7 +143,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 310
     },
     {
       "name": "DFS-081",
@@ -169,7 +172,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 311
     },
     {
       "name": "Separatist Drone",
@@ -196,7 +200,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 343
     },
     {
       "name": "DFS-311",
@@ -224,7 +229,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 337
     },
     {
       "name": "DFS-081",
@@ -257,7 +263,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 591
     },
     {
       "name": "DFS-311",
@@ -286,7 +293,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 592
     },
     {
       "name": "Haor Chall Prototype",
@@ -315,7 +323,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 593
     },
     {
       "name": "The Iron Assembler",
@@ -348,7 +357,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 617
     },
     {
       "name": "Kelrodo-Ai Holdout",
@@ -390,7 +400,8 @@
         "Modification"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 618
     }
   ]
 }

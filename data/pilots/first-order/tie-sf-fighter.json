@@ -122,7 +122,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 243
     },
     {
       "name": "“Backdraft”",
@@ -154,7 +155,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 242
     },
     {
       "name": "Omega Squadron Expert",
@@ -184,7 +186,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 285
     },
     {
       "name": "Zeta Squadron Survivor",
@@ -213,7 +216,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 259
     },
     {
       "name": "Lieutenant LeHuse",
@@ -245,7 +249,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 397
     },
     {
       "name": "Captain Phasma",
@@ -276,7 +281,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 385
     },
     {
       "name": "Lieutenant LeHuse",
@@ -331,7 +337,8 @@
       ],
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 698
     },
     {
       "name": "Theta 3",
@@ -390,7 +397,8 @@
       ],
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 699
     },
     {
       "name": "Theta 4",
@@ -441,7 +449,8 @@
       ],
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 700
     }
   ]
 }

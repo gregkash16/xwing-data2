@@ -101,7 +101,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 109
     },
     {
       "name": "Gand Findsman",
@@ -126,7 +127,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 111
     },
     {
       "name": "Zuckuss",
@@ -154,7 +156,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 110
     },
     {
       "name": "Zuckuss",
@@ -229,7 +232,8 @@
         }
       ],
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 721
     }
   ]
 }

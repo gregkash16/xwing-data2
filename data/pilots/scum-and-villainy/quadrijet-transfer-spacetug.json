@@ -82,7 +82,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 140
     },
     {
       "name": "Jakku Gunrunner",
@@ -106,7 +107,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 143
     },
     {
       "name": "Sarco Plank",
@@ -136,7 +138,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 141
     },
     {
       "name": "Unkar Plutt",
@@ -162,7 +165,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 142
     }
   ]
 }

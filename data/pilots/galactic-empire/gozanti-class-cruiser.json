@@ -97,7 +97,8 @@
         "Team",
         "Cargo"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 373
     },
     {
       "name": "Rik Virgilio",
@@ -153,7 +154,8 @@
       ],
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 685
     }
   ]
 }

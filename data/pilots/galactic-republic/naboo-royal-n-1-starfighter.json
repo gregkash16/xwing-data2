@@ -99,7 +99,8 @@
         "Light Side"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 322
     },
     {
       "name": "Ric Olié",
@@ -127,7 +128,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ricolie.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/ricolie.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 333
     },
     {
       "name": "Padmé Amidala",
@@ -154,7 +156,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/padmeamidala.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/padmeamidala.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 332
     },
     {
       "name": "Dineé Ellberger",
@@ -181,7 +184,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dineeellberger.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/dineeellberger.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 331
     },
     {
       "name": "Bravo Flight Officer",
@@ -207,7 +211,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/bravoflightofficer.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/bravoflightofficer.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 323
     },
     {
       "name": "Naboo Handmaiden",
@@ -237,7 +242,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/naboohandmaiden.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/naboohandmaiden.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 330
     },
     {
       "name": "Gavyn Sykes",
@@ -264,7 +270,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gavynsykes.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/gavynsykes.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 624
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_Royal_Naboo_N-1_Starfighter.png"

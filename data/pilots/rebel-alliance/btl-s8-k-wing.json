@@ -86,7 +86,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 18
     },
     {
       "name": "Miranda Doni",
@@ -113,7 +114,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 17
     },
     {
       "name": "Warden Squadron Pilot",
@@ -138,7 +140,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 20
     }
   ]
 }

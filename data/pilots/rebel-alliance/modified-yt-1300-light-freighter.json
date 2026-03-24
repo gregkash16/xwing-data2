@@ -98,7 +98,8 @@
         "YT-1300"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 44
     },
     {
       "name": "Han Solo",
@@ -131,7 +132,8 @@
         "YT-1300"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 42
     },
     {
       "name": "Lando Calrissian",
@@ -163,7 +165,8 @@
         "YT-1300"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 43
     },
     {
       "name": "Outer Rim Smuggler",
@@ -190,7 +193,8 @@
         "YT-1300"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 45
     },
     {
       "name": "Leia Organa",
@@ -230,7 +234,8 @@
         "Light Side"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 393
     },
     {
       "name": "Han Solo",
@@ -265,7 +270,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 559
     },
     {
       "name": "Lando Calrissian",
@@ -331,7 +337,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 663
     }
   ]
 }

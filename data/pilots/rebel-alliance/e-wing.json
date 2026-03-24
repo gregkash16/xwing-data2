@@ -105,7 +105,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 21
     },
     {
       "name": "Gavin Darklighter",
@@ -132,7 +133,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 22
     },
     {
       "name": "Knave Squadron Escort",
@@ -157,7 +159,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 24
     },
     {
       "name": "Rogue Squadron Escort",
@@ -183,7 +186,8 @@
       "standard": false,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 23
     }
   ]
 }

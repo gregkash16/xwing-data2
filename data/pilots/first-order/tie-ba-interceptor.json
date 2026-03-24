@@ -99,7 +99,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 381
     },
     {
       "name": "“Holo”",
@@ -130,7 +131,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 382
     },
     {
       "name": "“Ember”",
@@ -160,7 +162,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 383
     },
     {
       "name": "First Order Provocateur",
@@ -187,7 +190,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 384
     }
   ]
 }

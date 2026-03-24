@@ -98,7 +98,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 46
     },
     {
       "name": "Kyle Katarn",
@@ -124,7 +125,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 48
     },
     {
       "name": "Rebel Scout",
@@ -148,7 +150,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 49
     },
     {
       "name": "Roark Garnet",
@@ -174,7 +177,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 47
     }
   ]
 }

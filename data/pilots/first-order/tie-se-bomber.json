@@ -107,7 +107,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 493
     },
     {
       "name": "“Scorch”",
@@ -140,7 +141,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 494
     },
     {
       "name": "“Dread”",
@@ -173,7 +175,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 495
     },
     {
       "name": "“Grudge”",
@@ -205,7 +208,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 496
     },
     {
       "name": "First Order Cadet",
@@ -236,7 +240,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 497
     },
     {
       "name": "Sienar-Jaemus Test Pilot",
@@ -267,7 +272,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 498
     },
     {
       "name": "Jul Jerjerrod",
@@ -304,7 +310,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 626
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_TIEseBomber.png"

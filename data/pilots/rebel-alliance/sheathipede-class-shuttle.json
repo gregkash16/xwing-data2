@@ -87,7 +87,8 @@
         "Spectre"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 71
     },
     {
       "name": "AP-5",
@@ -127,7 +128,8 @@
         "Spectre"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 72
     },
     {
       "name": "Ezra Bridger",
@@ -165,7 +167,8 @@
         "Spectre"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 70
     },
     {
       "name": "Fenn Rau",
@@ -196,7 +199,8 @@
         "Spectre"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 69
     }
   ]
 }

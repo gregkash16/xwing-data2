@@ -90,7 +90,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 324
     },
     {
       "name": "Bombardment Drone",
@@ -118,7 +119,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 325
     },
     {
       "name": "DBS-404",
@@ -147,7 +149,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 326
     },
     {
       "name": "Baktoid Prototype",
@@ -177,7 +180,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 329
     },
     {
       "name": "Separatist Bomber",
@@ -205,7 +209,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 327
     },
     {
       "name": "DBS-32C",
@@ -258,7 +263,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 328
     },
     {
       "name": "DBS-32C",
@@ -313,7 +319,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 585
     },
     {
       "name": "DBS-404",
@@ -342,7 +349,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 586
     },
     {
       "name": "Baktoid Prototype",
@@ -371,7 +379,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 587
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/separatist-alliance/I_Hyena.png"

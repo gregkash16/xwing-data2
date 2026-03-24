@@ -93,7 +93,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 237
     },
     {
       "name": "Kylo Ren",
@@ -135,7 +136,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 236
     },
     {
       "name": "First Order Test Pilot",
@@ -165,7 +167,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 287
     },
     {
       "name": "“Recoil”",
@@ -196,7 +199,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 284
     },
     {
       "name": "“Avenger”",
@@ -226,7 +230,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 283
     },
     {
       "name": "Sienar-Jaemus Engineer",
@@ -254,7 +259,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 286
     },
     {
       "name": "“Rush”",
@@ -284,7 +290,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 386
     },
     {
       "name": "Kylo Ren",
@@ -321,7 +328,8 @@
       },
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 692
     }
   ]
 }

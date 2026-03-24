@@ -91,7 +91,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 200
     },
     {
       "name": "“Whisper”",
@@ -120,7 +121,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 199
     },
     {
       "name": "Imdaar Test Pilot",
@@ -147,7 +149,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 202
     },
     {
       "name": "Sigma Squadron Ace",
@@ -175,7 +178,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 201
     },
     {
       "name": "“Whisper”",
@@ -205,7 +209,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 677
     },
     {
       "name": "“Echo”",
@@ -235,7 +240,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 676
     }
   ]
 }

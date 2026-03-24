@@ -89,7 +89,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 233
     },
     {
       "name": "Commander Malarus",
@@ -120,7 +121,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 266
     },
     {
       "name": "“Scorch”",
@@ -146,7 +148,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 262
     },
     {
       "name": "“Static”",
@@ -171,7 +174,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 264
     },
     {
       "name": "“Longshot”",
@@ -195,7 +199,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 263
     },
     {
       "name": "Omega Squadron Ace",
@@ -219,7 +224,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 267
     },
     {
       "name": "“Muse”",
@@ -244,7 +250,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 235
     },
     {
       "name": "TN-3465",
@@ -268,7 +275,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 261
     },
     {
       "name": "Zeta Squadron Pilot",
@@ -291,7 +299,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 268
     },
     {
       "name": "Epsilon Squadron Cadet",
@@ -310,7 +319,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 4
+      "restricted": 4,
+      "id": 269
     },
     {
       "name": "Lieutenant Rivas",
@@ -334,7 +344,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 265
     },
     {
       "name": "“Null”",
@@ -358,7 +369,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 290
     },
     {
       "name": "Lieutenant Galek",
@@ -384,7 +396,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 625
     },
     {
       "name": "DT-798",
@@ -409,7 +422,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 627
     },
     {
       "name": "Lin Gaava",
@@ -437,7 +451,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 628
     },
     {
       "name": "“Longshot”",
@@ -466,7 +481,8 @@
       ],
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 694
     },
     {
       "name": "“Midnight”",
@@ -495,7 +511,8 @@
       ],
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 695
     },
     {
       "name": "Omega 2",
@@ -545,7 +562,8 @@
       ],
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 697
     },
     {
       "name": "“Scorch”",
@@ -574,7 +592,8 @@
       ],
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 693
     },
     {
       "name": "Zeta 5",
@@ -603,7 +622,8 @@
       ],
       "epic": true,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 696
     }
   ]
 }

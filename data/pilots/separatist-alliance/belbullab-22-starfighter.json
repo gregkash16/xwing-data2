@@ -93,7 +93,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/generalgrievous.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 305
     },
     {
       "name": "Wat Tambor",
@@ -115,7 +116,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wattambor.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 306
     },
     {
       "name": "Feethan Ottraw Autopilot",
@@ -164,7 +166,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 307
     },
     {
       "name": "Captain Sear",
@@ -185,7 +188,8 @@
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captainsear.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 308
     },
     {
       "name": "Skakoan Ace",
@@ -205,7 +209,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 344
     }
   ]
 }

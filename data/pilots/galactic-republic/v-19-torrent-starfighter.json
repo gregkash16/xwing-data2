@@ -87,7 +87,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 315
     },
     {
       "name": "“Odd Ball”",
@@ -112,7 +113,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 316
     },
     {
       "name": "“Swoop”",
@@ -137,7 +139,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 317
     },
     {
       "name": "“Axe”",
@@ -162,7 +165,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 318
     },
     {
       "name": "“Tucker”",
@@ -186,7 +190,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 319
     },
     {
       "name": "Blue Squadron Protector",
@@ -211,7 +216,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 320
     },
     {
       "name": "Gold Squadron Trooper",
@@ -234,7 +240,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 321
     },
     {
       "name": "“Kickback”",
@@ -277,7 +284,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 582
     },
     {
       "name": "“Axe”",
@@ -320,7 +328,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 583
     },
     {
       "name": "“Slammer”",
@@ -348,7 +357,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 623
     }
   ]
 }

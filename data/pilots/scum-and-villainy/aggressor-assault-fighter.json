@@ -96,7 +96,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 81
     },
     {
       "name": "IG-88B",
@@ -130,7 +131,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 82
     },
     {
       "name": "IG-88C",
@@ -164,7 +166,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 83
     },
     {
       "name": "IG-88D",
@@ -198,7 +201,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 84
     }
   ]
 }

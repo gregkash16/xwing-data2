@@ -99,7 +99,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 194
     },
     {
       "name": "Countess Ryad",
@@ -131,7 +132,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 195
     },
     {
       "name": "Delta Squadron Pilot",
@@ -160,7 +162,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 198
     },
     {
       "name": "Onyx Squadron Ace",
@@ -190,7 +193,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 197
     },
     {
       "name": "Rexler Brath",
@@ -221,7 +225,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 196
     },
     {
       "name": "Vult Skerris",
@@ -257,7 +262,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vultskerris.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/vultskerris.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 454
     },
     {
       "name": "Darth Vader",
@@ -294,7 +300,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/darthvader-tieddefender.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/darthvader-tieddefender.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 469
     },
     {
       "name": "Captain Dobbs",
@@ -325,7 +332,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/captaindobbs.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/captaindobbs.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 470
     },
     {
       "name": "Captain Yorr",
@@ -382,7 +390,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 664
     },
     {
       "name": "Colonel Jendon",
@@ -435,7 +444,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 665
     }
   ]
 }

@@ -91,7 +91,8 @@
         "Modification"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 432
     },
     {
       "name": "“Odd Ball”",
@@ -120,7 +121,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 435
     },
     {
       "name": "“Contrail”",
@@ -149,7 +151,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 434
     },
     {
       "name": "“Klick”",
@@ -182,7 +185,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 433
     },
     {
       "name": "Shadow Squadron Escort",
@@ -210,7 +214,8 @@
         "Clone"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 431
     },
     {
       "name": "Loyalist Volunteer",
@@ -234,7 +239,8 @@
         "Modification"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 430
     },
     {
       "name": "“Klick”",
@@ -286,7 +292,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 581
     },
     {
       "name": "“Contrail”",
@@ -316,7 +323,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 580
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_Nimbus-class_V-wing.png"

@@ -94,7 +94,8 @@
         "Spectre"
       ],
       "caption": "Spectre-3",
-      "restricted": 0
+      "restricted": 0,
+      "id": 519
     },
     {
       "xws": "ezrabridger-gauntletfighter",
@@ -133,7 +134,8 @@
         "Spectre"
       ],
       "caption": "Spectre-6",
-      "restricted": 0
+      "restricted": 0,
+      "id": 520
     },
     {
       "xws": "mandalorianresistancepilot",
@@ -162,7 +164,8 @@
         "Mandalorian"
       ],
       "caption": "Clan Loyalist",
-      "restricted": 0
+      "restricted": 0,
+      "id": 518
     }
   ]
 }

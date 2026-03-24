@@ -76,7 +76,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 217
     },
     {
       "name": "“Mauler” Mithel",
@@ -99,7 +100,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 219
     },
     {
       "name": "“Night Beast”",
@@ -121,7 +123,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 226
     },
     {
       "name": "“Scourge” Skutu",
@@ -144,7 +147,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 220
     },
     {
       "name": "“Wampa”",
@@ -170,7 +174,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 221
     },
     {
       "name": "Academy Pilot",
@@ -189,7 +194,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 229
     },
     {
       "name": "Black Squadron Ace",
@@ -211,7 +217,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 227
     },
     {
       "name": "Del Meeko",
@@ -237,7 +244,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 222
     },
     {
       "name": "Gideon Hask",
@@ -263,7 +271,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 223
     },
     {
       "name": "Iden Versio",
@@ -293,7 +302,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 218
     },
     {
       "name": "Obsidian Squadron Pilot",
@@ -314,7 +324,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 228
     },
     {
       "name": "Seyn Marana",
@@ -340,7 +351,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 224
     },
     {
       "name": "Valen Rudor",
@@ -363,7 +375,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 225
     },
     {
       "name": "ISB Jingoist",
@@ -386,7 +399,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 504
     },
     {
       "name": "Moff Gideon",
@@ -414,7 +428,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 503
     },
     {
       "name": "“Backstabber”",
@@ -454,7 +469,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 565
     },
     {
       "name": "“Dark Curse”",
@@ -493,7 +509,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 567
     },
     {
       "name": "“Mauler” Mithel",
@@ -532,7 +549,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 566
     },
     {
       "name": "“Wampa”",
@@ -575,7 +593,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 568
     },
     {
       "name": "Magna Tolvan",
@@ -598,7 +617,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 602
     },
     {
       "name": "Yrica Quell",
@@ -621,7 +641,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 603
     },
     {
       "name": "Iden Versio",
@@ -649,7 +670,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 634
     },
     {
       "name": "“Night Beast”",
@@ -673,7 +695,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 635
     },
     {
       "name": "Valen Rudor",
@@ -697,7 +720,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 636
     },
     {
       "name": "Lieutenant Hebsly",
@@ -763,7 +787,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 669
     },
     {
       "name": "Scythe 6",
@@ -826,7 +851,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 671
     },
     {
       "name": "Major Mianda",
@@ -896,7 +922,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 670
     }
   ]
 }

@@ -106,7 +106,8 @@
         "Light Side"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 441
     },
     {
       "name": "Obi-Wan Kenobi",
@@ -142,7 +143,8 @@
         "Light Side"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 440
     },
     {
       "name": "Aayla Secura",
@@ -178,7 +180,8 @@
         "Light Side"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 439
     },
     {
       "name": "Shaak Ti",
@@ -214,7 +217,8 @@
         "Light Side"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 438
     },
     {
       "name": "Jedi General",
@@ -248,7 +252,8 @@
         "Light Side"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 436
     },
     {
       "name": "Yoda",
@@ -284,7 +289,8 @@
         "Light Side"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 437
     },
     {
       "name": "Anakin Skywalker",
@@ -319,7 +325,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 574
     },
     {
       "name": "Obi-Wan Kenobi",
@@ -353,7 +360,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 575
     },
     {
       "name": "Shaak Ti",
@@ -388,7 +396,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 576
     },
     {
       "name": "Kit Fisto",
@@ -424,7 +433,8 @@
         "Light Side"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 622
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_Eta-2_Actis.png"

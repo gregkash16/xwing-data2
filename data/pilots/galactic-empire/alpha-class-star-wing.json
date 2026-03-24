@@ -82,7 +82,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 162
     },
     {
       "name": "Major Vynder",
@@ -105,7 +106,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 161
     },
     {
       "name": "Nu Squadron Pilot",
@@ -126,7 +128,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 164
     },
     {
       "name": "Rho Squadron Pilot",
@@ -148,7 +151,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 163
     },
     {
       "name": "Lieutenant Karsabi",
@@ -204,7 +208,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 674
     },
     {
       "name": "Major Vynder",
@@ -260,7 +265,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 675
     }
   ]
 }

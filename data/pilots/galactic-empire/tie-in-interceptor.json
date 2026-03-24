@@ -84,7 +84,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 182
     },
     {
       "name": "Saber Squadron Ace",
@@ -111,7 +112,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 181
     },
     {
       "name": "Soontir Fel",
@@ -140,7 +142,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 179
     },
     {
       "name": "Turr Phennir",
@@ -168,7 +171,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 180
     },
     {
       "name": "Ciena Ree",
@@ -195,7 +199,8 @@
       "caption": "Look Through My Eyes",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/cienaree.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 455
     },
     {
       "name": "Gideon Hask",
@@ -223,7 +228,8 @@
       "ability": "While you perform an attack against a damaged defender, roll 1 additional attack die.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gideonhask-tieinterceptor.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 456
     },
     {
       "name": "Vult Skerris",
@@ -256,7 +262,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vultskerris-tieininterceptor.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/vultskerris-tieininterceptor.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 468
     },
     {
       "name": "Commandant Goran",
@@ -284,7 +291,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/commandantgoran.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/commandantgoran.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 465
     },
     {
       "name": "Lieutenant Lorrir",
@@ -312,7 +320,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantlorrir.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantlorrir.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 467
     },
     {
       "name": "Nash Windrider",
@@ -344,7 +353,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/nashwindrider.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/nashwindrider.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 466
     },
     {
       "name": "Iden Versio",
@@ -395,7 +405,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 569
     },
     {
       "name": "Sigma 4",
@@ -442,7 +453,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 570
     },
     {
       "name": "Sigma 5",
@@ -489,7 +501,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 571
     },
     {
       "name": "Sigma 6",
@@ -536,7 +549,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 572
     },
     {
       "name": "Sigma 7",
@@ -605,7 +619,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 573
     },
     {
       "name": "Second Sister",
@@ -639,7 +654,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/secondsister.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/secondsister.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 601
     },
     {
       "name": "Sapphire 2",
@@ -669,7 +685,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 667
     },
     {
       "name": "Soontir Fel",
@@ -703,7 +720,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 668
     },
     {
       "name": "Maus Monare",
@@ -751,7 +769,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 666
     }
   ]
 }

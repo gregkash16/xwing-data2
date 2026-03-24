@@ -89,7 +89,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 185
     },
     {
       "name": "Captain Feroph",
@@ -117,7 +118,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 184
     },
     {
       "name": "Major Vermeil",
@@ -146,7 +148,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 183
     },
     {
       "name": "Scarif Base Pilot",
@@ -173,7 +176,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 186
     }
   ]
 }

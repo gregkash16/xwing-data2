@@ -80,7 +80,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 209
     },
     {
       "name": "“Duchess”",
@@ -110,7 +111,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 211
     },
     {
       "name": "“Pure Sabacc”",
@@ -139,7 +141,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 210
     },
     {
       "name": "Black Squadron Scout",
@@ -167,7 +170,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 212
     },
     {
       "name": "Planetary Sentinel",
@@ -194,7 +198,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 213
     },
     {
       "name": "“Vagabond”",
@@ -222,7 +227,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 395
     }
   ]
 }

@@ -98,7 +98,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 509
     },
     {
       "xws": "previzsla",
@@ -131,7 +132,8 @@
         "Mandalorian"
       ],
       "caption": "Leader of Death Watch",
-      "restricted": 0
+      "restricted": 0,
+      "id": 507
     },
     {
       "xws": "deathwatchwarrior",
@@ -158,7 +160,8 @@
         "Mandalorian"
       ],
       "caption": "Fanatical Adherent",
-      "restricted": 0
+      "restricted": 0,
+      "id": 508
     }
   ]
 }

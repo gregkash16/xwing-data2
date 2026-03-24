@@ -131,7 +131,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 40
     },
     {
       "name": "Dash Rendar",
@@ -181,7 +182,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 39
     },
     {
       "name": "Wild Space Fringer",
@@ -210,7 +212,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 41
     },
     {
       "name": "“Leebo”",
@@ -265,7 +268,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 651
     },
     {
       "name": "Dash Rendar",
@@ -297,7 +301,8 @@
         "Freighter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 648
     },
     {
       "name": "“Leebo”",
@@ -349,7 +354,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 652
     },
     {
       "name": "Dash Rendar",
@@ -380,7 +386,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 649
     }
   ]
 }

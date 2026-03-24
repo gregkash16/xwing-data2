@@ -94,7 +94,8 @@
       "keywords": [
         "Mandalorian"
       ],
-      "restricted": 0
+      "restricted": 0,
+      "id": 510
     },
     {
       "xws": "niteowlliberator",
@@ -121,7 +122,8 @@
         "Mandalorian"
       ],
       "caption": "Resolute Warrior",
-      "restricted": 0
+      "restricted": 0,
+      "id": 511
     }
   ]
 }

@@ -85,7 +85,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 402
     },
     {
       "name": "Commander Malarus",
@@ -109,7 +110,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 404
     },
     {
       "name": "First Order Courier",
@@ -131,7 +133,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 401
     },
     {
       "name": "Gideon Hask",
@@ -154,7 +157,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gideonhask-xiclasslightshuttle.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/gideonhask-xiclasslightshuttle.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 403
     },
     {
       "name": "Agent Tierny",
@@ -199,7 +203,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/agenttierny.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/agenttierny.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 629
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_Xi-class_Shuttle.png"

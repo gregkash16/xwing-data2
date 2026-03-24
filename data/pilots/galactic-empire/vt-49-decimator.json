@@ -92,7 +92,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 215
     },
     {
       "name": "Patrol Leader",
@@ -116,7 +117,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 216
     },
     {
       "name": "Rear Admiral Chiraneau",
@@ -143,7 +145,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 214
     },
     {
       "name": "Morna Kee",
@@ -174,7 +177,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/mornakee.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/mornakee.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 396
     }
   ]
 }

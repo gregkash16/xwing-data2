@@ -102,7 +102,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 422
     },
     {
       "name": "Phlac-Arphocc Prototype",
@@ -134,7 +135,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 423
     },
     {
       "name": "Fearsome Predator",
@@ -169,7 +171,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 420
     },
     {
       "name": "DIS-347",
@@ -201,7 +204,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 421
     },
     {
       "name": "Separatist Interceptor",
@@ -232,7 +236,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 425
     },
     {
       "name": "Colicoid Interceptor",
@@ -262,7 +267,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 424
     },
     {
       "name": "DIS-347",
@@ -291,7 +297,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 588
     },
     {
       "name": "DIS-T81",
@@ -320,7 +327,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 589
     },
     {
       "name": "Phlac-Arphocc Prototype",
@@ -349,7 +357,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 590
     },
     {
       "name": "Volan Das",
@@ -411,7 +420,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 614
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/separatist-alliance/I_Droid_Tri-Fighter.png"

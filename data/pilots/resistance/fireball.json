@@ -84,7 +84,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/colossusstationmechanic.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/colossusstationmechanic.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 380
     },
     {
       "name": "Jarek Yeager",
@@ -113,7 +114,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jarekyeager.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/jarekyeager.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 377
     },
     {
       "name": "Kazuda Xiono",
@@ -142,7 +144,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kazudaxiono.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/kazudaxiono.png",
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 378
     },
     {
       "name": "R1-J5",
@@ -190,7 +193,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 379
     }
   ]
 }

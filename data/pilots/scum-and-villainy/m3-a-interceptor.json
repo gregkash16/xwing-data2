@@ -84,7 +84,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 3
+      "restricted": 3,
+      "id": 139
     },
     {
       "name": "Genesis Red",
@@ -109,7 +110,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 133
     },
     {
       "name": "Inaldra",
@@ -133,7 +135,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 137
     },
     {
       "name": "Laetin A’shera",
@@ -158,7 +161,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 134
     },
     {
       "name": "Quinn Jast",
@@ -186,7 +190,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 135
     },
     {
       "name": "Serissu",
@@ -210,7 +215,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 132
     },
     {
       "name": "Sunny Bounder",
@@ -233,7 +239,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 138
     },
     {
       "name": "Tansarii Point Veteran",
@@ -257,7 +264,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 136
     },
     {
       "name": "G4R-G0R V/M",
@@ -301,7 +309,8 @@
         "Droid"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 399
     }
   ]
 }

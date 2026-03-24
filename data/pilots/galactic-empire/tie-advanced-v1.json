@@ -100,7 +100,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 172
     },
     {
       "name": "Grand Inquisitor",
@@ -134,7 +135,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 169
     },
     {
       "name": "Inquisitor",
@@ -166,7 +168,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 171
     },
     {
       "name": "Seventh Sister",
@@ -199,7 +202,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 170
     },
     {
       "name": "Fifth Brother",
@@ -232,7 +236,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 394
     }
   ]
 }

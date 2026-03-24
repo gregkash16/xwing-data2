@@ -87,7 +87,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 2
+      "restricted": 2,
+      "id": 118
     },
     {
       "name": "Dengar",
@@ -120,7 +121,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 115
     },
     {
       "name": "Manaroo",
@@ -149,7 +151,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 117
     },
     {
       "name": "Tel Trevura",
@@ -178,7 +181,8 @@
       "standard": true,
       "extended": true,
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 116
     },
     {
       "name": "Nom Lumb",
@@ -205,7 +209,8 @@
         "Bounty Hunter"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 400
     },
     {
       "name": "Dengar",
@@ -232,7 +237,8 @@
       "epic": true,
       "caption": "Armed and Dangerous",
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 716
     }
   ]
 }

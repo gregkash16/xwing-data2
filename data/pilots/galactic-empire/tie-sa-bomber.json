@@ -91,7 +91,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 206
     },
     {
       "name": "Captain Jonus",
@@ -122,7 +123,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 203
     },
     {
       "name": "Gamma Squadron Ace",
@@ -152,7 +154,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 207
     },
     {
       "name": "Major Rhymer",
@@ -183,7 +186,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 204
     },
     {
       "name": "Scimitar Squadron Pilot",
@@ -212,7 +216,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 208
     },
     {
       "name": "Tomax Bren",
@@ -243,7 +248,8 @@
         "TIE"
       ],
       "epic": true,
-      "restricted": 0
+      "restricted": 0,
+      "id": 205
     },
     {
       "name": "Captain Jonus",
@@ -272,7 +278,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 632
     },
     {
       "name": "Tomax Bren",
@@ -301,7 +308,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 633
     },
     {
       "name": "“Deathfire”",
@@ -334,7 +342,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 644
     },
     {
       "name": "Captain Jonus",
@@ -363,7 +372,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 646
     },
     {
       "name": "Tomax Bren",
@@ -396,7 +406,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 647
     },
     {
       "name": "Major Rhymer",
@@ -425,7 +436,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 645
     },
     {
       "name": "Scimitar 1",
@@ -459,7 +471,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 672
     },
     {
       "name": "Scimitar 3",
@@ -493,7 +506,8 @@
       "epic": true,
       "loadout": 0,
       "slots": [],
-      "restricted": 0
+      "restricted": 0,
+      "id": 673
     }
   ]
 }
