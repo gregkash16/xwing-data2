@@ -581,6 +581,24 @@
           "value": 4
         }
       ],
+      "shipActions": [
+        {
+          "difficulty": "White",
+          "type": "Focus"
+        },
+        {
+          "difficulty": "White",
+          "type": "Lock"
+        },
+        {
+          "difficulty": "White",
+          "type": "Evade"
+        },
+        {
+          "difficulty": "White",
+          "type": "Barrel Roll"
+        }
+      ],
       "standardLoadout": [
         "elusive",
         "vengeful-battleofyavin"
