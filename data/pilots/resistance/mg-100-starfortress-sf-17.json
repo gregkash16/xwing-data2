@@ -127,10 +127,11 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/vennie.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vennie.png",
       "cost": 17,
-      "loadout": 27,
+      "loadout": 28,
       "slots": [
         "Payload",
         "Payload",
+        "Sensor",
         "Crew",
         "Gunner",
         "Gunner",
@@ -153,13 +154,14 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/benteene.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/benteene.png",
       "cost": 15,
-      "loadout": 19,
+      "loadout": 20,
       "conditions": [
         "rattled"
       ],
       "slots": [
         "Payload",
         "Payload",
+        "Sensor",
         "Crew",
         "Gunner",
         "Gunner",
@@ -182,7 +184,7 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/edonkappehl.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/edonkappehl.png",
       "cost": 16,
-      "loadout": 23,
+      "loadout": 24,
       "slots": [
         "Payload",
         "Payload",
@@ -191,6 +193,7 @@
         "Gunner",
         "Tech",
         "Modification",
+        "Sensor",
         "Sensor"
       ],
       "standard": false,
@@ -208,8 +211,8 @@
       "ability": "Before you would drop a bomb, you may place it in the play area touching you instead.",
       "image": "https://infinitearenas.com/xw2/images/pilots/finchdallow.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/finchdallow.png",
-      "cost": 17,
-      "loadout": 28,
+      "cost": 15,
+      "loadout": 18,
       "slots": [
         "Payload",
         "Payload",
@@ -253,7 +256,7 @@
       ],
       "ability": "After you drop a device, you may spend 1 [Charge] to drop an additional device.",
       "cost": 16,
-      "loadout": 21,
+      "loadout": 24,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/paigetico.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/paigetico.png",
       "epic": true,
@@ -319,7 +322,7 @@
       "text": "",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/vennie-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/vennie-evacuationofdqar.png",
-      "cost": 16,
+      "cost": 17,
       "loadout": 0,
       "ability": "While you defend, if the attacker is in a friendly ship's [Single Turret Arc], you may change 1 [Focus] result to an [Evade] result.",
       "shipAbility": {

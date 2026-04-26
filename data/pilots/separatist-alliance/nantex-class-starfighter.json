@@ -77,7 +77,8 @@
       "slots": [
         "Talent",
         "Modification",
-        "Modification"
+        "Modification",
+        "Configuration"
       ],
       "epic": true,
       "restricted": 0,
@@ -105,7 +106,8 @@
         "Modification",
         "Modification",
         "Talent",
-        "Talent"
+        "Talent",
+        "Configuration"
       ],
       "epic": true,
       "restricted": 0,
@@ -132,7 +134,8 @@
         "Talent",
         "Modification",
         "Modification",
-        "Talent"
+        "Talent",
+        "Configuration"
       ],
       "epic": true,
       "restricted": 0,
@@ -159,7 +162,8 @@
         "Talent",
         "Modification",
         "Modification",
-        "Talent"
+        "Talent",
+        "Configuration"
       ],
       "epic": true,
       "restricted": 0,
@@ -168,8 +172,8 @@
     {
       "name": "Gorgol",
       "caption": "Handy Engineer",
-      "cost": 8,
-      "loadout": 5,
+      "cost": 9,
+      "loadout": 11,
       "limited": 1,
       "initiative": 2,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gorgol.png",
@@ -184,7 +188,8 @@
       "slots": [
         "Talent",
         "Modification",
-        "Modification"
+        "Modification",
+        "Configuration"
       ],
       "xws": "gorgol",
       "epic": true,
@@ -209,7 +214,8 @@
       "slots": [
         "Talent",
         "Modification",
-        "Modification"
+        "Modification",
+        "Configuration"
       ],
       "xws": "petranakiarenaace",
       "epic": true,

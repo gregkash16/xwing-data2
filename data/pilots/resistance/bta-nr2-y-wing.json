@@ -72,8 +72,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 10,
-      "loadout": 16,
+      "cost": 11,
+      "loadout": 20,
       "slots": [
         "Astromech",
         "Turret",

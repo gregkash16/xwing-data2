@@ -116,8 +116,8 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/anakinskywalker-btlbywing.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/anakinskywalker-btlbywing.png",
       "ability": "After you fully execute a maneuver, if there is an enemy ship in your [Front Arc] at range 0-1 or in your [Bullseye Arc], you may spend 1 [Force] to remove 1 stress token.",
-      "cost": 13,
-      "loadout": 16,
+      "cost": 12,
+      "loadout": 14,
       "slots": [
         "Astromech",
         "Gunner",

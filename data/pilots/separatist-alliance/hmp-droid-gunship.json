@@ -102,8 +102,8 @@
       "name": "Baktoid Drone",
       "xws": "baktoiddrone",
       "initiative": 1,
-      "cost": 10,
-      "loadout": 13,
+      "cost": 9,
+      "loadout": 7,
       "slots": [
         "Missile",
         "Missile",
@@ -134,7 +134,7 @@
       "caption": "Devastation Protocols",
       "initiative": 2,
       "cost": 10,
-      "loadout": 12,
+      "loadout": 13,
       "slots": [
         "Modification",
         "Payload",
@@ -164,8 +164,8 @@
       "xws": "dgs286",
       "caption": "Ambush Protocols",
       "initiative": 3,
-      "cost": 11,
-      "loadout": 17,
+      "cost": 10,
+      "loadout": 13,
       "slots": [
         "Missile",
         "Missile",
@@ -197,8 +197,8 @@
       "xws": "onderonoppressor",
       "caption": "Atmospheric Attack Module",
       "initiative": 3,
-      "cost": 10,
-      "loadout": 12,
+      "cost": 9,
+      "loadout": 9,
       "slots": [
         "Missile",
         "Missile",
@@ -235,8 +235,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 11,
-      "loadout": 15,
+      "cost": 10,
+      "loadout": 12,
       "slots": [
         "Missile",
         "Missile",

@@ -79,7 +79,7 @@
       "caption": "Espionage Expert",
       "initiative": 5,
       "limited": 1,
-      "cost": 15,
+      "cost": 14,
       "loadout": 15,
       "xws": "janors",
       "ability": "While a friendly ship in your firing arc performs a primary attack, if you are not stressed, you may gain 1 stress token. If you do, that ship may roll 1 additional attack die.",

@@ -132,8 +132,8 @@
     {
       "name": "“Rampage”",
       "caption": "Implacable Pursuer",
-      "cost": 11,
-      "loadout": 17,
+      "cost": 10,
+      "loadout": 15,
       "initiative": 4,
       "limited": 1,
       "slots": [
@@ -165,7 +165,7 @@
       "name": "Lyttan Dree",
       "caption": "Onyx 2",
       "cost": 10,
-      "loadout": 9,
+      "loadout": 13,
       "initiative": 3,
       "limited": 1,
       "slots": [

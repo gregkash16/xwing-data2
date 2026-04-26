@@ -115,7 +115,7 @@
       "caption": "Spectre-2",
       "initiative": 5,
       "limited": 1,
-      "cost": 18,
+      "cost": 17,
       "loadout": 19,
       "xws": "herasyndulla-vcx100lightfreighter",
       "ability": "After you reveal a red or blue maneuver, you may set your dial to another maneuver of the same difficulty.",
@@ -148,11 +148,48 @@
       "id": 61
     },
     {
+      "name": "Hera Syndulla",
+      "caption": "Legends and Relics",
+      "initiative": 6,
+      "limited": 1,
+      "cost": 18,
+      "loadout": 20,
+      "xws": "herasyndulla-legendsandrelics",
+      "ability": "After you fully execute a red maneuver, you may coordinate a friendly ship at range 0-3.",
+      "image": "https://infinitearenas.com/xw2/images/pilots/herasyndulla-vcx100lightfreighter.png",
+      "shipAbility": {
+        "name": "Tail Gun",
+        "text": "While you have a docked ship, you have a primary [Rear Arc] weapon with an attack value equal to your docked ship's primary [Front Arc] attack value."
+      },
+      "slots": [
+        "Crew",
+        "Crew",
+        "Sensor",
+        "Gunner",
+        "Turret",
+        "Modification",
+        "Torpedo",
+        "Title",
+        "Talent",
+        "Talent"
+      ],
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/herasyndulla-vcx100lightfreighter.png",
+      "standard": false,
+      "extended": true,
+      "keywords": [
+        "Freighter",
+        "Spectre"
+      ],
+      "epic": true,
+      "restricted": 0,
+      "id": 732
+    },
+    {
       "name": "Kanan Jarrus",
       "caption": "Spectre-1",
       "initiative": 3,
       "limited": 1,
-      "cost": 19,
+      "cost": 18,
       "loadout": 20,
       "xws": "kananjarrus",
       "ability": "While a friendly ship in your firing arc defends, you may spend 1 [Force]. If you do, the attacker rolls 1 fewer attack die.",

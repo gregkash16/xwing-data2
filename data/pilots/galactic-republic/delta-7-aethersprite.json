@@ -248,8 +248,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 11,
-      "loadout": 10,
+      "cost": 10,
+      "loadout": 8,
       "slots": [
         "Force Power",
         "Configuration",
@@ -288,8 +288,8 @@
       "standard": true,
       "extended": true,
       "image": "https://infinitearenas.com/xw2/images/pilots/anakinskywalker.png",
-      "cost": 14,
-      "loadout": 12,
+      "cost": 13,
+      "loadout": 8,
       "slots": [
         "Force Power",
         "Configuration",

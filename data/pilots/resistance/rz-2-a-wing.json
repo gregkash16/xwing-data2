@@ -73,8 +73,8 @@
       "caption": "Luminous Mentor",
       "initiative": 5,
       "limited": 1,
-      "cost": 10,
-      "loadout": 8,
+      "cost": 9,
+      "loadout": 5,
       "xws": "lulolampar",
       "ability": "While you defend or perform a primary attack, if you are stressed, you must roll 1 fewer defense die or 1 additional attack die.",
       "shipAbility": {
@@ -231,7 +231,7 @@
       "initiative": 1,
       "limited": 0,
       "cost": 8,
-      "loadout": 3,
+      "loadout": 4,
       "xws": "bluesquadronrecruit",
       "text": "Young beings across the galaxy have grown up on tales of heroism in the Galactic Civil War, and many learned to fly in the same cockpits from which their parents fought the Empire.",
       "shipAbility": {
@@ -276,8 +276,8 @@
         "Tech"
       ],
       "ability": "After you defend or perform an attack, you may spend 1 [Charge] to gain 1 focus or evade token.",
-      "cost": 11,
-      "loadout": 14,
+      "cost": 10,
+      "loadout": 8,
       "charges": {
         "value": 1,
         "recovers": 1
@@ -310,8 +310,8 @@
         "Talent"
       ],
       "ability": "While you defend or perform an attack, if the enemy ship is in another friendly ship's [Single Turret Arc], you may spend 1 focus token from that friendly ship to change 1 of your [Focus] results to an [Evade] or [Hit] result.",
-      "cost": 9,
-      "loadout": 9,
+      "cost": 8,
+      "loadout": 5,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ronithblario.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/ronithblario.png",
       "keywords": [
@@ -327,7 +327,7 @@
       "initiative": 1,
       "limited": 1,
       "cost": 8,
-      "loadout": 4,
+      "loadout": 5,
       "xws": "merlcobben",
       "ability": "While a friendly ship at range 0-2 performs a primary attack, if you are in the defender's [Bullseye Arc], the defender rolls 1 fewer defense die.",
       "shipAbility": {
@@ -387,7 +387,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 8,
-      "loadout": 3,
+      "loadout": 4,
       "xws": "wrobietyce",
       "ability": "After you defend at attack range 1, if the attacker modified its dice, the attacker gains 1 deplete token.",
       "shipAbility": {
@@ -416,8 +416,8 @@
       "caption": "Skillful Wingmate",
       "initiative": 5,
       "limited": 1,
-      "cost": 10,
-      "loadout": 11,
+      "cost": 9,
+      "loadout": 8,
       "xws": "seftinvanik",
       "ability": "After you perform a [Boost] action, you may transfer 1 evade token to a friendly ship at range 1.",
       "shipAbility": {

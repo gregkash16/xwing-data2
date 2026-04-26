@@ -76,7 +76,7 @@
       "initiative": 3,
       "limited": 0,
       "cost": 11,
-      "loadout": 9,
+      "loadout": 11,
       "xws": "blacksunassassin",
       "text": "Although assassinations can be handled with a shot in the dark or a dire substance added to a drink, a flaming shuttle tumbling from the sky sends a special kind of message.",
       "image": "https://infinitearenas.com/xw2/images/pilots/blacksunassassin.png",
@@ -89,7 +89,8 @@
         "Modification",
         "Sensor",
         "Torpedo",
-        "Talent"
+        "Talent",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunassassin.png",
       "standard": false,
@@ -103,7 +104,7 @@
       "initiative": 2,
       "limited": 0,
       "cost": 10,
-      "loadout": 7,
+      "loadout": 9,
       "xws": "blacksunenforcer",
       "text": "Prince Xizor himself collaborated with MandalMotors to design the StarViper-class attack platform, one of the most formidable starfighters in the galaxy.",
       "image": "https://infinitearenas.com/xw2/images/pilots/blacksunenforcer.png",
@@ -115,7 +116,8 @@
         "Illicit",
         "Modification",
         "Sensor",
-        "Torpedo"
+        "Torpedo",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksunenforcer.png",
       "standard": false,
@@ -130,7 +132,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 10,
-      "loadout": 6,
+      "loadout": 10,
       "xws": "dalanoberos-starviperclassattackplatform",
       "ability": "After you fully execute a maneuver, you may gain 1 stress token to rotate your ship 90°.",
       "image": "https://infinitearenas.com/xw2/images/pilots/dalanoberos-starviperclassattackplatform.png",
@@ -143,7 +145,8 @@
         "Modification",
         "Sensor",
         "Torpedo",
-        "Talent"
+        "Talent",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dalanoberos-starviperclassattackplatform.png",
       "standard": false,
@@ -201,7 +204,8 @@
         "Sensor",
         "Torpedo",
         "Talent",
-        "Title"
+        "Title",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/guri.png",
       "standard": false,
@@ -219,7 +223,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 12,
-      "loadout": 12,
+      "loadout": 14,
       "xws": "princexizor",
       "ability": "While you defend, after the Neutralize Results step, another friendly ship at range 0-1 and in the attack arc may suffer 1 [Hit] or [Critical Hit] damage. If it does, cancel 1 matching result.",
       "image": "https://infinitearenas.com/xw2/images/pilots/princexizor.png",
@@ -233,7 +237,8 @@
         "Sensor",
         "Torpedo",
         "Talent",
-        "Title"
+        "Title",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/princexizor.png",
       "standard": false,
@@ -291,6 +296,38 @@
       "slots": [],
       "restricted": 0,
       "id": 720
+    },
+    {
+      "name": "Thweek",
+      "caption": "Versatile Spy",
+      "initiative": 4,
+      "limited": 1,
+      "cost": 12,
+      "loadout": 11,
+      "xws": "thweek-legendsandrelics",
+      "ability": "ADuring the System Phase, you may gain a tractor token. At the start of the Engagement Phase, you may gain a deplete token to remove a tractor token.",
+      "image": "https://infinitearenas.com/xw2/images/pilots/thweek-legendsandrelics.png",
+      "shipAbility": {
+        "name": "Microthrusters",
+        "text": "While you perform a barrel roll, you must use the [Bank Left] or [Bank Right] template instead of the [Straight] template."
+      },
+      "slots": [
+        "Illicit",
+        "Modification",
+        "Sensor",
+        "Torpedo",
+        "Talent",
+        "Tech"
+      ],
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/dalanoberos-starviperclassattackplatform.png",
+      "standard": false,
+      "extended": true,
+      "keywords": [
+        "Bounty Hunter"
+      ],
+      "epic": true,
+      "restricted": 0,
+      "id": 734
     }
   ]
 }

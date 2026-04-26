@@ -73,7 +73,7 @@
       "caption": "Nite Owl Commander",
       "ability": "After you fully execute a maneuver, you may gain 1 deplete token to choose an object in your [Front Arc] at range 1-2. If you do, another friendly ship may perform a [Lock] action to lock that object.",
       "cost": 16,
-      "loadout": 20,
+      "loadout": 22,
       "initiative": 4,
       "limited": 1,
       "standard": true,
@@ -102,7 +102,7 @@
       "name": "Nite Owl Liberator",
       "image": "https://infinitearenas.com/xw2/images/pilots/niteowlliberator.png",
       "cost": 15,
-      "loadout": 20,
+      "loadout": 18,
       "initiative": 2,
       "limited": 1,
       "standard": true,
@@ -122,6 +122,36 @@
         "Mandalorian"
       ],
       "caption": "Resolute Warrior",
+      "restricted": 0,
+      "id": 511
+    },
+    {
+      "xws": "ursawren-legendsandrelics",
+      "name": "Ursa Wren",
+      "image": "https://infinitearenas.com/xw2/images/pilots/ursawren-legendsandrelics.png",
+      "cost": 15,
+      "loadout": 17,
+      "initiative": 3,
+      "limited": 1,
+      "caption": "Countess of Clan Wren",
+      "ability": "After you acquire a lock on an enemy ship, if there are no enemy ships at range 0-1 of you, you may gain 1 reinforce token.",
+      "standard": true,
+      "extended": true,
+      "epic": true,
+      "slots": [
+        "Talent",
+        "Crew",
+        "Gunner",
+        "Illicit",
+        "Modification",
+        "Modification",
+        "Payload",
+        "Configuration"
+      ],
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/ursawren-legendsandrelics.png",
+      "keywords": [
+        "Mandalorian"
+      ],
       "restricted": 0,
       "id": 511
     }

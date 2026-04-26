@@ -69,7 +69,7 @@
       "caption": "Dry-Witted Droid",
       "initiative": 3,
       "limited": 1,
-      "cost": 20,
+      "cost": 19,
       "loadout": 19,
       "xws": "leebo",
       "ability": "After you defend or perform an attack, if you spent a calculate token, gain 1 calculate token.",
@@ -118,6 +118,7 @@
       "slots": [
         "Talent",
         "Crew",
+        "Gunner",
         "Illicit",
         "Illicit",
         "Modification",
@@ -139,7 +140,7 @@
       "caption": "Hotshot Mercenary",
       "initiative": 5,
       "limited": 1,
-      "cost": 20,
+      "cost": 19,
       "loadout": 20,
       "xws": "dashrendar",
       "ability": "While you move, you ignore obstacles.",
@@ -170,6 +171,7 @@
       "slots": [
         "Talent",
         "Crew",
+        "Gunner",
         "Illicit",
         "Illicit",
         "Modification",
@@ -220,7 +222,7 @@
       "caption": "Wisdom of Ages",
       "initiative": 3,
       "limited": 1,
-      "cost": 17,
+      "cost": 16,
       "loadout": 10,
       "xws": "leebo-swz103-rebelalliance",
       "ability": "After you defend or perform an attack, if you spent a calculate token, gain 1 calculate token.",
@@ -253,6 +255,7 @@
       "slots": [
         "Talent",
         "Crew",
+        "Gunner",
         "Illicit",
         "Illicit",
         "Modification",
@@ -276,8 +279,8 @@
       "caption": "Freighter for Hire",
       "initiative": 5,
       "limited": 1,
-      "cost": 19,
-      "loadout": 20,
+      "cost": 18,
+      "loadout": 24,
       "xws": "dashrendar-swz103-rebelalliance",
       "ability": "During the Engagement Phase, you ignore the effects of obstacles that you are overlapping.",
       "shipAbility": {
@@ -289,6 +292,7 @@
         "Crew",
         "Illicit",
         "Illicit",
+        "Gunner",
         "Modification",
         "Missile",
         "Title"
@@ -309,7 +313,7 @@
       "caption": "He Thinks He's Funny",
       "initiative": 3,
       "limited": 1,
-      "cost": 16,
+      "cost": 15,
       "xws": "leebo-swz103-sl-rebelalliance",
       "ability": "At the end of the Engagement Phase, you may spend a calculate token to acquire a lock on an enemy ship at range 2-3.",
       "shipActions": [
@@ -362,7 +366,7 @@
       "caption": "In it for Himself",
       "initiative": 5,
       "limited": 1,
-      "cost": 17,
+      "cost": 16,
       "xws": "dashrendar-swz103-sl-rebelalliance",
       "ability": "After you gain a red token as a result of moving through or overlapping an obstacle, you may transfer that red token to a friendly ship at range 0-1.",
       "shipAbility": {

@@ -507,6 +507,37 @@
     "restricted": 0
   },
   {
+    "name": "Modified R4-P Unit",
+    "limited": 1,
+    "xws": "modifiedr4punit-legendsandrelics",
+    "sides": [
+      {
+        "title": "Modified R4-P Unit",
+        "type": "Astromech",
+        "ability": "Before you execute a red maneuver, you may spend 1 [Charge]. If you do, while you execute that maneuver, reduce its difficulty.",
+        "image": "https://infinitearenas.com/xw2/images/upgrades/modifiedr4punit.png",
+        "slots": [
+          "Astromech"
+        ],
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/modifiedr4punit.png"
+      }
+    ],
+    "cost": {
+      "value": 5
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "rebelalliance"
+        ]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
     "name": "R4-P Astromech",
     "xws": "r4pastromech",
     "limited": 0,
@@ -530,6 +561,107 @@
       {
         "factions": [
           "galacticrepublic"
+        ]
+      }
+    ],
+    "cost": {
+      "value": 3
+    },
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
+    "name": "R7-T1",
+    "xws": "r7t1-legendsandrelics",
+    "limited": 1,
+    "sides": [
+      {
+        "title": "R7-T1",
+        "type": "Astromech",
+        "ability": "While you perform a white [Barrel Roll] or [Boost] action, you may spend 1 [Charge]. If you do, treat the action as red and use a speed 2 template while performing the action.",
+        "slots": [
+          "Astromech"
+        ],
+        "image": "https://infinitearenas.com/xw2/images/upgrades/r7t1-legendsandrelics.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/r7t1-legendsandrelics.png"
+      }
+    ],
+    "restrictions": [
+      {
+        "sizes": [
+          "Small"
+        ],
+        "action": [
+          {
+            "type": "Target Lock",
+            "difficulty": "White"
+          }
+        ],
+        "factions": [
+            "rebelalliance",
+            "resistance"
+          ] 
+      }
+    ],
+    "cost": {
+      "value": 5
+    },
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
+    "name": "Unhinged Astromech",
+    "xws": "unhingedastromech-legendsandrelics",
+    "limited": 1,
+    "sides": [
+      {
+        "title": "Unhinged Astromech",
+        "type": "Astromech",
+        "ability": "Decrease the difficulty of your speed 3 basic maneuvers ([Turn Left], [Bank Left], [Straight], [Bank Right], [Turn Right]).",
+        "slots": [
+          "Astromech"
+        ],
+        "image": "https://infinitearenas.com/xw2/images/upgrades/r7t1-legendsandrelics.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/r7t1-legendsandrelics.png"
+      }
+    ],
+    "restrictions": [],
+    "cost": {
+      "value": 3
+    },
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
+    "name": "Flight-Assist Astromech",
+    "xws": "flightassistastromech-legendsandrelics",
+    "limited": 0,
+    "sides": [
+      {
+        "title": "Flight-Assist Astromech",
+        "type": "Astromech",
+        "ability": "While you perform a white [Barrel Roll] or [Boost] action, you may spend 1 [Charge]. If you do, treat the action as red and use a speed 2 template while performing the action.",
+        "slots": [
+          "Astromech"
+        ],
+        "charges": {
+          "value": 2,
+          "recovers": 0
+        },
+        "image": "https://infinitearenas.com/xw2/images/upgrades/flightassistastromech-legendsandrelics.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/flightassistastromech-legendsandrelics.png"
+      }
+    ],
+    "restrictions": [
+      {
+        "sizes": [
+          "Small"
         ]
       }
     ],

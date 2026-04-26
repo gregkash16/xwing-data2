@@ -147,8 +147,8 @@
       "xws": "warthog",
       "caption": "Veteran of Kadavo",
       "initiative": 3,
-      "cost": 13,
-      "loadout": 16,
+      "cost": 12,
+      "loadout": 13,
       "charges": {
         "value": 2,
         "recovers": 1

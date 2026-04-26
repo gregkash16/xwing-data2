@@ -96,8 +96,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 15,
-      "loadout": 15,
+      "cost": 14,
+      "loadout": 12,
       "slots": [
         "Tech",
         "Tech",
@@ -139,8 +139,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 13,
-      "loadout": 17,
+      "cost": 12,
+      "loadout": 14,
       "slots": [
         "Gunner",
         "Tech",
@@ -206,7 +206,7 @@
       "standard": true,
       "extended": true,
       "cost": 11,
-      "loadout": 10,
+      "loadout": 13,
       "slots": [
         "Gunner",
         "Tech",
@@ -240,7 +240,7 @@
       "standard": true,
       "extended": true,
       "cost": 10,
-      "loadout": 5,
+      "loadout": 8,
       "slots": [
         "Gunner",
         "Tech",

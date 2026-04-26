@@ -155,6 +155,37 @@
     "restricted": 2
   },
   {
+    "name": "Precision-Tuned Cannons",
+    "limited": 0,
+    "xws": "precisiontunedcannons-legendsandrelics",
+    "cost": {
+      "value": 3
+    },
+    "sides": [
+      {
+        "ability": "Attack: If the defender is in your [Bullseye Arc], add 1 [Focus] result.",
+        "title": "Precision-Tuned Cannons",
+        "type": "Cannon",
+        "slots": [
+          "Cannon"
+        ],
+        "attack": {
+          "arc": "Front Arc",
+          "value": 2,
+          "minrange": 2,
+          "maxrange": 3,
+          "ordnance": false
+        },
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/precisiontunedcannons-legendsandrelics.png",
+        "image": "https://infinitearenas.com/xw2/images/upgrades/precisiontunedcannons-legendsandrelics.png"
+      }
+    ],
+    "standard": false,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
     "sides": [
       {
         "title": "Synced Laser Cannons",

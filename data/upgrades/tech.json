@@ -193,7 +193,7 @@
       }
     ],
     "cost": {
-      "value": 1
+      "value": 2
     },
     "restrictions": [
       {
@@ -207,6 +207,41 @@
         }
       }
     ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
+    "name": "T-SJ1A Targeting Computer",
+    "limited": 0,
+    "xws": "tsj1atargetingcomputer-legendsandrelics",
+    "sides": [
+      {
+        "ability": "While you perform a primary attack, if the defender does not have any green tokens, you may spend 1 [Charge] and 1 [Crit] result. If you do, add 2 [Hit] results.",
+        "charges": {
+          "value": 1,
+          "recovers": 0
+        },
+        "title": "T-SJ1A Targeting Computer",
+        "type": "Tech",
+        "slots": [
+          "Tech"
+        ],
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/tsj1atargetingcomputer-legendsandrelics.png",
+        "image": "https://infinitearenas.com/xw2/images/upgrades/tsj1atargetingcomputer-legendsandrelics.png"
+      }
+    ],
+    "restrictions": [
+      {
+        "factions": [
+          "firstorder"
+        ]
+      }
+    ],
+    "cost": {
+      "value": 4
+    },
     "standard": true,
     "extended": true,
     "epic": true,
@@ -360,6 +395,34 @@
         ]
       }
     ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
+    "name": "Targeting Relay",
+    "limited": 0,
+    "xws": "targetingrelay-legendsandrelics",
+    "sides": [
+      {
+        "title": "Targeting Relay",
+        "type": "Tech",
+        "ability": "After a friendly ship acquires a lock on an enemy ship at 0-1 of you, you may spend 1 [Charge] and gain 1 stress token. If you do, that friendly ship may gain 1 calculate token.",
+        "slots": [
+          "Tech"
+        ],
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/targetingrelay-legendsandrelics.png",
+        "image": "https://infinitearenas.com/xw2/images/upgrades/targetingrelay-legendsandrelics.png"
+      }
+    ],
+    "cost": {
+      "value": 3
+    },
+    "charges": {
+      "value": 2,
+      "recovers": 0
+    },
     "standard": true,
     "extended": true,
     "epic": true,

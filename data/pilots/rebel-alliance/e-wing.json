@@ -85,7 +85,7 @@
       "initiative": 5,
       "limited": 1,
       "cost": 14,
-      "loadout": 12,
+      "loadout": 14,
       "xws": "corranhorn",
       "ability": "At initiative 0, you may perform a bonus primary attack against an enemy ship in your [Bullseye Arc]. If you do, at the start of the next Planning Phase, gain 1 disarm token.",
       "image": "https://infinitearenas.com/xw2/images/pilots/corranhorn.png",
@@ -99,7 +99,8 @@
         "Sensor",
         "Astromech",
         "Talent",
-        "Talent"
+        "Talent",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/corranhorn.png",
       "standard": false,
@@ -114,7 +115,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 15,
-      "loadout": 18,
+      "loadout": 20,
       "xws": "gavindarklighter",
       "ability": "While a friendly ship performs an attack, if the defender is in your [Front Arc], the attacker may change 1 [Hit] result to a [Critical Hit] result.",
       "image": "https://infinitearenas.com/xw2/images/pilots/gavindarklighter.png",
@@ -127,7 +128,8 @@
         "Modification",
         "Sensor",
         "Astromech",
-        "Talent"
+        "Talent",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/gavindarklighter.png",
       "standard": false,
@@ -153,7 +155,8 @@
         "Torpedo",
         "Modification",
         "Sensor",
-        "Astromech"
+        "Astromech",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/knavesquadronescort.png",
       "standard": false,
@@ -180,7 +183,8 @@
         "Modification",
         "Sensor",
         "Astromech",
-        "Talent"
+        "Talent",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/roguesquadronescort.png",
       "standard": false,

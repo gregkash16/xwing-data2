@@ -98,7 +98,7 @@
       "initiative": 2,
       "limited": 0,
       "cost": 10,
-      "loadout": 8,
+      "loadout": 10,
       "xws": "bluesquadronpilot",
       "text": "Due to its heavy weapons array and resilient shielding, the B-wing has solidified itself as the Rebel Alliance's most innovative assault fighter.",
       "image": "https://infinitearenas.com/xw2/images/pilots/bluesquadronpilot.png",
@@ -127,7 +127,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 12,
-      "loadout": 10,
+      "loadout": 12,
       "xws": "braylenstramm",
       "ability": "While you defend or perform an attack, if you are stressed, you may reroll up to 2 of your dice.",
       "image": "https://infinitearenas.com/xw2/images/pilots/braylenstramm.png",
@@ -223,8 +223,8 @@
         "B-wing",
         "Spectre"
       ],
-      "cost": 15,
-      "loadout": 21,
+      "cost": 14,
+      "loadout": 16,
       "slots": [
         "Cannon",
         "Cannon",
@@ -340,7 +340,7 @@
       "xws": "ginamoonsong-battleoverendor",
       "initiative": 5,
       "limited": 1,
-      "cost": 16,
+      "cost": 15,
       "ability": "At the start of the Engagement Phase, if a friendly Braylen Stramm ship at range 0-2 is stressed, you may acquire a lock.",
       "shipAbility": {
         "name": "Gyro-Cockpit",

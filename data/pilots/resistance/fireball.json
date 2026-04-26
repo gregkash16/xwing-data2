@@ -78,8 +78,8 @@
       ],
       "standard": true,
       "extended": true,
-      "cost": 7,
-      "loadout": 5,
+      "cost": 6,
+      "loadout": 3,
       "text": "Some ambitious and talented pilots begin their racing careers as ground crew, working around the clock to keep cobbled-together ships in the sky on far-flung worlds like Castilon.",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/colossusstationmechanic.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/colossusstationmechanic.png",
@@ -139,8 +139,8 @@
         "Title"
       ],
       "ability": "While you defend or perform a primary attack, if the enemy ship's initiative is higher than the number of damage cards you have, you may roll 1 additional die.",
-      "cost": 10,
-      "loadout": 15,
+      "cost": 11,
+      "loadout": 18,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kazudaxiono.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/kazudaxiono.png",
       "epic": true,
@@ -167,8 +167,8 @@
         "Title"
       ],
       "ability": "Before you expose 1 of your damage cards, you may look at your facedown damage cards, choose 1, and expose that card instead.",
-      "cost": 6,
-      "loadout": 5,
+      "cost": 7,
+      "loadout": 10,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/r1j5.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/r1j5.png",
       "shipActions": [

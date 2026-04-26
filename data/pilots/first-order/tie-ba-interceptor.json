@@ -75,8 +75,8 @@
       "caption": "Red Baron",
       "initiative": 6,
       "limited": 1,
-      "cost": 14,
-      "loadout": 17,
+      "cost": 13,
+      "loadout": 14,
       "xws": "majorvonreg",
       "ability": "During the System Phase, you may choose 1 enemy ship in your [Bullseye Arc]. That ship gains 1 deplete or strain token of your choice.",
       "shipAbility": {
@@ -107,8 +107,8 @@
       "caption": "Trick of the Light",
       "initiative": 5,
       "limited": 1,
-      "cost": 13,
-      "loadout": 15,
+      "cost": 12,
+      "loadout": 12,
       "xws": "holo",
       "ability": "At the start of the Engagement Phase, you must transfer 1 of your tokens to another friendly ship at range 0-2.",
       "shipAbility": {

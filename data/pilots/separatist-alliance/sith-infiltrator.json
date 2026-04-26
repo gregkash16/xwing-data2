@@ -90,7 +90,8 @@
         "Force Power",
         "Torpedo",
         "Payload",
-        "Title"
+        "Title",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/darthmaul.png",
       "keywords": [
@@ -118,8 +119,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/countdooku.png",
       "standard": true,
       "extended": true,
-      "cost": 15,
-      "loadout": 10,
+      "cost": 14,
+      "loadout": 8,
       "slots": [
         "Crew",
         "Crew",
@@ -128,7 +129,8 @@
         "Force Power",
         "Force Power",
         "Payload",
-        "Title"
+        "Title",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/countdooku.png",
       "keywords": [
@@ -155,7 +157,8 @@
         "Crew",
         "Sensor",
         "Payload",
-        "Modification"
+        "Modification",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/darkcourier.png",
       "epic": true,
@@ -165,8 +168,8 @@
     {
       "name": "0-66",
       "xws": "066",
-      "cost": 13,
-      "loadout": 13,
+      "cost": 12,
+      "loadout": 7,
       "slots": [
         "Crew",
         "Crew",
@@ -175,7 +178,8 @@
         "Torpedo",
         "Tactical Relay",
         "Payload",
-        "Title"
+        "Title",
+        "Tech"
       ],
       "caption": "Sinister Automaton",
       "initiative": 3,
@@ -211,7 +215,7 @@
       "caption": "Siege of Coruscant",
       "initiative": 5,
       "limited": 1,
-      "cost": 16,
+      "cost": 15,
       "xws": "countdooku-siegeofcoruscant",
       "ability": "During an attack, before a ship at range 0-2 rolls attack or defense dice, if all of your [Force] are active, you may spend 1 [Force] and name a result. If the roll does not contain the named result, the ship must change 1 die to that result.",
       "shipActions": [

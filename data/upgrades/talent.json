@@ -1631,6 +1631,28 @@
     "restricted": 0
   },
   {
+    "name": "Parting Gift",
+    "limited": 0,
+    "xws": "partinggift-legendsandrelics",
+    "sides": [
+      {
+        "title": "Parting Gift",
+        "type": "Talent",
+        "ability": "When you are destroyed, before you are removed, you may spend 1 [Charge] on an equipped [Device] upgrade to drop or launch a bomb using a speed 1 straight or bank ([Bank Left], [Straight], [Bank Right]) template.",
+        "slots": [
+          "Talent"
+        ]
+      }
+    ],
+    "cost": {
+      "value": 2
+    },
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
     "name": "Heroic Sacrifice",
     "limited": 0,
     "xws": "heroicsacrifice-battleoverendor",

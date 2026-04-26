@@ -73,8 +73,8 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/poedameron.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/poedameron.png",
-      "cost": 18,
-      "loadout": 24,
+      "cost": 17,
+      "loadout": 20,
       "charges": {
         "value": 1,
         "recovers": 1
@@ -176,7 +176,7 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/redsquadronexpert.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/redsquadronexpert.png",
       "cost": 11,
-      "loadout": 9,
+      "loadout": 11,
       "slots": [
         "Astromech",
         "Modification",
@@ -205,8 +205,8 @@
       },
       "image": "https://infinitearenas.com/xw2/images/pilots/blacksquadronace-t70xwing.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/blacksquadronace-t70xwing.png",
-      "cost": 13,
-      "loadout": 17,
+      "cost": 12,
+      "loadout": 14,
       "slots": [
         "Astromech",
         "Modification",
@@ -235,8 +235,8 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 14,
-      "loadout": 16,
+      "cost": 13,
+      "loadout": 12,
       "slots": [
         "Astromech",
         "Modification",
@@ -358,7 +358,7 @@
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
       "cost": 14,
-      "loadout": 16,
+      "loadout": 18,
       "slots": [
         "Astromech",
         "Modification",
@@ -422,7 +422,7 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/jessikapava.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/jessikapava.png",
       "cost": 12,
-      "loadout": 10,
+      "loadout": 12,
       "charges": {
         "value": 1,
         "recovers": 1
@@ -578,7 +578,7 @@
       "standard": true,
       "extended": true,
       "cost": 13,
-      "loadout": 15,
+      "loadout": 17,
       "slots": [
         "Astromech",
         "Modification",
@@ -627,6 +627,37 @@
       "epic": true,
       "restricted": 0,
       "id": 607
+    },
+    {
+      "name": "Kazuda Xiono",
+      "xws": "kazudaxiono-legendsandrelics",
+      "initiative": 4,
+      "limited": 1,
+      "shipAbility": {
+        "name": "Weapon Hardpoint",
+        "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
+      },
+      "caption": "Resistance Spy",
+      "standard": true,
+      "extended": true,
+      "cost": 12,
+      "loadout": 13,
+      "slots": [
+        "Talent",
+        "Astromech",
+        "Modification",
+        "Tech",
+        "Configuration"
+      ],
+      "ability": "While you defend or perform an attack, if the enemy ship has more damage cards than you have, you may change a [Focus] result into an [Evade] or [Hit] result.",
+      "image": "https://infinitearenas.com/xw2/images/pilots/kazudaxiono-legendsandrelics.png",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kazudaxiono-legendsandrelics.png",
+      "keywords": [
+        "X-wing"
+      ],
+      "epic": true,
+      "restricted": 0,
+      "id": 739
     },
     {
       "name": "C’ai Threnalli",
@@ -814,7 +845,7 @@
       },
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/stomeronistarck-evacuationofdqar.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/stomeronistarck-evacuationofdqar.png",
-      "cost": 14,
+      "cost": 13,
       "loadout": 0,
       "standardLoadout": [
         "forthecause-evacuationofdqar",

@@ -82,7 +82,8 @@
         "Gunner",
         "Modification",
         "Sensor",
-        "Talent"
+        "Talent",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/echo.png",
       "standard": true,
@@ -112,7 +113,8 @@
         "Gunner",
         "Modification",
         "Sensor",
-        "Talent"
+        "Talent",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/whisper.png",
       "standard": true,
@@ -140,7 +142,8 @@
       "slots": [
         "Gunner",
         "Modification",
-        "Sensor"
+        "Sensor",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/imdaartestpilot.png",
       "standard": true,
@@ -169,7 +172,8 @@
         "Talent",
         "Gunner",
         "Modification",
-        "Sensor"
+        "Sensor",
+        "Tech"
       ],
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sigmasquadronace.png",
       "standard": true,

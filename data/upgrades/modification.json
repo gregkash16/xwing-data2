@@ -67,6 +67,41 @@
     "restricted": 0
   },
   {
+    "name": "Retrofitted Autothrusters",
+    "limited": 0,
+    "xws": "retrofittedautothrusters-legendsandrelics",
+    "sides": [
+      {
+        "title": "Retrofitted Autothrusters",
+        "type": "Modification",
+        "ability": "After you fully execute a speed 3 turn ([Turn Left] or [Turn Right]), bank ([Bank Left] or [Bank Right]), Talon Roll ([Talon Roll Left] or [Talon Roll Right]), or Segnor's Loop ([Segnor's Loop Left] or [Segnor's Loop Right]) maneuver, you may spend 1 [Charge] to perform a [Boost] action, even while stressed.",
+        "slots": [
+          "Modification"
+        ],
+        "charges": {
+          "value": 2,
+          "recovers": 0
+        },
+        "image": "https://infinitearenas.com/xw2/images/upgrades/retrofittedautothrusters-legendsandrelics.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/retrofittedautothrusters-legendsandrelics.png"
+      }
+    ],
+    "cost": {
+      "value": 6
+    },
+    "restrictions": [
+      {
+        "sizes": [
+          "Small"
+        ]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
     "name": "Afterburners",
     "limited": 0,
     "xws": "afterburners",
@@ -466,7 +501,7 @@
       }
     ],
     "cost": {
-      "value": 1
+      "value": 2
     },
     "standard": true,
     "extended": true,
@@ -918,6 +953,41 @@
     "restricted": 0
   },
   {
+    "name": "Automated Loaders",
+    "limited": 0,
+    "xws": "automatedloaders-legendsandrelics",
+    "sides": [
+      {
+        "ability": "After you perform a primary attack, you may spend 1 [Charge] to perform a [Reload] action.",
+        "title": "Automated Loaders",
+        "type": "Modification",
+        "slots": [
+          "Modification"
+        ],
+        "charges": {
+          "value": 1,
+          "recovers": 0
+        },
+        "restrictions": [
+          {
+            "actions": [
+              {
+                "type": "Reload"
+              }
+            ]
+          }
+        ],
+        "cost": {
+          "value": 1  
+      }
+    }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
     "name": "Computer-Assisted Handling",
     "limited": 0,
     "xws": "computerassistedhandling-battleoverendor",
@@ -959,6 +1029,28 @@
     "extended": true,
     "epic": true,
     "standardLoadoutOnly": true,
+    "restricted": 0
+  },
+  {
+    "name": "Targeting Matrix",
+    "limited": 0,
+    "xws": "targetingmatrix-legendsandrelics",
+    "sides": [
+      {
+        "title": "Targeting Matrix",
+        "type": "Modification",
+        "ability": "While attacking, at the end of the Neutralize Results step, you may spend 1 [Focus] result. If you do, after the attack is resolved, the defender gains 1 strain token.",
+        "slots": [
+          "Modification"
+        ]
+      }
+    ],
+    "cost": {
+      "value": 4
+    },
+    "standard": true,
+    "extended": true,
+    "epic": true,
     "restricted": 0
   },
   {

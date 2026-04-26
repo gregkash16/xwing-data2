@@ -130,8 +130,8 @@
       "caption": "Fiery Fanatic",
       "initiative": 4,
       "limited": 1,
-      "cost": 12,
-      "loadout": 19,
+      "cost": 11,
+      "loadout": 15,
       "xws": "backdraft",
       "ability": "While you perform a [Single Turret Arc] primary attack, if the defender is in your [Rear Arc], roll 1 additional die.",
       "shipAbility": {
@@ -241,8 +241,8 @@
         "Modification"
       ],
       "ability": "While you perform an attack, you may spend another friendly ship's lock on the defender to reroll any number of your results.",
-      "cost": 13,
-      "loadout": 25,
+      "cost": 12,
+      "loadout": 20,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/lieutenantlehuse.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/lieutenantlehuse.png",
       "keywords": [
@@ -345,7 +345,7 @@
       "caption": "Evacuation of D'Qar",
       "initiative": 3,
       "limited": 1,
-      "cost": 11,
+      "cost": 10,
       "loadout": 0,
       "xws": "theta3-evacuationofdqar",
       "ability": "At the start of the Engagement Phase, if you have no green tokens, you may spend 1 [Charge] to gain an evade token.",

@@ -814,7 +814,7 @@
           "Crew"
         ],
         "charges": {
-          "value": 2,
+          "value": 5,
           "recovers": 1
         },
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/grandmofftarkin.png"
@@ -949,6 +949,41 @@
     "restricted": 0
   },
   {
+    "name": "Fennec Shand",
+    "limited": 1,
+    "xws": "fennecshand-legendsandrelics",
+    "sides": [
+      {
+        "title": "Fennec Shand",
+        "type": "Crew",
+        "ability": "After you fully execute a maneuver, or perform a [Barrel Roll] or [Boost] action, you may spend 1 [Charge]. If you do, choose an enemy ship in your [Bullseye Arc]. That ship gains 1 strain token and you may acquire a lock on it.",
+        "slots": [
+          "Crew"
+        ],
+        "charges": {
+          "value": 2,
+          "recovers": 0
+        },
+        "image": "https://infinitearenas.com/xw2/images/upgrades/fennecshand-legendsandrelics.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/fennecshand-legendsandrelics.png"
+      }
+    ],
+    "cost": {
+      "value": 6
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticempire"
+        ]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
     "name": "Informant",
     "limited": 1,
     "xws": "informant",
@@ -997,13 +1032,60 @@
       }
     ],
     "cost": {
-      "value": 11
+      "value": 14
     },
     "restrictions": [
       {
         "factions": [
           "scumandvillainy"
         ]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
+    "name": "Zorii Bliss",
+    "limited": 1,
+    "xws": "zoriibliss-legendsandrelics",
+    "sides": [
+      {
+        "title": "Zorii Bliss",
+        "type": "Crew",
+        "ability": "After a jammed enemy ship at range 1-2 removes a green token, you may spend 1 [Charge] to gain a matching token.",
+        "image": "https://infinitearenas.com/xw2/images/upgrades/zoriibliss-legendsandrelics.png",
+        "slots": [
+          "Crew"
+        ],
+        "charges": {
+          "value": 1,
+          "recovers": 1
+        },
+        "grants": [
+          {
+            "type": "action",
+            "value": {
+              "type": "Jam",
+              "difficulty": "White"
+            }
+          }
+        ],
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/zoriibliss-legendsandrelics.png"
+      }
+    ],
+    "cost": {
+      "value": 5
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "resistance"
+        ],
+        "action": {
+          "type": "Jam"
+        }
       }
     ],
     "standard": true,
@@ -1034,6 +1116,87 @@
       {
         "factions": [
           "rebelalliance"
+        ]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
+    "name": "Thrawn",
+    "limited": 1,
+    "xws": "thrawn-legendsandrelics",
+    "sides": [
+      {
+        "title": "Thrawn",
+        "type": "Crew",
+        "ability": "While you perform a [Jam] or [Coordinate] action, you may spend 1 [Charge] to increase the range requirement for that action by 1. After you perform a [Jam] or [Coordinate] action, you may spend 2 [Charge] to perform a [Jam] or [Coordinate] action, treating it as red.",
+        "slots": [
+          "Crew"
+        ],
+        "charges": {
+          "value": 1,
+          "recovers": 1
+        },
+        "image": "https://infinitearenas.com/xw2/images/upgrades/thrawn-legendsandrelics.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/thrawn-legendsandrelics.png"
+      }
+    ],
+    "cost": {
+      "value": 6
+    },
+    "grants": [
+      {
+        "type": "action",
+        "value": {
+          "type": "Jam",
+          "difficulty": "Red"
+        }
+      }
+    ],
+    "restrictions": [
+      {
+        "factions": [
+          "galacticempire"
+        ]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
+    "name": "Captive",
+    "limited": 1,
+    "xws": "captive-legendsandrelics",
+    "sides": [
+      {
+        "title": "Captive",
+        "type": "Crew",
+        "ability": "After you are declared the defender of an attack, you may spend 1 [Charge] to assign the attacker 1 deplete token.",
+        "slots": [
+          "Crew"
+        ],
+        "charges": {
+          "value": 1,
+          "recovers": 1
+        },
+        "image": "https://infinitearenas.com/xw2/images/upgrades/captive-legendsandrelics.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/captive-legendsandrelics.png"
+      }
+    ],
+    "cost": {
+      "value": 8
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "galacticempire",
+          "firstrorder",
+          "separatistalliance"
         ]
       }
     ],
@@ -3229,6 +3392,41 @@
       {
         "factions": [
           "scumandvillainy"
+        ]
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
+    "name": "Ahsoka Tano",
+    "limited": 1,
+    "xws": "ahsokatano-legendsandrelics",
+    "sides": [
+      {
+        "ability": "Before you activate, you may spend 1 [Force] to ignore obstacles until the end of this phase. If you do, and you move through an obstacle, you may acquire a lock on an enemy ship in your [Front Arc] at range 1",        
+        "title": "Ahsoka Tano",
+        "type": "Crew",
+        "slots": [
+          "Crew"
+        ],
+        "force": {
+          "value": 1,
+          "recovers": 1
+        },
+        "image": "https://infinitearenas.com/xw2/images/upgrades/ahsokatano-legendsandrelics.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/ahsokatano-legendsandrelics.png"
+      }
+    ],
+    "cost": {
+      "value": 10
+    },
+    "restrictions": [
+      {
+        "factions": [
+          "rebelalliance"
         ]
       }
     ],

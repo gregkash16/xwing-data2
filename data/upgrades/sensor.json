@@ -52,6 +52,30 @@
     "restricted": 0
   },
   {
+    "name": "Blindspot Targeter",
+    "limited": 0,
+    "xws": "blindspottargeter-legendsandrelics",
+    "sides": [
+      {
+        "title": "Blindspot Targeter",
+        "type": "Sensor",
+        "ability": "While you perform a primary attack, if you are not in the defender's firing arc, you may change 1 [Focus] result to a [Hit] result.",
+        "slots": [
+          "Sensor"
+        ],
+        "image": "https://infinitearenas.com/xw2/images/upgrades/blindspottargeter-legendsandrelics.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/blindspottargeter.png"
+      }
+    ],
+    "cost": {
+      "value": 8
+    },
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
     "name": "Fire-Control System",
     "limited": 0,
     "xws": "firecontrolsystem",
@@ -92,7 +116,7 @@
       }
     ],
     "cost": {
-      "value": 10
+      "value": 8
     },
     "standard": false,
     "extended": true,

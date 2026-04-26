@@ -74,8 +74,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/kickback.png",
       "standard": true,
       "extended": true,
-      "cost": 8,
-      "loadout": 11,
+      "cost": 7,
+      "loadout": 7,
       "slots": [
         "Missile",
         "Modification",
@@ -178,9 +178,10 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/tucker.png",
       "standard": true,
       "extended": true,
-      "cost": 8,
-      "loadout": 13,
+      "cost": 9,
+      "loadout": 8,
       "slots": [
+        "Missile",
         "Missile",
         "Modification",
         "Modification"
@@ -231,6 +232,7 @@
       "cost": 6,
       "loadout": 2,
       "slots": [
+        "Talent",
         "Missile",
         "Modification",
         "Modification"

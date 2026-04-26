@@ -103,7 +103,7 @@
       "initiative": 5,
       "limited": 1,
       "cost": 16,
-      "loadout": 10,
+      "loadout": 12,
       "ability": "After you defend, you may spend 1 [Force] to assign the I'll Show You the Dark Side condition to the attacker.",
       "force": {
         "value": 2,
@@ -145,7 +145,7 @@
       "initiative": 4,
       "limited": 0,
       "cost": 12,
-      "loadout": 5,
+      "loadout": 7,
       "text": "Engineered for incredible speed and precise handling, the TIE Silencer is devastating in the hands of those who can unlock its full potential. Any lesser pilot could easily be overwhelmed and lose control of the nimble craft.",
       "shipAbility": {
         "name": "Autothrusters",
@@ -176,8 +176,8 @@
       "caption": "Quantity Over Quality",
       "initiative": 4,
       "limited": 1,
-      "cost": 14,
-      "loadout": 13,
+      "cost": 13,
+      "loadout": 8,
       "ability": "While you are stressed, you may treat enemy ships in your [Front Arc] at range 0-1 as being in your [Bullseye Arc].",
       "shipAbility": {
         "name": "Autothrusters",
@@ -209,7 +209,7 @@
       "initiative": 3,
       "limited": 1,
       "cost": 14,
-      "loadout": 15,
+      "loadout": 17,
       "ability": "After another friendly ship is destroyed, you may perform an action, even while stressed.",
       "shipAbility": {
         "name": "Autothrusters",
@@ -239,7 +239,7 @@
       "initiative": 1,
       "limited": 0,
       "cost": 11,
-      "loadout": 5,
+      "loadout": 7,
       "text": "Developed by Sienar-Jaemus Fleet Systems as a successor to the vaunted TIE Defender, the TIE/vn Silencer incorporates bleeding-edge technologies developed at research facilities hidden in the Unknown Regions.",
       "shipAbility": {
         "name": "Autothrusters",
@@ -283,7 +283,7 @@
       ],
       "ability": "While you are damaged, treat your initiative as 6.",
       "cost": 13,
-      "loadout": 8,
+      "loadout": 11,
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/rush.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/rush.png",
       "keywords": [
@@ -299,7 +299,7 @@
       "caption": "Evacuation of D'Qar",
       "initiative": 5,
       "limited": 1,
-      "cost": 18,
+      "cost": 17,
       "loadout": 0,
       "ability": "Before an enemy ship in your [Bullseye Arc] is dealt a facedown damage card, you may spend 1 [Force]. If you do, that damage card is dealt faceup instead.",
       "shipAbility": {

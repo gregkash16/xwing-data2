@@ -61,6 +61,79 @@
     "restricted": 0
   },
   {
+    "name": "Gravitic Well",
+    "limited": 0,
+    "xws": "graviticwell-legendsandrelics",
+    "sides": [
+      {
+        "title": "Gravitic Well",
+        "type": "Configuration",
+        "ability": "At the start of the Engagement Phase, if you are tractored, each other small ship at range 0-1 gains 1 strain token. Replace any instance of 'if the defender is tractored' in your pilot ability with 'if you are tractored'.",
+        "slots": [
+          "Configuration"
+        ],
+        "image": "https://infinitearenas.com/xw2/images/upgrades/graviticwell-legendsandrelics.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/graviticwell-legendsandrelics.png"
+      }
+    ],
+    "cost": {
+      "value": 5
+    },
+    "restrictions": [
+      {
+        "ships": [
+          "nantexclassstarfighter"
+        ]
+      },
+      {
+        "standardized": true
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
+    "name": "Winged Reversal",
+    "limited": 0,
+    "xws": "wingedreversal-legendsandrelics",
+    "sides": [
+      {
+        "title": "Winged Reversal",
+        "type": "Configuration",
+        "ability": "After you reveal a turn ([Turn Left] or [Turn Right]) maneuver you may spend 1 [Charge], gain 1 strain token, and increase its difficulty. If you do, perform that maneuver as a Talon Roll ([Talon Left] or [Talon Right]) maneuver in the same direction instead.",
+        "slots": [
+          "Configuration"
+        ],
+        "image": "https://infinitearenas.com/xw2/images/upgrades/wingedreversal-legendsandrelics.png",
+        "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/wingedreversal-legendsandrelics.png"
+      }
+    ],
+    "cost": {
+      "value": 0
+    },
+    "charges": {
+      "value": 2,
+      "recovers": 0
+    },
+    "restrictions": [
+      {
+        "ships": [
+          "gauntletfighter",
+          "ut60duwing"
+        ]
+      },
+      {
+        "standardized": true
+      }
+    ],
+    "standard": true,
+    "extended": true,
+    "epic": true,
+    "restricted": 0
+  },
+  {
     "name": "Os-1 Arsenal Loadout",
     "limited": 0,
     "xws": "os1arsenalloadout",
