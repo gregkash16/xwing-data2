@@ -422,6 +422,39 @@
       "epic": true,
       "restricted": 0,
       "id": 614
+    },
+    {
+      "name": "DIS-L9B2",
+      "initiative": 6,
+      "limited": 1,
+      "xws": "disl9b2-legendsandrelics",
+      "shipAbility": {
+        "name": "Networked Calculations",
+        "text": "While you defend or perform an attack, you may spend 1 calculate token from a friendly ship at range 0-1 to change 1 [Focus] result to an [Evade] or [Hit] result."
+      },
+      "standard": true,
+      "extended": true,
+      "ability": "At the start of the Engagement Phase, if there is an enemy ship in your [Bullseye Arc], you must spend 1 [Charge]. During the Engagement Phase, if your [Charge] is active, treat your initiative value as 1.",
+      "caption": "Calculated Risk",
+      "cost": 11,
+      "loadout": 11,
+      "image": "https://infinitearenas.com/xw2xwa/images/pilots/disl9b2-legendsandrelics.png",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/disl9b2-legendsandrelics.png",
+      "slots": [
+        "Talent",
+        "Sensor",
+        "Modification",
+        "Modification",
+        "Missile",
+        "Cannon",
+        "Configuration"
+      ],
+      "keywords": [
+        "Droid"
+      ],
+      "epic": true,
+      "restricted": 0,
+      "id": 422
     }
   ],
   "icon": "https://infinitearenas.com/xw2/images/shipicons/separatist-alliance/I_Droid_Tri-Fighter.png"
