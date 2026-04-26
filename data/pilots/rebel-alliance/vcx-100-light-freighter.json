@@ -156,7 +156,7 @@
       "loadout": 20,
       "xws": "herasyndulla-legendsandrelics",
       "ability": "After you fully execute a red maneuver, you may coordinate a friendly ship at range 0-3.",
-      "image": "https://infinitearenas.com/xw2/images/pilots/herasyndulla-vcx100lightfreighter.png",
+      "image": "https://infinitearenas.com/xw2xwa/images/pilots/herasyndulla-legendsandrelics.png",
       "shipAbility": {
         "name": "Tail Gun",
         "text": "While you have a docked ship, you have a primary [Rear Arc] weapon with an attack value equal to your docked ship's primary [Front Arc] attack value."
@@ -173,7 +173,7 @@
         "Talent",
         "Talent"
       ],
-      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/herasyndulla-vcx100lightfreighter.png",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/herasyndulla-legendsandrelics.png",
       "standard": false,
       "extended": true,
       "keywords": [
