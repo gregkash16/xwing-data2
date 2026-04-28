@@ -72,6 +72,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_StarViper.png",
   "pilots": [
     {
+      "uid": "PSV0640",
       "name": "Black Sun Assassin",
       "initiative": 3,
       "limited": 0,
@@ -100,6 +101,7 @@
       "id": 150
     },
     {
+      "uid": "PSV0641",
       "name": "Black Sun Enforcer",
       "initiative": 2,
       "limited": 0,
@@ -127,6 +129,7 @@
       "id": 151
     },
     {
+      "uid": "PSV0642",
       "name": "Dalan Oberos",
       "caption": "Elite Bounty Hunter",
       "initiative": 4,
@@ -159,6 +162,7 @@
       "id": 149
     },
     {
+      "uid": "PSV0643",
       "name": "Guri",
       "caption": "Prince Xizor’s Bodyguard",
       "initiative": 5,
@@ -218,6 +222,7 @@
       "id": 147
     },
     {
+      "uid": "PSV0644",
       "name": "Prince Xizor",
       "caption": "Black Sun Kingpin",
       "initiative": 4,
@@ -248,6 +253,7 @@
       "id": 148
     },
     {
+      "uid": "PSV0645",
       "name": "Prince Xizor",
       "initiative": 4,
       "limited": 1,
@@ -298,6 +304,7 @@
       "id": 720
     },
     {
+      "uid": "PSV0646",
       "name": "Thweek",
       "caption": "Versatile Spy",
       "initiative": 4,

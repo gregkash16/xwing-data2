@@ -67,6 +67,7 @@
   ],
   "pilots": [
     {
+      "uid": "PSA0685",
       "xws": "bokatankryze-separatistalliance",
       "name": "Bo-Katan Kryze",
       "image": "https://infinitearenas.com/xw2/images/pilots/bokatankryze-separatist-alliance.png",
@@ -102,6 +103,7 @@
       "id": 509
     },
     {
+      "uid": "PSA0686",
       "xws": "previzsla",
       "name": "Pre Vizsla",
       "image": "https://infinitearenas.com/xw2/images/pilots/previzsla.png",
@@ -136,6 +138,7 @@
       "id": 507
     },
     {
+      "uid": "PSA0687",
       "xws": "deathwatchwarrior",
       "name": "Death Watch Warrior",
       "image": "https://infinitearenas.com/xw2/images/pilots/deathwatchwarrior.png",

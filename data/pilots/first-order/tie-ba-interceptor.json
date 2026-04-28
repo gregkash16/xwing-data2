@@ -71,6 +71,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_Vonregs-First-Order-TIE-Interceptor.png",
   "pilots": [
     {
+      "uid": "PFO0005",
       "name": "Major Vonreg",
       "caption": "Red Baron",
       "initiative": 6,
@@ -103,6 +104,7 @@
       "id": 381
     },
     {
+      "uid": "PFO0006",
       "name": "“Holo”",
       "caption": "Trick of the Light",
       "initiative": 5,
@@ -135,6 +137,7 @@
       "id": 382
     },
     {
+      "uid": "PFO0007",
       "name": "“Ember”",
       "caption": "Dying Flame",
       "initiative": 4,
@@ -166,6 +169,7 @@
       "id": 383
     },
     {
+      "uid": "PFO0008",
       "name": "First Order Provocateur",
       "initiative": 3,
       "limited": 0,

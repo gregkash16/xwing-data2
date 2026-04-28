@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN1018",
     "name": "Heightened Perception",
     "limited": 0,
     "xws": "heightenedperception",
@@ -24,6 +25,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1019",
     "name": "Instinctive Aim",
     "limited": 0,
     "xws": "instinctiveaim",
@@ -48,6 +50,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1020",
     "name": "Sense",
     "limited": 0,
     "xws": "sense",
@@ -72,6 +75,7 @@
     "restricted": 1
   },
   {
+    "uid": "UGN1021",
     "name": "Supernatural Reflexes",
     "limited": 0,
     "xws": "supernaturalreflexes",
@@ -103,6 +107,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1022",
     "name": "Brilliant Evasion",
     "limited": 0,
     "xws": "brilliantevasion",
@@ -127,6 +132,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1023",
     "name": "Hate",
     "limited": 0,
     "xws": "hate",
@@ -158,6 +164,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1024",
     "name": "Predictive Shot",
     "limited": 0,
     "xws": "predictiveshot",
@@ -182,6 +189,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR1025",
     "name": "Battle Meditation",
     "xws": "battlemeditation",
     "limited": 0,
@@ -222,6 +230,7 @@
     "restricted": 3
   },
   {
+    "uid": "UGN1026",
     "name": "Foresight",
     "sides": [
       {
@@ -253,6 +262,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1027",
     "name": "Precognitive Reflexes",
     "limited": 0,
     "sides": [
@@ -284,6 +294,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1028",
     "name": "Extreme Maneuvers",
     "limited": 0,
     "xws": "extrememaneuvers",
@@ -320,6 +331,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1029",
     "name": "Compassion",
     "limited": 0,
     "xws": "compassion",
@@ -351,6 +363,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1030",
     "name": "Roiling Anger",
     "limited": 0,
     "xws": "roilinganger-legendsandrelics",
@@ -382,6 +395,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1031",
     "name": "Malice",
     "limited": 0,
     "xws": "malice",
@@ -413,6 +427,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1032",
     "name": "Shattering Shot",
     "limited": 0,
     "xws": "shatteringshot",
@@ -437,6 +452,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1033",
     "name": "Patience",
     "limited": 0,
     "xws": "patience",
@@ -468,6 +484,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1034",
     "name": "Roiling Anger",
     "limited": 0,
     "xws": "roilinganger-siegeofcoruscant",

@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN1271",
     "name": "Advanced Optics",
     "limited": 0,
     "xws": "advancedoptics",
@@ -24,6 +25,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE1272",
     "name": "Ferrosphere Paint",
     "limited": 0,
     "xws": "ferrospherepaint",
@@ -55,6 +57,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO1273",
     "name": "Hyperspace Tracking Data",
     "limited": 0,
     "xws": "hyperspacetrackingdata",
@@ -91,6 +94,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1274",
     "name": "Primed Thrusters",
     "limited": 0,
     "xws": "primedthrusters",
@@ -122,6 +126,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1275",
     "name": "Targeting Synchronizer",
     "limited": 0,
     "xws": "targetingsynchronizer",
@@ -153,6 +158,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1276",
     "name": "Pattern Analyzer",
     "limited": 0,
     "xws": "patternanalyzer",
@@ -177,6 +183,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO1277",
     "name": "Biohexacrypt Codes",
     "limited": 0,
     "xws": "biohexacryptcodes",
@@ -213,6 +220,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO1278",
     "name": "T-SJ1A Targeting Computer",
     "limited": 0,
     "xws": "tsj1atargetingcomputer-legendsandrelics",
@@ -248,6 +256,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO1279",
     "name": "Deuterium Power Cells",
     "limited": 0,
     "xws": "deuteriumpowercells",
@@ -284,6 +293,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1280",
     "sides": [
       {
         "title": "Automated Target Priority",
@@ -315,6 +325,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO1281",
     "sides": [
       {
         "title": "Sensor Buoy Suite",
@@ -369,6 +380,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1282",
     "name": "Sensor Scramblers",
     "limited": 0,
     "xws": "sensorscramblers",
@@ -401,6 +413,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1283",
     "name": "Targeting Relay",
     "limited": 0,
     "xws": "targetingrelay-legendsandrelics",
@@ -429,6 +442,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1284",
     "name": "Threat Sensors",
     "limited": 0,
     "xws": "threatsensors-evacuationofdqar",
@@ -449,6 +463,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1285",
     "name": "Experimental Scanners",
     "limited": 0,
     "xws": "experimentalscanners-evacuationofdqar",
@@ -469,6 +484,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1286",
     "name": "Targeting Relay",
     "limited": 0,
     "xws": "targetingrelay-evacuationofdqar",
@@ -493,6 +509,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1287",
     "name": "Interference Array",
     "limited": 0,
     "xws": "interferencearray-evacuationofdqar",
@@ -517,6 +534,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1288",
     "name": "Synchronized Handling",
     "limited": 0,
     "xws": "synchronizedhandling-armedanddangerous",
@@ -541,6 +559,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1289",
     "name": "Primed Overdrive Thrusters",
     "limited": 0,
     "xws": "primedoverdrivethrusters-evacuationofdqar",
@@ -561,6 +580,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1290",
     "name": "Accelerated Sensor Array",
     "limited": 0,
     "xws": "acceleratedsensorarray-evacuationofdqar",
@@ -581,6 +601,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1291",
     "name": "Precision Holo-Targeter",
     "limited": 0,
     "xws": "precisionholotargeter-evacuationofdqar",

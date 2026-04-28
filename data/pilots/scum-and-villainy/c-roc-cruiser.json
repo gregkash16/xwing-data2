@@ -72,6 +72,7 @@
   ],
   "pilots": [
     {
+      "uid": "PSV0544",
       "name": "Syndicate Smugglers",
       "initiative": 7,
       "cost": 24,
@@ -105,6 +106,7 @@
       "id": 376
     },
     {
+      "uid": "PSV0545",
       "name": "Cikatro Vizago",
       "caption": "Broken Horn",
       "initiative": 7,

@@ -65,6 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_IG-2000.png",
   "pilots": [
     {
+      "uid": "PSV0531",
       "name": "IG-88A",
       "caption": "Aggressive Automaton",
       "initiative": 4,
@@ -100,6 +101,7 @@
       "id": 81
     },
     {
+      "uid": "PSV0532",
       "name": "IG-88B",
       "caption": "Brutal Battledroid",
       "initiative": 4,
@@ -135,6 +137,7 @@
       "id": 82
     },
     {
+      "uid": "PSV0533",
       "name": "IG-88C",
       "caption": "Conniving Contraption",
       "initiative": 4,
@@ -170,6 +173,7 @@
       "id": 83
     },
     {
+      "uid": "PSV0534",
       "name": "IG-88D",
       "caption": "Deadly Device",
       "initiative": 4,

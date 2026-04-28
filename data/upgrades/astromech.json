@@ -1,5 +1,6 @@
 [
   {
+    "uid": "URB0735",
     "name": "“Chopper”",
     "limited": 1,
     "xws": "chopper",
@@ -31,6 +32,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0736",
     "name": "“Genius”",
     "limited": 1,
     "xws": "genius",
@@ -62,6 +64,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0737",
     "name": "R2 Astromech",
     "limited": 0,
     "xws": "r2astromech",
@@ -90,6 +93,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0738",
     "name": "R2-D2",
     "limited": 1,
     "xws": "r2d2",
@@ -125,6 +129,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0739",
     "name": "R3 Astromech",
     "limited": 0,
     "xws": "r3astromech",
@@ -149,6 +154,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0740",
     "name": "R4 Astromech",
     "limited": 0,
     "xws": "r4astromech",
@@ -180,6 +186,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0741",
     "name": "R5 Astromech",
     "limited": 0,
     "xws": "r5astromech",
@@ -208,6 +215,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0742",
     "name": "R5-D8",
     "limited": 1,
     "xws": "r5d8",
@@ -243,6 +251,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0743",
     "name": "R5-P8",
     "limited": 1,
     "xws": "r5p8",
@@ -278,6 +287,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0744",
     "name": "R5-TK",
     "limited": 1,
     "xws": "r5tk",
@@ -309,6 +319,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0745",
     "name": "R5-X3",
     "limited": 1,
     "xws": "r5x3",
@@ -344,6 +355,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0746",
     "name": "R2-HA",
     "limited": 1,
     "xws": "r2ha",
@@ -375,6 +387,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0747",
     "name": "BB-8",
     "limited": 1,
     "xws": "bb8",
@@ -410,6 +423,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0748",
     "name": "BB Astromech",
     "limited": 0,
     "xws": "bbastromech",
@@ -445,6 +459,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0749",
     "name": "M9-G8",
     "limited": 1,
     "xws": "m9g8",
@@ -476,6 +491,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0750",
     "name": "R2-C4",
     "limited": 1,
     "xws": "r2c4",
@@ -507,6 +523,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0751",
     "name": "Modified R4-P Unit",
     "limited": 1,
     "xws": "modifiedr4punit-legendsandrelics",
@@ -538,6 +555,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0752",
     "name": "R4-P Astromech",
     "xws": "r4pastromech",
     "limited": 0,
@@ -573,6 +591,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0753",
     "name": "R7-T1",
     "xws": "r7t1-legendsandrelics",
     "limited": 1,
@@ -600,9 +619,9 @@
           }
         ],
         "factions": [
-            "rebelalliance",
-            "resistance"
-          ] 
+          "rebelalliance",
+          "resistance"
+        ]
       }
     ],
     "cost": {
@@ -614,6 +633,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0754",
     "name": "Unhinged Astromech",
     "xws": "unhingedastromech-legendsandrelics",
     "limited": 1,
@@ -639,6 +659,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0755",
     "name": "Flight-Assist Astromech",
     "xws": "flightassistastromech-legendsandrelics",
     "limited": 0,
@@ -674,6 +695,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0756",
     "name": "R4-P17",
     "xws": "r4p17",
     "limited": 1,
@@ -709,6 +731,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0757",
     "name": "R4-P44",
     "xws": "r4p44",
     "limited": 1,
@@ -740,6 +763,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0758",
     "name": "R2-A6",
     "limited": 1,
     "xws": "r2a6",
@@ -771,6 +795,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0759",
     "name": "C1-10P",
     "xws": "c110p",
     "sides": [
@@ -816,6 +841,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0760",
     "name": "R1-J5",
     "limited": 1,
     "xws": "r1j5",
@@ -851,6 +877,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0761",
     "name": "Q7 Astromech",
     "limited": 0,
     "xws": "q7astromech",
@@ -882,6 +909,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0762",
     "name": "R2-D2",
     "limited": 1,
     "xws": "r2d2-republic",
@@ -917,6 +945,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0763",
     "name": "R2-D2",
     "limited": 1,
     "xws": "r2d2-resistance",
@@ -952,6 +981,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0764",
     "name": "R6-D8",
     "limited": 1,
     "xws": "r6d8",
@@ -983,6 +1013,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0765",
     "name": "R7-A7",
     "limited": 1,
     "xws": "r7a7",
@@ -1018,6 +1049,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0766",
     "name": "R4-B11",
     "limited": 1,
     "xws": "r4b11",
@@ -1049,6 +1081,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0767",
     "name": "Watchful Astromech",
     "limited": 0,
     "xws": "watchfulastromech",
@@ -1073,6 +1106,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0768",
     "name": "L4E-R5",
     "limited": 1,
     "xws": "l4er5",
@@ -1120,6 +1154,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0769",
     "name": "R2-A3",
     "limited": 1,
     "xws": "r2a3-battleofyavin",
@@ -1144,6 +1179,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0770",
     "name": "R2-D2",
     "limited": 1,
     "xws": "r2d2-battleofyavin",
@@ -1168,6 +1204,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0771",
     "name": "R2-F2",
     "limited": 1,
     "xws": "r2f2-battleofyavin",
@@ -1192,6 +1229,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0772",
     "name": "R5-D8",
     "limited": 0,
     "xws": "r5d8-battleofyavin",
@@ -1216,6 +1254,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0773",
     "name": "R5-K6",
     "limited": 0,
     "xws": "r5k6-battleofyavin",
@@ -1240,6 +1279,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0774",
     "name": "Precise Astromech",
     "limited": 0,
     "xws": "preciseastromech-battleofyavin",
@@ -1264,6 +1304,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0775",
     "name": "Targeting Astromech",
     "limited": 0,
     "xws": "targetingastromech-battleofyavin",
@@ -1284,6 +1325,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0776",
     "name": "R4-P17",
     "limited": 1,
     "xws": "r4p17-siegeofcoruscant",
@@ -1308,6 +1350,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0777",
     "name": "R2-A3",
     "limited": 1,
     "xws": "r2a3-battleoverendor",
@@ -1332,6 +1375,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0778",
     "name": "Stabilizing Astromech",
     "limited": 1,
     "xws": "stabilizingastromech-battleoverendor",
@@ -1356,6 +1400,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0779",
     "name": "Modified R4-P Unit",
     "limited": 1,
     "xws": "modifiedr4punit-battleoverendor",
@@ -1380,6 +1425,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0780",
     "name": "BB-8",
     "limited": 1,
     "xws": "bb8-evacuationofdqar",
@@ -1404,6 +1450,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0781",
     "name": "R0 Astromech",
     "limited": 0,
     "xws": "r0astromech-evacuationofdqar",
@@ -1424,6 +1471,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0782",
     "name": "R5-X3",
     "limited": 0,
     "xws": "r5x3-evacuationofdqar",
@@ -1448,6 +1496,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0783",
     "name": "Black Squadron R4",
     "limited": 0,
     "xws": "blacksquadronr4-evacuationofdqar",

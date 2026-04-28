@@ -67,6 +67,7 @@
   ],
   "pilots": [
     {
+      "uid": "PSA0689",
       "name": "DGS-047",
       "xws": "dgs047",
       "caption": "Adaptive Intelligence",
@@ -99,6 +100,7 @@
       "id": 409
     },
     {
+      "uid": "PSA0690",
       "name": "Baktoid Drone",
       "xws": "baktoiddrone",
       "initiative": 1,
@@ -129,6 +131,7 @@
       "id": 405
     },
     {
+      "uid": "PSA0691",
       "name": "Geonosian Prototype",
       "xws": "geonosianprototype",
       "caption": "Devastation Protocols",
@@ -160,6 +163,7 @@
       "id": 408
     },
     {
+      "uid": "PSA0692",
       "name": "DGS-286",
       "xws": "dgs286",
       "caption": "Ambush Protocols",
@@ -193,6 +197,7 @@
       "id": 410
     },
     {
+      "uid": "PSA0693",
       "name": "Onderon Oppressor",
       "xws": "onderonoppressor",
       "caption": "Atmospheric Attack Module",
@@ -224,6 +229,7 @@
       "id": 411
     },
     {
+      "uid": "PSA0694",
       "name": "Separatist Predator",
       "initiative": 3,
       "limited": 0,

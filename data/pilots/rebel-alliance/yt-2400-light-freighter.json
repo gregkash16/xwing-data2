@@ -65,6 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_YT-2400.png",
   "pilots": [
     {
+      "uid": "PRB0430",
       "name": "“Leebo”",
       "caption": "Dry-Witted Droid",
       "initiative": 3,
@@ -136,6 +137,7 @@
       "id": 40
     },
     {
+      "uid": "PRB0431",
       "name": "Dash Rendar",
       "caption": "Hotshot Mercenary",
       "initiative": 5,
@@ -188,6 +190,7 @@
       "id": 39
     },
     {
+      "uid": "PRB0432",
       "name": "Wild Space Fringer",
       "initiative": 1,
       "limited": 0,
@@ -218,6 +221,7 @@
       "id": 41
     },
     {
+      "uid": "PRB0433",
       "name": "“Leebo”",
       "caption": "Wisdom of Ages",
       "initiative": 3,
@@ -275,6 +279,7 @@
       "id": 651
     },
     {
+      "uid": "PRB0434",
       "name": "Dash Rendar",
       "caption": "Freighter for Hire",
       "initiative": 5,
@@ -309,6 +314,7 @@
       "id": 648
     },
     {
+      "uid": "PRB0435",
       "name": "“Leebo”",
       "caption": "He Thinks He's Funny",
       "initiative": 3,
@@ -362,6 +368,7 @@
       "id": 652
     },
     {
+      "uid": "PRB0436",
       "name": "Dash Rendar",
       "caption": "In it for Himself",
       "initiative": 5,

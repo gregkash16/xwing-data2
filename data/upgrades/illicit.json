@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN1095",
     "name": "Cloaking Device",
     "limited": 1,
     "xws": "cloakingdevice",
@@ -36,6 +37,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1096",
     "name": "Contraband Cybernetics",
     "limited": 0,
     "xws": "contrabandcybernetics",
@@ -64,6 +66,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1097",
     "name": "Deadman's Switch",
     "limited": 0,
     "xws": "deadmansswitch",
@@ -88,6 +91,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1098",
     "name": "Feedback Array",
     "limited": 0,
     "xws": "feedbackarray",
@@ -112,6 +116,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1099",
     "name": "Inertial Dampeners",
     "limited": 0,
     "xws": "inertialdampeners",
@@ -136,6 +141,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1100",
     "name": "Rigged Cargo Chute",
     "limited": 0,
     "xws": "riggedcargochute",
@@ -177,6 +183,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1101",
     "name": "Coaxium Hyperfuel",
     "limited": 0,
     "xws": "coaxiumhyperfuel",
@@ -208,6 +215,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1102",
     "name": "Quick-Release Locks",
     "limited": 1,
     "xws": "quickreleaselocks",
@@ -243,6 +251,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1103",
     "name": "Saboteur's Map",
     "limited": 1,
     "xws": "saboteursmap",
@@ -274,6 +283,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1104",
     "name": "Scanner Baffler",
     "limited": 1,
     "xws": "scannerbaffler",
@@ -305,6 +315,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1105",
     "name": "False Transponder Codes",
     "limited": 0,
     "xws": "falsetranspondercodes",
@@ -333,6 +344,7 @@
     "restricted": 3
   },
   {
+    "uid": "URE1106",
     "name": "Babu Frik",
     "limited": 1,
     "xws": "babufrik",
@@ -369,6 +381,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1107",
     "name": "Overtuned Modulators",
     "limited": 0,
     "xws": "overtunedmodulators",
@@ -397,6 +410,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1108",
     "name": "Tracking Fob",
     "limited": 3,
     "xws": "trackingfob",
@@ -431,6 +445,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1109",
     "name": "Hotshot Tail Blaster",
     "limited": 0,
     "xws": "hotshottailblaster",
@@ -474,6 +489,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1110",
     "name": "Feedback Emitter",
     "limited": 0,
     "xws": "feedbackemitter-battleoverendor",
@@ -498,6 +514,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1111",
     "name": "Kineso-Switch",
     "limited": 0,
     "xws": "kinesoswitch-armedanddangerous",

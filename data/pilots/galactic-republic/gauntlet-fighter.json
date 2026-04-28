@@ -67,6 +67,7 @@
   ],
   "pilots": [
     {
+      "uid": "PGR0267",
       "xws": "bokatankryze",
       "name": "Bo-Katan Kryze",
       "image": "https://infinitearenas.com/xw2/images/pilots/bokatankryze-galactic-republic.png",
@@ -98,6 +99,7 @@
       "id": 510
     },
     {
+      "uid": "PGR0268",
       "xws": "niteowlliberator",
       "name": "Nite Owl Liberator",
       "image": "https://infinitearenas.com/xw2/images/pilots/niteowlliberator.png",
@@ -126,6 +128,7 @@
       "id": 511
     },
     {
+      "uid": "PGR0269",
       "xws": "ursawren-legendsandrelics",
       "name": "Ursa Wren",
       "image": "https://infinitearenas.com/xw2xwa/images/pilots/ursawren-legendsandrelics.png",

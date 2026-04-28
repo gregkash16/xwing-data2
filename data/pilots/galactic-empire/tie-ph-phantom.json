@@ -65,6 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEPhantom.png",
   "pilots": [
     {
+      "uid": "PEM0168",
       "name": "“Echo”",
       "caption": "Slippery Trickster",
       "initiative": 4,
@@ -96,6 +97,7 @@
       "id": 200
     },
     {
+      "uid": "PEM0169",
       "name": "“Whisper”",
       "caption": "Soft-Spoken Slayer",
       "initiative": 5,
@@ -127,6 +129,7 @@
       "id": 199
     },
     {
+      "uid": "PEM0170",
       "name": "Imdaar Test Pilot",
       "initiative": 3,
       "limited": 0,
@@ -156,6 +159,7 @@
       "id": 202
     },
     {
+      "uid": "PEM0171",
       "name": "Sigma Squadron Ace",
       "initiative": 4,
       "limited": 0,
@@ -186,6 +190,7 @@
       "id": 201
     },
     {
+      "uid": "PEM0172",
       "name": "“Whisper”",
       "caption": "Unseen Assailant",
       "initiative": 5,
@@ -217,6 +222,7 @@
       "id": 677
     },
     {
+      "uid": "PEM0173",
       "name": "“Echo”",
       "caption": "Copycat",
       "initiative": 4,

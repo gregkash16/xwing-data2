@@ -60,6 +60,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_Kihraxz.png",
   "pilots": [
     {
+      "uid": "PSV0593",
       "name": "Black Sun Ace",
       "initiative": 3,
       "limited": 0,
@@ -84,6 +85,7 @@
       "id": 123
     },
     {
+      "uid": "PSV0594",
       "name": "Captain Jostero",
       "caption": "Aggressive Opportunist",
       "initiative": 3,
@@ -108,6 +110,7 @@
       "id": 122
     },
     {
+      "uid": "PSV0595",
       "name": "Cartel Marauder",
       "initiative": 2,
       "limited": 0,
@@ -131,6 +134,7 @@
       "id": 124
     },
     {
+      "uid": "PSV0596",
       "name": "Graz",
       "caption": "The Hunter",
       "initiative": 4,
@@ -159,6 +163,7 @@
       "id": 120
     },
     {
+      "uid": "PSV0597",
       "name": "Talonbane Cobra",
       "caption": "Scourge of Tansarii Point",
       "initiative": 5,
@@ -184,6 +189,7 @@
       "id": 119
     },
     {
+      "uid": "PSV0598",
       "name": "Viktor Hel",
       "caption": "Storied Bounty Hunter",
       "initiative": 4,

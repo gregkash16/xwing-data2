@@ -64,6 +64,7 @@
   ],
   "pilots": [
     {
+      "uid": "PGR0276",
       "name": "Anakin Skywalker",
       "initiative": 4,
       "limited": 1,
@@ -104,6 +105,7 @@
       "id": 322
     },
     {
+      "uid": "PGR0277",
       "name": "Ric Olié",
       "xws": "ricolie",
       "initiative": 5,
@@ -134,6 +136,7 @@
       "id": 333
     },
     {
+      "uid": "PGR0278",
       "name": "Padmé Amidala",
       "xws": "padmeamidala",
       "initiative": 4,
@@ -163,6 +166,7 @@
       "id": 332
     },
     {
+      "uid": "PGR0279",
       "name": "Dineé Ellberger",
       "xws": "dineeellberger",
       "caption": "Bravo Five",
@@ -192,6 +196,7 @@
       "id": 331
     },
     {
+      "uid": "PGR0280",
       "name": "Bravo Flight Officer",
       "xws": "bravoflightofficer",
       "initiative": 2,
@@ -220,6 +225,7 @@
       "id": 323
     },
     {
+      "uid": "PGR0281",
       "name": "Naboo Handmaiden",
       "xws": "naboohandmaiden",
       "caption": "Regal Ruse",
@@ -252,6 +258,7 @@
       "id": 330
     },
     {
+      "uid": "PGR0282",
       "name": "Gavyn Sykes",
       "xws": "gavynsykes",
       "caption": "Bravo Three",

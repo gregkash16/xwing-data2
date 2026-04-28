@@ -69,6 +69,7 @@
   ],
   "pilots": [
     {
+      "uid": "PGR0270",
       "name": "Wez Synat",
       "caption": "Spectre of Nayr",
       "initiative": 7,

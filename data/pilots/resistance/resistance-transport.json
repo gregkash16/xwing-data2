@@ -64,6 +64,7 @@
   ],
   "pilots": [
     {
+      "uid": "PRE0481",
       "name": "Cova Nell",
       "xws": "covanell",
       "initiative": 4,
@@ -92,6 +93,7 @@
       "id": 351
     },
     {
+      "uid": "PRE0482",
       "name": "Pammich Nerro Goode",
       "xws": "pammichnerrogoode",
       "initiative": 3,
@@ -119,6 +121,7 @@
       "id": 347
     },
     {
+      "uid": "PRE0483",
       "name": "Nodin Chavdri",
       "xws": "nodinchavdri",
       "initiative": 2,
@@ -145,6 +148,7 @@
       "id": 352
     },
     {
+      "uid": "PRE0484",
       "name": "Logistics Division Pilot",
       "xws": "logisticsdivisionpilot",
       "initiative": 1,
@@ -171,6 +175,7 @@
       "id": 346
     },
     {
+      "uid": "PRE0485",
       "name": "Taka Jamoreesa",
       "caption": "Snograth Enthusiast",
       "xws": "takajamoreesa",
@@ -196,6 +201,7 @@
       "id": 608
     },
     {
+      "uid": "PRE0486",
       "name": "Pammich Nerro Goode",
       "xws": "pammichnerrogoode-evacuationofdqar",
       "initiative": 3,

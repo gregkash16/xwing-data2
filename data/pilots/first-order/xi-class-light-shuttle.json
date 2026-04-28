@@ -62,6 +62,7 @@
   ],
   "pilots": [
     {
+      "uid": "PFO0067",
       "name": "Agent Terex",
       "caption": "Devious Provocateur",
       "xws": "agentterex",
@@ -89,6 +90,7 @@
       "id": 402
     },
     {
+      "uid": "PFO0068",
       "name": "Commander Malarus",
       "caption": "Vindictive Taskmaster",
       "xws": "commandermalarus-xiclasslightshuttle",
@@ -114,6 +116,7 @@
       "id": 404
     },
     {
+      "uid": "PFO0069",
       "name": "First Order Courier",
       "xws": "firstordercourier",
       "initiative": 2,
@@ -137,6 +140,7 @@
       "id": 401
     },
     {
+      "uid": "PFO0070",
       "name": "Gideon Hask",
       "caption": "Merciless Hard-Liner",
       "initiative": 4,
@@ -161,6 +165,7 @@
       "id": 403
     },
     {
+      "uid": "PFO0071",
       "name": "Agent Tierny",
       "caption": "Persuasive Recruiter",
       "initiative": 3,

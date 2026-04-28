@@ -67,6 +67,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/resistance/I_StarFortress.png",
   "pilots": [
     {
+      "uid": "PRE0468",
       "name": "Cobalt Squadron Bomber",
       "initiative": 1,
       "limited": 0,
@@ -92,6 +93,7 @@
       "id": 260
     },
     {
+      "uid": "PRE0469",
       "name": "Cat",
       "caption": "Cobalt Wasp",
       "initiative": 1,
@@ -118,6 +120,7 @@
       "id": 291
     },
     {
+      "uid": "PRE0470",
       "name": "Vennie",
       "caption": "Crimson Cutter",
       "initiative": 2,
@@ -145,6 +148,7 @@
       "id": 294
     },
     {
+      "uid": "PRE0471",
       "name": "Ben Teene",
       "caption": "Crimson Bolide",
       "initiative": 3,
@@ -175,6 +179,7 @@
       "id": 292
     },
     {
+      "uid": "PRE0472",
       "name": "Edon Kappehl",
       "caption": "Crimson Hailstorm",
       "initiative": 3,
@@ -203,6 +208,7 @@
       "id": 293
     },
     {
+      "uid": "PRE0473",
       "name": "Finch Dallow",
       "caption": "Cobalt Hammer",
       "initiative": 4,
@@ -231,6 +237,7 @@
       "id": 250
     },
     {
+      "uid": "PRE0474",
       "name": "Paige Tico",
       "xws": "paigetico",
       "initiative": 5,
@@ -264,6 +271,7 @@
       "id": 389
     },
     {
+      "uid": "PRE0475",
       "name": "Finch Dallow",
       "caption": "Evacuation of D'Qar",
       "initiative": 4,
@@ -314,6 +322,7 @@
       "id": 710
     },
     {
+      "uid": "PRE0476",
       "name": "Vennie",
       "caption": "Evacuation of D'Qar",
       "initiative": 2,

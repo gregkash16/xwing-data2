@@ -57,6 +57,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_U-wing.png",
   "pilots": [
     {
+      "uid": "PRB0415",
       "name": "Benthic Two Tubes",
       "caption": "Cavern Angels Marksman",
       "initiative": 2,
@@ -86,6 +87,7 @@
       "id": 36
     },
     {
+      "uid": "PRB0416",
       "name": "Blue Squadron Scout",
       "initiative": 2,
       "limited": 0,
@@ -110,6 +112,7 @@
       "id": 37
     },
     {
+      "uid": "PRB0417",
       "name": "Bodhi Rook",
       "caption": "Imperial Defector",
       "initiative": 4,
@@ -134,6 +137,7 @@
       "id": 31
     },
     {
+      "uid": "PRB0418",
       "name": "Cassian Andor",
       "caption": "Raised by the Rebellion",
       "initiative": 3,
@@ -159,6 +163,7 @@
       "id": 32
     },
     {
+      "uid": "PRB0419",
       "name": "Heff Tobber",
       "caption": "Blue Eight",
       "initiative": 2,
@@ -184,6 +189,7 @@
       "id": 33
     },
     {
+      "uid": "PRB0420",
       "name": "Magva Yarro",
       "caption": "Cavern Angels Spotter",
       "initiative": 3,
@@ -213,6 +219,7 @@
       "id": 34
     },
     {
+      "uid": "PRB0421",
       "name": "Partisan Renegade",
       "initiative": 1,
       "limited": 0,
@@ -240,6 +247,7 @@
       "id": 38
     },
     {
+      "uid": "PRB0422",
       "name": "Saw Gerrera",
       "caption": "Obsessive Outlaw",
       "initiative": 4,
@@ -269,6 +277,7 @@
       "id": 35
     },
     {
+      "uid": "PRB0423",
       "name": "K-2SO",
       "caption": "Cassian Said I Had To",
       "initiative": 3,

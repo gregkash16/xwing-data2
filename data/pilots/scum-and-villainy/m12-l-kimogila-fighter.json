@@ -64,6 +64,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_Kimogila.png",
   "pilots": [
     {
+      "uid": "PSV0603",
       "name": "Cartel Executioner",
       "initiative": 3,
       "limited": 0,
@@ -91,6 +92,7 @@
       "id": 131
     },
     {
+      "uid": "PSV0604",
       "name": "Dalan Oberos",
       "caption": "Returned from the Grave",
       "initiative": 3,
@@ -127,6 +129,7 @@
       "id": 130
     },
     {
+      "uid": "PSV0605",
       "name": "Torani Kulda",
       "caption": "Rodian Freelancer",
       "initiative": 4,

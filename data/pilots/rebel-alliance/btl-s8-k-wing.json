@@ -63,6 +63,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_K-wing.png",
   "pilots": [
     {
+      "uid": "PRB0336",
       "name": "Esege Tuketu",
       "caption": "Selfless Hero",
       "initiative": 3,
@@ -90,6 +91,7 @@
       "id": 18
     },
     {
+      "uid": "PRB0337",
       "name": "Miranda Doni",
       "caption": "Heavy Hitter",
       "initiative": 4,
@@ -118,6 +120,7 @@
       "id": 17
     },
     {
+      "uid": "PRB0338",
       "name": "Warden Squadron Pilot",
       "initiative": 2,
       "limited": 0,

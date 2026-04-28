@@ -62,6 +62,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/resistance/I_Fireball.png",
   "pilots": [
     {
+      "uid": "PRE0462",
       "name": "Colossus Station Mechanic",
       "initiative": 2,
       "limited": 0,
@@ -88,6 +89,7 @@
       "id": 380
     },
     {
+      "uid": "PRE0463",
       "name": "Jarek Yeager",
       "xws": "jarekyeager",
       "initiative": 5,
@@ -118,6 +120,7 @@
       "id": 377
     },
     {
+      "uid": "PRE0464",
       "name": "Kazuda Xiono",
       "xws": "kazudaxiono",
       "initiative": 4,
@@ -148,6 +151,7 @@
       "id": 378
     },
     {
+      "uid": "PRE0465",
       "name": "R1-J5",
       "xws": "r1j5",
       "initiative": 1,

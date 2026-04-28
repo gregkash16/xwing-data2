@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN1006",
     "name": "Bomblet Generator",
     "limited": 0,
     "xws": "bombletgenerator",
@@ -34,6 +35,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1007",
     "name": "Blazer Bomb",
     "limited": 0,
     "xws": "blazerbomb",
@@ -67,6 +69,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1008",
     "name": "Conner Nets",
     "limited": 0,
     "xws": "connernets",
@@ -100,6 +103,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1009",
     "name": "Proton Bombs",
     "limited": 0,
     "xws": "protonbombs",
@@ -133,6 +137,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1010",
     "name": "Proximity Mines",
     "limited": 0,
     "xws": "proximitymines",
@@ -166,6 +171,7 @@
     "restricted": 3
   },
   {
+    "uid": "UGN1011",
     "name": "Seismic Charges",
     "limited": 0,
     "xws": "seismiccharges",
@@ -199,6 +205,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA1012",
     "name": "DRK-1 Probe Droids",
     "limited": 1,
     "xws": "drk1probedroids",
@@ -251,6 +258,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1013",
     "name": "Electro-Proton Bomb",
     "limited": 1,
     "xws": "electroprotonbomb",
@@ -293,6 +301,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1014",
     "name": "Cluster Mines",
     "limited": 0,
     "xws": "clustermines",
@@ -326,6 +335,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1015",
     "name": "Ion Bombs",
     "limited": 0,
     "xws": "ionbombs",
@@ -359,6 +369,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1016",
     "sides": [
       {
         "title": "Concussion Bombs",
@@ -392,6 +403,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1017",
     "name": "Thermal Detonators",
     "limited": 0,
     "xws": "thermaldetonators",

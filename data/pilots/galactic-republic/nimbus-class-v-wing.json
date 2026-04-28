@@ -69,6 +69,7 @@
   ],
   "pilots": [
     {
+      "uid": "PGR0283",
       "name": "Wilhuff Tarkin",
       "caption": "Aspiring Admiral",
       "initiative": 3,
@@ -95,6 +96,7 @@
       "id": 432
     },
     {
+      "uid": "PGR0284",
       "name": "“Odd Ball”",
       "xws": "oddball-nimbusclassvwing",
       "initiative": 5,
@@ -125,6 +127,7 @@
       "id": 435
     },
     {
+      "uid": "PGR0285",
       "name": "“Contrail”",
       "xws": "contrail",
       "initiative": 5,
@@ -155,6 +158,7 @@
       "id": 434
     },
     {
+      "uid": "PGR0286",
       "name": "“Klick”",
       "xws": "klick",
       "initiative": 4,
@@ -189,6 +193,7 @@
       "id": 433
     },
     {
+      "uid": "PGR0287",
       "name": "Shadow Squadron Escort",
       "xws": "shadowsquadronescort",
       "initiative": 3,
@@ -218,6 +223,7 @@
       "id": 431
     },
     {
+      "uid": "PGR0288",
       "name": "Loyalist Volunteer",
       "xws": "loyalistvolunteer",
       "initiative": 2,
@@ -243,6 +249,7 @@
       "id": 430
     },
     {
+      "uid": "PGR0289",
       "name": "“Klick”",
       "caption": "Siege of Coruscant",
       "initiative": 4,
@@ -296,6 +303,7 @@
       "id": 581
     },
     {
+      "uid": "PGR0290",
       "name": "“Contrail”",
       "caption": "Siege of Coruscant",
       "initiative": 5,

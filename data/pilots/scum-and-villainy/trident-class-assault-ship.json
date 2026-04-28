@@ -72,6 +72,7 @@
   ],
   "pilots": [
     {
+      "uid": "PSV0647",
       "name": "Lawless Pirates",
       "initiative": 8,
       "cost": 26,
@@ -105,6 +106,7 @@
       "id": 476
     },
     {
+      "uid": "PSV0648",
       "name": "Sorc Tormo",
       "caption": "Nautolan's Revenge",
       "initiative": 8,

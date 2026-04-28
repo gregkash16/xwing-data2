@@ -75,12 +75,13 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_HWK-290.png",
   "pilots": [
     {
+      "uid": "PRB0354",
       "name": "Jan Ors",
       "caption": "Espionage Expert",
       "initiative": 5,
       "limited": 1,
       "cost": 14,
-      "loadout": 15,
+      "loadout": 10,
       "xws": "janors",
       "ability": "While a friendly ship in your firing arc performs a primary attack, if you are not stressed, you may gain 1 stress token. If you do, that ship may roll 1 additional attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/janors.png",
@@ -102,6 +103,7 @@
       "id": 46
     },
     {
+      "uid": "PRB0355",
       "name": "Kyle Katarn",
       "caption": "Relentless Operative",
       "initiative": 3,
@@ -129,6 +131,7 @@
       "id": 48
     },
     {
+      "uid": "PRB0356",
       "name": "Rebel Scout",
       "initiative": 2,
       "limited": 0,
@@ -154,6 +157,7 @@
       "id": 49
     },
     {
+      "uid": "PRB0357",
       "name": "Roark Garnet",
       "caption": "Good-Hearted Smuggler",
       "initiative": 4,

@@ -61,6 +61,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/separatist-alliance/I_VultureDroid.png",
   "pilots": [
     {
+      "uid": "PSA0724",
       "name": "Trade Federation Drone",
       "initiative": 1,
       "limited": 0,
@@ -89,6 +90,7 @@
       "id": 279
     },
     {
+      "uid": "PSA0725",
       "name": "Precise Hunter",
       "caption": "Pinpoint Protocols",
       "limited": 3,
@@ -118,6 +120,7 @@
       "id": 309
     },
     {
+      "uid": "PSA0726",
       "name": "Haor Chall Prototype",
       "caption": "Xi Char Offering",
       "limited": 2,
@@ -147,6 +150,7 @@
       "id": 310
     },
     {
+      "uid": "PSA0727",
       "name": "DFS-081",
       "xws": "dfs081",
       "initiative": 3,
@@ -176,6 +180,7 @@
       "id": 311
     },
     {
+      "uid": "PSA0728",
       "name": "Separatist Drone",
       "initiative": 3,
       "limited": 0,
@@ -204,6 +209,7 @@
       "id": 343
     },
     {
+      "uid": "PSA0729",
       "name": "DFS-311",
       "xws": "dfs311",
       "initiative": 1,
@@ -233,6 +239,7 @@
       "id": 337
     },
     {
+      "uid": "PSA0730",
       "name": "DFS-081",
       "caption": "Siege of Coruscant",
       "initiative": 3,
@@ -267,6 +274,7 @@
       "id": 591
     },
     {
+      "uid": "PSA0731",
       "name": "DFS-311",
       "caption": "Siege of Coruscant",
       "initiative": 1,
@@ -297,6 +305,7 @@
       "id": 592
     },
     {
+      "uid": "PSA0732",
       "name": "Haor Chall Prototype",
       "caption": "Siege of Coruscant",
       "initiative": 1,
@@ -327,6 +336,7 @@
       "id": 593
     },
     {
+      "uid": "PSA0733",
       "name": "The Iron Assembler",
       "xws": "theironassembler",
       "initiative": 1,
@@ -361,6 +371,7 @@
       "id": 617
     },
     {
+      "uid": "PSA0734",
       "name": "Kelrodo-Ai Holdout",
       "xws": "kelrodoaiholdout",
       "initiative": 1,

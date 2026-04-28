@@ -73,6 +73,7 @@
   ],
   "pilots": [
     {
+      "uid": "PSA0669",
       "name": "DIS-T81",
       "initiative": 4,
       "limited": 1,
@@ -106,6 +107,7 @@
       "id": 422
     },
     {
+      "uid": "PSA0670",
       "name": "Phlac-Arphocc Prototype",
       "xws": "phlacarphoccprototype",
       "initiative": 5,
@@ -139,6 +141,7 @@
       "id": 423
     },
     {
+      "uid": "PSA0671",
       "name": "Fearsome Predator",
       "xws": "fearsomepredator",
       "initiative": 3,
@@ -175,6 +178,7 @@
       "id": 420
     },
     {
+      "uid": "PSA0672",
       "name": "DIS-347",
       "xws": "dis347",
       "initiative": 3,
@@ -208,6 +212,7 @@
       "id": 421
     },
     {
+      "uid": "PSA0673",
       "name": "Separatist Interceptor",
       "xws": "separatistinterceptor",
       "initiative": 3,
@@ -240,6 +245,7 @@
       "id": 425
     },
     {
+      "uid": "PSA0674",
       "name": "Colicoid Interceptor",
       "xws": "colicoidinterceptor",
       "initiative": 1,
@@ -271,6 +277,7 @@
       "id": 424
     },
     {
+      "uid": "PSA0675",
       "name": "DIS-347",
       "caption": "Siege of Coruscant",
       "initiative": 3,
@@ -301,6 +308,7 @@
       "id": 588
     },
     {
+      "uid": "PSA0676",
       "name": "DIS-T81",
       "caption": "Siege of Coruscant",
       "initiative": 4,
@@ -331,6 +339,7 @@
       "id": 589
     },
     {
+      "uid": "PSA0677",
       "name": "Phlac-Arphocc Prototype",
       "caption": "Siege of Coruscant",
       "initiative": 5,
@@ -361,6 +370,7 @@
       "id": 590
     },
     {
+      "uid": "PSA0678",
       "name": "Volan Das",
       "xws": "volandas",
       "initiative": 5,
@@ -424,6 +434,7 @@
       "id": 614
     },
     {
+      "uid": "PSA0679",
       "name": "DIS-L9B2",
       "initiative": 6,
       "limited": 1,

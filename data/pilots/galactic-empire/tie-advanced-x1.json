@@ -66,6 +66,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEAdvanced.png",
   "pilots": [
     {
+      "uid": "PEM0094",
       "name": "Darth Vader",
       "caption": "Black Leader",
       "initiative": 6,
@@ -106,6 +107,7 @@
       "id": 173
     },
     {
+      "uid": "PEM0095",
       "name": "Maarek Stele",
       "caption": "Servant of the Empire",
       "initiative": 5,
@@ -137,6 +139,7 @@
       "id": 174
     },
     {
+      "uid": "PEM0096",
       "name": "Storm Squadron Ace",
       "initiative": 3,
       "limited": 0,
@@ -166,6 +169,7 @@
       "id": 177
     },
     {
+      "uid": "PEM0097",
       "name": "Tempest Squadron Pilot",
       "initiative": 2,
       "limited": 0,
@@ -194,6 +198,7 @@
       "id": 178
     },
     {
+      "uid": "PEM0098",
       "name": "Ved Foslo",
       "caption": "Ambitious Engineer",
       "initiative": 4,
@@ -224,6 +229,7 @@
       "id": 175
     },
     {
+      "uid": "PEM0099",
       "name": "Zertik Strom",
       "caption": "Pitiless Administrator",
       "initiative": 3,
@@ -253,6 +259,7 @@
       "id": 176
     },
     {
+      "uid": "PEM0100",
       "name": "Darth Vader",
       "caption": "Battle of Yavin",
       "initiative": 6,
@@ -311,6 +318,7 @@
       "id": 564
     },
     {
+      "uid": "PEM0101",
       "name": "Juno Eclipse",
       "caption": "Corulag's Finest",
       "initiative": 5,
@@ -342,6 +350,7 @@
       "id": 600
     },
     {
+      "uid": "PEM0102",
       "name": "Darth Vader",
       "caption": "Black Leader",
       "initiative": 6,
@@ -400,6 +409,7 @@
       "id": 630
     },
     {
+      "uid": "PEM0103",
       "name": "Maarek Stele",
       "caption": "Servant of the Empire",
       "initiative": 5,

@@ -64,6 +64,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEBomber.png",
   "pilots": [
     {
+      "uid": "PEM0183",
       "name": "“Deathfire”",
       "caption": "Unflinching Diehard",
       "initiative": 2,
@@ -95,6 +96,7 @@
       "id": 206
     },
     {
+      "uid": "PEM0184",
       "name": "Captain Jonus",
       "caption": "Disciplined Instructor",
       "initiative": 4,
@@ -127,6 +129,7 @@
       "id": 203
     },
     {
+      "uid": "PEM0185",
       "name": "Gamma Squadron Ace",
       "initiative": 3,
       "limited": 0,
@@ -158,6 +161,7 @@
       "id": 207
     },
     {
+      "uid": "PEM0186",
       "name": "Major Rhymer",
       "caption": "Scimitar Leader",
       "initiative": 4,
@@ -190,6 +194,7 @@
       "id": 204
     },
     {
+      "uid": "PEM0187",
       "name": "Scimitar Squadron Pilot",
       "initiative": 2,
       "limited": 0,
@@ -220,6 +225,7 @@
       "id": 208
     },
     {
+      "uid": "PEM0188",
       "name": "Tomax Bren",
       "caption": "Brash Maverick",
       "initiative": 5,
@@ -252,6 +258,7 @@
       "id": 205
     },
     {
+      "uid": "PEM0189",
       "name": "Captain Jonus",
       "caption": "Disciplined Instructor",
       "initiative": 4,
@@ -282,6 +289,7 @@
       "id": 632
     },
     {
+      "uid": "PEM0190",
       "name": "Tomax Bren",
       "caption": "Brash Maverick",
       "initiative": 5,
@@ -312,6 +320,7 @@
       "id": 633
     },
     {
+      "uid": "PEM0191",
       "name": "“Deathfire”",
       "caption": "Obstinate Bombardier",
       "initiative": 2,
@@ -346,6 +355,7 @@
       "id": 644
     },
     {
+      "uid": "PEM0192",
       "name": "Captain Jonus",
       "caption": "Top Cover",
       "initiative": 4,
@@ -376,6 +386,7 @@
       "id": 646
     },
     {
+      "uid": "PEM0193",
       "name": "Tomax Bren",
       "caption": "Scimitar Veteran",
       "initiative": 5,
@@ -410,6 +421,7 @@
       "id": 647
     },
     {
+      "uid": "PEM0194",
       "name": "Major Rhymer",
       "caption": "Precision Destruction",
       "initiative": 4,
@@ -440,6 +452,7 @@
       "id": 645
     },
     {
+      "uid": "PEM0195",
       "name": "Scimitar 1",
       "caption": "Battle Over Endor",
       "initiative": 3,
@@ -475,6 +488,7 @@
       "id": 672
     },
     {
+      "uid": "PEM0196",
       "name": "Scimitar 3",
       "caption": "Battle Over Endor",
       "initiative": 4,

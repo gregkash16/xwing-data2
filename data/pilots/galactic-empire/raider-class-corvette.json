@@ -72,6 +72,7 @@
   ],
   "pilots": [
     {
+      "uid": "PEM0087",
       "name": "Outer Rim Patrol",
       "initiative": 8,
       "cost": 39,
@@ -106,6 +107,7 @@
       "id": 369
     },
     {
+      "uid": "PEM0088",
       "name": "Iden Versio",
       "initiative": 8,
       "engagement": 0,

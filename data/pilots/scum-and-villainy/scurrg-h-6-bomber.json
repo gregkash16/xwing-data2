@@ -60,6 +60,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_Scurrg.png",
   "pilots": [
     {
+      "uid": "PSV0633",
       "name": "Captain Nym",
       "caption": "Captain of the Lok Revenants",
       "initiative": 5,
@@ -91,6 +92,7 @@
       "id": 144
     },
     {
+      "uid": "PSV0634",
       "name": "Lok Revenant",
       "initiative": 2,
       "limited": 0,
@@ -115,6 +117,7 @@
       "id": 146
     },
     {
+      "uid": "PSV0635",
       "name": "Sol Sixxa",
       "caption": "Cunning Commander",
       "initiative": 3,

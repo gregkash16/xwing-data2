@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN1129",
     "name": "Ablative Plating",
     "limited": 0,
     "xws": "ablativeplating",
@@ -36,6 +37,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1130",
     "name": "Advanced SLAM",
     "limited": 0,
     "xws": "advancedslam",
@@ -67,6 +69,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1131",
     "name": "Retrofitted Autothrusters",
     "limited": 0,
     "xws": "retrofittedautothrusters-legendsandrelics",
@@ -102,6 +105,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1132",
     "name": "Afterburners",
     "limited": 0,
     "xws": "afterburners",
@@ -137,6 +141,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1133",
     "name": "Electronic Baffle",
     "limited": 0,
     "xws": "electronicbaffle",
@@ -161,6 +166,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1134",
     "name": "Engine Upgrade",
     "limited": 0,
     "xws": "engineupgrade",
@@ -208,6 +214,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1135",
     "name": "Hull Upgrade",
     "limited": 0,
     "xws": "hullupgrade",
@@ -239,6 +246,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1136",
     "name": "Munitions Failsafe",
     "limited": 0,
     "xws": "munitionsfailsafe",
@@ -263,6 +271,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1137",
     "name": "Shield Upgrade",
     "limited": 0,
     "xws": "shieldupgrade",
@@ -294,6 +303,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1138",
     "name": "Static Discharge Vanes",
     "limited": 0,
     "xws": "staticdischargevanes",
@@ -318,6 +328,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1139",
     "name": "Stealth Device",
     "limited": 0,
     "xws": "stealthdevice",
@@ -346,6 +357,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1140",
     "name": "Tactical Scrambler",
     "limited": 0,
     "xws": "tacticalscrambler",
@@ -378,6 +390,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1141",
     "name": "Impervium Plating",
     "limited": 0,
     "xws": "imperviumplating",
@@ -413,6 +426,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR1142",
     "name": "Synchronized Console",
     "xws": "synchronizedconsole",
     "limited": 0,
@@ -450,6 +464,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1143",
     "name": "Spare Parts Canisters",
     "limited": 0,
     "xws": "sparepartscanisters",
@@ -485,6 +500,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1144",
     "name": "Delayed Fuses",
     "limited": 0,
     "xws": "delayedfuses",
@@ -509,6 +525,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1145",
     "name": "Angled Deflectors",
     "limited": 0,
     "xws": "angleddeflectors",
@@ -560,6 +577,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1146",
     "name": "Targeting Computer",
     "limited": 0,
     "sides": [
@@ -593,6 +611,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1147",
     "name": "Independent Calculations",
     "limited": 0,
     "xws": "independentcalculations",
@@ -627,6 +646,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1148",
     "name": "Overdrive Thruster",
     "limited": 1,
     "xws": "overdrivethruster",
@@ -658,6 +678,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1149",
     "name": "Precision Ion Engines",
     "limited": 0,
     "xws": "precisionionengines",
@@ -686,6 +707,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1150",
     "name": "Mandalorian Optics",
     "limited": 0,
     "xws": "mandalorianoptics",
@@ -721,6 +743,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1151",
     "name": "Drop-Seat bay",
     "limited": 0,
     "xws": "dropseatbay",
@@ -764,6 +787,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1152",
     "name": "Beskar Reinforced Plating",
     "limited": 0,
     "xws": "beskarreinforcedplating",
@@ -799,6 +823,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1153",
     "name": "Burnout Thrusters",
     "limited": 0,
     "xws": "burnoutthrusters",
@@ -849,6 +874,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1154",
     "name": "Unstable Sublight Engines",
     "limited": 0,
     "xws": "unstablesublightengines-battleofyavin",
@@ -869,6 +895,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1155",
     "name": "Sensor Jammer",
     "limited": 0,
     "xws": "sensorjammer-battleofyavin",
@@ -889,6 +916,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1156",
     "name": "Contingency Protocol",
     "limited": 0,
     "xws": "contingencyprotocol-siegeofcoruscant",
@@ -909,6 +937,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1157",
     "name": "Evasion Sequence 7",
     "limited": 0,
     "xws": "evasionsequence7-siegeofcoruscant",
@@ -929,6 +958,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1158",
     "name": "Automated Loaders",
     "limited": 0,
     "xws": "automatedloaders-swz98",
@@ -953,6 +983,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1159",
     "name": "Automated Loaders",
     "limited": 0,
     "xws": "automatedloaders-legendsandrelics",
@@ -978,9 +1009,9 @@
           }
         ],
         "cost": {
-          "value": 1  
+          "value": 1
+        }
       }
-    }
     ],
     "standard": true,
     "extended": true,
@@ -988,6 +1019,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1160",
     "name": "Computer-Assisted Handling",
     "limited": 0,
     "xws": "computerassistedhandling-battleoverendor",
@@ -1012,6 +1044,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1161",
     "name": "Targeting Matrix",
     "limited": 0,
     "xws": "targetingmatrix-battleoverendor",
@@ -1032,6 +1065,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1162",
     "name": "Targeting Matrix",
     "limited": 0,
     "xws": "targetingmatrix-legendsandrelics",
@@ -1054,6 +1088,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1163",
     "name": "Chaff Particles",
     "limited": 0,
     "xws": "chaffparticles-battleoverendor",
@@ -1074,6 +1109,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1164",
     "name": "Ion Maneuvering Jet",
     "limited": 0,
     "xws": "ionmaneuveringjet-battleoverendor",
@@ -1098,6 +1134,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1165",
     "name": "Fuel Injection Override",
     "limited": 0,
     "xws": "fuelinjectionoverride-battleoverendor",
@@ -1122,6 +1159,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1166",
     "name": "Target-Assist Algorithm",
     "limited": 0,
     "xws": "targetassistalgorithm-battleoverendor",
@@ -1142,6 +1180,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1167",
     "name": "Stygium Reserve",
     "limited": 0,
     "xws": "stygiumreserve-tiephphantom",
@@ -1166,6 +1205,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1168",
     "name": "Manual Ailerons",
     "limited": 0,
     "xws": "manualailerons-tiephphantom",
@@ -1190,6 +1230,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1169",
     "name": "Advanced Warning Systems",
     "limited": 0,
     "xws": "advancedwarningsystems-evacuationofdqar",
@@ -1210,6 +1251,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1170",
     "name": "Adaptable Power Systems",
     "limited": 0,
     "xws": "adaptablepowersystems-armedanddangerous",
@@ -1234,6 +1276,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1171",
     "name": "Starboard Thrusters",
     "limited": 0,
     "xws": "starboardthrusters-armedanddangerous",
@@ -1258,6 +1301,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1172",
     "name": "Repulsorlift Engines",
     "limited": 0,
     "xws": "repulsorliftengines-evacuationofdqar",

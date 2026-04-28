@@ -68,6 +68,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_Decimator.png",
   "pilots": [
     {
+      "uid": "PEM0203",
       "name": "Captain Oicunn",
       "caption": "Inspired Tactician",
       "initiative": 3,
@@ -96,6 +97,7 @@
       "id": 215
     },
     {
+      "uid": "PEM0204",
       "name": "Patrol Leader",
       "initiative": 2,
       "limited": 0,
@@ -121,6 +123,7 @@
       "id": 216
     },
     {
+      "uid": "PEM0205",
       "name": "Rear Admiral Chiraneau",
       "caption": "Advisor to Admiral Piett",
       "initiative": 5,
@@ -149,6 +152,7 @@
       "id": 214
     },
     {
+      "uid": "PEM0206",
       "name": "Morna Kee",
       "xws": "mornakee",
       "initiative": 4,

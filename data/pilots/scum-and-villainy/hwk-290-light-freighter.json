@@ -75,6 +75,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_HWK-290.png",
   "pilots": [
     {
+      "uid": "PSV0580",
       "name": "Dace Bonearm",
       "caption": "Outer Rim Mercenary",
       "initiative": 4,
@@ -107,6 +108,7 @@
       "id": 113
     },
     {
+      "uid": "PSV0581",
       "name": "Palob Godalhi",
       "caption": "Tethan Resister",
       "initiative": 3,
@@ -135,6 +137,7 @@
       "id": 112
     },
     {
+      "uid": "PSV0582",
       "name": "Spice Runner",
       "initiative": 1,
       "limited": 0,
@@ -160,6 +163,7 @@
       "id": 230
     },
     {
+      "uid": "PSV0583",
       "name": "Torkil Mux",
       "caption": "Mercenary Miner",
       "initiative": 2,
@@ -186,6 +190,7 @@
       "id": 114
     },
     {
+      "uid": "PSV0584",
       "name": "Gamut Key",
       "xws": "gamutkey",
       "initiative": 3,
@@ -217,6 +222,7 @@
       "id": 473
     },
     {
+      "uid": "PSV0585",
       "name": "Kanan Jarrus",
       "xws": "kananjarrus-hwk290lightfreighter",
       "initiative": 3,
@@ -250,6 +256,7 @@
       "id": 457
     },
     {
+      "uid": "PSV0586",
       "name": "Tápusk",
       "xws": "tapusk",
       "initiative": 5,

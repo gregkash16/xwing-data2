@@ -60,6 +60,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_Z-95.png",
   "pilots": [
     {
+      "uid": "PSV0657",
       "name": "Binayre Pirate",
       "initiative": 1,
       "limited": 0,
@@ -81,6 +82,7 @@
       "id": 159
     },
     {
+      "uid": "PSV0658",
       "name": "Black Sun Soldier",
       "initiative": 3,
       "limited": 0,
@@ -103,6 +105,7 @@
       "id": 158
     },
     {
+      "uid": "PSV0659",
       "name": "Kaa’to Leeachos",
       "caption": "Imposing Marauder",
       "initiative": 3,
@@ -129,6 +132,7 @@
       "id": 157
     },
     {
+      "uid": "PSV0660",
       "name": "N’dru Suhlak",
       "caption": "Hunt Saboteur",
       "initiative": 4,
@@ -152,6 +156,7 @@
       "id": 156
     },
     {
+      "uid": "PSV0661",
       "name": "Nashtah Pup",
       "caption": "Contingency Plan",
       "initiative": 0,
@@ -174,6 +179,7 @@
       "id": 160
     },
     {
+      "uid": "PSV0662",
       "name": "Bossk",
       "caption": "Fearsome Hunter",
       "initiative": 4,

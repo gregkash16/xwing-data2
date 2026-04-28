@@ -69,6 +69,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_FangFighter.png",
   "pilots": [
     {
+      "uid": "PRB0345",
       "name": "Fenn Rau",
       "caption": "Mandalorian Protector",
       "initiative": 6,
@@ -100,6 +101,7 @@
       "id": 501
     },
     {
+      "uid": "PRB0346",
       "name": "Bodica Venj",
       "caption": "Wrathful Warrior",
       "initiative": 4,
@@ -131,6 +133,7 @@
       "id": 499
     },
     {
+      "uid": "PRB0347",
       "name": "Dirk Ullodin",
       "caption": "Aspiring Commando",
       "initiative": 3,
@@ -161,6 +164,7 @@
       "id": 500
     },
     {
+      "uid": "PRB0348",
       "name": "Clan Wren Volunteer",
       "caption": "Unlikely Ally",
       "initiative": 3,

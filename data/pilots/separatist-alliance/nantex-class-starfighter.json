@@ -59,6 +59,7 @@
   ],
   "pilots": [
     {
+      "uid": "PSA0704",
       "name": "Stalgasin Hive Guard",
       "initiative": 3,
       "limited": 0,
@@ -85,6 +86,7 @@
       "id": 353
     },
     {
+      "uid": "PSA0705",
       "name": "Sun Fac",
       "initiative": 6,
       "limited": 1,
@@ -114,6 +116,7 @@
       "id": 357
     },
     {
+      "uid": "PSA0706",
       "name": "Berwer Kret",
       "xws": "berwerkret",
       "initiative": 5,
@@ -142,6 +145,7 @@
       "id": 358
     },
     {
+      "uid": "PSA0707",
       "name": "Chertek",
       "xws": "chertek",
       "initiative": 4,
@@ -170,6 +174,7 @@
       "id": 356
     },
     {
+      "uid": "PSA0708",
       "name": "Gorgol",
       "caption": "Handy Engineer",
       "cost": 9,
@@ -197,6 +202,7 @@
       "id": 355
     },
     {
+      "uid": "PSA0709",
       "name": "Petranaki Arena Ace",
       "cost": 10,
       "loadout": 8,

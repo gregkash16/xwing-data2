@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN0830",
     "name": "Integrated S-foils",
     "limited": 0,
     "xws": "integratedsfoils",
@@ -61,6 +62,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0831",
     "name": "Gravitic Well",
     "limited": 0,
     "xws": "graviticwell-legendsandrelics",
@@ -95,6 +97,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0832",
     "name": "Winged Reversal",
     "limited": 0,
     "xws": "wingedreversal-legendsandrelics",
@@ -134,6 +137,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0833",
     "name": "Os-1 Arsenal Loadout",
     "limited": 0,
     "xws": "os1arsenalloadout",
@@ -177,6 +181,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0834",
     "name": "Pivot Wing",
     "limited": 0,
     "xws": "pivotwing",
@@ -218,6 +223,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0835",
     "name": "Swivel Wing",
     "limited": 0,
     "xws": "swivelwing",
@@ -259,6 +265,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0836",
     "name": "Servomotor S-foils",
     "limited": 0,
     "xws": "servomotorsfoils",
@@ -334,6 +341,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0837",
     "name": "Xg-1 Assault Configuration",
     "limited": 0,
     "xws": "xg1assaultconfiguration",
@@ -372,6 +380,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0838",
     "name": "Grappling Struts",
     "limited": 0,
     "xws": "grapplingstruts",
@@ -413,6 +422,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0839",
     "name": "Calibrated Laser Targeting",
     "limited": 0,
     "xws": "calibratedlasertargeting",
@@ -445,6 +455,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0840",
     "name": "Landing Struts",
     "limited": 0,
     "xws": "landingstruts",
@@ -486,6 +497,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0841",
     "name": "Corsair Refit",
     "limited": 2,
     "xws": "corsairrefit",
@@ -549,6 +561,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0842",
     "name": "Stabilized S-foils",
     "limited": 0,
     "xws": "stabilizedsfoils",
@@ -623,6 +636,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0843",
     "sides": [
       {
         "title": "Repulsorlift Stabilizers (Inactive)",
@@ -664,6 +678,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0844",
     "name": "Alpha-3B “Besh”",
     "limited": 0,
     "xws": "alpha3bbesh",
@@ -695,6 +710,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0845",
     "name": "Alpha-3E “Esk”",
     "limited": 0,
     "xws": "alpha3eesk",
@@ -730,6 +746,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0846",
     "name": "Intercept Booster",
     "limited": 0,
     "xws": "interceptbooster",
@@ -788,6 +805,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0847",
     "name": "Maneuver-Assist MGK-300",
     "limited": 0,
     "xws": "maneuverassistmgk300",
@@ -839,6 +857,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0848",
     "name": "Target-Assist MGK-300",
     "limited": 0,
     "xws": "targetassistmgk300",
@@ -890,6 +909,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0849",
     "name": "Sensitive Controls",
     "limited": 0,
     "xws": "sensitivecontrols",
@@ -928,6 +948,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0850",
     "name": "TIE Defender Elite",
     "limited": 0,
     "xws": "tiedefenderelite",
@@ -971,6 +992,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0851",
     "name": "Vectored Cannons (RZ-1)",
     "limited": 0,
     "xws": "vectoredcannonsrz1",
@@ -1022,6 +1044,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0852",
     "name": "Wartime Loadout",
     "limited": 0,
     "xws": "wartimeloadout",
@@ -1082,6 +1105,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0853",
     "name": "Enhanced Jamming Suite",
     "limited": 0,
     "xws": "enhancedjammingsuite",
@@ -1156,6 +1180,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0854",
     "name": "L3-37's Programming",
     "limited": 1,
     "xws": "l337sprogramming-battleofyavin",
@@ -1176,6 +1201,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0855",
     "name": "Strut-Lock Override",
     "limited": 0,
     "xws": "strutlockoverride-siegeofcoruscant",

@@ -67,6 +67,7 @@
   ],
   "pilots": [
     {
+      "uid": "PEM0078",
       "xws": "captainhark",
       "name": "Captain Hark",
       "image": "https://infinitearenas.com/xw2/images/pilots/captainhark.png",
@@ -97,6 +98,7 @@
       "id": 515
     },
     {
+      "uid": "PEM0079",
       "xws": "garsaxon",
       "name": "Gar Saxon",
       "image": "https://infinitearenas.com/xw2/images/pilots/garsaxon.png",
@@ -131,6 +133,7 @@
       "id": 517
     },
     {
+      "uid": "PEM0080",
       "xws": "imperialsupercommando",
       "name": "Imperial Super Commando",
       "image": "https://infinitearenas.com/xw2/images/pilots/imperialsupercommando.png",

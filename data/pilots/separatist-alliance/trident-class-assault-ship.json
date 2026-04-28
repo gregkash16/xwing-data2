@@ -72,6 +72,7 @@
   ],
   "pilots": [
     {
+      "uid": "PSA0722",
       "name": "Colicoid Destroyer",
       "initiative": 8,
       "cost": 25,
@@ -105,6 +106,7 @@
       "id": 475
     },
     {
+      "uid": "PSA0723",
       "name": "Asajj Ventress",
       "caption": "Trident",
       "initiative": 8,

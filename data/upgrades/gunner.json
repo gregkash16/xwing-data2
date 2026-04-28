@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN1035",
     "name": "Agile Gunner",
     "limited": 0,
     "xws": "agilegunner",
@@ -24,6 +25,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1036",
     "name": "BT-1",
     "limited": 1,
     "xws": "bt1",
@@ -58,6 +60,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1037",
     "name": "Bistan",
     "limited": 1,
     "xws": "bistan",
@@ -89,6 +92,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE1038",
     "name": "Wedge Antilles",
     "limited": 1,
     "xws": "wedgeantilles-legendsandrelics",
@@ -120,6 +124,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1039",
     "name": "Bossk",
     "limited": 1,
     "xws": "bossk",
@@ -151,6 +156,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1040",
     "name": "Dengar",
     "limited": 1,
     "xws": "dengar",
@@ -186,6 +192,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1041",
     "name": "Ezra Bridger",
     "limited": 1,
     "xws": "ezrabridger",
@@ -221,6 +228,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1042",
     "name": "Fifth Brother",
     "limited": 1,
     "xws": "fifthbrother",
@@ -256,6 +264,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1043",
     "name": "Greedo",
     "limited": 1,
     "xws": "greedo",
@@ -291,6 +300,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1044",
     "name": "Han Solo",
     "limited": 1,
     "xws": "hansolo-rebel",
@@ -322,6 +332,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1045",
     "name": "Han Solo",
     "limited": 1,
     "xws": "hansolo-gunner",
@@ -353,6 +364,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1046",
     "name": "Hotshot Gunner",
     "limited": 0,
     "xws": "hotshotgunner",
@@ -377,6 +389,7 @@
     "restricted": 2
   },
   {
+    "uid": "URB1047",
     "name": "Luke Skywalker",
     "limited": 1,
     "xws": "lukeskywalker",
@@ -412,6 +425,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1048",
     "name": "Skilled Bombardier",
     "limited": 0,
     "xws": "skilledbombardier",
@@ -436,6 +450,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO1049",
     "name": "Special Forces Gunner",
     "limited": 0,
     "xws": "specialforcesgunner",
@@ -472,6 +487,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1050",
     "name": "Veteran Tail Gunner",
     "limited": 0,
     "xws": "veterantailgunner",
@@ -503,6 +519,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1051",
     "name": "Veteran Turret Gunner",
     "limited": 0,
     "xws": "veteranturretgunner",
@@ -534,6 +551,7 @@
     "restricted": 3
   },
   {
+    "uid": "URE1052",
     "name": "Finn",
     "limited": 1,
     "xws": "finn",
@@ -565,6 +583,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE1053",
     "name": "Paige Tico",
     "limited": 1,
     "xws": "paigetico",
@@ -596,6 +615,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE1054",
     "name": "Rey",
     "limited": 1,
     "xws": "rey-gunner",
@@ -631,6 +651,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR1055",
     "name": "Seventh Fleet Gunner",
     "limited": 0,
     "xws": "seventhfleetgunner",
@@ -666,6 +687,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR1056",
     "name": "Clone Commander Cody",
     "limited": 1,
     "xws": "clonecommandercody",
@@ -697,6 +719,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR1057",
     "name": "Ahsoka Tano",
     "sides": [
       {
@@ -732,6 +755,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR1058",
     "sides": [
       {
         "title": "Clone Captain Rex",
@@ -763,6 +787,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1059",
     "sides": [
       {
         "title": "Suppressive Gunner",
@@ -787,6 +812,7 @@
     "restricted": 2
   },
   {
+    "uid": "USV1060",
     "name": "Boba Fett",
     "limited": 1,
     "xws": "bobafett-gunner",
@@ -819,6 +845,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1061",
     "name": "Weapons Systems Officer",
     "limited": 0,
     "xws": "weaponssystemsofficer",
@@ -843,6 +870,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1062",
     "name": "Sabine Wren",
     "limited": 1,
     "xws": "sabinewren-gunner",
@@ -874,6 +902,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO1063",
     "name": "DT-798",
     "limited": 0,
     "xws": "dt798",
@@ -905,6 +934,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO1064",
     "name": "First Order Ordnance Tech",
     "limited": 0,
     "xws": "firstorderordnancetech",
@@ -949,6 +979,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1065",
     "name": "Gar Saxon",
     "limited": 1,
     "xws": "garsaxon-gunner",
@@ -986,6 +1017,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1066",
     "name": "Tiber Saxon",
     "limited": 1,
     "xws": "tibersaxon",
@@ -1021,6 +1053,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR1067",
     "name": "Ursa Wren",
     "limited": 1,
     "xws": "ursawren-gunner",
@@ -1053,6 +1086,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1068",
     "name": "Migs Mayfeld",
     "limited": 1,
     "xws": "migsmayfeld",
@@ -1085,6 +1119,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1069",
     "name": "Airen Cracken",
     "limited": 1,
     "xws": "airencracken-battleoverendor",
@@ -1105,6 +1140,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1070",
     "name": "First Order Ordnance Tech",
     "limited": 0,
     "xws": "firstorderordnancetech-evacuationofdqar",
@@ -1125,6 +1161,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1071",
     "name": "Fennec Shand",
     "limited": 1,
     "xws": "fennecshand-armedanddangerous",
@@ -1145,6 +1182,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1072",
     "name": "Tobias Beckett",
     "limited": 1,
     "xws": "tobiasbeckett-armedanddangerous",
@@ -1165,6 +1203,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1073",
     "name": "R2-G8",
     "limited": 1,
     "xws": "r2g8-armedanddangerous",
@@ -1189,6 +1228,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1074",
     "name": "Paige Tico",
     "limited": 1,
     "xws": "paigetico-evacuationofdqar",
@@ -1209,6 +1249,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1075",
     "name": "Dedicated Gunners",
     "limited": 0,
     "xws": "dedicatedgunners-evacuationofdqar",

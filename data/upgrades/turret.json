@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN1370",
     "name": "Dorsal Turret",
     "limited": 0,
     "xws": "dorsalturret",
@@ -46,6 +47,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1371",
     "name": "Burst Laser Turret",
     "limited": 0,
     "xws": "burstlaserturret-legendsandrelics",
@@ -88,7 +90,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 4
     },
     "standard": true,
     "extended": true,
@@ -96,6 +98,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1372",
     "name": "Ion Cannon Turret",
     "limited": 0,
     "xws": "ioncannonturret",

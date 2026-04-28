@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN1364",
     "name": "Homing Torpedoes",
     "limited": 0,
     "xws": "homingtorpedoes",
@@ -35,6 +36,7 @@
     "restricted": 2
   },
   {
+    "uid": "UGN1365",
     "name": "Adv. Proton Torpedoes",
     "limited": 0,
     "xws": "advprotontorpedoes",
@@ -70,6 +72,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1366",
     "name": "Ion Torpedoes",
     "limited": 0,
     "xws": "iontorpedoes",
@@ -105,6 +108,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1367",
     "name": "Proton Torpedoes",
     "limited": 0,
     "xws": "protontorpedoes",
@@ -140,6 +144,7 @@
     "restricted": 3
   },
   {
+    "uid": "UGN1368",
     "name": "Plasma Torpedoes",
     "limited": 0,
     "xws": "plasmatorpedoes",
@@ -175,6 +180,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1369",
     "name": "Tracking Torpedoes",
     "limited": 1,
     "xws": "trackingtorpedoes",

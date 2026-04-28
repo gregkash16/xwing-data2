@@ -60,6 +60,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_CloneZ95Headhunter.png",
   "pilots": [
     {
+      "uid": "PGR0224",
       "name": "“Killer”",
       "caption": "Dependable Closer",
       "initiative": 2,
@@ -88,6 +89,7 @@
       "id": 551
     },
     {
+      "uid": "PGR0225",
       "name": "“Drift”",
       "caption": "CT-1020",
       "initiative": 3,
@@ -117,6 +119,7 @@
       "id": 549
     },
     {
+      "uid": "PGR0226",
       "name": "“Boost”",
       "caption": "CT-4860",
       "initiative": 3,
@@ -146,6 +149,7 @@
       "id": 548
     },
     {
+      "uid": "PGR0227",
       "name": "“Stub”",
       "caption": "Scrappy Flier",
       "initiative": 3,
@@ -175,6 +179,7 @@
       "id": 550
     },
     {
+      "uid": "PGR0228",
       "name": "“Knack”",
       "caption": "Incautious Instructor",
       "initiative": 5,
@@ -205,6 +210,7 @@
       "id": 544
     },
     {
+      "uid": "PGR0229",
       "name": "“Hawk”",
       "caption": "Valkyrie 2929",
       "initiative": 4,
@@ -234,6 +240,7 @@
       "id": 546
     },
     {
+      "uid": "PGR0230",
       "name": "7th Sky Corps Pilot",
       "initiative": 2,
       "limited": 0,
@@ -261,6 +268,7 @@
       "id": 553
     },
     {
+      "uid": "PGR0231",
       "name": "Reaper Squadron Scout",
       "initiative": 3,
       "limited": 0,
@@ -289,6 +297,7 @@
       "id": 552
     },
     {
+      "uid": "PGR0232",
       "name": "“Slider”",
       "caption": "Evasive Aviator",
       "initiative": 4,
@@ -322,6 +331,7 @@
       "id": 545
     },
     {
+      "uid": "PGR0233",
       "name": "“Warthog”",
       "caption": "Veteran of Kadavo",
       "initiative": 3,

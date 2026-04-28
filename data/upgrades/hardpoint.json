@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN1076",
     "name": "Ion Cannon Battery",
     "limited": 0,
     "xws": "ioncannonbattery",
@@ -50,6 +51,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1077",
     "name": "Ordnance Tubes",
     "limited": 0,
     "xws": "ordnancetubes",
@@ -84,6 +86,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1078",
     "name": "Point-Defense Battery",
     "limited": 0,
     "xws": "pointdefensebattery",
@@ -134,6 +137,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1079",
     "name": "Targeting Battery",
     "limited": 0,
     "xws": "targetingbattery",
@@ -184,6 +188,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1080",
     "name": "Turbolaser Battery",
     "limited": 0,
     "xws": "turbolaserbattery",
@@ -241,6 +246,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1081",
     "name": "Tractor Tentacles",
     "limited": 0,
     "xws": "tractortentacles",
@@ -289,6 +295,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1082",
     "name": "Proton Cannon Battery",
     "limited": 0,
     "xws": "protoncannonbattery",
@@ -339,6 +346,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1083",
     "name": "Enhanced Propulsion",
     "limited": 0,
     "xws": "enhancedpropulsion",
@@ -382,6 +390,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1084",
     "name": "Drill Beak",
     "limited": 0,
     "xws": "drillbeak",
@@ -432,6 +441,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1085",
     "name": "Turbolaser Battery",
     "limited": 0,
     "xws": "turbolaserbattery-epicsl",
@@ -459,6 +469,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1086",
     "name": "Planetary Ion Bombardment",
     "limited": 0,
     "xws": "planetaryionbombardment-epicsl",
@@ -486,6 +497,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1087",
     "name": "Twin Missile Launcher",
     "limited": 0,
     "xws": "twinmissilelauncher-epicsl",
@@ -514,6 +526,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1088",
     "name": "Heavy Laser Cannon Turret",
     "limited": 0,
     "xws": "heavylasercannonturret-epicsl",
@@ -541,6 +554,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1089",
     "name": "Tractor Tentacles",
     "limited": 0,
     "xws": "tractortentacles-epicsl",
@@ -568,6 +582,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1090",
     "name": "Drill Beak",
     "limited": 0,
     "xws": "drillbeak-epicsl",
@@ -596,6 +611,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1091",
     "name": "Modified Dorsal Turret",
     "limited": 0,
     "xws": "modifieddorsalturret-epicsl",
@@ -623,6 +639,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1092",
     "name": "Ion Cannon Battery",
     "limited": 0,
     "xws": "ioncannonbattery-epicsl",
@@ -650,6 +667,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1093",
     "name": "Point-Defense Battery",
     "limited": 0,
     "xws": "pointdefensebattery-epicsl",

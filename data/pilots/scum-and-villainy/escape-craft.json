@@ -57,6 +57,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_EscapeShuttle.png",
   "pilots": [
     {
+      "uid": "PSV0551",
       "name": "Autopilot Drone",
       "caption": "Set to Blow",
       "initiative": 1,
@@ -100,6 +101,7 @@
       "id": 96
     },
     {
+      "uid": "PSV0552",
       "name": "L3-37",
       "caption": "Droid Revolutionary",
       "initiative": 2,
@@ -143,6 +145,7 @@
       "id": 95
     },
     {
+      "uid": "PSV0553",
       "name": "Lando Calrissian",
       "caption": "Smooth-talking Gambler",
       "initiative": 4,
@@ -170,6 +173,7 @@
       "id": 93
     },
     {
+      "uid": "PSV0554",
       "name": "Outer Rim Pioneer",
       "caption": "Skillful Outlaw",
       "initiative": 3,

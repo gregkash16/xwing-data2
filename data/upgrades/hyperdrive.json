@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN1094",
     "name": "Syliure-31 Hyperdrive",
     "limited": 0,
     "xws": "syliure31hyperdrive",
@@ -16,7 +17,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 1
     },
     "restrictions": [
       {

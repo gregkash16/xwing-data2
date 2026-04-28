@@ -59,6 +59,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_Auzituck.png",
   "pilots": [
     {
+      "uid": "PRB0320",
       "name": "Kashyyyk Defender",
       "initiative": 1,
       "limited": 0,
@@ -80,6 +81,7 @@
       "id": 60
     },
     {
+      "uid": "PRB0321",
       "name": "Lowhhrick",
       "caption": "Escaped Gladiator",
       "initiative": 3,
@@ -103,6 +105,7 @@
       "id": 59
     },
     {
+      "uid": "PRB0322",
       "name": "Wullffwarro",
       "caption": "Wookiee Chief",
       "initiative": 4,

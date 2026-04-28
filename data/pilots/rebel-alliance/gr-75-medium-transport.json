@@ -69,6 +69,7 @@
   ],
   "pilots": [
     {
+      "uid": "PRB0352",
       "name": "Echo Base Evacuees",
       "initiative": 7,
       "cost": 23,
@@ -101,6 +102,7 @@
       "id": 371
     },
     {
+      "uid": "PRB0353",
       "name": "Trebor Zednem",
       "initiative": 7,
       "engagement": 1,

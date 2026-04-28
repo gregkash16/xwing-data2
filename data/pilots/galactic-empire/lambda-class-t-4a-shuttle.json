@@ -65,6 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_Lambda.png",
   "pilots": [
     {
+      "uid": "PEM0083",
       "name": "Captain Kagi",
       "caption": "The Emperor’s Shuttle Pilot",
       "initiative": 4,
@@ -90,6 +91,7 @@
       "id": 165
     },
     {
+      "uid": "PEM0084",
       "name": "Colonel Jendon",
       "caption": "Darth Vader’s Shuttle Pilot",
       "initiative": 3,
@@ -120,6 +122,7 @@
       "id": 167
     },
     {
+      "uid": "PEM0085",
       "name": "Lieutenant Sai",
       "caption": "Death Squadron Veteran",
       "initiative": 3,
@@ -144,6 +147,7 @@
       "id": 166
     },
     {
+      "uid": "PEM0086",
       "name": "Omicron Group Pilot",
       "initiative": 1,
       "limited": 0,

@@ -63,6 +63,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEAggressor.png",
   "pilots": [
     {
+      "uid": "PEM0104",
       "name": "“Double Edge”",
       "caption": "Contingency Planner",
       "initiative": 2,
@@ -91,6 +92,7 @@
       "id": 188
     },
     {
+      "uid": "PEM0105",
       "name": "Lieutenant Kestal",
       "caption": "Innate Deadeye",
       "initiative": 4,
@@ -120,6 +122,7 @@
       "id": 187
     },
     {
+      "uid": "PEM0106",
       "name": "Onyx Squadron Scout",
       "initiative": 3,
       "limited": 0,
@@ -148,6 +151,7 @@
       "id": 189
     },
     {
+      "uid": "PEM0107",
       "name": "Sienar Specialist",
       "initiative": 2,
       "limited": 0,

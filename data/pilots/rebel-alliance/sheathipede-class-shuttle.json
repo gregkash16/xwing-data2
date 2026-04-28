@@ -61,6 +61,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_Sheathipede.png",
   "pilots": [
     {
+      "uid": "PRB0383",
       "name": "“Zeb” Orrelios",
       "caption": "Spectre-4",
       "initiative": 2,
@@ -91,6 +92,7 @@
       "id": 71
     },
     {
+      "uid": "PRB0384",
       "name": "AP-5",
       "caption": "Escaped Analyst Droid",
       "initiative": 1,
@@ -132,6 +134,7 @@
       "id": 72
     },
     {
+      "uid": "PRB0385",
       "name": "Ezra Bridger",
       "caption": "Spectre-6",
       "initiative": 3,
@@ -171,6 +174,7 @@
       "id": 70
     },
     {
+      "uid": "PRB0386",
       "name": "Fenn Rau",
       "caption": "Reluctant Rebel",
       "initiative": 6,

@@ -56,6 +56,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_TIEFighter.png",
   "pilots": [
     {
+      "uid": "PRB0411",
       "name": "“Zeb” Orrelios",
       "caption": "Spectre-4",
       "initiative": 2,
@@ -81,6 +82,7 @@
       "id": 15
     },
     {
+      "uid": "PRB0412",
       "name": "Captain Rex",
       "caption": "Clone Wars Veteran",
       "initiative": 2,
@@ -110,6 +112,7 @@
       "id": 16
     },
     {
+      "uid": "PRB0413",
       "name": "Ezra Bridger",
       "caption": "Spectre-6",
       "initiative": 3,
@@ -144,6 +147,7 @@
       "id": 14
     },
     {
+      "uid": "PRB0414",
       "name": "Sabine Wren",
       "caption": "Spectre-5",
       "initiative": 3,

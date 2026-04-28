@@ -70,6 +70,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_Delta-7.png",
   "pilots": [
     {
+      "uid": "PGR0246",
       "name": "Jedi Knight",
       "initiative": 3,
       "limited": 0,
@@ -106,6 +107,7 @@
       "id": 532
     },
     {
+      "uid": "PGR0247",
       "name": "Obi-Wan Kenobi",
       "caption": "Guardian of the Republic",
       "initiative": 5,
@@ -144,6 +146,7 @@
       "id": 533
     },
     {
+      "uid": "PGR0248",
       "name": "Plo Koon",
       "caption": "Serene Mentor",
       "initiative": 5,
@@ -182,6 +185,7 @@
       "id": 525
     },
     {
+      "uid": "PGR0249",
       "name": "Saesee Tiin",
       "caption": "Prophetic Pilot",
       "initiative": 4,
@@ -220,6 +224,7 @@
       "id": 526
     },
     {
+      "uid": "PGR0250",
       "name": "Mace Windu",
       "caption": "Harsh Traditionalist",
       "initiative": 4,
@@ -258,6 +263,7 @@
       "id": 527
     },
     {
+      "uid": "PGR0251",
       "name": "Anakin Skywalker",
       "caption": "Hero of the Republic",
       "initiative": 6,
@@ -296,6 +302,7 @@
       "id": 528
     },
     {
+      "uid": "PGR0252",
       "name": "Ahsoka Tano",
       "caption": "“Snips”",
       "initiative": 3,
@@ -333,6 +340,7 @@
       "id": 531
     },
     {
+      "uid": "PGR0253",
       "name": "Barriss Offee",
       "caption": "Conflicted Padawan",
       "initiative": 4,
@@ -370,6 +378,7 @@
       "id": 530
     },
     {
+      "uid": "PGR0254",
       "name": "Luminara Unduli",
       "caption": "Wise Protector",
       "initiative": 4,
@@ -408,6 +417,7 @@
       "id": 529
     },
     {
+      "uid": "PGR0255",
       "name": "Adi Gallia",
       "caption": "Shooting Star",
       "initiative": 5,

@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN0796",
     "name": "Adaptive Shields",
     "limited": 0,
     "xws": "adaptiveshields",
@@ -24,6 +25,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0797",
     "name": "Boosted Scanners",
     "limited": 0,
     "xws": "boostedscanners",
@@ -48,6 +50,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0798",
     "name": "Optimized Power Core",
     "limited": 0,
     "xws": "optimizedpowercore",
@@ -72,6 +75,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0799",
     "name": "Tibanna Reserves",
     "limited": 0,
     "xws": "tibannareserves",
@@ -100,6 +104,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0800",
     "name": "Illegal Countermeasures",
     "limited": 0,
     "xws": "illegalcountermeasures-epicsl",
@@ -120,6 +125,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0801",
     "name": "Secret Provisions",
     "limited": 0,
     "xws": "secretprovisions-epicsl",
@@ -144,6 +150,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0802",
     "name": "Endless Hordes",
     "limited": 0,
     "xws": "endlesshordes-epicsl",

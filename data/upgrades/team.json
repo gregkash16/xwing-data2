@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN1259",
     "name": "Bombardment Specialists",
     "limited": 0,
     "xws": "bombardmentspecialists",
@@ -37,6 +38,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1260",
     "name": "Comms Team",
     "limited": 0,
     "xws": "commsteam",
@@ -85,6 +87,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1261",
     "name": "Damage Control Team",
     "limited": 0,
     "xws": "damagecontrolteam",
@@ -122,6 +125,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1262",
     "name": "Gunnery Specialists",
     "limited": 0,
     "xws": "gunneryspecialists",
@@ -159,6 +163,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1263",
     "name": "IG-RM Droids",
     "limited": 0,
     "xws": "igrmdroids",
@@ -199,6 +204,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1264",
     "name": "Ordnance Team",
     "limited": 0,
     "xws": "ordnanceteam",
@@ -236,6 +242,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1265",
     "name": "Sensor Experts",
     "limited": 0,
     "xws": "sensorexperts",
@@ -273,6 +280,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1266",
     "name": "Tractor Technicians",
     "limited": 0,
     "xws": "tractortechnicians",
@@ -297,6 +305,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1267",
     "name": "Corsair Crew",
     "limited": 0,
     "xws": "corsaircrew",
@@ -329,6 +338,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA1268",
     "name": "Droid Crew",
     "limited": 0,
     "xws": "droidcrew",
@@ -373,6 +383,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1269",
     "name": "Inferno Squad",
     "limited": 1,
     "xws": "infernosquad-epicsl",
@@ -393,6 +404,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1270",
     "name": "Jinata Security Forces",
     "limited": 1,
     "xws": "jinatasecurityforces-epicsl",

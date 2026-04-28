@@ -65,6 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_AttackShuttle.png",
   "pilots": [
     {
+      "uid": "PRB0316",
       "name": "“Zeb” Orrelios",
       "caption": "Spectre-4",
       "initiative": 2,
@@ -95,6 +96,7 @@
       "id": 68
     },
     {
+      "uid": "PRB0317",
       "name": "Ezra Bridger",
       "caption": "Spectre-6",
       "initiative": 3,
@@ -134,6 +136,7 @@
       "id": 67
     },
     {
+      "uid": "PRB0318",
       "name": "Hera Syndulla",
       "caption": "Spectre-2",
       "initiative": 5,
@@ -166,6 +169,7 @@
       "id": 65
     },
     {
+      "uid": "PRB0319",
       "name": "Sabine Wren",
       "caption": "Spectre-5",
       "initiative": 3,

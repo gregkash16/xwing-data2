@@ -66,6 +66,7 @@
   ],
   "pilots": [
     {
+      "uid": "PRE0441",
       "name": "Zorii Bliss",
       "xws": "zoriibliss-wartime",
       "initiative": 5,
@@ -106,6 +107,7 @@
       "id": 722
     },
     {
+      "uid": "PRE0442",
       "name": "Teza Nasz",
       "xws": "tezanasz-wartime",
       "initiative": 4,
@@ -141,6 +143,7 @@
       "id": 723
     },
     {
+      "uid": "PRE0443",
       "name": "Wilsa Teshlo",
       "xws": "wilsateshlo-wartime",
       "initiative": 4,
@@ -176,6 +179,7 @@
       "id": 724
     },
     {
+      "uid": "PRE0444",
       "name": "Shasa Zaro",
       "xws": "shasazaro-wartime",
       "initiative": 3,
@@ -211,6 +215,7 @@
       "id": 725
     },
     {
+      "uid": "PRE0445",
       "name": "Lega Fossang",
       "xws": "legafossang-wartime",
       "initiative": 3,
@@ -245,6 +250,7 @@
       "id": 726
     },
     {
+      "uid": "PRE0446",
       "name": "Aftab Ackbar",
       "xws": "aftabackbar-wartime",
       "initiative": 2,
@@ -279,6 +285,7 @@
       "id": 727
     },
     {
+      "uid": "PRE0447",
       "name": "Corus Kapellim",
       "xws": "coruskapellim-wartime",
       "initiative": 1,
@@ -314,6 +321,7 @@
       "id": 728
     },
     {
+      "uid": "PRE0448",
       "name": "C’ai Threnalli",
       "xws": "caithrenalli-wartime",
       "initiative": 2,
@@ -349,6 +357,7 @@
       "id": 729
     },
     {
+      "uid": "PRE0449",
       "name": "New Republic Patrol",
       "xws": "newrepublicpatrol-wartime",
       "initiative": 3,
@@ -382,6 +391,7 @@
       "id": 730
     },
     {
+      "uid": "PRE0450",
       "name": "Kijimi Spice Runner",
       "xws": "kijimispicerunner-wartime",
       "initiative": 2,

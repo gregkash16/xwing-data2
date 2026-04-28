@@ -67,6 +67,7 @@
   ],
   "pilots": [
     {
+      "uid": "PRB0349",
       "xws": "chopper-gauntletfighter",
       "name": "“Chopper”",
       "ability": "At the start of the Engagement Phase, each enemy ship at range 0 gains 2 jam tokens.",
@@ -98,6 +99,7 @@
       "id": 519
     },
     {
+      "uid": "PRB0350",
       "xws": "ezrabridger-gauntletfighter",
       "name": "Ezra Bridger",
       "cost": 16,
@@ -138,6 +140,7 @@
       "id": 520
     },
     {
+      "uid": "PRB0351",
       "xws": "mandalorianresistancepilot",
       "name": "Mandalorian Resistance Pilot",
       "cost": 15,

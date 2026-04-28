@@ -70,6 +70,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/separatist-alliance/I_FIrespray.png",
   "pilots": [
     {
+      "uid": "PSA0680",
       "name": "Jango Fett",
       "caption": "Simple Man",
       "initiative": 6,
@@ -100,6 +101,7 @@
       "id": 429
     },
     {
+      "uid": "PSA0681",
       "name": "Zam Wesell",
       "xws": "zamwesell",
       "initiative": 5,
@@ -138,6 +140,7 @@
       "id": 428
     },
     {
+      "uid": "PSA0682",
       "name": "Boba Fett",
       "xws": "bobafett-firesprayclasspatrolcraft",
       "initiative": 3,
@@ -167,6 +170,7 @@
       "id": 427
     },
     {
+      "uid": "PSA0683",
       "name": "Separatist Racketeer",
       "xws": "separatistracketeer",
       "initiative": 2,
@@ -191,6 +195,7 @@
       "id": 426
     },
     {
+      "uid": "PSA0684",
       "name": "Aurra Sing",
       "xws": "aurrasing",
       "initiative": 4,

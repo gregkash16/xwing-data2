@@ -83,6 +83,7 @@
   "icon": "???",
   "pilots": [
     {
+      "uid": "PSA0710",
       "name": "Cad Bane",
       "caption": "Needs No Introduction",
       "initiative": 4,
@@ -121,6 +122,7 @@
       "id": 538
     },
     {
+      "uid": "PSA0711",
       "name": "IG-101",
       "caption": "Tenacious Bodyguard",
       "initiative": 4,
@@ -186,6 +188,7 @@
       "id": 539
     },
     {
+      "uid": "PSA0712",
       "name": "MagnaGuard Executioner",
       "initiative": 3,
       "limited": 0,
@@ -249,6 +252,7 @@
       "id": 543
     },
     {
+      "uid": "PSA0713",
       "name": "MagnaGuard Protector",
       "caption": "Implacable Escort",
       "initiative": 4,
@@ -314,6 +318,7 @@
       "id": 542
     },
     {
+      "uid": "PSA0714",
       "name": "IG-102",
       "caption": "Dueling Droid",
       "initiative": 4,
@@ -379,6 +384,7 @@
       "id": 540
     },
     {
+      "uid": "PSA0715",
       "name": "IG-111",
       "caption": "One Eye",
       "initiative": 1,
@@ -443,6 +449,7 @@
       "id": 541
     },
     {
+      "uid": "PSA0716",
       "name": "Durge",
       "caption": "On His Own Time",
       "initiative": 5,

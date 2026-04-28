@@ -69,6 +69,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_ShadowCaster.png",
   "pilots": [
     {
+      "uid": "PSV0599",
       "name": "Asajj Ventress",
       "caption": "Force of Her Own",
       "initiative": 4,
@@ -104,6 +105,7 @@
       "id": 125
     },
     {
+      "uid": "PSV0600",
       "name": "Ketsu Onyo",
       "caption": "Black Sun Contractor",
       "initiative": 5,
@@ -133,6 +135,7 @@
       "id": 126
     },
     {
+      "uid": "PSV0601",
       "name": "Sabine Wren",
       "caption": "Artistic Saboteur",
       "initiative": 3,
@@ -162,6 +165,7 @@
       "id": 127
     },
     {
+      "uid": "PSV0602",
       "name": "Shadowport Hunter",
       "initiative": 2,
       "limited": 0,

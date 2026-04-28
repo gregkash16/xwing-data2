@@ -69,6 +69,7 @@
   ],
   "pilots": [
     {
+      "uid": "PEM0174",
       "name": "Carida Academy Cadet",
       "cost": 9,
       "loadout": 8,
@@ -99,6 +100,7 @@
       "id": 416
     },
     {
+      "uid": "PEM0175",
       "name": "Onyx Squadron Sentry",
       "cost": 10,
       "loadout": 11,
@@ -130,6 +132,7 @@
       "id": 417
     },
     {
+      "uid": "PEM0176",
       "name": "“Rampage”",
       "caption": "Implacable Pursuer",
       "cost": 10,
@@ -162,6 +165,7 @@
       "id": 419
     },
     {
+      "uid": "PEM0177",
       "name": "Lyttan Dree",
       "caption": "Onyx 2",
       "cost": 10,
@@ -193,6 +197,7 @@
       "id": 418
     },
     {
+      "uid": "PEM0178",
       "name": "Flight Leader Ubbel",
       "caption": "Onyx Leader",
       "cost": 12,

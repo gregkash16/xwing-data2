@@ -70,6 +70,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEDefender.png",
   "pilots": [
     {
+      "uid": "PEM0111",
       "name": "Colonel Vessery",
       "caption": "Contemplative Commander",
       "initiative": 4,
@@ -104,6 +105,7 @@
       "id": 194
     },
     {
+      "uid": "PEM0112",
       "name": "Countess Ryad",
       "caption": "Cutthroat Politico",
       "initiative": 4,
@@ -138,6 +140,7 @@
       "id": 195
     },
     {
+      "uid": "PEM0113",
       "name": "Delta Squadron Pilot",
       "initiative": 1,
       "limited": 0,
@@ -169,6 +172,7 @@
       "id": 198
     },
     {
+      "uid": "PEM0114",
       "name": "Onyx Squadron Ace",
       "initiative": 4,
       "limited": 0,
@@ -201,6 +205,7 @@
       "id": 197
     },
     {
+      "uid": "PEM0115",
       "name": "Rexler Brath",
       "caption": "Onyx Leader",
       "initiative": 5,
@@ -234,6 +239,7 @@
       "id": 196
     },
     {
+      "uid": "PEM0116",
       "name": "Vult Skerris",
       "xws": "vultskerris",
       "initiative": 5,
@@ -272,6 +278,7 @@
       "id": 454
     },
     {
+      "uid": "PEM0117",
       "name": "Darth Vader",
       "xws": "darthvader-tieddefender",
       "initiative": 6,
@@ -311,6 +318,7 @@
       "id": 469
     },
     {
+      "uid": "PEM0118",
       "name": "Captain Dobbs",
       "xws": "captaindobbs",
       "initiative": 3,
@@ -344,6 +352,7 @@
       "id": 470
     },
     {
+      "uid": "PEM0119",
       "name": "Captain Yorr",
       "caption": "Battle Over Endor",
       "initiative": 4,
@@ -402,6 +411,7 @@
       "id": 664
     },
     {
+      "uid": "PEM0120",
       "name": "Colonel Jendon",
       "caption": "Battle Over Endor",
       "initiative": 6,

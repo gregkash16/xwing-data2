@@ -64,6 +64,7 @@
   ],
   "pilots": [
     {
+      "uid": "PSV0622",
       "name": "The Mandalorian",
       "initiative": 5,
       "limited": 1,

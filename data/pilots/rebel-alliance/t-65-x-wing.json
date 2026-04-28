@@ -62,6 +62,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_X-wing-T65.png",
   "pilots": [
     {
+      "uid": "PRB0387",
       "name": "Biggs Darklighter",
       "caption": "Red Three",
       "initiative": 3,
@@ -88,6 +89,7 @@
       "id": 7
     },
     {
+      "uid": "PRB0388",
       "name": "Blue Squadron Escort",
       "initiative": 2,
       "limited": 0,
@@ -113,6 +115,7 @@
       "id": 1
     },
     {
+      "uid": "PRB0389",
       "name": "Cavern Angels Zealot",
       "initiative": 1,
       "limited": 0,
@@ -140,6 +143,7 @@
       "id": 0
     },
     {
+      "uid": "PRB0390",
       "name": "Edrio Two Tubes",
       "caption": "Cavern Angels Veteran",
       "initiative": 2,
@@ -168,6 +172,7 @@
       "id": 8
     },
     {
+      "uid": "PRB0391",
       "name": "Garven Dreis",
       "caption": "Red Leader",
       "initiative": 4,
@@ -195,6 +200,7 @@
       "id": 6
     },
     {
+      "uid": "PRB0392",
       "name": "Jek Porkins",
       "caption": "Red Six",
       "initiative": 4,
@@ -222,6 +228,7 @@
       "id": 3
     },
     {
+      "uid": "PRB0393",
       "name": "Kullbee Sperado",
       "caption": "Enigmatic Gunslinger",
       "initiative": 4,
@@ -251,6 +258,7 @@
       "id": 12
     },
     {
+      "uid": "PRB0394",
       "name": "Leevan Tenza",
       "caption": "Rebel Alliance Defector",
       "initiative": 3,
@@ -280,6 +288,7 @@
       "id": 10
     },
     {
+      "uid": "PRB0395",
       "name": "Luke Skywalker",
       "caption": "Red Five",
       "initiative": 5,
@@ -316,6 +325,7 @@
       "id": 4
     },
     {
+      "uid": "PRB0396",
       "name": "Red Squadron Veteran",
       "initiative": 3,
       "limited": 0,
@@ -342,6 +352,7 @@
       "id": 2
     },
     {
+      "uid": "PRB0397",
       "name": "Thane Kyrell",
       "caption": "Corona Four",
       "initiative": 5,
@@ -369,6 +380,7 @@
       "id": 9
     },
     {
+      "uid": "PRB0398",
       "name": "Wedge Antilles",
       "caption": "Red Two",
       "initiative": 6,
@@ -396,6 +408,7 @@
       "id": 5
     },
     {
+      "uid": "PRB0399",
       "name": "Biggs Darklighter",
       "caption": "Battle of Yavin",
       "initiative": 3,
@@ -427,6 +440,7 @@
       "id": 557
     },
     {
+      "uid": "PRB0400",
       "name": "Garven Dreis",
       "caption": "Battle of Yavin",
       "initiative": 4,
@@ -456,6 +470,7 @@
       "id": 554
     },
     {
+      "uid": "PRB0401",
       "name": "Jek Porkins",
       "caption": "Battle of Yavin",
       "initiative": 4,
@@ -486,6 +501,7 @@
       "id": 556
     },
     {
+      "uid": "PRB0402",
       "name": "Luke Skywalker",
       "caption": "Battle of Yavin",
       "initiative": 5,
@@ -524,6 +540,7 @@
       "id": 555
     },
     {
+      "uid": "PRB0403",
       "name": "Wedge Antilles",
       "caption": "Battle of Yavin",
       "initiative": 5,
@@ -555,6 +572,7 @@
       "id": 558
     },
     {
+      "uid": "PRB0404",
       "name": "Corran Horn",
       "caption": "Rogue Nine",
       "initiative": 5,
@@ -582,6 +600,7 @@
       "id": 594
     },
     {
+      "uid": "PRB0405",
       "name": "Wes Janson",
       "caption": "Wisecracking Wingman",
       "initiative": 5,
@@ -613,6 +632,7 @@
       "id": 595
     },
     {
+      "uid": "PRB0406",
       "name": "Luke Skywalker",
       "caption": "Red Five",
       "initiative": 5,
@@ -646,6 +666,7 @@
       "id": 642
     },
     {
+      "uid": "PRB0407",
       "name": "Jek Porkins",
       "caption": "Red Six",
       "initiative": 4,
@@ -672,6 +693,7 @@
       "id": 641
     },
     {
+      "uid": "PRB0408",
       "name": "Wedge Antilles",
       "caption": "Battle Over Endor",
       "initiative": 6,
@@ -748,6 +770,7 @@
       "id": 661
     },
     {
+      "uid": "PRB0409",
       "name": "Yendor",
       "caption": "Battle Over Endor",
       "initiative": 5,
@@ -804,6 +827,7 @@
       "id": 662
     },
     {
+      "uid": "PRB0410",
       "name": "Kendy Idele",
       "caption": "Battle Over Endor",
       "initiative": 4,

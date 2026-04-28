@@ -72,6 +72,7 @@
   ],
   "pilots": [
     {
+      "uid": "PFO0003",
       "name": "First Order Collaborators",
       "initiative": 8,
       "cost": 38,
@@ -105,6 +106,7 @@
       "id": 370
     },
     {
+      "uid": "PFO0004",
       "name": "Gideon Hask",
       "caption": "Precursor",
       "initiative": 8,

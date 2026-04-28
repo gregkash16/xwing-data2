@@ -65,6 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_CustomizedYT-1300.png",
   "pilots": [
     {
+      "uid": "PSV0546",
       "name": "Freighter Captain",
       "initiative": 1,
       "limited": 0,
@@ -93,6 +94,7 @@
       "id": 92
     },
     {
+      "uid": "PSV0547",
       "name": "Han Solo",
       "caption": "The Corellian Kid",
       "initiative": 6,
@@ -125,6 +127,7 @@
       "id": 89
     },
     {
+      "uid": "PSV0548",
       "name": "L3-37",
       "caption": "Droid Revolutionary",
       "initiative": 2,
@@ -174,6 +177,7 @@
       "id": 91
     },
     {
+      "uid": "PSV0549",
       "name": "Lando Calrissian",
       "caption": "Smooth-talking Gambler",
       "initiative": 4,
@@ -205,6 +209,7 @@
       "id": 90
     },
     {
+      "uid": "PSV0550",
       "name": "Han Solo",
       "initiative": 6,
       "limited": 1,

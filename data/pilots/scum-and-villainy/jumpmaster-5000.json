@@ -68,6 +68,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_Jumpmaster.png",
   "pilots": [
     {
+      "uid": "PSV0587",
       "name": "Contracted Scout",
       "initiative": 2,
       "limited": 0,
@@ -91,6 +92,7 @@
       "id": 118
     },
     {
+      "uid": "PSV0588",
       "name": "Dengar",
       "caption": "Vengeful Corellian",
       "initiative": 6,
@@ -125,6 +127,7 @@
       "id": 115
     },
     {
+      "uid": "PSV0589",
       "name": "Manaroo",
       "caption": "Graceful Aruzan",
       "initiative": 3,
@@ -155,6 +158,7 @@
       "id": 117
     },
     {
+      "uid": "PSV0590",
       "name": "Tel Trevura",
       "caption": "Escape Artist",
       "initiative": 4,
@@ -185,6 +189,7 @@
       "id": 116
     },
     {
+      "uid": "PSV0591",
       "name": "Nom Lumb",
       "xws": "nomlumb",
       "initiative": 1,
@@ -213,6 +218,7 @@
       "id": 400
     },
     {
+      "uid": "PSV0592",
       "name": "Dengar",
       "initiative": 6,
       "limited": 1,

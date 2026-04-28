@@ -69,6 +69,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_A-wing.png",
   "pilots": [
     {
+      "uid": "PRB0365",
       "name": "Arvel Crynyd",
       "caption": "Green Leader",
       "initiative": 3,
@@ -99,6 +100,7 @@
       "id": 51
     },
     {
+      "uid": "PRB0366",
       "name": "Green Squadron Pilot",
       "initiative": 3,
       "limited": 0,
@@ -128,6 +130,7 @@
       "id": 52
     },
     {
+      "uid": "PRB0367",
       "name": "Jake Farrell",
       "caption": "Sage Instructor",
       "initiative": 4,
@@ -159,6 +162,7 @@
       "id": 50
     },
     {
+      "uid": "PRB0368",
       "name": "Phoenix Squadron Pilot",
       "initiative": 1,
       "limited": 0,
@@ -188,6 +192,7 @@
       "id": 53
     },
     {
+      "uid": "PRB0369",
       "name": "Wedge Antilles",
       "xws": "wedgeantilles-rz1awing",
       "initiative": 4,
@@ -219,6 +224,7 @@
       "id": 452
     },
     {
+      "uid": "PRB0370",
       "name": "Sabine Wren",
       "xws": "sabinewren-rz1awing",
       "initiative": 3,
@@ -250,6 +256,7 @@
       "id": 453
     },
     {
+      "uid": "PRB0371",
       "name": "Hera Syndulla",
       "xws": "herasyndulla-rz1awing",
       "initiative": 6,
@@ -282,6 +289,7 @@
       "id": 451
     },
     {
+      "uid": "PRB0372",
       "name": "Ahsoka Tano",
       "xws": "ahsokatano-rz1awing",
       "initiative": 5,
@@ -318,6 +326,7 @@
       "id": 463
     },
     {
+      "uid": "PRB0373",
       "name": "Shara Bey",
       "xws": "sharabey-rz1awing",
       "initiative": 4,
@@ -349,6 +358,7 @@
       "id": 462
     },
     {
+      "uid": "PRB0374",
       "name": "Derek Klivian",
       "xws": "derekklivian",
       "initiative": 3,
@@ -379,6 +389,7 @@
       "id": 461
     },
     {
+      "uid": "PRB0375",
       "name": "Keo Venzee",
       "xws": "keovenzee",
       "initiative": 3,
@@ -413,6 +424,7 @@
       "id": 597
     },
     {
+      "uid": "PRB0376",
       "name": "Tycho Celchu",
       "xws": "tychocelchu",
       "initiative": 5,
@@ -444,6 +456,7 @@
       "id": 596
     },
     {
+      "uid": "PRB0377",
       "name": "Arvel Crynyd",
       "caption": "Green Leader",
       "initiative": 3,
@@ -473,6 +486,7 @@
       "id": 639
     },
     {
+      "uid": "PRB0378",
       "name": "Jake Farrell",
       "caption": "Sage Instructor",
       "initiative": 4,
@@ -503,6 +517,7 @@
       "id": 640
     },
     {
+      "uid": "PRB0379",
       "name": "Shara Bey",
       "xws": "sharabey-swz106",
       "initiative": 4,
@@ -532,6 +547,7 @@
       "id": 643
     },
     {
+      "uid": "PRB0380",
       "name": "Arvel Crynyd",
       "caption": "Battle Over Endor",
       "xws": "arvelcrynyd-battleoverendor",
@@ -611,6 +627,7 @@
       "id": 654
     },
     {
+      "uid": "PRB0381",
       "name": "Tycho Celchu",
       "caption": "Battle Over Endor",
       "xws": "tychocelchu-battleoverendor",
@@ -691,6 +708,7 @@
       "id": 656
     },
     {
+      "uid": "PRB0382",
       "name": "Gemmer Sojan",
       "caption": "Battle Over Endor",
       "xws": "gemmersojan-battleoverendor",

@@ -63,6 +63,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_Y-wing.png",
   "pilots": [
     {
+      "uid": "PRB0323",
       "name": "“Dutch” Vander",
       "caption": "Gold Leader",
       "initiative": 4,
@@ -91,6 +92,7 @@
       "id": 27
     },
     {
+      "uid": "PRB0324",
       "name": "Evaan Verlaine",
       "caption": "Gold Three",
       "initiative": 3,
@@ -118,6 +120,7 @@
       "id": 28
     },
     {
+      "uid": "PRB0325",
       "name": "Gold Squadron Veteran",
       "initiative": 3,
       "limited": 0,
@@ -145,6 +148,7 @@
       "id": 29
     },
     {
+      "uid": "PRB0326",
       "name": "Gray Squadron Bomber",
       "initiative": 2,
       "limited": 0,
@@ -171,6 +175,7 @@
       "id": 30
     },
     {
+      "uid": "PRB0327",
       "name": "Horton Salm",
       "caption": "Gray Leader",
       "initiative": 4,
@@ -199,6 +204,7 @@
       "id": 26
     },
     {
+      "uid": "PRB0328",
       "name": "Norra Wexley",
       "caption": "Gold Nine",
       "initiative": 5,
@@ -227,6 +233,7 @@
       "id": 25
     },
     {
+      "uid": "PRB0329",
       "name": "Dex Tiree",
       "caption": "Battle of Yavin",
       "initiative": 2,
@@ -257,6 +264,7 @@
       "id": 561
     },
     {
+      "uid": "PRB0330",
       "name": "“Dutch” Vander",
       "caption": "Battle of Yavin",
       "initiative": 4,
@@ -287,6 +295,7 @@
       "id": 560
     },
     {
+      "uid": "PRB0331",
       "name": "Hol Okand",
       "caption": "Battle of Yavin",
       "initiative": 4,
@@ -317,6 +326,7 @@
       "id": 563
     },
     {
+      "uid": "PRB0332",
       "name": "“Pops” Krail",
       "caption": "Battle of Yavin",
       "initiative": 4,
@@ -347,6 +357,7 @@
       "id": 562
     },
     {
+      "uid": "PRB0333",
       "name": "“Pops” Krail",
       "caption": "Gold Five",
       "initiative": 3,
@@ -374,6 +385,7 @@
       "id": 598
     },
     {
+      "uid": "PRB0334",
       "name": "“Dutch” Vander",
       "caption": "Gold Leader",
       "initiative": 4,
@@ -399,6 +411,7 @@
       "id": 637
     },
     {
+      "uid": "PRB0335",
       "name": "Horton Salm",
       "caption": "Gray Leader",
       "initiative": 4,

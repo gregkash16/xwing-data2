@@ -80,6 +80,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_E-wing.png",
   "pilots": [
     {
+      "uid": "PRB0341",
       "name": "Corran Horn",
       "caption": "Tenacious Investigator",
       "initiative": 5,
@@ -110,6 +111,7 @@
       "id": 21
     },
     {
+      "uid": "PRB0342",
       "name": "Gavin Darklighter",
       "caption": "Bold Wingman",
       "initiative": 4,
@@ -139,6 +141,7 @@
       "id": 22
     },
     {
+      "uid": "PRB0343",
       "name": "Knave Squadron Escort",
       "initiative": 2,
       "limited": 0,
@@ -166,6 +169,7 @@
       "id": 24
     },
     {
+      "uid": "PRB0344",
       "name": "Rogue Squadron Escort",
       "initiative": 4,
       "limited": 0,

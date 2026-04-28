@@ -58,6 +58,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_Quadjumper.png",
   "pilots": [
     {
+      "uid": "PSV0623",
       "name": "Constable Zuvio",
       "caption": "Missing Sheriff of Niima Outpost",
       "initiative": 4,
@@ -86,6 +87,7 @@
       "id": 140
     },
     {
+      "uid": "PSV0624",
       "name": "Jakku Gunrunner",
       "initiative": 1,
       "limited": 0,
@@ -111,6 +113,7 @@
       "id": 143
     },
     {
+      "uid": "PSV0625",
       "name": "Sarco Plank",
       "caption": "The Scavenger",
       "initiative": 2,
@@ -142,6 +145,7 @@
       "id": 141
     },
     {
+      "uid": "PSV0626",
       "name": "Unkar Plutt",
       "caption": "Miserly Portion Master",
       "initiative": 2,

@@ -69,6 +69,7 @@
   ],
   "pilots": [
     {
+      "uid": "PSA0688",
       "name": "Aut-O",
       "caption": "Alpha Revue",
       "initiative": 7,

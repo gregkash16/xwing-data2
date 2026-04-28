@@ -1,5 +1,6 @@
 [
   {
+    "uid": "USV1292",
     "name": "Andrasta",
     "limited": 1,
     "xws": "andrasta",
@@ -56,6 +57,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE1293",
     "name": "Black One",
     "limited": 1,
     "xws": "blackone",
@@ -111,6 +113,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1294",
     "name": "Dauntless",
     "limited": 1,
     "xws": "dauntless",
@@ -147,6 +150,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1295",
     "name": "Ghost",
     "limited": 1,
     "xws": "ghost",
@@ -183,6 +187,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1296",
     "name": "Havoc",
     "limited": 1,
     "xws": "havoc",
@@ -236,6 +241,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1297",
     "name": "Hound's Tooth",
     "limited": 1,
     "xws": "houndstooth",
@@ -272,6 +278,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1298",
     "name": "IG-2000",
     "limited": 0,
     "xws": "ig2000",
@@ -308,6 +315,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1299",
     "name": "Lando's Millennium Falcon",
     "limited": 1,
     "xws": "landosmillenniumfalcon",
@@ -344,6 +352,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1300",
     "name": "Marauder",
     "limited": 1,
     "xws": "marauder",
@@ -387,6 +396,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1301",
     "name": "Millennium Falcon",
     "limited": 1,
     "xws": "millenniumfalcon",
@@ -438,6 +448,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1302",
     "name": "Mist Hunter",
     "limited": 1,
     "xws": "misthunter",
@@ -494,6 +505,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1303",
     "name": "Moldy Crow",
     "limited": 1,
     "xws": "moldycrow",
@@ -539,6 +551,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1304",
     "name": "Outrider",
     "limited": 1,
     "xws": "outrider",
@@ -575,6 +588,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1305",
     "name": "Phantom",
     "limited": 1,
     "xws": "phantom",
@@ -612,6 +626,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1306",
     "name": "Punishing One",
     "limited": 1,
     "xws": "punishingone",
@@ -660,6 +675,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1307",
     "name": "ST-321",
     "limited": 1,
     "xws": "st321",
@@ -696,6 +712,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1308",
     "name": "Shadow Caster",
     "limited": 1,
     "xws": "shadowcaster",
@@ -732,6 +749,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1309",
     "name": "Slave I",
     "limited": 1,
     "xws": "slavei",
@@ -775,6 +793,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1310",
     "name": "Virago",
     "limited": 1,
     "xws": "virago",
@@ -822,6 +841,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE1311",
     "name": "Rey's Millennium Falcon",
     "limited": 1,
     "xws": "reysmillenniumfalcon",
@@ -858,6 +878,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA1312",
     "name": "Soulless One",
     "limited": 1,
     "xws": "soullessone",
@@ -901,6 +922,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA1313",
     "name": "Scimitar",
     "limited": 1,
     "xws": "scimitar",
@@ -953,6 +975,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1314",
     "name": "Assailer",
     "limited": 1,
     "xws": "assailer",
@@ -1006,6 +1029,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1315",
     "name": "Blood Crow",
     "limited": 1,
     "xws": "bloodcrow",
@@ -1059,6 +1083,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1316",
     "name": "Bright Hope",
     "limited": 1,
     "xws": "brighthope",
@@ -1095,6 +1120,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1317",
     "name": "Broken Horn",
     "limited": 1,
     "xws": "brokenhorn",
@@ -1143,6 +1169,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1318",
     "name": "Corvus",
     "limited": 1,
     "xws": "corvus",
@@ -1188,6 +1215,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1319",
     "name": "Dodonna's Pride",
     "limited": 1,
     "xws": "dodonnaspride",
@@ -1263,6 +1291,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1320",
     "name": "Impetuous",
     "limited": 1,
     "xws": "impetuous",
@@ -1316,6 +1345,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1321",
     "name": "Insatiable Worrt",
     "limited": 1,
     "xws": "insatiableworrt",
@@ -1374,6 +1404,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1322",
     "name": "Instigator",
     "limited": 1,
     "xws": "instigator",
@@ -1417,6 +1448,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1323",
     "name": "Jaina's Light",
     "limited": 1,
     "xws": "jainaslight",
@@ -1465,6 +1497,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE1324",
     "name": "Kaz's Fireball",
     "limited": 1,
     "xws": "kazsfireball",
@@ -1501,6 +1534,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1325",
     "name": "Liberator",
     "limited": 1,
     "xws": "liberator",
@@ -1544,6 +1578,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1326",
     "name": "Luminous",
     "limited": 1,
     "xws": "luminous",
@@ -1592,6 +1627,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1327",
     "name": "Merchant One",
     "limited": 1,
     "xws": "merchantone",
@@ -1659,6 +1695,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1328",
     "name": "Quantum Storm",
     "limited": 1,
     "xws": "quantumstorm",
@@ -1712,6 +1749,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1329",
     "name": "Requiem",
     "limited": 1,
     "xws": "requiem",
@@ -1748,6 +1786,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1330",
     "name": "Suppressor",
     "limited": 1,
     "xws": "suppressor",
@@ -1801,6 +1840,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1331",
     "name": "Tantive IV",
     "limited": 1,
     "xws": "tantiveiv",
@@ -1844,6 +1884,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1332",
     "name": "Thunderstrike",
     "limited": 1,
     "xws": "thunderstrike",
@@ -1897,6 +1938,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1333",
     "name": "Vector",
     "limited": 1,
     "xws": "vector",
@@ -1945,6 +1987,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1334",
     "name": "Slave I",
     "limited": 1,
     "xws": "slavei-swz82",
@@ -1989,6 +2032,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1335",
     "name": "B6 Blade Wing Prototype",
     "limited": 1,
     "xws": "b6bladewingprototype",
@@ -2032,6 +2076,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1336",
     "name": "Nautolan's Revenge",
     "limited": 1,
     "xws": "nautolansrevenge",
@@ -2085,6 +2130,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1337",
     "name": "Grappler",
     "limited": 1,
     "xws": "grappler",
@@ -2128,6 +2174,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA1338",
     "name": "Neimoidian Grasp",
     "limited": 1,
     "xws": "neimoidiangrasp",
@@ -2171,6 +2218,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA1339",
     "name": "Trident",
     "limited": 1,
     "xws": "trident",
@@ -2214,6 +2262,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1340",
     "name": "Nightbrother",
     "limited": 1,
     "xws": "nightbrother",
@@ -2263,6 +2312,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR1341",
     "name": "Gauntlet",
     "limited": 1,
     "xws": "gauntlet",
@@ -2312,6 +2362,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1342",
     "name": "Razor Crest",
     "limited": 1,
     "xws": "razorcrest",
@@ -2356,6 +2407,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1343",
     "name": "Xanadu Blood",
     "limited": 1,
     "xws": "xanadublood",
@@ -2406,6 +2458,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1344",
     "name": "Millennium Falcon",
     "limited": 1,
     "xws": "millenniumfalcon-battleoverendor",
@@ -2426,6 +2479,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1345",
     "name": "Lando's Millennium Falcon",
     "limited": 1,
     "xws": "landosmillenniumfalcon-armedanddangerous",
@@ -2446,6 +2500,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1346",
     "name": "Hound's Tooth",
     "limited": 1,
     "xws": "houndstooth-armedanddangerous",
@@ -2466,6 +2521,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1347",
     "name": "Xanadu Blood",
     "limited": 1,
     "xws": "xanadublood-armedanddangerous",
@@ -2486,6 +2542,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1348",
     "name": "Virago",
     "limited": 1,
     "xws": "virago-armedanddangerous",
@@ -2506,6 +2563,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1349",
     "name": "Mist Hunter",
     "limited": 1,
     "xws": "misthunter-armedanddangerous",
@@ -2526,6 +2584,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1350",
     "name": "Black One",
     "limited": 1,
     "xws": "blackone-evacuationofdqar",
@@ -2550,6 +2609,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1351",
     "name": "Corvus",
     "limited": 1,
     "xws": "corvus-epicsl",
@@ -2570,6 +2630,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1352",
     "name": "Blood Crow",
     "limited": 1,
     "xws": "bloodcrow-epicsl",
@@ -2590,6 +2651,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1353",
     "name": "Nautolan's Revenge",
     "limited": 1,
     "xws": "nautolansrevenge-epicsl",
@@ -2614,6 +2676,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1354",
     "name": "Broken Horn",
     "limited": 1,
     "xws": "brokenhorn-epicsl",
@@ -2634,6 +2697,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1355",
     "name": "Tantive IV",
     "limited": 1,
     "xws": "tantiveiv-epicsl",
@@ -2654,6 +2718,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1356",
     "name": "Tantive IV",
     "limited": 1,
     "xws": "tantiveiv-epicsl-resistance",
@@ -2674,6 +2739,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1357",
     "name": "Hosnian Lament",
     "limited": 1,
     "xws": "hosnianlament-epicsl",
@@ -2694,6 +2760,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1358",
     "name": "Precursor",
     "limited": 1,
     "xws": "precursor-epicsl",
@@ -2714,6 +2781,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1359",
     "name": "Malefactor",
     "limited": 1,
     "xws": "malefactor-epicsl",
@@ -2734,6 +2802,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1360",
     "name": "Tantive IV",
     "limited": 1,
     "xws": "tantiveiv-epicsl-galacticrepublic",
@@ -2754,6 +2823,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1361",
     "name": "Spectre of Nayr",
     "limited": 1,
     "xws": "spectreofnayr-epicsl",
@@ -2774,6 +2844,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1362",
     "name": "Trident",
     "limited": 1,
     "xws": "trident-epicsl",
@@ -2794,6 +2865,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1363",
     "name": "Alpha Revue",
     "limited": 1,
     "xws": "alpharevue-epicsl",

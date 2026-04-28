@@ -64,6 +64,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_Arc-170.png",
   "pilots": [
     {
+      "uid": "PGR0207",
       "name": "“Sinker”",
       "caption": "Wolfpack Veteran",
       "initiative": 3,
@@ -92,6 +93,7 @@
       "id": 280
     },
     {
+      "uid": "PGR0208",
       "name": "“Jag”",
       "xws": "jag",
       "cost": 10,
@@ -119,6 +121,7 @@
       "id": 339
     },
     {
+      "uid": "PGR0209",
       "name": "“Odd Ball”",
       "xws": "oddball-arc170starfighter",
       "cost": 11,
@@ -147,6 +150,7 @@
       "id": 338
     },
     {
+      "uid": "PGR0210",
       "name": "“Wolffe”",
       "xws": "wolffe",
       "cost": 12,
@@ -179,6 +183,7 @@
       "id": 342
     },
     {
+      "uid": "PGR0211",
       "name": "104th Battalion Pilot",
       "xws": "104thbattalionpilot",
       "cost": 10,
@@ -205,6 +210,7 @@
       "id": 341
     },
     {
+      "uid": "PGR0212",
       "name": "Squad Seven Veteran",
       "xws": "squadsevenveteran",
       "cost": 12,
@@ -232,6 +238,7 @@
       "id": 340
     },
     {
+      "uid": "PGR0213",
       "name": "“Odd Ball”",
       "caption": "Siege of Coruscant",
       "initiative": 5,
@@ -286,6 +293,7 @@
       "id": 577
     },
     {
+      "uid": "PGR0214",
       "name": "“Wolffe”",
       "caption": "Siege of Coruscant",
       "initiative": 4,
@@ -320,6 +328,7 @@
       "id": 578
     },
     {
+      "uid": "PGR0215",
       "name": "“Jag”",
       "caption": "Siege of Coruscant",
       "initiative": 3,

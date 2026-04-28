@@ -69,6 +69,7 @@
   ],
   "pilots": [
     {
+      "uid": "PFO0001",
       "name": "First Order Sympathizers",
       "initiative": 7,
       "cost": 25,
@@ -100,6 +101,7 @@
       "id": 374
     },
     {
+      "uid": "PFO0002",
       "name": "Cerra Fellian",
       "caption": "Malefactor",
       "initiative": 7,

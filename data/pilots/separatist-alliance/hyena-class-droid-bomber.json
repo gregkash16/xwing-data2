@@ -65,6 +65,7 @@
   ],
   "pilots": [
     {
+      "uid": "PSA0695",
       "name": "Techno Union Bomber",
       "initiative": 1,
       "limited": 0,
@@ -94,6 +95,7 @@
       "id": 324
     },
     {
+      "uid": "PSA0696",
       "name": "Bombardment Drone",
       "caption": "Time on Target",
       "limited": 3,
@@ -123,6 +125,7 @@
       "id": 325
     },
     {
+      "uid": "PSA0697",
       "name": "DBS-404",
       "caption": "Preservation Protocol Not Found",
       "xws": "dbs404",
@@ -153,6 +156,7 @@
       "id": 326
     },
     {
+      "uid": "PSA0698",
       "name": "Baktoid Prototype",
       "caption": "Function over Form",
       "xws": "baktoidprototype",
@@ -184,6 +188,7 @@
       "id": 329
     },
     {
+      "uid": "PSA0699",
       "name": "Separatist Bomber",
       "xws": "separatistbomber",
       "initiative": 3,
@@ -213,6 +218,7 @@
       "id": 327
     },
     {
+      "uid": "PSA0700",
       "name": "DBS-32C",
       "xws": "dbs32c",
       "caption": "Droid Control Signal Relay",
@@ -267,6 +273,7 @@
       "id": 328
     },
     {
+      "uid": "PSA0701",
       "name": "DBS-32C",
       "caption": "Siege of Coruscant",
       "initiative": 3,
@@ -323,6 +330,7 @@
       "id": 585
     },
     {
+      "uid": "PSA0702",
       "name": "DBS-404",
       "caption": "Siege of Coruscant",
       "initiative": 4,
@@ -353,6 +361,7 @@
       "id": 586
     },
     {
+      "uid": "PSA0703",
       "name": "Baktoid Prototype",
       "caption": "Siege of Coruscant",
       "initiative": 1,

@@ -64,6 +64,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEReaper.png",
   "pilots": [
     {
+      "uid": "PEM0179",
       "name": "“Vizier”",
       "caption": "Ruthless Tactician",
       "initiative": 2,
@@ -93,6 +94,7 @@
       "id": 185
     },
     {
+      "uid": "PEM0180",
       "name": "Captain Feroph",
       "caption": "Imperial Courier",
       "initiative": 3,
@@ -122,6 +124,7 @@
       "id": 184
     },
     {
+      "uid": "PEM0181",
       "name": "Major Vermeil",
       "caption": "Veteran of Scarif",
       "initiative": 4,
@@ -152,6 +155,7 @@
       "id": 183
     },
     {
+      "uid": "PEM0182",
       "name": "Scarif Base Pilot",
       "initiative": 1,
       "limited": 0,

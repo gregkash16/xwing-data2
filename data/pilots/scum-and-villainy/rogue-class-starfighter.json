@@ -83,6 +83,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_Rogue.png",
   "pilots": [
     {
+      "uid": "PSV0627",
       "name": "Cad Bane",
       "caption": "Infamous Bounty Hunter",
       "initiative": 4,
@@ -121,6 +122,7 @@
       "id": 534
     },
     {
+      "uid": "PSV0628",
       "name": "Viktor Hel",
       "caption": "Storied Bounty Hunter",
       "initiative": 4,
@@ -153,6 +155,7 @@
       "id": 535
     },
     {
+      "uid": "PSV0629",
       "name": "Nom Lumb",
       "caption": "Laughing Bandit",
       "initiative": 1,
@@ -184,6 +187,7 @@
       "id": 536
     },
     {
+      "uid": "PSV0630",
       "name": "Outer Rim Hunter",
       "initiative": 3,
       "limited": 0,
@@ -211,6 +215,7 @@
       "id": 537
     },
     {
+      "uid": "PSV0631",
       "name": "Durge",
       "caption": "Hard to Kill",
       "initiative": 5,
@@ -244,6 +249,7 @@
       "id": 611
     },
     {
+      "uid": "PSV0632",
       "name": "Cad Bane",
       "caption": "Armed and Dangerous",
       "initiative": 4,

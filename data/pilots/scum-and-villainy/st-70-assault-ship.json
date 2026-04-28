@@ -68,6 +68,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_ST-70.png",
   "pilots": [
     {
+      "uid": "PSV0636",
       "name": "The Mandalorian",
       "caption": "Din Djarin",
       "initiative": 5,
@@ -98,6 +99,7 @@
       "id": 522
     },
     {
+      "uid": "PSV0637",
       "name": "Q9-0",
       "caption": "Zero",
       "initiative": 5,
@@ -145,6 +147,7 @@
       "id": 521
     },
     {
+      "uid": "PSV0638",
       "name": "Guild Bounty Hunter",
       "caption": "Blaster for Hire",
       "initiative": 3,
@@ -173,6 +176,7 @@
       "id": 523
     },
     {
+      "uid": "PSV0639",
       "name": "Outer Rim Enforcer",
       "initiative": 2,
       "limited": 0,

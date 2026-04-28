@@ -62,6 +62,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_AlphaStarwing.png",
   "pilots": [
     {
+      "uid": "PEM0072",
       "name": "Lieutenant Karsabi",
       "caption": "Brash Noble",
       "initiative": 3,
@@ -87,6 +88,7 @@
       "id": 162
     },
     {
+      "uid": "PEM0073",
       "name": "Major Vynder",
       "caption": "Pragmatic Survivor",
       "initiative": 4,
@@ -112,6 +114,7 @@
       "id": 161
     },
     {
+      "uid": "PEM0074",
       "name": "Nu Squadron Pilot",
       "initiative": 2,
       "limited": 0,
@@ -135,6 +138,7 @@
       "id": 164
     },
     {
+      "uid": "PEM0075",
       "name": "Rho Squadron Pilot",
       "initiative": 3,
       "limited": 0,
@@ -159,6 +163,7 @@
       "id": 163
     },
     {
+      "uid": "PEM0076",
       "name": "Lieutenant Karsabi",
       "caption": "Payload Courier",
       "initiative": 3,
@@ -216,6 +221,7 @@
       "id": 674
     },
     {
+      "uid": "PEM0077",
       "name": "Major Vynder",
       "caption": "Helping Hand",
       "initiative": 4,

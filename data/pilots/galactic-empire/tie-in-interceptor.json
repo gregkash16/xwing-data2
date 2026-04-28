@@ -61,6 +61,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEInterceptor.png",
   "pilots": [
     {
+      "uid": "PEM0121",
       "name": "Alpha Squadron Pilot",
       "initiative": 1,
       "limited": 0,
@@ -88,6 +89,7 @@
       "id": 182
     },
     {
+      "uid": "PEM0122",
       "name": "Saber Squadron Ace",
       "initiative": 4,
       "limited": 0,
@@ -116,6 +118,7 @@
       "id": 181
     },
     {
+      "uid": "PEM0123",
       "name": "Soontir Fel",
       "caption": "Ace of Legend",
       "initiative": 6,
@@ -146,6 +149,7 @@
       "id": 179
     },
     {
+      "uid": "PEM0124",
       "name": "Turr Phennir",
       "caption": "Ambitious Ace",
       "initiative": 4,
@@ -175,6 +179,7 @@
       "id": 180
     },
     {
+      "uid": "PEM0125",
       "name": "Ciena Ree",
       "xws": "cienaree",
       "initiative": 6,
@@ -203,6 +208,7 @@
       "id": 455
     },
     {
+      "uid": "PEM0126",
       "name": "Gideon Hask",
       "xws": "gideonhask-tieininterceptor",
       "initiative": 4,
@@ -232,6 +238,7 @@
       "id": 456
     },
     {
+      "uid": "PEM0127",
       "name": "Vult Skerris",
       "xws": "vultskerris-tieininterceptor",
       "initiative": 5,
@@ -266,6 +273,7 @@
       "id": 468
     },
     {
+      "uid": "PEM0128",
       "name": "Commandant Goran",
       "xws": "commandantgoran",
       "initiative": 4,
@@ -295,6 +303,7 @@
       "id": 465
     },
     {
+      "uid": "PEM0129",
       "name": "Lieutenant Lorrir",
       "xws": "lieutenantlorrir",
       "initiative": 3,
@@ -324,6 +333,7 @@
       "id": 467
     },
     {
+      "uid": "PEM0130",
       "name": "Nash Windrider",
       "xws": "nashwindrider",
       "initiative": 2,
@@ -357,6 +367,7 @@
       "id": 466
     },
     {
+      "uid": "PEM0131",
       "name": "Iden Versio",
       "caption": "Battle of Yavin",
       "xws": "idenversio-battleofyavin",
@@ -409,6 +420,7 @@
       "id": 569
     },
     {
+      "uid": "PEM0132",
       "name": "Sigma 4",
       "caption": "Battle of Yavin",
       "xws": "sigma4-battleofyavin",
@@ -457,6 +469,7 @@
       "id": 570
     },
     {
+      "uid": "PEM0133",
       "name": "Sigma 5",
       "caption": "Battle of Yavin",
       "xws": "sigma5-battleofyavin",
@@ -505,6 +518,7 @@
       "id": 571
     },
     {
+      "uid": "PEM0134",
       "name": "Sigma 6",
       "caption": "Battle of Yavin",
       "xws": "sigma6-battleofyavin",
@@ -553,6 +567,7 @@
       "id": 572
     },
     {
+      "uid": "PEM0135",
       "name": "Sigma 7",
       "caption": "Battle of Yavin",
       "xws": "sigma7-battleofyavin",
@@ -623,6 +638,7 @@
       "id": 573
     },
     {
+      "uid": "PEM0136",
       "name": "Second Sister",
       "xws": "secondsister",
       "initiative": 4,
@@ -658,6 +674,7 @@
       "id": 601
     },
     {
+      "uid": "PEM0137",
       "name": "Sapphire 2",
       "caption": "Battle Over Endor",
       "xws": "sapphire2-battleoverendor",
@@ -689,6 +706,7 @@
       "id": 667
     },
     {
+      "uid": "PEM0138",
       "name": "Soontir Fel",
       "caption": "Battle Over Endor",
       "xws": "soontirfel-battleoverendor",
@@ -724,6 +742,7 @@
       "id": 668
     },
     {
+      "uid": "PEM0139",
       "name": "Maus Monare",
       "caption": "Battle Over Endor",
       "xws": "mausmonare-battleoverendor",
@@ -773,6 +792,7 @@
       "id": 666
     },
     {
+      "uid": "PEM0140",
       "name": "Carnor Jax",
       "initiative": 5,
       "limited": 0,

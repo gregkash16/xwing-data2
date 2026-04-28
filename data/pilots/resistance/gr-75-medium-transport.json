@@ -69,6 +69,7 @@
   ],
   "pilots": [
     {
+      "uid": "PRE0466",
       "name": "New Republic Volunteers",
       "initiative": 7,
       "cost": 23,
@@ -100,6 +101,7 @@
       "id": 372
     },
     {
+      "uid": "PRE0467",
       "name": "Oraf Desyk",
       "caption": "Hosnian Lament",
       "initiative": 7,

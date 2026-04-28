@@ -65,6 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_B-wing.png",
   "pilots": [
     {
+      "uid": "PRB0302",
       "name": "Blade Squadron Veteran",
       "initiative": 3,
       "limited": 0,
@@ -94,6 +95,7 @@
       "id": 75
     },
     {
+      "uid": "PRB0303",
       "name": "Blue Squadron Pilot",
       "initiative": 2,
       "limited": 0,
@@ -122,6 +124,7 @@
       "id": 76
     },
     {
+      "uid": "PRB0304",
       "name": "Braylen Stramm",
       "caption": "Blade Leader",
       "initiative": 4,
@@ -152,6 +155,7 @@
       "id": 73
     },
     {
+      "uid": "PRB0305",
       "name": "Ten Numb",
       "caption": "Blue Five",
       "initiative": 4,
@@ -182,6 +186,7 @@
       "id": 74
     },
     {
+      "uid": "PRB0306",
       "name": "Gina Moonsong",
       "xws": "ginamoonsong",
       "initiative": 5,
@@ -212,6 +217,7 @@
       "id": 391
     },
     {
+      "uid": "PRB0307",
       "name": "Hera Syndulla",
       "xws": "herasyndulla-asf01bwing",
       "initiative": 6,
@@ -245,6 +251,7 @@
       "id": 450
     },
     {
+      "uid": "PRB0308",
       "name": "Netrem Pollard",
       "xws": "netrempollard",
       "initiative": 3,
@@ -274,6 +281,7 @@
       "id": 464
     },
     {
+      "uid": "PRB0309",
       "name": "Adon Fox",
       "caption": "Battle Over Endor",
       "xws": "adonfox-battleoverendor",
@@ -335,6 +343,7 @@
       "id": 657
     },
     {
+      "uid": "PRB0310",
       "name": "Gina Moonsong",
       "caption": "Battle Over Endor",
       "xws": "ginamoonsong-battleoverendor",
@@ -415,6 +424,7 @@
       "id": 659
     },
     {
+      "uid": "PRB0311",
       "name": "Braylen Stramm",
       "caption": "Battle Over Endor",
       "xws": "braylenstramm-battleoverendor",

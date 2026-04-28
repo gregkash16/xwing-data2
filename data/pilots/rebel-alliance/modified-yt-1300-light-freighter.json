@@ -65,6 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_Falcon.png",
   "pilots": [
     {
+      "uid": "PRB0358",
       "name": "Chewbacca",
       "caption": "The Mighty",
       "initiative": 4,
@@ -102,6 +103,7 @@
       "id": 44
     },
     {
+      "uid": "PRB0359",
       "name": "Han Solo",
       "caption": "Scoundrel for Hire",
       "initiative": 6,
@@ -136,6 +138,7 @@
       "id": 42
     },
     {
+      "uid": "PRB0360",
       "name": "Lando Calrissian",
       "caption": "General of the Alliance",
       "initiative": 5,
@@ -169,6 +172,7 @@
       "id": 43
     },
     {
+      "uid": "PRB0361",
       "name": "Outer Rim Smuggler",
       "initiative": 1,
       "limited": 0,
@@ -197,6 +201,7 @@
       "id": 45
     },
     {
+      "uid": "PRB0362",
       "name": "Leia Organa",
       "xws": "leiaorgana",
       "initiative": 5,
@@ -238,6 +243,7 @@
       "id": 393
     },
     {
+      "uid": "PRB0363",
       "name": "Han Solo",
       "caption": "Battle of Yavin",
       "initiative": 6,
@@ -274,6 +280,7 @@
       "id": 559
     },
     {
+      "uid": "PRB0364",
       "name": "Lando Calrissian",
       "caption": "Battle Over Endor",
       "initiative": 5,

@@ -69,6 +69,7 @@
   ],
   "pilots": [
     {
+      "uid": "PGR0256",
       "name": "Anakin Skywalker",
       "caption": "Hero of Coruscant",
       "initiative": 6,
@@ -110,6 +111,7 @@
       "id": 441
     },
     {
+      "uid": "PGR0257",
       "name": "Obi-Wan Kenobi",
       "xws": "obiwankenobi-eta2actis",
       "initiative": 5,
@@ -147,6 +149,7 @@
       "id": 440
     },
     {
+      "uid": "PGR0258",
       "name": "Aayla Secura",
       "xws": "aaylasecura",
       "initiative": 5,
@@ -184,6 +187,7 @@
       "id": 439
     },
     {
+      "uid": "PGR0259",
       "name": "Shaak Ti",
       "xws": "shaakti",
       "initiative": 4,
@@ -221,6 +225,7 @@
       "id": 438
     },
     {
+      "uid": "PGR0260",
       "name": "Jedi General",
       "xws": "jedigeneral",
       "initiative": 4,
@@ -256,6 +261,7 @@
       "id": 436
     },
     {
+      "uid": "PGR0261",
       "name": "Yoda",
       "xws": "yoda",
       "initiative": 3,
@@ -293,6 +299,7 @@
       "id": 437
     },
     {
+      "uid": "PGR0262",
       "name": "Anakin Skywalker",
       "caption": "Siege of Coruscant",
       "initiative": 6,
@@ -329,6 +336,7 @@
       "id": 574
     },
     {
+      "uid": "PGR0263",
       "name": "Obi-Wan Kenobi",
       "caption": "Siege of Coruscant",
       "initiative": 5,
@@ -364,6 +372,7 @@
       "id": 575
     },
     {
+      "uid": "PGR0264",
       "name": "Shaak Ti",
       "caption": "Siege of Coruscant",
       "initiative": 4,
@@ -400,6 +409,7 @@
       "id": 576
     },
     {
+      "uid": "PGR0265",
       "name": "Kit Fisto",
       "xws": "kitfisto",
       "initiative": 4,
@@ -437,6 +447,7 @@
       "id": 622
     },
     {
+      "uid": "PGR0266",
       "name": "Quinlan Vos",
       "xws": "quinlanvos-legendsandrelics",
       "initiative": 4,
@@ -454,7 +465,7 @@
       },
       "ability": "After you perform a [Barrel Roll] or [Boost] action, you may acquire a lock on a ship in your [Bullseye Arc].",
       "cost": 11,
-      "loadout": 11,
+      "loadout": 14,
       "image": "https://infinitearenas.com/xw2xwa/images/pilots/quinlanvos-legendsandrelics.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/quinlanvos-legendsandrelics.png",
       "slots": [

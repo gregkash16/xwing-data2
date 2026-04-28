@@ -63,6 +63,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/separatist-alliance/I_SithInfiltrator.png",
   "pilots": [
     {
+      "uid": "PSA0717",
       "name": "Darth Maul",
       "caption": "Sith Assassin",
       "initiative": 5,
@@ -103,6 +104,7 @@
       "id": 272
     },
     {
+      "uid": "PSA0718",
       "name": "Count Dooku",
       "caption": "Darth Tyranus",
       "initiative": 3,
@@ -142,6 +144,7 @@
       "id": 334
     },
     {
+      "uid": "PSA0719",
       "name": "Dark Courier",
       "initiative": 2,
       "limited": 0,
@@ -166,6 +169,7 @@
       "id": 336
     },
     {
+      "uid": "PSA0720",
       "name": "0-66",
       "xws": "066",
       "cost": 12,
@@ -211,6 +215,7 @@
       "id": 335
     },
     {
+      "uid": "PSA0721",
       "name": "Count Dooku",
       "caption": "Siege of Coruscant",
       "initiative": 5,

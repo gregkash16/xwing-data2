@@ -61,6 +61,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_MistHunter.png",
   "pilots": [
     {
+      "uid": "PSV0572",
       "name": "4-LOM",
       "caption": "Reprogrammed Protocol Droid",
       "initiative": 3,
@@ -105,6 +106,7 @@
       "id": 109
     },
     {
+      "uid": "PSV0573",
       "name": "Gand Findsman",
       "initiative": 1,
       "limited": 0,
@@ -131,6 +133,7 @@
       "id": 111
     },
     {
+      "uid": "PSV0574",
       "name": "Zuckuss",
       "caption": "Meditative Gand",
       "initiative": 3,
@@ -160,6 +163,7 @@
       "id": 110
     },
     {
+      "uid": "PSV0575",
       "name": "Zuckuss",
       "caption": "Armed and Dangerous",
       "initiative": 3,

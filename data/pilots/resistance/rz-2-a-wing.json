@@ -69,6 +69,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/resistance/I_RZ-2_A-wing.png",
   "pilots": [
     {
+      "uid": "PRE0487",
       "name": "L’ulo L’ampar",
       "caption": "Luminous Mentor",
       "initiative": 5,
@@ -100,6 +101,7 @@
       "id": 239
     },
     {
+      "uid": "PRE0488",
       "name": "Tallissan Lintra",
       "caption": "Deadly Approach",
       "initiative": 5,
@@ -136,6 +138,7 @@
       "id": 240
     },
     {
+      "uid": "PRE0489",
       "name": "Zari Bangel",
       "caption": "Aerial Exhibitionist",
       "initiative": 3,
@@ -167,6 +170,7 @@
       "id": 271
     },
     {
+      "uid": "PRE0490",
       "name": "Greer Sonnel",
       "caption": "Kothan Si",
       "initiative": 4,
@@ -197,11 +201,12 @@
       "id": 270
     },
     {
+      "uid": "PRE0491",
       "name": "Green Squadron Expert",
       "initiative": 3,
       "limited": 0,
       "cost": 9,
-      "loadout": 8,
+      "loadout": 10,
       "xws": "greensquadronexpert",
       "text": "Years of field-expedient modifications were standardized in the RZ-2 design, but daring pilots see the ship's improved reliability as a challenge to further push the limits of its performance.",
       "shipAbility": {
@@ -227,6 +232,7 @@
       "id": 300
     },
     {
+      "uid": "PRE0492",
       "name": "Blue Squadron Recruit",
       "initiative": 1,
       "limited": 0,
@@ -256,6 +262,7 @@
       "id": 301
     },
     {
+      "uid": "PRE0493",
       "name": "Zizi Tlo",
       "xws": "zizitlo",
       "initiative": 5,
@@ -292,6 +299,7 @@
       "id": 387
     },
     {
+      "uid": "PRE0494",
       "name": "Ronith Blario",
       "xws": "ronithblario",
       "initiative": 2,
@@ -322,6 +330,7 @@
       "id": 388
     },
     {
+      "uid": "PRE0495",
       "name": "Merl Cobben",
       "caption": "Distracting Daredevil",
       "initiative": 1,
@@ -352,6 +361,7 @@
       "id": 444
     },
     {
+      "uid": "PRE0496",
       "name": "Suralinda Javos",
       "caption": "Inquisitive Journalist",
       "initiative": 3,
@@ -382,6 +392,7 @@
       "id": 445
     },
     {
+      "uid": "PRE0497",
       "name": "Wrobie Tyce",
       "caption": "Dynamic Aerialist",
       "initiative": 4,
@@ -412,6 +423,7 @@
       "id": 446
     },
     {
+      "uid": "PRE0498",
       "name": "Seftin Vanik",
       "caption": "Skillful Wingmate",
       "initiative": 5,
@@ -443,6 +455,7 @@
       "id": 447
     },
     {
+      "uid": "PRE0499",
       "name": "Ronith Blario",
       "caption": "Evacuation of D'Qar",
       "initiative": 2,
@@ -473,6 +486,7 @@
       "id": 706
     },
     {
+      "uid": "PRE0500",
       "name": "Tallissan Lintra",
       "caption": "Evacuation of D'Qar",
       "initiative": 5,
@@ -534,6 +548,7 @@
       "id": 707
     },
     {
+      "uid": "PRE0501",
       "name": "Zizi Tlo",
       "caption": "Evacuation of D'Qar",
       "initiative": 5,

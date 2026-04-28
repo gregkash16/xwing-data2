@@ -86,6 +86,7 @@
   ],
   "pilots": [
     {
+      "uid": "PFO0054",
       "name": "Kylo Ren",
       "xws": "kyloren-tiewiwhispermodifiedinterceptor",
       "initiative": 5,
@@ -129,6 +130,7 @@
       "id": 487
     },
     {
+      "uid": "PFO0055",
       "name": "“Wrath”",
       "xws": "wrath",
       "initiative": 5,
@@ -162,6 +164,7 @@
       "id": 488
     },
     {
+      "uid": "PFO0056",
       "name": "“Nightfall”",
       "xws": "nightfall",
       "initiative": 4,
@@ -195,6 +198,7 @@
       "id": 489
     },
     {
+      "uid": "PFO0057",
       "name": "“Whirlwind”",
       "xws": "whirlwind",
       "initiative": 3,
@@ -228,6 +232,7 @@
       "id": 490
     },
     {
+      "uid": "PFO0058",
       "name": "709th Legion Ace",
       "xws": "709thlegionace",
       "initiative": 4,
@@ -260,6 +265,7 @@
       "id": 491
     },
     {
+      "uid": "PFO0059",
       "name": "Red Fury Zealot",
       "xws": "redfuryzealot",
       "initiative": 2,

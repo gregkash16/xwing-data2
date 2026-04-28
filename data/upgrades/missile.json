@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN1112",
     "name": "Barrage Rockets",
     "limited": 0,
     "xws": "barragerockets",
@@ -36,6 +37,7 @@
     "restricted": 2
   },
   {
+    "uid": "UGN1113",
     "name": "Cluster Missiles",
     "limited": 0,
     "xws": "clustermissiles",
@@ -71,6 +73,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1114",
     "name": "Concussion Missiles",
     "limited": 0,
     "xws": "concussionmissiles",
@@ -106,6 +109,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1115",
     "name": "Homing Missiles",
     "limited": 0,
     "xws": "homingmissiles",
@@ -141,6 +145,7 @@
     "restricted": 2
   },
   {
+    "uid": "UGN1116",
     "name": "Ion Missiles",
     "limited": 0,
     "xws": "ionmissiles",
@@ -176,6 +181,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1117",
     "name": "Proton Rockets",
     "limited": 0,
     "xws": "protonrockets",
@@ -211,6 +217,7 @@
     "restricted": 3
   },
   {
+    "uid": "USA1118",
     "name": "Energy-Shell Charges",
     "limited": 0,
     "xws": "energyshellcharges",
@@ -259,6 +266,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA1119",
     "name": "Discord Missiles",
     "limited": 3,
     "xws": "discordmissiles",
@@ -310,6 +318,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1120",
     "name": "Diamond-Boron Missiles",
     "limited": 1,
     "xws": "diamondboronmissiles",
@@ -346,6 +355,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1121",
     "name": "Mag-Pulse Warheads",
     "limited": 0,
     "xws": "magpulsewarheads",
@@ -381,6 +391,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1122",
     "name": "Electro-Chaff Missiles",
     "limited": 2,
     "xws": "electrochaffmissiles",
@@ -410,6 +421,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1123",
     "name": "Multi-Missile Pods",
     "limited": 0,
     "xws": "multimissilepods",
@@ -446,6 +458,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1124",
     "name": "XX-23 S-Thread Tracers",
     "limited": 2,
     "xws": "xx23sthreadtracers",
@@ -481,6 +494,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1125",
     "name": "Seeker Missiles",
     "limited": 0,
     "xws": "seekermissiles-swz103",
@@ -515,6 +529,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1126",
     "name": "Seeker Missiles",
     "limited": 0,
     "xws": "seekermissiles-legendsandrelics",
@@ -548,6 +563,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1127",
     "name": "Saturation Rockets",
     "limited": 1,
     "xws": "saturationrockets-alphaclassstarwing",
@@ -579,6 +595,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1128",
     "name": "Heavy Plasma Missiles",
     "limited": 1,
     "xws": "heavyplasmamissiles-alphaclassstarwing",

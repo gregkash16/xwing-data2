@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN1189",
     "name": "Composure",
     "limited": 0,
     "xws": "composure",
@@ -31,6 +32,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1190",
     "name": "Crack Shot",
     "limited": 0,
     "xws": "crackshot",
@@ -59,6 +61,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1191",
     "name": "Daredevil",
     "limited": 0,
     "xws": "daredevil",
@@ -96,6 +99,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1192",
     "name": "Debris Gambit",
     "limited": 0,
     "xws": "debrisgambit",
@@ -143,6 +147,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1193",
     "name": "Elusive",
     "limited": 0,
     "xws": "elusive",
@@ -179,6 +184,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1194",
     "name": "Expert Handling",
     "limited": 0,
     "xws": "experthandling",
@@ -226,6 +232,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO1195",
     "name": "Fanatical",
     "limited": 0,
     "xws": "fanatical",
@@ -257,6 +264,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1196",
     "name": "Fearless",
     "limited": 0,
     "xws": "fearless",
@@ -288,6 +296,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE1197",
     "name": "Heroic",
     "limited": 0,
     "xws": "heroic",
@@ -319,6 +328,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1198",
     "name": "Intimidation",
     "limited": 0,
     "xws": "intimidation",
@@ -343,6 +353,7 @@
     "restricted": 1
   },
   {
+    "uid": "UGN1199",
     "name": "Juke",
     "limited": 0,
     "xws": "juke",
@@ -375,6 +386,7 @@
     "restricted": 2
   },
   {
+    "uid": "UGN1200",
     "name": "Lone Wolf",
     "limited": 1,
     "xws": "lonewolf",
@@ -403,6 +415,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1201",
     "name": "Marksmanship",
     "limited": 0,
     "xws": "marksmanship",
@@ -427,6 +440,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1202",
     "name": "Outmaneuver",
     "limited": 0,
     "xws": "outmaneuver",
@@ -451,6 +465,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1203",
     "name": "Predator",
     "limited": 0,
     "xws": "predator",
@@ -475,6 +490,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1204",
     "name": "Ruthless",
     "limited": 0,
     "xws": "ruthless",
@@ -506,6 +522,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1205",
     "name": "Saturation Salvo",
     "limited": 0,
     "xws": "saturationsalvo",
@@ -537,6 +554,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1206",
     "name": "Selfless",
     "limited": 0,
     "xws": "selfless",
@@ -568,6 +586,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1207",
     "name": "Squad Leader",
     "limited": 1,
     "xws": "squadleader",
@@ -607,6 +626,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1208",
     "name": "Swarm Tactics",
     "limited": 0,
     "xws": "swarmtactics",
@@ -631,6 +651,7 @@
     "restricted": 3
   },
   {
+    "uid": "UGN1209",
     "name": "Trick Shot",
     "limited": 0,
     "xws": "trickshot",
@@ -655,6 +676,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA1210",
     "name": "Treacherous",
     "xws": "treacherous",
     "limited": 0,
@@ -690,6 +712,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR1211",
     "name": "Dedicated",
     "xws": "dedicated",
     "limited": 0,
@@ -726,6 +749,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1212",
     "name": "Ensnare",
     "xws": "ensnare",
     "limited": 0,
@@ -757,6 +781,7 @@
     "restricted": 2
   },
   {
+    "uid": "UGN1213",
     "name": "Snap Shot",
     "limited": 0,
     "xws": "snapshot",
@@ -788,6 +813,7 @@
     "restricted": 3
   },
   {
+    "uid": "UGN1214",
     "sides": [
       {
         "title": "Gravitic Deflection",
@@ -819,6 +845,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO1215",
     "name": "Proud Tradition",
     "limited": 0,
     "xws": "proudtradition",
@@ -860,6 +887,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1216",
     "sides": [
       {
         "title": "Deadeye Shot",
@@ -892,6 +920,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1217",
     "name": "Backwards Tailslide",
     "limited": 0,
     "xws": "backwardstailslide",
@@ -928,6 +957,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1218",
     "name": "Ion Limiter Override",
     "limited": 0,
     "xws": "ionlimiteroverride",
@@ -959,6 +989,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1219",
     "name": "Marg Sabl Closure",
     "limited": 0,
     "xws": "margsablclosure",
@@ -991,6 +1022,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1220",
     "name": "Starbird Slash",
     "limited": 0,
     "xws": "starbirdslash",
@@ -1022,6 +1054,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV1221",
     "name": "Cutthroat",
     "limited": 0,
     "xws": "cutthroat",
@@ -1053,6 +1086,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM1222",
     "name": "Disciplined",
     "limited": 0,
     "xws": "disciplined",
@@ -1084,6 +1118,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB1223",
     "name": "Hopeful",
     "limited": 0,
     "xws": "hopeful",
@@ -1115,6 +1150,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1224",
     "name": "Interloper Turn",
     "limited": 0,
     "xws": "interloperturn",
@@ -1146,6 +1182,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1225",
     "name": "Tierfon Belly Run",
     "limited": 0,
     "xws": "tierfonbellyrun",
@@ -1177,6 +1214,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1226",
     "name": "Feedback Ping",
     "limited": 0,
     "xws": "feedbackping",
@@ -1213,6 +1251,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1227",
     "name": "Clan Training",
     "limited": 0,
     "xws": "clantraining",
@@ -1248,6 +1287,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1228",
     "name": "Notorious",
     "limited": 1,
     "xws": "notorious",
@@ -1283,6 +1323,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1229",
     "name": "Enduring",
     "limited": 0,
     "xws": "enduring",
@@ -1307,6 +1348,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1230",
     "name": "Attack Speed",
     "limited": 0,
     "xws": "attackspeed-battleofyavin",
@@ -1327,6 +1369,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1231",
     "name": "Fanatic",
     "limited": 0,
     "xws": "fanatic-battleofyavin",
@@ -1347,6 +1390,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1232",
     "name": "Vengeful",
     "limited": 0,
     "xws": "vengeful-battleofyavin",
@@ -1367,6 +1411,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1233",
     "name": "Efficient Processing",
     "limited": 0,
     "xws": "efficientprocessing-swz103",
@@ -1387,6 +1432,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1234",
     "name": "Mercenary",
     "limited": 0,
     "xws": "mercenary-swz103",
@@ -1407,6 +1453,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1235",
     "name": "Swift Approach",
     "limited": 0,
     "xws": "swiftapproach-swz98",
@@ -1427,6 +1474,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1236",
     "name": "Top Cover",
     "limited": 0,
     "xws": "topcover-swz98",
@@ -1447,6 +1495,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1237",
     "name": "True Grit",
     "limited": 0,
     "xws": "truegrit-swz98",
@@ -1467,6 +1516,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1238",
     "name": "No Escape",
     "limited": 0,
     "xws": "noescape-battleoverendor",
@@ -1487,6 +1537,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1239",
     "name": "Push The Limit",
     "limited": 0,
     "xws": "pushthelimit-battleoverendor",
@@ -1507,6 +1558,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1240",
     "name": "Reckless",
     "limited": 0,
     "xws": "reckless-battleoverendor",
@@ -1527,6 +1579,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1241",
     "name": "Apex Predator",
     "limited": 0,
     "xws": "apexpredator-battleoverendor",
@@ -1547,6 +1600,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1242",
     "name": "It's a Trap!",
     "limited": 0,
     "xws": "itsatrap-battleoverendor",
@@ -1567,6 +1621,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1243",
     "name": "Ace in the Hole",
     "limited": 0,
     "xws": "aceinthehole-battleoverendor",
@@ -1591,6 +1646,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1244",
     "name": "Collected",
     "limited": 0,
     "xws": "collected-battleoverendor",
@@ -1611,6 +1667,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1245",
     "name": "Parting Gift",
     "limited": 0,
     "xws": "partinggift-battleoverendor",
@@ -1631,6 +1688,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1246",
     "name": "Parting Gift",
     "limited": 0,
     "xws": "partinggift-legendsandrelics",
@@ -1653,6 +1711,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1247",
     "name": "Heroic Sacrifice",
     "limited": 0,
     "xws": "heroicsacrifice-battleoverendor",
@@ -1673,6 +1732,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1248",
     "name": "Without a Trace",
     "limited": 0,
     "xws": "withoutatrace-tiephphantom",
@@ -1693,6 +1753,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1249",
     "name": "Silent Hunter",
     "limited": 0,
     "xws": "silenthunter-tiephphantom",
@@ -1713,6 +1774,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1250",
     "name": "Stealth Gambit",
     "limited": 0,
     "xws": "stealthgambit-tiephphantom",
@@ -1733,6 +1795,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1251",
     "name": "Determination",
     "limited": 0,
     "xws": "determination-evacuationofdqar",
@@ -1753,6 +1816,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1252",
     "name": "Mandalorian Tactics",
     "limited": 0,
     "xws": "mandaloriantactics-armedanddangerous",
@@ -1773,6 +1837,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1253",
     "name": "Crime Lord",
     "limited": 1,
     "xws": "crimelord-armedanddangerous",
@@ -1797,6 +1862,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1254",
     "name": "Persistent Tracker",
     "limited": 0,
     "xws": "persistenttracker-armedanddangerous",
@@ -1821,6 +1887,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1255",
     "name": "For the Cause",
     "limited": 0,
     "xws": "forthecause-evacuationofdqar",
@@ -1841,6 +1908,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1256",
     "name": "Escort Fighter",
     "limited": 0,
     "xws": "escortfighter-evacuationofdqar",
@@ -1865,6 +1933,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1257",
     "name": "Fanatical",
     "limited": 0,
     "xws": "fanatical-epicsl",
@@ -1885,6 +1954,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1258",
     "name": "Born For This",
     "limited": 0,
     "xws": "bornforthis-epicsl",

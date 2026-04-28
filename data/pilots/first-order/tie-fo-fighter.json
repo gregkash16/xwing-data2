@@ -65,6 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_TIEfo.png",
   "pilots": [
     {
+      "uid": "PFO0009",
       "name": "“Midnight”",
       "caption": "Omega Leader",
       "initiative": 6,
@@ -93,6 +94,7 @@
       "id": 233
     },
     {
+      "uid": "PFO0010",
       "name": "Commander Malarus",
       "caption": "First Order Enforcer",
       "initiative": 5,
@@ -125,6 +127,7 @@
       "id": 266
     },
     {
+      "uid": "PFO0011",
       "name": "“Scorch”",
       "caption": "Zeta Leader",
       "initiative": 4,
@@ -152,6 +155,7 @@
       "id": 262
     },
     {
+      "uid": "PFO0012",
       "name": "“Static”",
       "caption": "Omega Ace",
       "initiative": 4,
@@ -178,6 +182,7 @@
       "id": 264
     },
     {
+      "uid": "PFO0013",
       "name": "“Longshot”",
       "caption": "Zeta Ace",
       "initiative": 3,
@@ -203,6 +208,7 @@
       "id": 263
     },
     {
+      "uid": "PFO0014",
       "name": "Omega Squadron Ace",
       "initiative": 3,
       "limited": 0,
@@ -228,6 +234,7 @@
       "id": 267
     },
     {
+      "uid": "PFO0015",
       "name": "“Muse”",
       "caption": "Epsilon Leader",
       "initiative": 2,
@@ -254,6 +261,7 @@
       "id": 235
     },
     {
+      "uid": "PFO0016",
       "name": "TN-3465",
       "caption": "Loose End",
       "initiative": 2,
@@ -279,6 +287,7 @@
       "id": 261
     },
     {
+      "uid": "PFO0017",
       "name": "Zeta Squadron Pilot",
       "initiative": 2,
       "limited": 0,
@@ -303,6 +312,7 @@
       "id": 268
     },
     {
+      "uid": "PFO0018",
       "name": "Epsilon Squadron Cadet",
       "initiative": 1,
       "limited": 0,
@@ -323,6 +333,7 @@
       "id": 269
     },
     {
+      "uid": "PFO0019",
       "name": "Lieutenant Rivas",
       "caption": "Inconvenient Witness",
       "initiative": 1,
@@ -348,6 +359,7 @@
       "id": 265
     },
     {
+      "uid": "PFO0020",
       "name": "“Null”",
       "caption": "Epsilon Ace",
       "initiative": 0,
@@ -373,6 +385,7 @@
       "id": 290
     },
     {
+      "uid": "PFO0021",
       "name": "Lieutenant Galek",
       "caption": "Harsh Instructor",
       "initiative": 5,
@@ -400,6 +413,7 @@
       "id": 625
     },
     {
+      "uid": "PFO0022",
       "name": "DT-798",
       "caption": "Jace Rucklin",
       "initiative": 4,
@@ -426,6 +440,7 @@
       "id": 627
     },
     {
+      "uid": "PFO0023",
       "name": "Lin Gaava",
       "caption": "Impetuous Mechanic",
       "initiative": 3,
@@ -455,6 +470,7 @@
       "id": 628
     },
     {
+      "uid": "PFO0024",
       "name": "“Longshot”",
       "caption": "Evacuation of D'Qar",
       "initiative": 3,
@@ -485,6 +501,7 @@
       "id": 694
     },
     {
+      "uid": "PFO0025",
       "name": "“Midnight”",
       "caption": "Evacuation of D'Qar",
       "initiative": 6,
@@ -515,6 +532,7 @@
       "id": 695
     },
     {
+      "uid": "PFO0026",
       "name": "Omega 2",
       "caption": "Evacuation of D'Qar",
       "initiative": 3,
@@ -566,6 +584,7 @@
       "id": 697
     },
     {
+      "uid": "PFO0027",
       "name": "“Scorch”",
       "caption": "Evacuation of D'Qar",
       "initiative": 4,
@@ -596,6 +615,7 @@
       "id": 693
     },
     {
+      "uid": "PFO0028",
       "name": "Zeta 5",
       "caption": "Evacuation of D'Qar",
       "initiative": 2,
@@ -626,6 +646,7 @@
       "id": 696
     },
     {
+      "uid": "PFO0029",
       "name": "Tamara Ryvora",
       "caption": "DT-533",
       "initiative": 4,

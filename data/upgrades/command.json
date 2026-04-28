@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN0803",
     "name": "Agent of the Empire",
     "limited": 1,
     "xws": "agentoftheempire",
@@ -24,6 +25,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0804",
     "name": "Dreadnought Hunter",
     "limited": 2,
     "xws": "dreadnoughthunter",
@@ -48,6 +50,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0805",
     "name": "First Order Elite",
     "limited": 1,
     "xws": "firstorderelite",
@@ -72,6 +75,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0806",
     "name": "Veteran Wing Leader",
     "limited": 0,
     "xws": "veteranwingleader",
@@ -96,6 +100,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0807",
     "name": "Admiral Ozzel",
     "limited": 1,
     "xws": "admiralozzel",
@@ -121,6 +126,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0808",
     "name": "Azmorigan",
     "limited": 1,
     "xws": "azmorigan",
@@ -146,6 +152,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0809",
     "name": "Captain Needa",
     "limited": 1,
     "xws": "captainneeda",
@@ -175,6 +182,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0810",
     "name": "Carlist Rieekan",
     "limited": 1,
     "xws": "carlistrieekan",
@@ -209,6 +217,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0811",
     "name": "Jan Dodonna",
     "limited": 1,
     "xws": "jandodonna",
@@ -234,6 +243,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0812",
     "name": "Raymus Antilles",
     "limited": 1,
     "xws": "raymusantilles",
@@ -259,6 +269,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0813",
     "name": "Stalwart Captain",
     "limited": 1,
     "xws": "stalwartcaptain",
@@ -291,6 +302,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0814",
     "name": "Strategic Commander",
     "limited": 1,
     "xws": "strategiccommander",
@@ -327,6 +339,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0815",
     "name": "Jedi Commander",
     "limited": 0,
     "xws": "jedicommander",
@@ -374,6 +387,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0816",
     "name": "B6 Blade Wing Prototype",
     "limited": 1,
     "xws": "b6bladewingprototype-command",
@@ -411,6 +425,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0817",
     "name": "Bounty",
     "limited": 0,
     "xws": "bounty",
@@ -445,6 +460,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0818",
     "name": "Phoenix Squadron",
     "limited": 1,
     "xws": "phoenixsquadron",
@@ -479,6 +495,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0819",
     "name": "Shadow Wing",
     "limited": 1,
     "xws": "shadowwing",
@@ -513,6 +530,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0820",
     "name": "Skystrike Academy Class",
     "limited": 2,
     "xws": "skystrikeacademyclass",
@@ -547,6 +565,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0821",
     "name": "In It For The Money/Rebellion",
     "limited": 0,
     "xws": "initforthemoneyrebellion",
@@ -594,6 +613,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA0822",
     "name": "Mar Tuuk",
     "limited": 1,
     "xws": "martuuk",
@@ -631,6 +651,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA0823",
     "name": "Riff Tamson",
     "limited": 1,
     "xws": "rifftamson",
@@ -668,6 +689,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0824",
     "name": "Asajj Ventress",
     "limited": 1,
     "xws": "asajjventresscommand",
@@ -728,6 +750,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0825",
     "name": "Zealous Captain",
     "limited": 1,
     "xws": "zealouscaptain",
@@ -760,6 +783,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0826",
     "name": "Hondo Ohnaka",
     "limited": 1,
     "xws": "hondoohnakacommand",
@@ -809,6 +833,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA0827",
     "name": "General Grievous",
     "limited": 1,
     "xws": "generalgrievouscommand",
@@ -846,6 +871,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0828",
     "name": "Combat Boarding Tube",
     "limited": 0,
     "xws": "combatboardingtube",
@@ -878,6 +904,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0829",
     "name": "Sabine Wren",
     "limited": 1,
     "xws": "sabinewren-command",

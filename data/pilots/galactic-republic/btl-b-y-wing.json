@@ -62,6 +62,7 @@
   ],
   "pilots": [
     {
+      "uid": "PGR0216",
       "name": "Shadow Squadron Veteran",
       "initiative": 3,
       "limited": 0,
@@ -95,6 +96,7 @@
       "id": 360
     },
     {
+      "uid": "PGR0217",
       "name": "Anakin Skywalker",
       "initiative": 6,
       "limited": 1,
@@ -138,6 +140,7 @@
       "id": 359
     },
     {
+      "uid": "PGR0218",
       "name": "R2-D2",
       "xws": "r2d2",
       "caption": "Bucket of Bolts",
@@ -189,6 +192,7 @@
       "id": 362
     },
     {
+      "uid": "PGR0219",
       "name": "“Odd Ball”",
       "xws": "oddball-btlbywing",
       "initiative": 5,
@@ -223,6 +227,7 @@
       "id": 366
     },
     {
+      "uid": "PGR0220",
       "name": "“Matchstick”",
       "xws": "matchstick",
       "initiative": 4,
@@ -257,6 +262,7 @@
       "id": 365
     },
     {
+      "uid": "PGR0221",
       "name": "“Broadside”",
       "xws": "broadside",
       "initiative": 3,
@@ -290,6 +296,7 @@
       "id": 364
     },
     {
+      "uid": "PGR0222",
       "name": "“Goji”",
       "xws": "goji",
       "initiative": 2,
@@ -323,6 +330,7 @@
       "id": 363
     },
     {
+      "uid": "PGR0223",
       "name": "Red Squadron Bomber",
       "xws": "redsquadronbomber",
       "initiative": 2,

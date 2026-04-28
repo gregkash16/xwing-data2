@@ -1,5 +1,6 @@
 [
   {
+    "uid": "UGN0784",
     "name": "Heavy Laser Cannon",
     "limited": 0,
     "xws": "heavylasercannon",
@@ -31,6 +32,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0785",
     "name": "Ion Cannon",
     "limited": 0,
     "xws": "ioncannon",
@@ -62,6 +64,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0786",
     "name": "Jamming Beam",
     "limited": 0,
     "xws": "jammingbeam",
@@ -93,6 +96,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0787",
     "name": "Tractor Beam",
     "limited": 0,
     "xws": "tractorbeam",
@@ -124,6 +128,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0788",
     "name": "Autoblasters",
     "limited": 0,
     "xws": "autoblasters",
@@ -155,6 +160,7 @@
     "restricted": 2
   },
   {
+    "uid": "UGN0789",
     "name": "Precision-Tuned Cannons",
     "limited": 0,
     "xws": "precisiontunedcannons-legendsandrelics",
@@ -186,6 +192,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0790",
     "sides": [
       {
         "title": "Synced Laser Cannons",
@@ -218,6 +225,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0791",
     "name": "Proton Cannons",
     "limited": 0,
     "xws": "protoncannons",
@@ -254,6 +262,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0792",
     "name": "Underslung Blaster Cannon",
     "limited": 0,
     "xws": "underslungblastercannon",
@@ -306,6 +315,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0793",
     "name": "Ancillary Ion Weapons",
     "limited": 0,
     "xws": "ancillaryionweapons-siegeofcoruscant",
@@ -330,6 +340,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0794",
     "name": "Precision-Tuned Cannons",
     "limited": 0,
     "xws": "precisiontunedcannons-battleoverendor",
@@ -357,6 +368,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0795",
     "name": "Flechette Cannons",
     "limited": 0,
     "xws": "flechettecannons-armedanddangerous",

@@ -1,5 +1,6 @@
 [
   {
+    "uid": "URB0856",
     "name": "“Chopper”",
     "limited": 1,
     "xws": "chopper-crew",
@@ -31,6 +32,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0857",
     "name": "“Zeb” Orrelios",
     "limited": 1,
     "xws": "zeborrelios",
@@ -62,6 +64,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0858",
     "name": "0-0-0",
     "limited": 1,
     "xws": "000",
@@ -96,6 +99,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0859",
     "name": "4-LOM",
     "limited": 1,
     "xws": "4lom",
@@ -127,6 +131,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0860",
     "name": "Admiral Sloane",
     "limited": 1,
     "xws": "admiralsloane",
@@ -158,6 +163,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0861",
     "name": "Agent Kallus",
     "limited": 1,
     "xws": "agentkallus",
@@ -192,6 +198,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0862",
     "name": "Baze Malbus",
     "limited": 1,
     "xws": "bazemalbus",
@@ -223,6 +230,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0863",
     "name": "Boba Fett",
     "limited": 1,
     "xws": "bobafett-crew",
@@ -254,6 +262,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0864",
     "name": "C-3PO",
     "limited": 1,
     "xws": "c3po",
@@ -300,6 +309,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0865",
     "name": "Cad Bane",
     "limited": 1,
     "xws": "cadbane",
@@ -331,6 +341,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO0866",
     "name": "Captain Phasma",
     "limited": 1,
     "xws": "captainphasma",
@@ -362,6 +373,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0867",
     "name": "Cassian Andor",
     "limited": 1,
     "xws": "cassianandor",
@@ -393,6 +405,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0868",
     "name": "Chewbacca",
     "limited": 1,
     "xws": "chewbacca",
@@ -428,6 +441,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0869",
     "name": "Chewbacca",
     "limited": 1,
     "xws": "chewbacca-crew",
@@ -459,6 +473,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0870",
     "name": "Ciena Ree",
     "limited": 1,
     "xws": "cienaree",
@@ -495,6 +510,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0871",
     "name": "Cikatro Vizago",
     "limited": 1,
     "xws": "cikatrovizago",
@@ -526,6 +542,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0872",
     "name": "Darth Vader",
     "limited": 1,
     "xws": "darthvader",
@@ -561,6 +578,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0873",
     "name": "Death Troopers",
     "limited": 1,
     "xws": "deathtroopers",
@@ -593,6 +611,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0874",
     "name": "Director Krennic",
     "limited": 1,
     "xws": "directorkrennic",
@@ -642,6 +661,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0875",
     "name": "Emperor Palpatine",
     "limited": 1,
     "xws": "emperorpalpatine",
@@ -678,6 +698,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0876",
     "name": "Freelance Slicer",
     "limited": 0,
     "xws": "freelanceslicer",
@@ -702,6 +723,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO0877",
     "name": "General Hux",
     "limited": 1,
     "xws": "generalhux",
@@ -738,6 +760,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0878",
     "name": "GNK “Gonk” Droid",
     "limited": 0,
     "xws": "gnkgonkdroid",
@@ -766,6 +789,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0879",
     "name": "Grand Inquisitor",
     "limited": 1,
     "xws": "grandinquisitor",
@@ -801,6 +825,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0880",
     "name": "Grand Moff Tarkin",
     "limited": 1,
     "xws": "grandmofftarkin",
@@ -821,7 +846,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 5
     },
     "restrictions": [
       {
@@ -841,6 +866,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0881",
     "name": "Hera Syndulla",
     "limited": 1,
     "xws": "herasyndulla",
@@ -872,6 +898,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0882",
     "name": "IG-88D",
     "limited": 1,
     "xws": "ig88d",
@@ -918,6 +945,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0883",
     "name": "ISB Slicer",
     "limited": 0,
     "xws": "isbslicer",
@@ -949,6 +977,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0884",
     "name": "Fennec Shand",
     "limited": 1,
     "xws": "fennecshand-legendsandrelics",
@@ -984,6 +1013,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0885",
     "name": "Informant",
     "limited": 1,
     "xws": "informant",
@@ -1011,6 +1041,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0886",
     "name": "Jabba the Hutt",
     "limited": 1,
     "xws": "jabbathehutt",
@@ -1047,6 +1078,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0887",
     "name": "Zorii Bliss",
     "limited": 1,
     "xws": "zoriibliss-legendsandrelics",
@@ -1094,6 +1126,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0888",
     "name": "Jyn Erso",
     "limited": 1,
     "xws": "jynerso",
@@ -1125,6 +1158,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0889",
     "name": "Thrawn",
     "limited": 1,
     "xws": "thrawn-legendsandrelics",
@@ -1169,6 +1203,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO0890",
     "name": "Captive",
     "limited": 1,
     "xws": "captive-legendsandrelics",
@@ -1206,6 +1241,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0891",
     "name": "Kanan Jarrus",
     "limited": 1,
     "xws": "kananjarrus",
@@ -1241,6 +1277,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0892",
     "name": "Ketsu Onyo",
     "limited": 1,
     "xws": "ketsuonyo",
@@ -1272,6 +1309,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO0893",
     "name": "Kylo Ren",
     "limited": 1,
     "xws": "kyloren",
@@ -1310,6 +1348,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0894",
     "name": "L3-37",
     "limited": 1,
     "xws": "l337",
@@ -1351,6 +1390,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0895",
     "name": "Lando Calrissian",
     "limited": 1,
     "xws": "landocalrissian-crew",
@@ -1382,6 +1422,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0896",
     "name": "Lando Calrissian",
     "limited": 1,
     "xws": "landocalrissian-crew-rebel",
@@ -1413,6 +1454,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0897",
     "name": "Latts Razzi",
     "limited": 1,
     "xws": "lattsrazzi",
@@ -1444,6 +1486,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0898",
     "name": "Leia Organa",
     "limited": 1,
     "xws": "leiaorgana",
@@ -1479,6 +1522,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0899",
     "name": "Magva Yarro",
     "limited": 1,
     "xws": "magvayarro",
@@ -1510,6 +1554,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0900",
     "name": "Maul",
     "limited": 1,
     "xws": "maul",
@@ -1559,6 +1604,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0901",
     "name": "Minister Tua",
     "limited": 1,
     "xws": "ministertua",
@@ -1590,6 +1636,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0902",
     "name": "Moff Jerjerrod",
     "limited": 1,
     "xws": "moffjerjerrod",
@@ -1630,6 +1677,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0903",
     "name": "Nien Nunb",
     "limited": 1,
     "xws": "niennunb",
@@ -1661,6 +1709,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0904",
     "name": "Novice Technician",
     "limited": 0,
     "xws": "novicetechnician",
@@ -1685,6 +1734,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0905",
     "name": "Perceptive Copilot",
     "limited": 0,
     "xws": "perceptivecopilot",
@@ -1709,6 +1759,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO0906",
     "name": "Petty Officer Thanisson",
     "limited": 1,
     "xws": "pettyofficerthanisson",
@@ -1740,6 +1791,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0907",
     "name": "Qi'ra",
     "limited": 1,
     "xws": "qira",
@@ -1771,6 +1823,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0908",
     "name": "R2-D2",
     "limited": 1,
     "xws": "r2d2-crew",
@@ -1802,6 +1855,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0909",
     "name": "Sabine Wren",
     "limited": 1,
     "xws": "sabinewren-crew",
@@ -1833,6 +1887,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0910",
     "name": "Saw Gerrera",
     "limited": 1,
     "xws": "sawgerrera",
@@ -1864,6 +1919,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0911",
     "name": "Seasoned Navigator",
     "limited": 0,
     "xws": "seasonednavigator",
@@ -1888,6 +1944,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0912",
     "name": "Seventh Sister",
     "limited": 1,
     "xws": "seventhsister",
@@ -1923,6 +1980,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO0913",
     "name": "Supreme Leader Snoke",
     "limited": 1,
     "xws": "supremeleadersnoke",
@@ -1959,6 +2017,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0914",
     "name": "Tactical Officer",
     "limited": 0,
     "xws": "tacticalofficer",
@@ -2006,6 +2065,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0915",
     "name": "Tobias Beckett",
     "limited": 1,
     "xws": "tobiasbeckett",
@@ -2037,6 +2097,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0916",
     "name": "Unkar Plutt",
     "limited": 1,
     "xws": "unkarplutt",
@@ -2068,6 +2129,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0917",
     "name": "Zuckuss",
     "limited": 1,
     "xws": "zuckuss",
@@ -2099,6 +2161,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0918",
     "name": "C-3PO",
     "limited": 1,
     "xws": "c3po-crew",
@@ -2146,6 +2209,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0919",
     "name": "Han Solo",
     "limited": 1,
     "xws": "hansolo-crew",
@@ -2186,6 +2250,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0920",
     "name": "Chewbacca",
     "limited": 1,
     "xws": "chewbacca-crew-swz19",
@@ -2221,6 +2286,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0921",
     "name": "Rose Tico",
     "limited": 1,
     "xws": "rosetico",
@@ -2252,6 +2318,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0922",
     "name": "Palpatine/Sidious",
     "limited": 1,
     "xws": "chancellorpalpatine",
@@ -2320,6 +2387,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA0923",
     "name": "Count Dooku",
     "limited": 1,
     "xws": "countdooku",
@@ -2355,6 +2423,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA0924",
     "name": "General Grievous",
     "limited": 1,
     "xws": "generalgrievous",
@@ -2390,6 +2459,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0925",
     "name": "Amilyn Holdo",
     "limited": 1,
     "xws": "amilynholdo",
@@ -2421,6 +2491,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0926",
     "name": "GA-97",
     "limited": 1,
     "xws": "ga97",
@@ -2468,6 +2539,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0927",
     "name": "Kaydel Connix",
     "limited": 1,
     "xws": "kaydelconnix",
@@ -2499,6 +2571,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0928",
     "name": "Korr Sella",
     "limited": 1,
     "xws": "korrsella",
@@ -2530,6 +2603,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0929",
     "name": "Larma D'Acy",
     "limited": 1,
     "xws": "larmadacy",
@@ -2561,6 +2635,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0930",
     "name": "Leia Organa",
     "limited": 1,
     "xws": "leiaorgana-resistance",
@@ -2606,6 +2681,7 @@
     "restricted": 0
   },
   {
+    "uid": "URE0931",
     "name": "PZ-4CO",
     "limited": 1,
     "xws": "pz4co",
@@ -2646,6 +2722,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0932",
     "name": "C-3PO",
     "sides": [
       {
@@ -2686,6 +2763,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0933",
     "name": "Aayla Secura",
     "limited": 1,
     "xws": "aaylasecura",
@@ -2734,6 +2812,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO0934",
     "name": "Agent Terex",
     "limited": 1,
     "xws": "agentterex",
@@ -2775,6 +2854,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0935",
     "name": "K-2SO",
     "limited": 1,
     "xws": "k2so",
@@ -2822,6 +2902,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0936",
     "name": "Plo Koon",
     "limited": 1,
     "xws": "plokoon",
@@ -2866,6 +2947,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0937",
     "name": "Toryn Farr",
     "limited": 1,
     "xws": "torynfarr",
@@ -2915,6 +2997,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0938",
     "sides": [
       {
         "title": "Kit Fisto",
@@ -2959,6 +3042,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0939",
     "sides": [
       {
         "title": "Yoda",
@@ -3003,6 +3087,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0940",
     "sides": [
       {
         "title": "“Fives”",
@@ -3034,6 +3119,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0941",
     "sides": [
       {
         "title": "Wolfpack",
@@ -3066,6 +3152,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO0942",
     "sides": [
       {
         "title": "Commander Malarus",
@@ -3107,6 +3194,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0943",
     "sides": [
       {
         "title": "Ghost Company",
@@ -3157,6 +3245,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO0944",
     "sides": [
       {
         "title": "Commander Pyre",
@@ -3188,6 +3277,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0945",
     "name": "Hondo Ohnaka",
     "limited": 1,
     "xws": "hondoohnaka",
@@ -3212,6 +3302,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0946",
     "name": "Jango Fett",
     "limited": 1,
     "xws": "jangofett",
@@ -3244,6 +3335,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0947",
     "name": "Zam Wesell",
     "limited": 1,
     "xws": "zamwesell",
@@ -3284,6 +3376,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0948",
     "name": "Gamut Key",
     "limited": 1,
     "xws": "gamutkey",
@@ -3319,6 +3412,7 @@
     "restricted": 0
   },
   {
+    "uid": "UFO0949",
     "name": "Protectorate Gleb",
     "limited": 1,
     "xws": "protectorategleb",
@@ -3361,6 +3455,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0950",
     "name": "The Mandalorian",
     "limited": 1,
     "xws": "themandalorian",
@@ -3401,12 +3496,13 @@
     "restricted": 0
   },
   {
+    "uid": "URB0951",
     "name": "Ahsoka Tano",
     "limited": 1,
     "xws": "ahsokatano-legendsandrelics",
     "sides": [
       {
-        "ability": "Before you activate, you may spend 1 [Force] to ignore obstacles until the end of this phase. If you do, and you move through an obstacle, you may acquire a lock on an enemy ship in your [Front Arc] at range 1",        
+        "ability": "Before you activate, you may spend 1 [Force] to ignore obstacles until the end of this phase. If you do, and you move through an obstacle, you may acquire a lock on an enemy ship in your [Front Arc] at range 1",
         "title": "Ahsoka Tano",
         "type": "Crew",
         "slots": [
@@ -3436,6 +3532,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0952",
     "name": "The Child",
     "limited": 1,
     "xws": "thechild",
@@ -3473,6 +3570,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0953",
     "name": "IG-11",
     "limited": 1,
     "xws": "ig11",
@@ -3523,6 +3621,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0954",
     "name": "Greef Karga",
     "limited": 1,
     "xws": "greefkarga",
@@ -3563,6 +3662,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0955",
     "name": "Kuiil",
     "limited": 1,
     "xws": "kuiil",
@@ -3594,6 +3694,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0956",
     "name": "Peli Motto",
     "limited": 1,
     "xws": "pelimotto",
@@ -3631,6 +3732,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0957",
     "name": "Prime Minister Almec",
     "limited": 1,
     "xws": "primeministeralmec",
@@ -3673,6 +3775,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0958",
     "name": "Rook Kast",
     "limited": 1,
     "xws": "rookkast",
@@ -3713,6 +3816,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0959",
     "name": "Obi-Wan Kenobi",
     "limited": 1,
     "xws": "obiwankenobi",
@@ -3748,6 +3852,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0960",
     "name": "Bo-Katan Kryze",
     "limited": 1,
     "xws": "bokatankryze",
@@ -3780,6 +3885,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0961",
     "name": "Bo-Katan Kryze",
     "limited": 1,
     "xws": "bokatankryze-rebel-scum",
@@ -3812,6 +3918,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0962",
     "name": "Korkie Kryze",
     "xws": "korkiekryze",
     "limited": 1,
@@ -3843,6 +3950,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0963",
     "name": "Satine Kryze",
     "limited": 1,
     "xws": "satinekryze",
@@ -3878,6 +3986,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA0964",
     "name": "Tal Merrik",
     "limited": 1,
     "xws": "talmerrik",
@@ -3909,6 +4018,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0965",
     "name": "Savage Opress",
     "limited": 1,
     "xws": "savageopress",
@@ -3945,6 +4055,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0966",
     "name": "Fenn Rau",
     "limited": 1,
     "xws": "fennrau",
@@ -3977,6 +4088,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0967",
     "name": "Gar Saxon",
     "limited": 1,
     "xws": "garsaxon-crew",
@@ -4008,6 +4120,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0968",
     "name": "Pre Vizsla",
     "limited": 1,
     "xws": "previzsla",
@@ -4049,6 +4162,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0969",
     "name": "Tristan Wren",
     "limited": 1,
     "xws": "tristanwren",
@@ -4087,6 +4201,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0970",
     "name": "Ursa Wren",
     "limited": 1,
     "xws": "ursawren-rebel-crew",
@@ -4118,6 +4233,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0971",
     "name": "Captain Hark",
     "limited": 1,
     "xws": "captainhark",
@@ -4153,6 +4269,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0972",
     "name": "Ahsoka Tano",
     "limited": 1,
     "xws": "ahsokatano-crew",
@@ -4189,6 +4306,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0973",
     "name": "Maul",
     "limited": 1,
     "xws": "maul-crew",
@@ -4239,6 +4357,7 @@
     "restricted": 0
   },
   {
+    "uid": "URB0974",
     "name": "Clan Wren Commandos",
     "limited": 1,
     "xws": "clanwrencommandos",
@@ -4311,6 +4430,7 @@
     "restricted": 0
   },
   {
+    "uid": "UEM0975",
     "name": "Imperial Super Commandos",
     "limited": 1,
     "xws": "imperialsupercommandos",
@@ -4383,6 +4503,7 @@
     "restricted": 0
   },
   {
+    "uid": "USV0976",
     "name": "Mandalorian Super Commandos",
     "limited": 1,
     "xws": "mandaloriansupercommandos",
@@ -4455,6 +4576,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGR0977",
     "name": "Nite Owl Commandos",
     "limited": 1,
     "xws": "niteowlcommandos",
@@ -4527,6 +4649,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA0978",
     "name": "Death Watch Commandos",
     "limited": 1,
     "xws": "deathwatchcommandos",
@@ -4599,6 +4722,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0979",
     "name": "Chewbacca",
     "limited": 1,
     "xws": "chewbacca-battleofyavin",
@@ -4619,6 +4743,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0980",
     "name": "Wolfpack",
     "limited": 1,
     "xws": "wolfpack-siegeofcoruscant",
@@ -4640,6 +4765,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0981",
     "name": "“Leebo”",
     "limited": 1,
     "xws": "leebo-swz103",
@@ -4660,6 +4786,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0982",
     "name": "General Hux",
     "limited": 1,
     "xws": "generalhux-evacuationofdqar",
@@ -4680,6 +4807,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0983",
     "name": "The Child",
     "limited": 1,
     "xws": "thechild-armedanddangerous",
@@ -4704,6 +4832,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0984",
     "name": "Chewbacca",
     "limited": 1,
     "xws": "chewbacca-armedanddangerous",
@@ -4728,6 +4857,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0985",
     "name": "L3-37",
     "limited": 1,
     "xws": "l337-armedanddangerous",
@@ -4752,6 +4882,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0986",
     "name": "Nite Owl Sentries",
     "limited": 1,
     "xws": "niteowlsentries-armedanddangerous",
@@ -4776,6 +4907,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0987",
     "name": "Embo",
     "limited": 1,
     "xws": "embo-armedanddangerous",
@@ -4796,6 +4928,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0988",
     "name": "Todo 360",
     "limited": 1,
     "xws": "todo360-armedanddangerous",
@@ -4820,6 +4953,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0989",
     "name": "4-LOM",
     "limited": 1,
     "xws": "4lom-armedanddangerous",
@@ -4840,6 +4974,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0990",
     "name": "R0-GR",
     "limited": 1,
     "xws": "r0gr-evacuationofdqar",
@@ -4860,6 +4995,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0991",
     "name": "Nix Jerd",
     "limited": 1,
     "xws": "nixjerd-evacuationofdqar",
@@ -4884,6 +5020,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0992",
     "name": "Leia Organa",
     "limited": 1,
     "xws": "leiaorgana-epicsl",
@@ -4902,6 +5039,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0993",
     "name": "C-3PO",
     "limited": 1,
     "xws": "c3po-epicsl",
@@ -4920,6 +5058,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0994",
     "name": "R2-D2",
     "limited": 1,
     "xws": "r2d2-epicsl",
@@ -4938,6 +5077,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0995",
     "name": "Thrawn",
     "limited": 1,
     "xws": "thrawn-epicsl",
@@ -4960,6 +5100,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0996",
     "name": "Caij Vanda",
     "limited": 1,
     "xws": "caijvanda-epicsl",
@@ -4978,6 +5119,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0997",
     "name": "Azmorigan",
     "limited": 1,
     "xws": "azmorigan-epicsl",
@@ -4996,6 +5138,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0998",
     "name": "Nien Nunb",
     "limited": 1,
     "xws": "niennunb-epicsl",
@@ -5018,6 +5161,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN0999",
     "name": "Urcos Furdam",
     "limited": 1,
     "xws": "urcosfurdam-epicsl",
@@ -5036,6 +5180,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1000",
     "name": "GA-75",
     "limited": 1,
     "xws": "ga75-epicsl",
@@ -5058,6 +5203,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1001",
     "name": "Agent Terex",
     "limited": 1,
     "xws": "agentterex-epicsl",
@@ -5076,6 +5222,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1002",
     "name": "Protectorate Gleb",
     "limited": 1,
     "xws": "protectorategleb-epicsl",
@@ -5094,6 +5241,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1003",
     "name": "Bail Organa",
     "limited": 1,
     "xws": "bailorgana-epicsl",
@@ -5112,6 +5260,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1004",
     "name": "Clone Commander Cody",
     "limited": 1,
     "xws": "clonecommandercody-epicsl",
@@ -5130,6 +5279,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1005",
     "name": "AQ-Series Battle Droids",
     "limited": 1,
     "xws": "aqseriesbattledroids-epicsl",

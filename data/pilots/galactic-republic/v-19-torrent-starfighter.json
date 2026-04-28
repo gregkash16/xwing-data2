@@ -65,6 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-republic/I_V-19Torrent.png",
   "pilots": [
     {
+      "uid": "PGR0292",
       "name": "“Kickback”",
       "caption": "Blue Four",
       "xws": "kickback",
@@ -91,6 +92,7 @@
       "id": 315
     },
     {
+      "uid": "PGR0293",
       "name": "“Odd Ball”",
       "caption": "CC-2237",
       "xws": "oddball",
@@ -117,6 +119,7 @@
       "id": 316
     },
     {
+      "uid": "PGR0294",
       "name": "“Swoop”",
       "caption": "Blue Six",
       "xws": "swoop",
@@ -143,6 +146,7 @@
       "id": 317
     },
     {
+      "uid": "PGR0295",
       "name": "“Axe”",
       "caption": "Blue Two",
       "xws": "axe",
@@ -169,6 +173,7 @@
       "id": 318
     },
     {
+      "uid": "PGR0296",
       "name": "“Tucker”",
       "caption": "Blue Five",
       "xws": "tucker",
@@ -195,6 +200,7 @@
       "id": 319
     },
     {
+      "uid": "PGR0297",
       "name": "Blue Squadron Protector",
       "xws": "bluesquadronprotector",
       "initiative": 3,
@@ -221,6 +227,7 @@
       "id": 320
     },
     {
+      "uid": "PGR0298",
       "name": "Gold Squadron Trooper",
       "xws": "goldsquadrontrooper",
       "initiative": 2,
@@ -246,6 +253,7 @@
       "id": 321
     },
     {
+      "uid": "PGR0299",
       "name": "“Kickback”",
       "caption": "Siege of Coruscant",
       "initiative": 5,
@@ -290,6 +298,7 @@
       "id": 582
     },
     {
+      "uid": "PGR0300",
       "name": "“Axe”",
       "caption": "Siege of Coruscant",
       "initiative": 3,
@@ -334,6 +343,7 @@
       "id": 583
     },
     {
+      "uid": "PGR0301",
       "name": "“Slammer”",
       "caption": "Blue Three",
       "xws": "slammer",

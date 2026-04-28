@@ -68,6 +68,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_UpsilonShuttle.png",
   "pilots": [
     {
+      "uid": "PFO0060",
       "name": "Lieutenant Dormitz",
       "caption": "Hypercomms Specialist",
       "initiative": 2,
@@ -99,6 +100,7 @@
       "id": 238
     },
     {
+      "uid": "PFO0061",
       "name": "Major Stridan",
       "caption": "Stentorian Commander",
       "initiative": 4,
@@ -131,6 +133,7 @@
       "id": 251
     },
     {
+      "uid": "PFO0062",
       "name": "Petty Officer Thanisson",
       "xws": "pettyofficerthanisson",
       "caption": "Alert Flight Controller",
@@ -166,6 +169,7 @@
       "id": 281
     },
     {
+      "uid": "PFO0063",
       "name": "Starkiller Base Pilot",
       "xws": "starkillerbasepilot",
       "initiative": 2,
@@ -196,6 +200,7 @@
       "id": 288
     },
     {
+      "uid": "PFO0064",
       "name": "Lieutenant Tavson",
       "caption": "Obedient Shuttle Pilot",
       "initiative": 3,
@@ -231,6 +236,7 @@
       "id": 289
     },
     {
+      "uid": "PFO0065",
       "name": "Captain Cardinal",
       "caption": "Principled Instructor",
       "initiative": 4,
@@ -267,6 +273,7 @@
       "id": 282
     },
     {
+      "uid": "PFO0066",
       "name": "Petty Officer Thanisson",
       "caption": "Evacuation of D'Qar",
       "initiative": 1,

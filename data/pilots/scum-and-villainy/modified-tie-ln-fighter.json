@@ -55,6 +55,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_MiningGuild_TIE.png",
   "pilots": [
     {
+      "uid": "PSV0615",
       "name": "Ahhav",
       "caption": "Vengeful Survivor",
       "initiative": 3,
@@ -84,6 +85,7 @@
       "id": 249
     },
     {
+      "uid": "PSV0616",
       "name": "Captain Seevor",
       "caption": "Noisy Nuisance",
       "initiative": 3,
@@ -117,6 +119,7 @@
       "id": 247
     },
     {
+      "uid": "PSV0617",
       "name": "Foreman Proach",
       "caption": "Slave Driver",
       "initiative": 4,
@@ -147,6 +150,7 @@
       "id": 302
     },
     {
+      "uid": "PSV0618",
       "name": "Mining Guild Surveyor",
       "initiative": 2,
       "limited": 0,
@@ -174,6 +178,7 @@
       "id": 248
     },
     {
+      "uid": "PSV0619",
       "name": "Overseer Yushyn",
       "caption": "Overbearing Boss",
       "initiative": 2,
@@ -207,6 +212,7 @@
       "id": 303
     },
     {
+      "uid": "PSV0620",
       "name": "Mining Guild Sentry",
       "initiative": 1,
       "limited": 0,
@@ -234,6 +240,7 @@
       "id": 304
     },
     {
+      "uid": "PSV0621",
       "name": "Lapin",
       "caption": "Stickler for Details",
       "initiative": 3,

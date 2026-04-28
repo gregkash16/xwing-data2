@@ -88,6 +88,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_TIEsf.png",
   "pilots": [
     {
+      "uid": "PFO0037",
       "name": "“Quickdraw”",
       "caption": "Defiant Duelist",
       "initiative": 6,
@@ -126,6 +127,7 @@
       "id": 243
     },
     {
+      "uid": "PFO0038",
       "name": "“Backdraft”",
       "caption": "Fiery Fanatic",
       "initiative": 4,
@@ -159,6 +161,7 @@
       "id": 242
     },
     {
+      "uid": "PFO0039",
       "name": "Omega Squadron Expert",
       "initiative": 3,
       "limited": 0,
@@ -190,6 +193,7 @@
       "id": 285
     },
     {
+      "uid": "PFO0040",
       "name": "Zeta Squadron Survivor",
       "initiative": 2,
       "limited": 0,
@@ -220,6 +224,7 @@
       "id": 259
     },
     {
+      "uid": "PFO0041",
       "name": "Lieutenant LeHuse",
       "xws": "lieutenantlehuse",
       "initiative": 5,
@@ -253,6 +258,7 @@
       "id": 397
     },
     {
+      "uid": "PFO0042",
       "name": "Captain Phasma",
       "xws": "captainphasma",
       "initiative": 4,
@@ -285,6 +291,7 @@
       "id": 385
     },
     {
+      "uid": "PFO0043",
       "name": "Lieutenant LeHuse",
       "caption": "Evacuation of D'Qar",
       "initiative": 5,
@@ -341,6 +348,7 @@
       "id": 698
     },
     {
+      "uid": "PFO0044",
       "name": "Theta 3",
       "caption": "Evacuation of D'Qar",
       "initiative": 3,
@@ -401,6 +409,7 @@
       "id": 699
     },
     {
+      "uid": "PFO0045",
       "name": "Theta 4",
       "caption": "Evacuation of D'Qar",
       "initiative": 4,

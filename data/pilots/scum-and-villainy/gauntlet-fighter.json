@@ -67,6 +67,7 @@
   ],
   "pilots": [
     {
+      "uid": "PSV0576",
       "xws": "maul",
       "name": "Maul",
       "image": "https://infinitearenas.com/xw2/images/pilots/maul.png",
@@ -106,6 +107,7 @@
       "id": 512
     },
     {
+      "uid": "PSV0577",
       "xws": "rookkast",
       "name": "Rook Kast",
       "image": "https://infinitearenas.com/xw2/images/pilots/rookkast.png",
@@ -136,6 +138,7 @@
       "id": 514
     },
     {
+      "uid": "PSV0578",
       "xws": "shadowcollectiveoperator",
       "name": "Shadow Collective Operator",
       "image": "https://infinitearenas.com/xw2/images/pilots/shadowcollectiveoperator.png",
@@ -163,6 +166,7 @@
       "id": 513
     },
     {
+      "uid": "PSV0579",
       "xws": "bokatankryze-armedanddangerous",
       "name": "Bo-Katan Kryze",
       "image": "https://infinitearenas.com/xw2xwa/images/quickbuilds/bokatankryze-armedanddangerous.png",

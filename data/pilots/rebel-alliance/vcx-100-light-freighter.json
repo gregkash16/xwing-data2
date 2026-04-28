@@ -61,6 +61,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_Ghost.png",
   "pilots": [
     {
+      "uid": "PRB0424",
       "name": "“Chopper”",
       "caption": "Spectre-3",
       "initiative": 2,
@@ -111,6 +112,7 @@
       "id": 63
     },
     {
+      "uid": "PRB0425",
       "name": "Hera Syndulla",
       "caption": "Spectre-2",
       "initiative": 5,
@@ -148,6 +150,7 @@
       "id": 61
     },
     {
+      "uid": "PRB0426",
       "name": "Hera Syndulla",
       "caption": "Legends and Relics",
       "initiative": 6,
@@ -185,6 +188,7 @@
       "id": 732
     },
     {
+      "uid": "PRB0427",
       "name": "Kanan Jarrus",
       "caption": "Spectre-1",
       "initiative": 3,
@@ -230,6 +234,7 @@
       "id": 62
     },
     {
+      "uid": "PRB0428",
       "name": "Lothal Rebel",
       "initiative": 2,
       "limited": 0,
@@ -262,6 +267,7 @@
       "id": 64
     },
     {
+      "uid": "PRB0429",
       "name": "Alexsandr Kallus",
       "xws": "alexsandrkallus",
       "initiative": 4,

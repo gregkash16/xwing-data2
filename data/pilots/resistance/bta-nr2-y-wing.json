@@ -62,6 +62,7 @@
   ],
   "pilots": [
     {
+      "uid": "PRE0451",
       "name": "Zorii Bliss",
       "xws": "zoriibliss",
       "initiative": 5,
@@ -100,6 +101,7 @@
       "id": 477
     },
     {
+      "uid": "PRE0452",
       "name": "Teza Nasz",
       "xws": "tezanasz",
       "initiative": 4,
@@ -133,6 +135,7 @@
       "id": 478
     },
     {
+      "uid": "PRE0453",
       "name": "Wilsa Teshlo",
       "xws": "wilsateshlo",
       "initiative": 4,
@@ -166,6 +169,7 @@
       "id": 479
     },
     {
+      "uid": "PRE0454",
       "name": "Shasa Zaro",
       "xws": "shasazaro",
       "initiative": 3,
@@ -199,6 +203,7 @@
       "id": 480
     },
     {
+      "uid": "PRE0455",
       "name": "Lega Fossang",
       "xws": "legafossang",
       "initiative": 3,
@@ -231,6 +236,7 @@
       "id": 481
     },
     {
+      "uid": "PRE0456",
       "name": "Aftab Ackbar",
       "xws": "aftabackbar",
       "initiative": 2,
@@ -263,6 +269,7 @@
       "id": 482
     },
     {
+      "uid": "PRE0457",
       "name": "Corus Kapellim",
       "xws": "coruskapellim",
       "initiative": 1,
@@ -296,6 +303,7 @@
       "id": 483
     },
     {
+      "uid": "PRE0458",
       "name": "C’ai Threnalli",
       "xws": "caithrenalli-btanr2ywing",
       "initiative": 2,
@@ -329,6 +337,7 @@
       "id": 484
     },
     {
+      "uid": "PRE0459",
       "name": "New Republic Patrol",
       "xws": "newrepublicpatrol",
       "initiative": 3,
@@ -360,6 +369,7 @@
       "id": 485
     },
     {
+      "uid": "PRE0460",
       "name": "Kijimi Spice Runner",
       "xws": "kijimispicerunner",
       "initiative": 2,

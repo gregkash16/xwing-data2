@@ -1,5 +1,6 @@
 [
   {
+    "uid": "USA1183",
     "name": "Kraken",
     "limited": 1,
     "xws": "kraken",
@@ -43,6 +44,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA1184",
     "name": "TV-94",
     "xws": "tv94",
     "limited": 1,
@@ -77,6 +79,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA1185",
     "name": "K2-B4",
     "xws": "k2b4",
     "limited": 1,
@@ -111,6 +114,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA1186",
     "name": "TA-175",
     "xws": "ta175",
     "limited": 1,
@@ -145,6 +149,7 @@
     "restricted": 0
   },
   {
+    "uid": "USA1187",
     "sides": [
       {
         "title": "Kalani",
@@ -192,6 +197,7 @@
     "restricted": 0
   },
   {
+    "uid": "UGN1188",
     "name": "TX-25",
     "limited": 1,
     "xws": "tx25-epicsl",

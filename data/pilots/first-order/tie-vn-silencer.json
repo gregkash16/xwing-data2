@@ -65,6 +65,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/first-order/I_TIESilencer.png",
   "pilots": [
     {
+      "uid": "PFO0046",
       "name": "“Blackout”",
       "xws": "blackout",
       "caption": "Ill-Fated Test Pilot",
@@ -97,6 +98,7 @@
       "id": 237
     },
     {
+      "uid": "PFO0047",
       "name": "Kylo Ren",
       "xws": "kyloren",
       "caption": "Tormented Apprentice",
@@ -140,6 +142,7 @@
       "id": 236
     },
     {
+      "uid": "PFO0048",
       "name": "First Order Test Pilot",
       "xws": "firstordertestpilot",
       "initiative": 4,
@@ -171,6 +174,7 @@
       "id": 287
     },
     {
+      "uid": "PFO0049",
       "name": "“Recoil”",
       "xws": "recoil",
       "caption": "Quantity Over Quality",
@@ -203,6 +207,7 @@
       "id": 284
     },
     {
+      "uid": "PFO0050",
       "name": "“Avenger”",
       "xws": "avenger",
       "caption": "Wrathful Wingmate",
@@ -234,6 +239,7 @@
       "id": 283
     },
     {
+      "uid": "PFO0051",
       "name": "Sienar-Jaemus Engineer",
       "xws": "sienarjaemusengineer",
       "initiative": 1,
@@ -263,6 +269,7 @@
       "id": 286
     },
     {
+      "uid": "PFO0052",
       "name": "“Rush”",
       "xws": "rush",
       "initiative": 2,
@@ -294,6 +301,7 @@
       "id": 386
     },
     {
+      "uid": "PFO0053",
       "name": "Kylo Ren",
       "xws": "kyloren-evacuationofdqar",
       "caption": "Evacuation of D'Qar",

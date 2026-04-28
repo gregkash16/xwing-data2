@@ -64,6 +64,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/rebel-alliance/I_Arc-170.png",
   "pilots": [
     {
+      "uid": "PRB0312",
       "name": "Garven Dreis",
       "caption": "Red Leader",
       "initiative": 4,
@@ -89,6 +90,7 @@
       "id": 79
     },
     {
+      "uid": "PRB0313",
       "name": "Ibtisam",
       "caption": "Survivor of Endor",
       "initiative": 3,
@@ -114,6 +116,7 @@
       "id": 80
     },
     {
+      "uid": "PRB0314",
       "name": "Norra Wexley",
       "caption": "Gold Nine",
       "initiative": 5,
@@ -139,6 +142,7 @@
       "id": 77
     },
     {
+      "uid": "PRB0315",
       "name": "Shara Bey",
       "caption": "Green Four",
       "initiative": 4,

@@ -63,6 +63,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_Y-wing.png",
   "pilots": [
     {
+      "uid": "PSV0535",
       "name": "Crymorah Goon",
       "initiative": 1,
       "limited": 0,
@@ -90,6 +91,7 @@
       "id": 88
     },
     {
+      "uid": "PSV0536",
       "name": "Drea Renthal",
       "caption": "Pirate Lord",
       "initiative": 4,
@@ -119,6 +121,7 @@
       "id": 86
     },
     {
+      "uid": "PSV0537",
       "name": "Hired Gun",
       "initiative": 2,
       "limited": 0,
@@ -146,6 +149,7 @@
       "id": 87
     },
     {
+      "uid": "PSV0538",
       "name": "Kavil",
       "caption": "Callous Corsair",
       "initiative": 5,
@@ -175,6 +179,7 @@
       "id": 85
     },
     {
+      "uid": "PSV0539",
       "name": "Leema Kai",
       "xws": "leemakai",
       "initiative": 5,
@@ -203,6 +208,7 @@
       "id": 458
     },
     {
+      "uid": "PSV0540",
       "name": "Arliz Hadrassian",
       "xws": "arlizhadrassian",
       "initiative": 4,
@@ -231,6 +237,7 @@
       "id": 459
     },
     {
+      "uid": "PSV0541",
       "name": "Amaxine Warrior",
       "xws": "amaxinewarrior",
       "initiative": 3,
@@ -258,6 +265,7 @@
       "id": 472
     },
     {
+      "uid": "PSV0542",
       "name": "Padric",
       "xws": "padric",
       "initiative": 3,
@@ -286,6 +294,7 @@
       "id": 460
     },
     {
+      "uid": "PSV0543",
       "name": "Jinata Security Officer",
       "xws": "jinatasecurityofficer",
       "initiative": 2,

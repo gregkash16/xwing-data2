@@ -66,6 +66,7 @@
   ],
   "pilots": [
     {
+      "uid": "PGR0271",
       "name": "“Hawk”",
       "xws": "hawk",
       "caption": "Valkyrie 2929",
@@ -105,6 +106,7 @@
       "id": 415
     },
     {
+      "uid": "PGR0272",
       "name": "“Hound”",
       "xws": "hound",
       "caption": "Vigilant Tracker",
@@ -143,6 +145,7 @@
       "id": 413
     },
     {
+      "uid": "PGR0273",
       "name": "“Warthog”",
       "xws": "warthog",
       "caption": "Veteran of Kadavo",
@@ -182,6 +185,7 @@
       "id": 414
     },
     {
+      "uid": "PGR0274",
       "name": "212th Battalion Pilot",
       "initiative": 2,
       "limited": 0,
@@ -219,6 +223,7 @@
       "id": 412
     },
     {
+      "uid": "PGR0275",
       "name": "“Sicko”",
       "xws": "sicko",
       "caption": "CT-1127/549",

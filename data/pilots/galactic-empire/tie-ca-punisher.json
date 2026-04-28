@@ -71,6 +71,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/galactic-empire/I_TIEPunisher.png",
   "pilots": [
     {
+      "uid": "PEM0108",
       "name": "“Deathrain”",
       "caption": "Dexterous Bombardier",
       "initiative": 4,
@@ -101,6 +102,7 @@
       "id": 192
     },
     {
+      "uid": "PEM0109",
       "name": "“Redline”",
       "caption": "Adrenaline Junkie",
       "initiative": 5,
@@ -131,6 +133,7 @@
       "id": 191
     },
     {
+      "uid": "PEM0110",
       "name": "Cutlass Squadron Pilot",
       "initiative": 2,
       "limited": 0,

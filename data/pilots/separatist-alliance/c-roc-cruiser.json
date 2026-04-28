@@ -72,6 +72,7 @@
   ],
   "pilots": [
     {
+      "uid": "PSA0668",
       "name": "Separatist Privateers",
       "initiative": 7,
       "cost": 24,

@@ -69,6 +69,7 @@
   "icon": "https://infinitearenas.com/xw2/images/shipicons/scum-and-villainy/I_FangFighter.png",
   "pilots": [
     {
+      "uid": "PSV0555",
       "name": "Fenn Rau",
       "caption": "Skull Leader",
       "initiative": 6,
@@ -100,6 +101,7 @@
       "id": 97
     },
     {
+      "uid": "PSV0556",
       "name": "Joy Rekkoff",
       "caption": "Skull Squadron Ace",
       "initiative": 4,
@@ -130,6 +132,7 @@
       "id": 100
     },
     {
+      "uid": "PSV0557",
       "name": "Kad Solus",
       "caption": "Skilled Commando",
       "initiative": 4,
@@ -160,6 +163,7 @@
       "id": 99
     },
     {
+      "uid": "PSV0558",
       "name": "Old Teroch",
       "caption": "Mandalorian Mentor",
       "initiative": 5,
@@ -190,6 +194,7 @@
       "id": 98
     },
     {
+      "uid": "PSV0559",
       "name": "Skull Squadron Pilot",
       "initiative": 4,
       "limited": 0,
@@ -219,6 +224,7 @@
       "id": 101
     },
     {
+      "uid": "PSV0560",
       "name": "Zealous Recruit",
       "initiative": 1,
       "limited": 0,
@@ -247,6 +253,7 @@
       "id": 102
     },
     {
+      "uid": "PSV0561",
       "name": "Mandalorian Royal Guard",
       "initiative": 4,
       "limited": 2,
@@ -277,6 +284,7 @@
       "id": 505
     },
     {
+      "uid": "PSV0562",
       "name": "Tor Phun",
       "caption": "Direct Pressure",
       "initiative": 3,
@@ -307,6 +315,7 @@
       "id": 610
     },
     {
+      "uid": "PSV0563",
       "name": "Fenn Rau",
       "caption": "Armed and Dangerous",
       "initiative": 6,
