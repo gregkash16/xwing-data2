@@ -225,7 +225,7 @@
   {
     "name": "Boba Fett",
     "limited": 1,
-    "xws": "bobafett",
+    "xws": "bobafett-crew",
     "sides": [
       {
         "title": "Boba Fett",
@@ -1384,7 +1384,7 @@
   {
     "name": "Lando Calrissian",
     "limited": 1,
-    "xws": "landocalrissian",
+    "xws": "landocalrissian-crew-rebel",
     "sides": [
       {
         "title": "Lando Calrissian",
@@ -1804,7 +1804,7 @@
   {
     "name": "Sabine Wren",
     "limited": 1,
-    "xws": "sabinewren",
+    "xws": "sabinewren-crew",
     "sides": [
       {
         "title": "Sabine Wren",
@@ -3979,7 +3979,7 @@
   {
     "name": "Gar Saxon",
     "limited": 1,
-    "xws": "garsaxon",
+    "xws": "garsaxon-crew",
     "sides": [
       {
         "ability": "While a friendly ship at range 1-3 with an initiative of 4 or lower performs an attack against a defender you have locked, the attacker may change 1 [Focus] result to a [Hit] result.",
@@ -4089,7 +4089,7 @@
   {
     "name": "Ursa Wren",
     "limited": 1,
-    "xws": "ursawren",
+    "xws": "ursawren-rebel-crew",
     "sides": [
       {
         "ability": "You can maintain up to 2 locks. Each lock must be on a different object. After a friendly ship at range 0-3 is locked by an enemy ship, you may perform a [Lock] action.",
