@@ -77,7 +77,7 @@
       {
         "title": "Retrofitted Autothrusters",
         "type": "Modification",
-        "ability": "After you fully execute a speed 3 turn ([Turn Left] or [Turn Right]), bank ([Bank Left] or [Bank Right]), Talon Roll ([Talon Roll Left] or [Talon Roll Right]), or Segnor's Loop ([Segnor's Loop Left] or [Segnor's Loop Right]) maneuver, you may spend 1 [Charge] to perform a [Boost] action, even while stressed.",
+        "ability": "After you fully execute a speed 3 turn ([Turn Left] or [Turn Right]), bank ([Bank Left] or [Bank Right]), Talon Roll ([Talon Left] or [TalonRight]), or Segnor's Loop ([Segnor's Loop Left] or [Segnor's Loop Right]) maneuver, you may spend 1 [Charge] to perform a [Barrel Roll] action, even while stressed.",
         "slots": [
           "Modification"
         ],
