@@ -1007,12 +1007,12 @@
               }
             ]
           }
-        ],
-        "cost": {
-          "value": 1
-        }
+        ]
       }
     ],
+    "cost": {
+      "value": 3
+    },
     "standard": true,
     "extended": true,
     "epic": true,
