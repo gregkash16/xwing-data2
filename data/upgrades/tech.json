@@ -422,6 +422,10 @@
         "title": "Targeting Relay",
         "type": "Tech",
         "ability": "After a friendly ship acquires a lock on an enemy ship at 0-1 of you, you may spend 1 [Charge] and gain 1 stress token. If you do, that friendly ship may gain 1 calculate token.",
+        "charges": {
+          "value": 2,
+          "recovers": 0
+        },
         "slots": [
           "Tech"
         ],
