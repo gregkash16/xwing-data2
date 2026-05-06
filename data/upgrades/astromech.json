@@ -612,12 +612,10 @@
         "sizes": [
           "Small"
         ],
-        "action": [
-          {
-            "type": "Target Lock",
+        "action": {
+            "type": "Lock",
             "difficulty": "White"
-          }
-        ],
+        },
         "factions": [
           "rebelalliance",
           "resistance"
@@ -649,7 +647,6 @@
         "artwork": "https://infinitearenas.com/xw2/images/artwork/upgrades/r7t1-legendsandrelics.png"
       }
     ],
-    "restrictions": [],
     "cost": {
       "value": 3
     },
@@ -667,7 +664,7 @@
       {
         "title": "Flight-Assist Astromech",
         "type": "Astromech",
-        "ability": "While you perform a white [Barrel Roll] or [Boost] action, you may spend 1 [Charge]. If you do, treat the action as red and use a speed 2 template while performing the action.",
+        "ability": "While you perform a white [Barrel Roll] or [Boost] action, you may spend 1 [Charge]. If you do, treat the action as red, and use a speed 2 template while performing the action.",
         "slots": [
           "Astromech"
         ],
