@@ -206,7 +206,10 @@
       "ability": "Before you engage, you may spend 1 [Force] to choose 2 enemy ships at range 0-1. Transfer any number of orange and red tokens between those two ships.",
       "force": {
         "value": 1,
-        "recovers": 1
+        "recovers": 1,
+        "side": [
+          "dark"
+        ]
       },
       "cost": 17,
       "loadout": 10,

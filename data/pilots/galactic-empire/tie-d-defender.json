@@ -292,7 +292,10 @@
       "extended": true,
       "force": {
         "value": 3,
-        "recovers": 1
+        "recovers": 1,
+        "side": [
+          "dark"
+        ]
       },
       "cost": 22,
       "loadout": 14,

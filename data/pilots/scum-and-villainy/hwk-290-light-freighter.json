@@ -237,7 +237,10 @@
       ],
       "force": {
         "value": 1,
-        "recovers": 1
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
       },
       "cost": 9,
       "loadout": 7,
