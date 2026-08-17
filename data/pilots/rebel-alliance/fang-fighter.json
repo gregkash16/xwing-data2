@@ -170,7 +170,7 @@
       "initiative": 3,
       "limited": 2,
       "cost": 10,
-      "loadout": 10,
+      "loadout": 8,
       "xws": "clanwrenvolunteer",
       "ability": "While you perform an attack at range 1, if the speed of your revealed maneuver matches that of a friendly ship at range 1, you may reroll 1 attack die.",
       "image": "https://infinitearenas.com/xw2/images/pilots/clanwrenvolunteer.png",

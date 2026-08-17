@@ -76,8 +76,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 8,
-      "loadout": 12,
+      "cost": 7,
+      "loadout": 4,
       "slots": [
         "Modification",
         "Payload",

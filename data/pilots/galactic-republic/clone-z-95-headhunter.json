@@ -302,8 +302,8 @@
       "caption": "Evasive Aviator",
       "initiative": 4,
       "limited": 1,
-      "cost": 7,
-      "loadout": 6,
+      "cost": 8,
+      "loadout": 11,
       "xws": "slider",
       "ability": "When you reveal a [2 [Bank Left]] or [2 [Bank Right]] maneuver, you may spend 2 [Charge] to execute it as a sideslip.",
       "charges": {

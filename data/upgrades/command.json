@@ -22,7 +22,14 @@
     "cost": {
       "value": 4
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0804",
@@ -47,7 +54,14 @@
     "cost": {
       "value": 3
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0805",
@@ -72,7 +86,14 @@
     "cost": {
       "value": 4
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0806",
@@ -97,7 +118,14 @@
     "cost": {
       "value": 2
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0807",
@@ -123,7 +151,14 @@
     "cost": {
       "value": 6
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0808",
@@ -149,7 +184,14 @@
     "cost": {
       "value": 4
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0809",
@@ -179,7 +221,14 @@
     "cost": {
       "value": 8
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0810",
@@ -214,7 +263,14 @@
     "cost": {
       "value": 4
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0811",
@@ -240,7 +296,14 @@
     "cost": {
       "value": 3
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0812",
@@ -266,7 +329,14 @@
     "cost": {
       "value": 8
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0813",
@@ -382,6 +452,11 @@
           "delta7aethersprite",
           "eta2actis"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "restricted": 0
@@ -420,6 +495,11 @@
         "ships": [
           "asf01bwing"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "restricted": 0
@@ -457,7 +537,14 @@
     "cost": {
       "value": 1
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0818",
@@ -492,7 +579,14 @@
     "cost": {
       "value": 4
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0819",
@@ -527,7 +621,14 @@
     "cost": {
       "value": 4
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0820",
@@ -562,7 +663,14 @@
     "cost": {
       "value": 3
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "USV0821",
@@ -608,6 +716,11 @@
       },
       {
         "non-limited": false
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "restricted": 0
@@ -898,6 +1011,11 @@
       {
         "ships": [
           "gauntletfighter"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],

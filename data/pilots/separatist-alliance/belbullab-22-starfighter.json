@@ -84,8 +84,8 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/generalgrievous.png",
       "standard": true,
       "extended": true,
-      "cost": 13,
-      "loadout": 20,
+      "cost": 14,
+      "loadout": 22,
       "slots": [
         "Modification",
         "Modification",
@@ -109,7 +109,7 @@
       "standard": true,
       "extended": true,
       "cost": 10,
-      "loadout": 14,
+      "loadout": 10,
       "slots": [
         "Modification",
         "Modification",
@@ -158,7 +158,7 @@
       "standard": true,
       "extended": true,
       "cost": 9,
-      "loadout": 10,
+      "loadout": 6,
       "slots": [
         "Modification",
         "Modification",
@@ -184,7 +184,7 @@
       "standard": true,
       "extended": true,
       "cost": 10,
-      "loadout": 11,
+      "loadout": 7,
       "slots": [
         "Modification",
         "Modification",
@@ -200,7 +200,7 @@
       "name": "Skakoan Ace",
       "xws": "skakoanace",
       "cost": 10,
-      "loadout": 14,
+      "loadout": 10,
       "slots": [
         "Modification",
         "Modification",

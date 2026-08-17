@@ -206,8 +206,8 @@
       "keywords": [
         "A-wing"
       ],
-      "cost": 10,
-      "loadout": 12,
+      "cost": 9,
+      "loadout": 6,
       "slots": [
         "Talent",
         "Modification",
@@ -401,8 +401,8 @@
       "caption": "Auspicious Ace",
       "standard": true,
       "extended": true,
-      "cost": 10,
-      "loadout": 15,
+      "cost": 9,
+      "loadout": 8,
       "force": {
         "value": 1,
         "recovers": 0

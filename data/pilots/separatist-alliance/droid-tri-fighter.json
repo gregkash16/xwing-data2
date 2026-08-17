@@ -313,7 +313,7 @@
       "caption": "Siege of Coruscant",
       "initiative": 4,
       "limited": 1,
-      "cost": 10,
+      "cost": 11,
       "xws": "dist81-siegeofcoruscant",
       "ability": "While you defend or perform an attack, you may reroll any number of your dice. Then if you were defending, gain 1 strain token for each die that was rerolled. If you were attacking, gain 1 deplete token for each die that was rerolled instead.",
       "shipAbility": {
@@ -447,8 +447,8 @@
       "extended": true,
       "ability": "At the start of the Engagement Phase, if there is an enemy ship in your [Bullseye Arc], you must spend 1 [Charge]. During the Engagement Phase, if your [Charge] is active, treat your initiative value as 1.",
       "caption": "Calculated Risk",
-      "cost": 11,
-      "loadout": 11,
+      "cost": 10,
+      "loadout": 10,
       "image": "https://infinitearenas.com/xw2xwa/images/pilots/disl9b2-legendsandrelics.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/disl9b2-legendsandrelics.png",
       "slots": [

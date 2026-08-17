@@ -110,8 +110,8 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 14,
-      "loadout": 11,
+      "cost": 15,
+      "loadout": 13,
       "charges": {
         "value": 2,
         "recovers": 1
@@ -530,8 +530,8 @@
         "name": "Weapon Hardpoint",
         "text": "You can equip 1 [Cannon], [Torpedo], or [Missile] upgrade."
       },
-      "cost": 12,
-      "loadout": 14,
+      "cost": 10,
+      "loadout": 2,
       "slots": [
         "Astromech",
         "Modification",

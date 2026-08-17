@@ -143,7 +143,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 10,
-      "loadout": 8,
+      "loadout": 10,
       "xws": "ember",
       "ability": "While you perform an attack, if there is a damaged ship friendly to the defender at range 0-1 of the defender, the defender cannot spend focus or calculate tokens.",
       "shipAbility": {

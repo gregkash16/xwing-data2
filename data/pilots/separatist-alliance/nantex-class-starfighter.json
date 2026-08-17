@@ -101,7 +101,7 @@
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/sunfac.png",
       "image": "https://infinitearenas.com/xw2/images/pilots/sunfac.png",
       "ability": "While you perform a primary attack, if the defender is tractored, roll 1 additional attack die.",
-      "cost": 13,
+      "cost": 14,
       "loadout": 17,
       "slots": [
         "Talent",

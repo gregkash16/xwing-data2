@@ -687,7 +687,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 4
     },
     "standard": true,
     "extended": true,
@@ -787,7 +787,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 7
     },
     "standard": false,
     "extended": true,

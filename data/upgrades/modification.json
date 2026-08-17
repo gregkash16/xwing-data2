@@ -418,7 +418,7 @@
       }
     ],
     "cost": {
-      "value": 2
+      "value": 0
     },
     "standard": true,
     "extended": true,
@@ -602,7 +602,7 @@
       }
     ],
     "cost": {
-      "value": 1
+      "value": 2
     },
     "xws": "targetingcomputer",
     "standard": true,
@@ -1080,7 +1080,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 6
     },
     "standard": true,
     "extended": true,

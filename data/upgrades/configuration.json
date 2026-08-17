@@ -553,6 +553,11 @@
         "ships": [
           "croccruiser"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "cost": {

@@ -176,7 +176,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 9,
-      "loadout": 8,
+      "loadout": 10,
       "xws": "greersonnel",
       "ability": "After you fully execute a maneuver, you may rotate your [Single Turret Arc].",
       "shipAbility": {
@@ -189,6 +189,7 @@
         "Missile",
         "Tech",
         "Modification",
+        "Talent",
         "Talent"
       ],
       "standard": true,
@@ -460,7 +461,7 @@
       "caption": "Evacuation of D'Qar",
       "initiative": 2,
       "limited": 1,
-      "cost": 9,
+      "cost": 8,
       "loadout": 0,
       "xws": "ronithblario-evacuationofdqar",
       "ability": "While you defend or perform an attack, if the enemy ship is in another friendly ship's [Single Turret Arc], you may spend 1 focus token from that friendly ship to change 1 of your [Focus] results to an [Evade] or [Hit] result.",

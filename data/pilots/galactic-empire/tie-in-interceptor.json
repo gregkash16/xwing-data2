@@ -155,7 +155,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 10,
-      "loadout": 9,
+      "loadout": 12,
       "xws": "turrphennir",
       "ability": "After you perform an attack, you may perform a [Barrel Roll] or [Boost] action, even if you are stressed.",
       "image": "https://infinitearenas.com/xw2/images/pilots/turrphennir.png",
@@ -164,6 +164,7 @@
         "text": "After you perform an action, you may perform a red [Barrel Roll] or red [Boost] action."
       },
       "slots": [
+        "Talent",
         "Talent",
         "Modification",
         "Configuration"
@@ -316,7 +317,7 @@
       "standard": true,
       "extended": true,
       "cost": 9,
-      "loadout": 7,
+      "loadout": 9,
       "slots": [
         "Talent",
         "Modification",
@@ -796,8 +797,8 @@
       "name": "Carnor Jax",
       "initiative": 5,
       "limited": 0,
-      "cost": 12,
-      "loadout": 4,
+      "cost": 13,
+      "loadout": 16,
       "xws": "carnorjax-legendsandrelics",
       "text": "While an enemy ship at range 0-1 in your [Front Arc] defends or performs an attack, before the Roll Attack Dice Step, you may spent 1 [Force]. If you do, that ship's dice cannot be modified.",
       "image": "https://infinitearenas.com/xw2xwa/images/pilots/carnorjax-legendsandrelics.png",
@@ -807,6 +808,7 @@
       },
       "slots": [
         "Force Power",
+        "Modification",
         "Modification",
         "Configuration"
       ],

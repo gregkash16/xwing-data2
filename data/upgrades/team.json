@@ -35,7 +35,14 @@
     "cost": {
       "value": 6
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN1260",
@@ -84,7 +91,14 @@
     "cost": {
       "value": 7
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN1261",
@@ -122,7 +136,14 @@
     "cost": {
       "value": 3
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN1262",
@@ -160,7 +181,14 @@
     "cost": {
       "value": 5
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "USV1263",
@@ -195,6 +223,11 @@
       {
         "factions": [
           "scumandvillainy"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],
@@ -239,7 +272,14 @@
     "cost": {
       "value": 2
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN1265",
@@ -277,7 +317,14 @@
     "cost": {
       "value": 6
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN1266",
@@ -302,7 +349,14 @@
     "cost": {
       "value": 2
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "USV1267",
@@ -377,6 +431,11 @@
       {
         "factions": [
           "separatistalliance"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],

@@ -22,7 +22,14 @@
     "cost": {
       "value": 5
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0797",
@@ -47,7 +54,14 @@
     "cost": {
       "value": 7
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0798",
@@ -72,7 +86,14 @@
     "cost": {
       "value": 6
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0799",
@@ -101,7 +122,14 @@
     "cost": {
       "value": 3
     },
-    "restricted": 0
+    "restricted": 0,
+    "restrictions": [
+      {
+        "sizes": [
+          "Huge"
+        ]
+      }
+    ]
   },
   {
     "uid": "UGN0800",

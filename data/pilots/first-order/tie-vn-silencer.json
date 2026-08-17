@@ -181,7 +181,7 @@
       "initiative": 4,
       "limited": 1,
       "cost": 13,
-      "loadout": 8,
+      "loadout": 10,
       "ability": "While you are stressed, you may treat enemy ships in your [Front Arc] at range 0-1 as being in your [Bullseye Arc].",
       "shipAbility": {
         "name": "Autothrusters",

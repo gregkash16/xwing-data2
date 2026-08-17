@@ -1021,6 +1021,11 @@
         "ships": [
           "raiderclasscorvette"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "cost": {
@@ -1075,6 +1080,11 @@
         "ships": [
           "gozanticlasscruiser"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "cost": {
@@ -1111,6 +1121,11 @@
       {
         "ships": [
           "gr75mediumtransport"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],
@@ -1161,6 +1176,11 @@
         "ships": [
           "croccruiser"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "cost": {
@@ -1206,6 +1226,11 @@
       {
         "ships": [
           "raiderclasscorvette"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],
@@ -1283,6 +1308,11 @@
         "ships": [
           "cr90corelliancorvette"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "cost": {
@@ -1336,6 +1366,11 @@
       {
         "ships": [
           "raiderclasscorvette"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],
@@ -1396,6 +1431,11 @@
         "ships": [
           "croccruiser"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "cost": {
@@ -1439,6 +1479,11 @@
       {
         "ships": [
           "raiderclasscorvette"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],
@@ -1488,6 +1533,11 @@
       {
         "ships": [
           "cr90corelliancorvette"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],
@@ -1570,6 +1620,11 @@
         "ships": [
           "cr90corelliancorvette"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "cost": {
@@ -1618,6 +1673,11 @@
       {
         "ships": [
           "gr75mediumtransport"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],
@@ -1687,6 +1747,11 @@
         "ships": [
           "croccruiser"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "cost": {
@@ -1741,6 +1806,11 @@
         "ships": [
           "gr75mediumtransport"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "cost": {
@@ -1777,6 +1847,11 @@
       {
         "ships": [
           "gozanticlasscruiser"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],
@@ -1832,6 +1907,11 @@
         "ships": [
           "gozanticlasscruiser"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "cost": {
@@ -1875,6 +1955,11 @@
       {
         "ships": [
           "cr90corelliancorvette"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],
@@ -1930,6 +2015,11 @@
         "ships": [
           "cr90corelliancorvette"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "cost": {
@@ -1978,6 +2068,11 @@
       {
         "ships": [
           "gozanticlasscruiser"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],
@@ -2125,6 +2220,11 @@
         "ships": [
           "tridentclassassaultship"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "restricted": 0
@@ -2168,6 +2268,11 @@
       {
         "ships": [
           "tridentclassassaultship"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],
@@ -2213,6 +2318,11 @@
         "ships": [
           "tridentclassassaultship"
         ]
+      },
+      {
+        "sizes": [
+          "Huge"
+        ]
       }
     ],
     "restricted": 0
@@ -2256,6 +2366,11 @@
       {
         "ships": [
           "tridentclassassaultship"
+        ]
+      },
+      {
+        "sizes": [
+          "Huge"
         ]
       }
     ],

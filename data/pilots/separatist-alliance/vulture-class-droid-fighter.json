@@ -405,10 +405,11 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/kelrodoaiholdout.png",
       "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/kelrodoaiholdout.png",
       "cost": 6,
-      "loadout": 10,
+      "loadout": 6,
       "slots": [
         "Modification",
-        "Modification"
+        "Modification",
+        "Talent"
       ],
       "epic": true,
       "restricted": 0,

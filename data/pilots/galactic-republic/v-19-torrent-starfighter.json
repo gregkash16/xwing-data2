@@ -183,10 +183,9 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/tucker.png",
       "standard": true,
       "extended": true,
-      "cost": 9,
+      "cost": 8,
       "loadout": 8,
       "slots": [
-        "Missile",
         "Missile",
         "Modification",
         "Modification"

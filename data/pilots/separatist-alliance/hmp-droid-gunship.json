@@ -202,7 +202,7 @@
       "xws": "onderonoppressor",
       "caption": "Atmospheric Attack Module",
       "initiative": 3,
-      "cost": 9,
+      "cost": 10,
       "loadout": 9,
       "slots": [
         "Missile",
@@ -242,7 +242,7 @@
       "standard": true,
       "extended": true,
       "cost": 10,
-      "loadout": 12,
+      "loadout": 11,
       "slots": [
         "Missile",
         "Missile",

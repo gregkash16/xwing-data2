@@ -112,8 +112,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 8,
-      "loadout": 10,
+      "cost": 9,
+      "loadout": 12,
       "slots": [
         "Astromech",
         "Turret",
@@ -247,8 +247,8 @@
       },
       "standard": true,
       "extended": true,
-      "cost": 7,
-      "loadout": 8,
+      "cost": 8,
+      "loadout": 9,
       "slots": [
         "Astromech",
         "Turret",
@@ -315,7 +315,7 @@
       "standard": true,
       "extended": true,
       "cost": 7,
-      "loadout": 8,
+      "loadout": 4,
       "slots": [
         "Astromech",
         "Turret",
@@ -349,7 +349,7 @@
       "standard": true,
       "extended": true,
       "cost": 7,
-      "loadout": 5,
+      "loadout": 4,
       "slots": [
         "Astromech",
         "Turret",
