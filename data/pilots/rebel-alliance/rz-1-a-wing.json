@@ -303,7 +303,10 @@
       "extended": true,
       "force": {
         "value": 3,
-        "recovers": 1
+        "recovers": 1,
+        "side": [
+          "light"
+        ]
       },
       "cost": 12,
       "loadout": 12,
@@ -405,7 +408,10 @@
       "loadout": 8,
       "force": {
         "value": 1,
-        "recovers": 0
+        "recovers": 0,
+        "side": [
+          "light"
+        ]
       },
       "slots": [
         "Modification",

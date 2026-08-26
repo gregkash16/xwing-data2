@@ -662,7 +662,10 @@
       "ability": "While you perform an attack, after the Neutralize Results step, if the attack hit, you may spend 2 [Force]. If you do, change all of your [Hit] results to [Critical Hit] results.",
       "force": {
         "value": 2,
-        "recovers": 1
+        "recovers": 1,
+        "side": [
+          "dark"
+        ]
       },
       "keywords": [
         "Dark Side",
